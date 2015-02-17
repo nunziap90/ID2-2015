@@ -1,2 +1,4 @@
-# ID2
+# ID2-2015
 Interaction Design 2 @ design.unirsm.sm
+
+In progress
