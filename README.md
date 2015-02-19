@@ -4,7 +4,9 @@ Interaction Design 2 @ [design.unirsm.sm](http://design.unirsm.sm)
 # Syllabus 
 
 Corso di Laurea Magistrale, Università di San Marino / IUAV 
+
 Laboratorio di Interaction Design 2 — A/A 2014-15  
+
 Docente Daniele Tabellini <daniele.tabellini@unirsm.sm>
 
 ## obiettivi
