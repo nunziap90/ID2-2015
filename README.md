@@ -71,6 +71,4 @@ Mercoledì ore 18:30
 
 6 - 8 Maggio
 
-## —
-
-_in progress_
+### _in progress_
