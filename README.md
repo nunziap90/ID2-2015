@@ -38,10 +38,10 @@ Esame orale: analisi e presentazione dei progetti e delle schede di lettura crit
 
 *   Reas, Casey e Ben Fry, _Processing, second edition: A Programming Handbook for Visual Designers and Artists_, Cambridge: MIT Press, 2014
 *   Noble, Joshua, _Programming Interactivity, Second Edition_, Sebastopol: O'Reilly Media, 2012
-*   Klanten, Robert, S. Ehmann and V. Hanschke,_ A Touch of Code: Interactive Installations and Experiences_, Berlino: Die Gestalten Verlag, 2011
-*   McCandless, David,_ Information is beautiful. Capire il mondo al primo sguardo_, Milano: BUR Biblioteca Univ. Rizzoli, 2011
+*   Klanten, Robert, S. Ehmann and V. Hanschke, _A Touch of Code: Interactive Installations and Experiences_, Berlino: Die Gestalten Verlag, 2011
+*   McCandless, David, _Information is beautiful. Capire il mondo al primo sguardo_, Milano: BUR Biblioteca Univ. Rizzoli, 2011
 *   Murray, Scott, _Interactive Data Visualization for the Web_, Sebastopol: O'Reilly Media, 2010 (online: [http://chimera.labs.oreilly.com/books/1230000000345/index.html](http://chimera.labs.oreilly.com/books/1230000000345/index.html))
-*   Fry, Ben,_Visualizing Data: Exploring and Explaining Data with the Processing Environment_, Sebastopol: O'Reilly Media, 2007
+*   Fry, Ben, _Visualizing Data: Exploring and Explaining Data with the Processing Environment_, Sebastopol: O'Reilly Media, 2007
 *   Tufte, R. Edward, _The Visual Display of Quantitative Information, second edition_, Cheshire: Graphic Press, 2001
 
 _Ulteriori testi saranno segnalati durante le lezioni_
