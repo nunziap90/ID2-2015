@@ -60,16 +60,16 @@ Mercoledì ore 18:30
 ## calendario
 
 **dataset**  
-   11 Marzo - 2 Aprile  
-   Folder [/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)
+    11 Marzo - 2 Aprile  
+    Folder [/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)
 
 **dataviz**  
-   8 - 30 Aprile  
-   Folder [/2_dataviz](https://github.com/Fupete/ID2-2015/tree/master/2_dataviz)
+    8 - 30 Aprile  
+    Folder [/2_dataviz](https://github.com/Fupete/ID2-2015/tree/master/2_dataviz)
 
 **dataphys**  
-   6 - 8 Maggio  
-   Folder [/3_dataphys](https://github.com/Fupete/ID2-2015/tree/master/3_dataphys)
+    6 - 8 Maggio  
+       Folder [/3_dataphys](https://github.com/Fupete/ID2-2015/tree/master/3_dataphys)
 
 ---
 
