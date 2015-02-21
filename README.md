@@ -59,13 +59,13 @@ Mercoledì ore 18:30
 
 ## calendario
 
-**dataset**
+**dataset**  
 11 Marzo - 2 Aprile
 
-**dataviz**
+**dataviz**  
 8 - 30 Aprile
 
-**dataphys**
+**dataphys**  
 6 - 8 Maggio
 
 _in progress_
