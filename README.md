@@ -5,7 +5,7 @@ Interaction Design 2 @ [design.unirsm.sm](http://design.unirsm.sm)
 
 Corso di Laurea Magistrale, Università di San Marino / IUAV   
 Laboratorio di Interaction Design 2 — A/A 2014-15  
-Docente _Daniele Tabellini_ email <daniele.tabellini@unirsm.sm>
+Docente _Daniele Tabellini_ < <daniele.tabellini@unirsm.sm> >
 
 ## obiettivi
 
