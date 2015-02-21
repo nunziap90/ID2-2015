@@ -57,6 +57,8 @@ _Ulteriori testi saranno segnalati durante le lezioni_
 
 Mercoledì ore 18:30
 
+---
+
 ## calendario
 
 **dataset**  
@@ -67,5 +69,7 @@ Mercoledì ore 18:30
 
 **dataphys**  
 6 - 8 Maggio
+
+---
 
 _in progress_
