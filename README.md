@@ -48,10 +48,10 @@ _Ulteriori testi saranno segnalati durante le lezioni_
 
 ## sitografia
 
-*   [](http://dataphys.org/list)[http://dataphys.org/list](http://dataphys.org/list)
-*   [](http://visualizing.org)[http://visualizing.org](http://visualizing.org)
-*   [](http://infosthetics.com)[http://infosthetics.com](http://infosthetics.com)
-*   [](http://creativeapplications.net)[http://creativeapplications.net](http://creativeapplications.net)
+*   [http://dataphys.org/list](http://dataphys.org/list)
+*   [http://visualizing.org](http://visualizing.org)
+*   [http://infosthetics.com](http://infosthetics.com)
+*   [http://creativeapplications.net](http://creativeapplications.net)
 
 ## orario di ricevimento
 
