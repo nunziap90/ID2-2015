@@ -1,10 +1,9 @@
 # ID2-2015
-Interaction Design 2 @ [design.unirsm.sm](http://design.unirsm.sm)
+*Data, art and meaning*, Interaction Design 2 @ [design.unirsm.sm](http://design.unirsm.sm) | A/A 2014-15
 
 # Syllabus 
 
-Corso di Laurea Magistrale, Università di San Marino / IUAV   
-Laboratorio di Interaction Design 2 — A/A 2014-15  
+Corso di Laurea Magistrale in Design, Università di San Marino / IUAV Venezia  
 Docente _Daniele Tabellini_ < <daniele.tabellini@unirsm.sm> >
 
 ## obiettivi
