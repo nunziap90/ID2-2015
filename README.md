@@ -72,7 +72,3 @@ Mercoledì ore 18:30
 **dataphys**  
 6 - 8 Maggio  
 > Cartella [/3_dataphys](https://github.com/Fupete/ID2-2015/tree/master/3_dataphys)
-
----
-
-_in progress_
