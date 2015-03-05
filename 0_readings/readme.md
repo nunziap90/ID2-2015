@@ -1,3 +1,5 @@
+_in progress_
+
 ## 1 
 
 ###
@@ -12,7 +14,3 @@
 5. _Datamatics_, 2006+, Ryoji Ikeda
 6. _Nuage Vert_, 2008+, HeHe
 7. _Words_, 2009, Greyworld
-
-***
-
-_in progress_
