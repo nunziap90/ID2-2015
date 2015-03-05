@@ -58,6 +58,10 @@ Mercoledì ore 18:30
 
 ## calendario
 
+**close readings**
+11 Marzo - 8 Maggio
+> Cartella [/0_readings](https://github.com/Fupete/ID2-2015/tree/master/0_readings)
+
 **dataset**  
 11 Marzo - 2 Aprile  
 > Cartella [/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)
