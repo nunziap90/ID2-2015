@@ -8,7 +8,7 @@ _in progress_
  
 ###
 1. _Data and Dragons_, 2013, Addie Wagenknecht
-2. _Weather Scores_, 2009+, Natalie Miebach 
+2. _Weather Scores_, 2009+, Nathalie Miebach 
 3. _Multiverse_, 2008, Leo Villareal
 4. _Tele Present Water_, 2011, David Bowen
 5. _Datamatics_, 2006+, Ryoji Ikeda
