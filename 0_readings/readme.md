@@ -3,6 +3,8 @@ Digital Art and Meaning: ..._, R. Simanowski 2011 :
 
 ##11 - 12 Marzo
 
+![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1) ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)
+
 ###### 
 - _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer
 - _Urban/Mexico City_, 2007, Spencer Tunick
@@ -17,6 +19,8 @@ Digital Art and Meaning: ..._, R. Simanowski 2011 :
 7. _Words_, 2009, Greyworld
 
 ##18 - 19 Marzo
+
+![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![Physical Charts/Teninson Road, 2013+, David Sweeney](http://i.imgur.com/BApqOXS.jpg?1) ![Hypertension Singing Bowl, 2013, Stephen Barras](http://i.imgur.com/DGvBovS.jpg?1)  
 
 ######
 - _The Source_, 2004, Greyworld
