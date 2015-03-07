@@ -18,7 +18,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 7. _Words_, 2009, Greyworld  
 
 ###### 
-- 3 idee [/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)
++ **3 idee [/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)**
 
 ##18 - 19 Marzo
 
@@ -30,10 +30,10 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Hypertension Singing Bowl_, 2013, Stephen Barras [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
  
 ###### 
-1 - 7 _scelti da [dataphys.org/list](http://dataphys.org/list)_
+1-7. _scelti da [dataphys.org/list](http://dataphys.org/list)_
 
 ###### 
-+ proposta [/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)
++ **proposta [/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)**
 
 ##26 Marzo
 ![The Secret Lives of Numbers, 2002, Golan Levin+](http://i.imgur.com/qDrLG5X.jpg?1) ![Listening Post, 2000+, Mark Hansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
@@ -42,7 +42,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443) 
 
 ###### 
-+ essay e presentazione [/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)
++ **essay e presentazione [/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)**
 
 
 _in progress_
