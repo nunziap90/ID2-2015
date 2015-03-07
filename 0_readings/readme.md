@@ -5,7 +5,7 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 ## 1
 **11 - 12 Marzo**
 
-###### class
+######
 - _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer
 - _Urban/Mexico City_, 2007, Spencer Tunick
  
@@ -21,7 +21,7 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 ## 2
 **18 - 19 Marzo**
 
-###### class
+######
 - _The Source_, 2004, Greyworld
 - _Physical Charts/Teninson Road_, 2013+, David Sweeney
  
@@ -31,7 +31,7 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 ## 3
 **26 Marzo**
 
-###### class
+######
 - _The Secret Lives of Numbers_, 2002, Golan Levine+
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin
 
@@ -41,7 +41,7 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 ## 5
 **8 - 9 Aprile**
 
-###### class
+######
 - _Valence_, 1999+, Ben Fry
 - _Genoma Valence_, 2002+, Ben Fry
 - _9/11 Memorial Names Arrangment Software_, 2010-11, Jer Thorp/Local Projects
