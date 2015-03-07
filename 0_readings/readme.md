@@ -24,10 +24,10 @@ Digital Art and Meaning: ..._, R. Simanowski 2011 :
 
 ######
 - _The Source_, 2004, Greyworld [+](http://greyworld.org/archives/31)
-- _Physical Charts/Teninson Road_, 2013+, David Sweeney [+](http://research.microsoft.com/en-us/um/cambridge/projects/physicalcharts/) [+](http://tenisonroad.com/)
-- _Hypertension Singing Bowl_, 2013, Stephen Barras [+](https://www.youtube.com/watch?v=5rVykp0cL4A) [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
+- _Physical Charts/Teninson Road_, 2013+, David Sweeney [+](http://dataphys.org/list/dynamic-physical-charts-to-communicate-community-data/)
+- _Hypertension Singing Bowl_, 2013, Stephen Barras [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
  
 ###### 
-1-7. a scelta da _dataphys.org/list_
+1-7. a scelta da [dataphys.org/list](http://dataphys.org/list)
 
 _in progress_
