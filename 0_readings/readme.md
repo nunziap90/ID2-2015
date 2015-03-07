@@ -1,8 +1,7 @@
-###
-_Digital Art and Meaning: ..._, R. Simanowski 2011 :
+Digital Art and Meaning: ..._, R. Simanowski 2011 :
 > (_Introduction p.21_) — In postmodern times, interpretation is no longer about control or truth. It is not about solving the puzzle of meaning that a work of art represents. It is about suggesting, playing with ideas, reflecting, and sharing thoughts and feelings triggered by interaction with the artwork. Hermeneutics can be considered "a metatheory of the play of interpretations" (Vattimo 1997, 9). No single interpretation should be the end of this process, but there should also be no end to interpretation.  
 
-**11 - 12 Marzo**
+##11 - 12 Marzo
 
 ######
 - _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer
@@ -17,7 +16,7 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 6. _Nuage Vert_, 2008+, HeHe
 7. _Words_, 2009, Greyworld
 
-**18 - 19 Marzo**
+##18 - 19 Marzo
 
 ######
 - _The Source_, 2004, Greyworld
@@ -26,17 +25,17 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 ###### home : dataphys
 1-7. da _dataphys.org/list_, Pierre Dragicevic-Yvonne Jansen
 
-**26 Marzo**
+##26 Marzo
 
 ######
 - _The Secret Lives of Numbers_, 2002, Golan Levine+
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin
 
-**2 Aprile**
+##2 Aprile
 
 ###### home : dataviz
 
-**8 - 9 Aprile**
+##8 - 9 Aprile
 
 ######
 - _Valence_, 1999+, Ben Fry
@@ -45,26 +44,26 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 
 ###### home : self
 
-**22 - 23 Aprile**
+##22 - 23 Aprile
 
-**29 - 30 Aprile**
+##29 - 30 Aprile
 
 ###### home : art
 
-**6 - 7 Maggio**
+##6 - 7 Maggio
 
 ###### home : self
 
-**13 - 14 Maggio**
+##13 - 14 Maggio
 
 ###### home : authors
 
-**20 - 21 Maggio**
+##20 - 21 Maggio
 
-**27 - 28 Maggio**
+##27 - 28 Maggio
 
 ###### home : self
 
-**3 Giugno**
+##3 Giugno
 
 _in progress_
