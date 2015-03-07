@@ -2,7 +2,6 @@
 _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 > (_Introduction p.21_) — In postmodern times, interpretation is no longer about control or truth. It is not about solving the puzzle of meaning that a work of art represents. It is about suggesting, playing with ideas, reflecting, and sharing thoughts and feelings triggered by interaction with the artwork. Hermeneutics can be considered "a metatheory of the play of interpretations" (Vattimo 1997, 9). No single interpretation should be the end of this process, but there should also be no end to interpretation.  
 
-## 1
 **11 - 12 Marzo**
 
 ######
@@ -18,7 +17,6 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 6. _Nuage Vert_, 2008+, HeHe
 7. _Words_, 2009, Greyworld
 
-## 2
 **18 - 19 Marzo**
 
 ######
@@ -28,19 +26,16 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 ###### home : dataphys
 1-7. da _dataphys.org/list_, Pierre Dragicevic-Yvonne Jansen
 
-## 3
 **26 Marzo**
 
 ######
 - _The Secret Lives of Numbers_, 2002, Golan Levine+
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin
 
-## 4
 **2 Aprile**
 
 ###### home : dataviz
 
-## 5
 **8 - 9 Aprile**
 
 ######
@@ -50,33 +45,26 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 
 ###### home : self
 
-## 6
 **22 - 23 Aprile**
 
-## 7
 **29 - 30 Aprile**
 
 ###### home : art
 
-## 8
 **6 - 7 Maggio**
 
 ###### home : self
 
-## 9
 **13 - 14 Maggio**
 
 ###### home : authors
 
-## 10
 **20 - 21 Maggio**
 
-## 11
 **27 - 28 Maggio**
 
 ###### home : self
 
-## 12
 **3 Giugno**
 
 _in progress_
