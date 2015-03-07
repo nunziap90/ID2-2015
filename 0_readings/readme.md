@@ -7,7 +7,7 @@ Digital Art and Meaning: ..._, R. Simanowski 2011 :
 - _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer
 - _Urban/Mexico City_, 2007, Spencer Tunick
  
-###### home : art
+###### 
 1. _Data and Dragons_, 2013, Addie Wagenknecht
 2. _Weather Scores_, 2009+, Nathalie Miebach 
 3. _Multiverse_, 2008, Leo Villareal
@@ -23,7 +23,7 @@ Digital Art and Meaning: ..._, R. Simanowski 2011 :
 - _Physical Charts/Teninson Road_, 2013+, David Sweeney
 - _Hypertension Singing Bowl_, 2013, Stephen Barras
  
-###### home : dataphys
-1-7. a scelta da _dataphys.org/list_, Pierre Dragicevic-Yvonne Jansen
+###### 
+1-7. _dataphys.org/list_, Pierre Dragicevic-Yvonne Jansen
 
 _in progress_
