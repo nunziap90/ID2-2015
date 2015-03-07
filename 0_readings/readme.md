@@ -24,6 +24,6 @@ Digital Art and Meaning: ..._, R. Simanowski 2011 :
 - _Hypertension Singing Bowl_, 2013, Stephen Barras
  
 ###### 
-1-7. _dataphys.org/list_, Pierre Dragicevic-Yvonne Jansen
+1-7. a scelta da _dataphys.org/list_
 
 _in progress_
