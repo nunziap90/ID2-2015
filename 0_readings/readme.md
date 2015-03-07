@@ -3,7 +3,7 @@ Digital Art and Meaning: ..._, R. Simanowski 2011 :
 
 ##11 - 12 Marzo
 
-######
+###### 
 - _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer
 - _Urban/Mexico City_, 2007, Spencer Tunick
  
@@ -21,49 +21,9 @@ Digital Art and Meaning: ..._, R. Simanowski 2011 :
 ######
 - _The Source_, 2004, Greyworld
 - _Physical Charts/Teninson Road_, 2013+, David Sweeney
+- _Hypertension Singing Bowl_, 2013, Stephen Barras
  
 ###### home : dataphys
-1-7. da _dataphys.org/list_, Pierre Dragicevic-Yvonne Jansen
-
-##26 Marzo
-
-######
-- _The Secret Lives of Numbers_, 2002, Golan Levine+
-- _Listening Post_, 2000+, Mark Hansen & Ben Rubin
-
-##2 Aprile
-
-###### home : dataviz
-
-##8 - 9 Aprile
-
-######
-- _Valence_, 1999+, Ben Fry
-- _Genoma Valence_, 2002+, Ben Fry
-- _9/11 Memorial Names Arrangment Software_, 2010-11, Jer Thorp/Local Projects
-
-###### home : self
-
-##22 - 23 Aprile
-
-##29 - 30 Aprile
-
-###### home : art
-
-##6 - 7 Maggio
-
-###### home : self
-
-##13 - 14 Maggio
-
-###### home : authors
-
-##20 - 21 Maggio
-
-##27 - 28 Maggio
-
-###### home : self
-
-##3 Giugno
+1-7. a scelta da _dataphys.org/list_, Pierre Dragicevic-Yvonne Jansen
 
 _in progress_
