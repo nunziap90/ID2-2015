@@ -38,6 +38,8 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 ## 4
 **2 Aprile**
 
+###### home : dataviz
+
 ## 5
 **8 - 9 Aprile**
 
@@ -46,23 +48,33 @@ _Digital Art and Meaning: ..._, R. Simanowski 2011 :
 - _Genoma Valence_, 2002+, Ben Fry
 - _9/11 Memorial Names Arrangment Software_, 2010-11, Jer Thorp/Local Projects
 
+###### home : self
+
 ## 6
 **22 - 23 Aprile**
 
 ## 7
 **29 - 30 Aprile**
 
+###### home : art
+
 ## 8
 **6 - 7 Maggio**
 
+###### home : self
+
 ## 9
 **13 - 14 Maggio**
+
+###### home : authors
 
 ## 10
 **20 - 21 Maggio**
 
 ## 11
 **27 - 28 Maggio**
+
+###### home : self
 
 ## 12
 **3 Giugno**
