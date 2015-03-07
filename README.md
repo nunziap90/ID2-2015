@@ -60,16 +60,16 @@ Mercoledì ore 18:30
 
 **close readings**   
 11 Marzo - 3 Giugno  
-> Cartella [/0_readings](https://github.com/Fupete/ID2-2015/tree/master/0_readings)
+[/0_readings](https://github.com/Fupete/ID2-2015/tree/master/0_readings)
 
 **dataset**  
 11 Marzo - 2 Aprile  
-> Cartella [/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)
+[/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)
 
 **dataviz**  
 8 - 30 Aprile  
-> Cartella [/2_dataviz](https://github.com/Fupete/ID2-2015/tree/master/2_dataviz)
+[/2_dataviz](https://github.com/Fupete/ID2-2015/tree/master/2_dataviz)
 
 **dataphys**  
 6 - 8 Maggio  
-> Cartella [/3_dataphys](https://github.com/Fupete/ID2-2015/tree/master/3_dataphys)
+[/3_dataphys](https://github.com/Fupete/ID2-2015/tree/master/3_dataphys)
