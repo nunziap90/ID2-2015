@@ -46,7 +46,7 @@ _Data: big, little, no, open. Mapping art._
 1-7. _scelti da [dataphys.org/list](http://dataphys.org/list)_
 
 #### lab
-- scraping
+- _scraping_
 - openrefine
 - raw
 - processing
