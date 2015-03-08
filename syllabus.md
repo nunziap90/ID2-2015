@@ -18,7 +18,7 @@ Introduzione. _Digital Art and Meaning..._
 6. _Nuage Vert_, 2008+, HeHe
 7. _Words_, 2009, Greyworld  
 
-## lab
+## lab1
 - _Make data more human_, Jer Thorp/TED [+](http://www.ted.com/talks/jer_thorp_make_data_more_human)
 - _Your Random Numbers_, Jer Thorp [+](http://blog.blprnt.com/blog/blprnt/your-random-numbers-getting-started-with-processing-and-data-visualization)
 - git/github [+](https://guides.github.com/)
@@ -50,7 +50,7 @@ _scelti da [dataphys.org/list](http://dataphys.org/list)_
 6. -  
 7. -   
 
-## lab
+## lab2
 - _scraping_
 - openrefine
 - raw
@@ -70,7 +70,7 @@ _Digital Art and Meaning: close reading._
 - _The Secret Lives of Numbers_, 2002, Golan Levin+ [+](http://www.flong.com/projects/slon/)
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
 
-## lab
+## lab3
 - processing
 - D3
 
@@ -82,7 +82,7 @@ _Digital Art and Meaning: close reading._
 
 #2 Aprile
 
-## lab
+## lab4
 - discussione **dataset**
 
 ###
