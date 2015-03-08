@@ -1,14 +1,20 @@
 _Digital Art and Meaning: ..._, Simanowski 2011 :
 > (_Introduction p.21_) — In postmodern times, interpretation is no longer about control or truth. It is not about solving the puzzle of meaning that a work of art represents. It is about suggesting, playing with ideas, reflecting, and sharing thoughts and feelings triggered by interaction with the artwork. Hermeneutics can be considered "a metatheory of the play of interpretations" (Vattimo 1997, 9). No single interpretation should be the end of this process, but there should also be no end to interpretation.
 
-##11 - 12 Marzo
+#11 - 12 Marzo
 
-![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1)] ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)
+#### _close reading_
+![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1)] ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)  
 
-- _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer [+](http://www.lozano-hemmer.com/vectorial_elevation.php)
-- _Urban/Mexico City_, 2007, Spencer Tunick [+](https://vimeo.com/6988932)
- 
-### 
+1. _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer [+](http://www.lozano-hemmer.com/vectorial_elevation.php)
+2. _Urban/Mexico City_, 2007, Spencer Tunick [+](https://vimeo.com/6988932)
+
+#### 
+- _Make data more human_, Jer Thorp/TED [+](http://www.ted.com/talks/jer_thorp_make_data_more_human)
+- _Your Random Numbers..._, Jer Thorp [+](http://blog.blprnt.com/blog/blprnt/your-random-numbers-getting-started-with-processing-and-data-visualization)
+- strumenti: github, markdown, hackpad, _scraping_, api/temboo, ...
+
+#### compiti / _close reading_
 1. _Data and Dragons_, 2013, Addie Wagenknecht
 2. _Weather Scores_, 2009+, Nathalie Miebach 
 3. _Multiverse_, 2008, Leo Villareal
@@ -17,7 +23,10 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 6. _Nuage Vert_, 2008+, HeHe
 7. _Words_, 2009, Greyworld  
 
-##18 - 19 Marzo
+#### compiti / lab
+- 2-3 idee **dataset**
+
+#18 - 19 Marzo
 
 ![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![Physical Charts/Teninson Road, 2013+, David Sweeney](http://i.imgur.com/BApqOXS.jpg?1) ![Hypertension Singing Bowl, 2013, Stephen Barras](http://i.imgur.com/DGvBovS.jpg?1)  
 
