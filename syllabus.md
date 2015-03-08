@@ -1,10 +1,12 @@
+# Syllabus
+
 _Digital Art and Meaning: ..._, Simanowski 2011 :
 > (_Introduction p.21_) — In postmodern times, interpretation is no longer about control or truth. It is not about solving the puzzle of meaning that a work of art represents. It is about suggesting, playing with ideas, reflecting, and sharing thoughts and feelings triggered by interaction with the artwork. Hermeneutics can be considered "a metatheory of the play of interpretations" (Vattimo 1997, 9). No single interpretation should be the end of this process, but there should also be no end to interpretation.
 
 
 
 
-# 11 - 12 Marzo
+## 11 - 12 Marzo
 ###Introduzione. _Digital Art and Meaning._
 
 ![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1)] ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)  
@@ -36,7 +38,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-#18 - 19 Marzo
+##18 - 19 Marzo
 ###_Data: big, little, no, open. Mapping art._
 
 ![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![Physical Charts/Teninson Road, 2013+, David Sweeney](http://i.imgur.com/BApqOXS.jpg?1) ![Hypertension Singing Bowl, 2013, Stephen Barras](http://i.imgur.com/DGvBovS.jpg?1)  
@@ -70,7 +72,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-#26 Marzo
+##26 Marzo
 ###_Digital Art and Meaning: close reading._
 
 ![The Secret Lives of Numbers, 2002, Golan Levin+](http://i.imgur.com/qDrLG5X.jpg?1) ![Listening Post, 2000+, Mark Hansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
@@ -88,7 +90,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-#2 Aprile
+##2 Aprile
 
 ### lab4
 - discussione **dataset**
