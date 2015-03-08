@@ -3,7 +3,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 #11 - 12 Marzo
 
-#### _close reading_
 ![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1)] ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)  
 
 1. _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer [+](http://www.lozano-hemmer.com/vectorial_elevation.php)
@@ -14,7 +13,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Your Random Numbers..._, Jer Thorp [+](http://blog.blprnt.com/blog/blprnt/your-random-numbers-getting-started-with-processing-and-data-visualization)
 - strumenti: github, markdown, hackpad, _scraping_, api/temboo, ...
 
-#### compiti / _close reading_
+###### compiti / _close reading_
 1. _Data and Dragons_, 2013, Addie Wagenknecht
 2. _Weather Scores_, 2009+, Nathalie Miebach 
 3. _Multiverse_, 2008, Leo Villareal
@@ -23,7 +22,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 6. _Nuage Vert_, 2008+, HeHe
 7. _Words_, 2009, Greyworld  
 
-#### compiti / lab
+###### compiti / lab
 - 2-3 idee **dataset**
 
 #18 - 19 Marzo
