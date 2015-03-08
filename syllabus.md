@@ -23,10 +23,10 @@ Introduzione. _Digital Art and Meaning..._
 #### lab
 - _Make data more human_, Jer Thorp/TED [+](http://www.ted.com/talks/jer_thorp_make_data_more_human)
 - _Your Random Numbers_, Jer Thorp [+](http://blog.blprnt.com/blog/blprnt/your-random-numbers-getting-started-with-processing-and-data-visualization)
-- git/github
-- markdown
+- git/github [+](https://guides.github.com/)
+- markdown [+](https://guides.github.com/features/mastering-markdown)
 - hackpad
-- google spreadsheet
+- google fogli
 
 ###### compiti 
 - 2-3 idee **dataset**
