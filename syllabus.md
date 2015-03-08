@@ -41,7 +41,14 @@ _Data: big, little, no, open. Mapping art._
 - _Hypertension Singing Bowl_, 2013, Stephen Barras [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
  
 ###
-1-7. _scelti da [dataphys.org/list](http://dataphys.org/list)_
+_scelti da [dataphys.org/list](http://dataphys.org/list)_  
+1. -  
+2. -  
+3. -  
+4. -  
+5. -  
+6. -  
+7. -   
 
 ## lab
 - _scraping_
