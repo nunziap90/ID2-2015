@@ -1,8 +1,5 @@
 # ID2-2015
-*Data, art and meaning*, Interaction Design 2 @ [design.unirsm.sm](http://design.unirsm.sm) | A/A 2014-15
-
-# Syllabus 
-
+_Data, art and meaning_, Interaction Design 2 @ [design.unirsm.sm](http://design.unirsm.sm) | A/A 2014-15
 Corso di Laurea Magistrale in Design, Università di San Marino / IUAV Venezia  
 Docente _Daniele Tabellini_ < <daniele.tabellini@unirsm.sm> >
 
@@ -56,20 +53,8 @@ _Ulteriori testi saranno segnalati durante le lezioni_
 
 Mercoledì ore 18:30
 
-## calendario
+## syllabus
 
-**close readings**   
-11 Marzo - 3 Giugno  
-[/0_readings](https://github.com/Fupete/ID2-2015/tree/master/0_readings)
-
-**dataset**  
-11 Marzo - 2 Aprile  
-[/1_dataset](https://github.com/Fupete/ID2-2015/tree/master/1_dataset)
-
-**dataviz**  
-8 - 30 Aprile  
-[/2_dataviz](https://github.com/Fupete/ID2-2015/tree/master/2_dataviz)
-
-**dataphys**  
-6 - 8 Maggio  
-[/3_dataphys](https://github.com/Fupete/ID2-2015/tree/master/3_dataphys)
+11 Marzo - 2 Aprile **dataset**    
+8 - 30 Aprile **dataviz**   
+6 Maggio - 2 Giugno **dataphys**   
