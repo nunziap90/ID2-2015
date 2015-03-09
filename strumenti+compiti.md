@@ -41,8 +41,8 @@ mani | processing
   2.  _contesto_
   3.  _riferimenti_
 2.  **_come funziona_**
-3.  **_cosa potrebbe significare
-  1.  _cosa se_
+3.  **_cosa potrebbe significare_**  
+  1.  _cosa se_  
 (5 per studente)
 
 ### ORALI
