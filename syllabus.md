@@ -14,6 +14,14 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer [+](http://www.lozano-hemmer.com/vectorial_elevation.php)
 - _Urban/Mexico City_, 2007, Spencer Tunick [+](https://vimeo.com/6988932)
 
+### lab1
+- _Make data more human_, Jer Thorp/TED [+](http://www.ted.com/talks/jer_thorp_make_data_more_human)
+- _Your Random Numbers_, Jer Thorp [+](http://blog.blprnt.com/blog/blprnt/your-random-numbers-getting-started-with-processing-and-data-visualization)
+- git/github [+](https://guides.github.com/)
+- markdown [+](https://guides.github.com/features/mastering-markdown)
+- hackpad
+- google fogli
+
 ###### compito/lettura critica
 1. _Data and Dragons_, 2013, Addie Wagenknecht
 2. _Weather Scores_, 2009+, Nathalie Miebach 
@@ -22,14 +30,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 5. _Datamatics_, 2006+, Ryoji Ikeda
 6. _Nuage Vert_, 2008+, HeHe
 7. _Words_, 2009, Greyworld  
-
-### lab1
-- _Make data more human_, Jer Thorp/TED [+](http://www.ted.com/talks/jer_thorp_make_data_more_human)
-- _Your Random Numbers_, Jer Thorp [+](http://blog.blprnt.com/blog/blprnt/your-random-numbers-getting-started-with-processing-and-data-visualization)
-- git/github [+](https://guides.github.com/)
-- markdown [+](https://guides.github.com/features/mastering-markdown)
-- hackpad
-- google fogli
 
 ###### compito/progetto
 1. idee **dataset**
@@ -47,6 +47,13 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Physical Charts/Teninson Road_, 2013+, David Sweeney [+](http://dataphys.org/list/dynamic-physical-charts-to-communicate-community-data/)
 - _Hypertension Singing Bowl_, 2013, Stephen Barras [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
  
+### lab2
+- _scraping_
+- openrefine
+- raw
+- processing
+- api/temboo
+
 ###### compito/lettura critica*
 1. -  
 2. -  
@@ -58,12 +65,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 (* _progetti scelti da [dataphys.org/list](http://dataphys.org/list)_)  
 
-### lab2
-- _scraping_
-- openrefine
-- raw
-- processing
-- api/temboo
 
 ###### compito/progetto
 1. proposta **dataset**
@@ -92,12 +93,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ##2 Aprile
 
-###### compito/lettura critica
-...
-
 ### lab4
 - discussione **dataset**
 
+###### compito/lettura critica
+...
 
 
 -------
