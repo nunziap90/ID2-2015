@@ -102,8 +102,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Lab 4
 - discussione **dataset**
 
-
-
 -------
 
 _in progress_
