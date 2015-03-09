@@ -14,7 +14,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer [+](http://www.lozano-hemmer.com/vectorial_elevation.php)
 - _Urban/Mexico City_, 2007, Spencer Tunick [+](https://vimeo.com/6988932)
 
-####
+###### compito/lettura critica
 1. _Data and Dragons_, 2013, Addie Wagenknecht
 2. _Weather Scores_, 2009+, Nathalie Miebach 
 3. _Multiverse_, 2008, Leo Villareal
@@ -31,7 +31,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - hackpad
 - google fogli
 
-####
+###### compito/progetto
 1. idee **dataset**
 
 
@@ -47,7 +47,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Physical Charts/Teninson Road_, 2013+, David Sweeney [+](http://dataphys.org/list/dynamic-physical-charts-to-communicate-community-data/)
 - _Hypertension Singing Bowl_, 2013, Stephen Barras [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
  
-####
+###### compito/lettura critica*
 1. -  
 2. -  
 3. -  
@@ -56,7 +56,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 6. -  
 7. -   
 
-(_scelti da [dataphys.org/list](http://dataphys.org/list)_)  
+(* _progetti scelti da [dataphys.org/list](http://dataphys.org/list)_)  
 
 ### lab2
 - _scraping_
@@ -65,7 +65,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - processing
 - api/temboo
 
-####
+###### compito/progetto
 1. proposta **dataset**
 
 
@@ -84,7 +84,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - processing
 - D3
 
-####
+###### compito/progetto
 1. presentazione **dataset**
 
 
@@ -92,19 +92,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ##2 Aprile
 
+###### compito/lettura critica
+...
+
 ### lab4
 - discussione **dataset**
-
-####
-1. -  
-2. -  
-3. -  
-4. -  
-5. -  
-6. -  
-7. -   
-
-
 
 
 
