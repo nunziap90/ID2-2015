@@ -96,8 +96,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### lab4
 - discussione **dataset**
 
-###### compito/lettura critica
-...
 
 
 -------
