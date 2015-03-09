@@ -2,13 +2,13 @@
 
 ## Essenziali
 
-HARDWARE | SOFTWARE
-:--------:|:--------:|
-lapis | browser/google
-pensiero | google fogli
-respiro | markdown
-voce | git/github
-mani | processing
+PRESENZA | SOFTWARE | HARDWARE
+:--------:|:--------:|:--------:
+pensiero | browser/google | lapis
+respiro | google fogli | fogli
+rispetto | markdown | laptop
+voce | git/github | camera
+mani | processing | mobile
 
 ## Software (_essenziali e {consigliati}_)
 
@@ -25,9 +25,9 @@ mani | processing
 
 ### PER DOCUMENTARE
 
-1.  post markdown su github
+1.  markdown su github
 2.  processing to img/pdf/video
-3.  {d3 svg tools}
+3.  {d3 to svg tools}
 
 
 
