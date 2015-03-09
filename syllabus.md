@@ -9,7 +9,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## 11 - 12 Marzo
 ###Introduzione. _Digital Art and Meaning._
 
-![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1)] ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)  
+![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1) ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1)  
 
 - _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer [+](http://www.lozano-hemmer.com/vectorial_elevation.php)
 - _Urban/Mexico City_, 2007, Spencer Tunick [+](https://vimeo.com/6988932)
