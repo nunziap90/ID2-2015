@@ -57,4 +57,6 @@ Mercoledì ore 18:30
 
 11 Marzo - 2 Aprile **dataset**    
 8 - 30 Aprile **dataviz**   
-6 Maggio - 2 Giugno **dataphys**   
+6 Maggio - 2 Giugno **dataphys**
+
+Dettagliato: [syllabus.md](https://github.com/Fupete/ID2-2015/blob/master/syllabus.md)
