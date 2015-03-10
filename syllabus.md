@@ -1,4 +1,7 @@
-# Syllabus
+# Syllabus ID2-2015
+**_Data, art and meaning_, Interaction Design 2 @ [design.unirsm.sm](http://design.unirsm.sm)**  
+Corso di Laurea Magistrale in Design, Università di San Marino / IUAV Venezia |  A/A 2014-15  
+Docente _Daniele Tabellini_ < <daniele.tabellini@unirsm.sm> >
 
 _Digital Art and Meaning: ..._, Simanowski 2011 :
 > (_Introduction p.21_) — In postmodern times, interpretation is no longer about control or truth. It is not about solving the puzzle of meaning that a work of art represents. It is about suggesting, playing with ideas, reflecting, and sharing thoughts and feelings triggered by interaction with the artwork. Hermeneutics can be considered "a metatheory of the play of interpretations" (Vattimo 1997, 9). No single interpretation should be the end of this process, but there should also be no end to interpretation.
