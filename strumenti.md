@@ -22,6 +22,12 @@
 - processing to img/pdf/video
 - {d3 to svg tools}
 
+### Letture critiche
+
+1.  **_cosa è_**
+2.  **_come funziona_**
+3.  **_cosa potrebbe significare_** 
+
 ------
 
 _in progress_
