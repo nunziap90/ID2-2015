@@ -2,9 +2,9 @@
 
 ### Essenziali
 
-**PRESENZA**: respiro, pensiero, voce, mani
-**HARDWARE**: lapis, carta, laptop
-**SOFTWARE**: browser/google, google fogli, markdown, git/github, processing
+**PRESENZA**: respiro, pensiero, voce, mani  
+**HARDWARE**: lapis, carta, laptop  
+**SOFTWARE**: browser/google, google fogli, markdown, git/github, processing  
 
 ### Software (_essenziali e {consigliati}_)
 
