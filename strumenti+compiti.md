@@ -1,41 +1,34 @@
-# Strumenti
+## Strumenti
 
-## Essenziali
+### Essenziali
 
-PRESENZA | SOFTWARE | HARDWARE
-:--------:|:--------:|:--------:
-pensiero | browser/google | lapis
-respiro | google fogli | fogli
-rispetto | markdown | laptop
-voce | git/github | camera
-mani | processing | mobile
+**PRESENZA**: respiro, pensiero, voce, mani
+**HARDWARE**: lapis, carta, laptop
+**SOFTWARE**: browser/google, google fogli, markdown, git/github, processing
 
-## Software (_essenziali e {consigliati}_)
+### Software (_essenziali e {consigliati}_)
 
-### PER PARTECIPARE
- 
-1.  github, {, github uploader, git, sourcetree} 
-2.  markdown {, hackpad} 
+##### PER PARTECIPARE
+- github, {, github uploader, git, sourcetree} 
+- markdown {, hackpad} 
 
-### PER PROGETTARE
+##### PER PROGETTARE
+- data: google fogli, openrefine, raw, plot.ly, xml, JSON
+- code: processing, {js, p5js, d3, html5, css}
+- altri: {sublimetext, cyberduck, chrome, firefox, strumenti sviluppatori, ...}
 
-1. data: google fogli, openrefine, raw, plot.ly, xml, JSON
-2. code: processing, {js, p5js, d3, html5, css}
-3. altri: {sublimetext, cyberduck, chrome, firefox, strumenti sviluppatori, ...}
-
-### PER DOCUMENTARE
-
-1.  markdown su github
-2.  processing to img/pdf/video
-3.  {d3 to svg tools}
+##### PER DOCUMENTARE
+- markdown su github
+- processing to img/pdf/video
+- {d3 to svg tools}
 
 
 
-# Compiti
+## Compiti
 
-## Letture critiche
+### Letture critiche
 
-### SCRITTE
+##### SCRITTE
 1.  **_cosa è_**
   1.  _autore, body of work_
   2.  _contesto_
@@ -46,12 +39,12 @@ mani | processing | mobile
 
 (5 per studente)
 
-### ORALI
+##### ORALI
 1. discussione guidata su un proprio testo (1-2 per studente)
 
-## Testi di progetto
+### Testi di progetto
 
-### SCRITTI/ORALI
+##### SCRITTI/ORALI
 1.  su lavoro di un altro studente con discussione guidata sul proprio testo (2 per studente)
 2.  sulle fasi del proprio processo di progettazione (3 per studente)
 
