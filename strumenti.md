@@ -25,8 +25,8 @@
 ### Letture critiche
 
 1.  **_cosa è_**
-2.  **_come funziona_**
-3.  **_cosa potrebbe significare_** 
+2.  **_cosa potrebbe significare_**  
+3.  **_come funziona_**  
 
 ------
 
