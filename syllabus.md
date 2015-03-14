@@ -53,7 +53,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Hypertension Singing Bowl_, 2013, Stephen Barras [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
  
 ### Lab 2
-- _scraping_
 - openrefine
 - raw
 - processing
@@ -89,6 +88,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
 
 ### Lab 3
+- _scraping_
 - processing
 - D3
 
