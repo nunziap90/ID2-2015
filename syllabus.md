@@ -56,7 +56,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - openrefine
 - raw
 - processing
-- api/temboo
 
 ---
 
@@ -90,7 +89,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Lab 3
 - _scraping_
 - processing
-- D3
+- api/temboo
 
 ---
 
