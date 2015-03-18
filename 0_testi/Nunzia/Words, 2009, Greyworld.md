@@ -7,8 +7,8 @@ in Australia.
 
 
 ### Altre opere di Greyworld...
-![Clock work forest] (http://imgur.com/0D08LHq.png)
-##### Clock work forest 
+![Monument] (http://imgur.com/0D08LHq.png)
+##### Monument
 
 ![Clock work forest] (http://imgur.com/2S3N6FJ.png)
 ##### Clock work forest 
