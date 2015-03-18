@@ -1,4 +1,4 @@
-## Words, 2009, Greyworld
+## Words, 2009, Greyworld 
 
 ### Presentazione...
 Words è un'opera a cura di Greyworld commissionata dalla BBC per il "Free Thinking Festival" di Gateshead, UK, 
@@ -29,4 +29,4 @@ da esplorare, ricercare e rivivere, con la speranza di poter costruire un futuro
 - Se invece fosse stata una scoperta di suoni tra le persone presenti? Un'installazione di interazione tra le persone. 
 - Perchè un cubo? se invece fosse stata una sfera? Cubo come "scatola da aprire"?
 
-#### [Siti di riferimento!](http://greyworld.org/)(http://www.nasonero.com/words/) 
+#### [Siti di riferimento!](http://greyworld.org/)(http://www.nasonero.com/words/) [http://www.nasonero.com/words/]
