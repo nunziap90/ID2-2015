@@ -11,7 +11,7 @@ in Australia.
 ![Monument] (http://imgur.com/0D08LHq.png)
 ##### Monument
 
-![Clock work forest] (http://http://imgur.com/uffXhuc.png)
+![Clock work forest] (http://imgur.com/uffXhuc.png)
 ##### Clock work forest 
 
 ![Trafalgar sun] (http://imgur.com/2S3N6FJ.png)
