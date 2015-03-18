@@ -14,10 +14,18 @@ Il progetto artistico di Ryoji Ikeda vuole sottolineare la presenza dei "dati in
 Proiettori, altoparlanti e computer
 
 
-
+![image installation]
+(http://www.soundwall.it/wp-content/uploads/2013/11/supercodex.jpg)
 
 [Video installazione] https://vimeo.com/76813693
 
+![image museom]
+(https://carlacapeto.files.wordpress.com/2010/04/rijoji-3.jpg)
+
 [Video Museo] https://www.youtube.com/watch?v=IPjZl05StD4
+
+
+
+
 
 [Sito Ufficiale] http://www.ryojiikeda.com/project/datamatics/
