@@ -9,15 +9,15 @@ in Australia.
 ### Altre opere di Greyworld...
 
 ![Monument] (http://imgur.com/0D08LHq.png)
-##### Monument... 
+##### Monument
 Il monumento cerca ispirazione nelle pose dai passanti , invitandoli a far pose che egli compie
 
 ![Clock work forest] (http://imgur.com/uffXhuc.png)
-##### Clock work forest...
+##### Clock work forest
 Il primo capitolo di una fiaba raccontata.
 
 ![Trafalgar sun] (http://imgur.com/2S3N6FJ.png)
-##### Trafalgar sun...
+##### Trafalgar sun
 Sfera che diffonde la sua luce dell'alba in tutta Londra
 
 
