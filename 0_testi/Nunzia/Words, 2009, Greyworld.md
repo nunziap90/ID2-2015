@@ -2,7 +2,7 @@
 
 ### Presentazione...
 Words è un'opera a cura di Greyworld commissionata dalla BBC per il "Free Thinking Festival" di Gateshead, UK, 
-esposto anche presso lo IED di Roma, per il centenario del Futurismo, e il Parth International Art Festival, 
+esposto anche presso lo IED di Roma, per il centenario del Futurismo ![Futurismo](http://www.francescomorante.it/pag_3/310.htm), e il Parth International Art Festival, 
 in Australia.
 
 
