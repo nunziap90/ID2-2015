@@ -11,7 +11,7 @@ Il suo lavoro cerca di trasformare ciò che è puramente naturale in installazio
 [Portfolio David Bowen](http://www.dwbowen.com/portfolio.html)
 
 1.Acqua
-  * [Underwater](http://www.dwbowen.com/portfolio.html)
+  * [Underwater](http://www.dwbowen.com/underwater_series.html)
   * [Water Surface](http://www.dwbowen.com/water_surface.html)
 
 2.Vento
@@ -37,7 +37,7 @@ A mio modo di vedere Tele-Present Water può essere vista come una discretizzazi
 
 ##How it works
 
-![Alt Text](http://www.dwbowen.com/tele_waterWRO(mech).jpg)
+![Alt Text](http://www.dwbowen.com/tele_waterWRO(mech).jpg) ![Alt Text](http://www.dwbowen.com/tele_waterIR(detail).jpg)
 
-Tele-Present Water raccoglie a distanza i dati relativi all’altezza e alla frequenza delle onde da stazioni galleggianti nel Lago Superiore in Minnesota o nell’Oceano Pacifico in questo caso con il contributo della National Oceanic and Atmospheric Administration. Questi dati vengono gestiti da un computer e utilizzando MAX/MSP e una scheda Arduino si vanno a controllare diversi servi motore (il numero varia in base alla grandezza della griglia). Questi sono collegati tramite dei cavi alla griglia sottostante nei punti di intersezione della stessa. La superficie, composta da barre, va così a muoversi simulando, in maniera approssimata, il comportamento naturale della porzione di superficie acquatica.
+Tele-Present Water raccoglie a distanza i dati relativi all’altezza e alla frequenza delle onde da stazioni galleggianti nel Lago Superiore in Minnesota o nell’Oceano Pacifico in questo caso con il contributo della National Oceanic and Atmospheric Administration. Questi dati vengono gestiti da un computer e utilizzando MAX/MSP e una scheda Arduino si vanno a controllare diversi motorini da 24V (il numero varia in base alla grandezza della griglia). Questi sono collegati tramite dei cavi alla griglia sottostante nei punti di intersezione della stessa. La superficie, composta da barre, va così a muoversi simulando, in maniera approssimata, il comportamento naturale della porzione di superficie acquatica.
 
