@@ -13,8 +13,8 @@ in Australia.
 ![Clock work forest] (http://http://imgur.com/uffXhuc.png)
 ##### Clock work forest 
 
-![Clock work forest] (http://imgur.com/2S3N6FJ.png)
-##### Clock work forest 
+![Trafalgar sun] (http://imgur.com/2S3N6FJ.png)
+##### Trafalgar sun
 
 
 ### Come Funziona?
