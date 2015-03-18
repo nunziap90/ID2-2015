@@ -33,6 +33,8 @@ in mano, dopodichè il cubo inizia a pulsare di luce soffusa azzurra. A questo p
 ad esplorare lo spazio circostante, delimitato da un perimetro rosso. Chi lo desidera può donare una personale 
 parola capovolgendo la scatola, aspettando di essere scoperta da chi verrà dopo. 
 
+[Video] https://vimeo.com/10772891
+
 ### Cosa potrebbe significare?
 
 I partecipanti si rendono conto che l'invisibile è agli occhi, mentre nel profondo c'è un ambiente sonoro ricco, 
