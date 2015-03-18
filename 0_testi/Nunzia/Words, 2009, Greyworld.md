@@ -41,5 +41,5 @@ da esplorare, ricercare e rivivere, con la speranza di poter costruire un futuro
 - Perchè un cubo? se invece fosse stata una sfera? Cubo come "scatola da aprire"?
 
 #### Siti di riferimento 
-###### (http://www.nasonero.com/words/) 
-###### (http://www.nasonero.com/words/)
+###### http://www.nasonero.com/words/
+###### http://www.nasonero.com/words/
