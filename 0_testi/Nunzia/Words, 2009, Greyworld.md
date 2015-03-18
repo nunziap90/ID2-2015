@@ -33,7 +33,7 @@ in mano, dopodichè il cubo inizia a pulsare di luce soffusa azzurra. A questo p
 ad esplorare lo spazio circostante, delimitato da un perimetro rosso. Chi lo desidera può donare una personale 
 parola capovolgendo la scatola, aspettando di essere scoperta da chi verrà dopo. 
 
-[Video] https://vimeo.com/10772891
+[Video] (https://vimeo.com/10772891)
 
 ### Cosa potrebbe significare?
 
