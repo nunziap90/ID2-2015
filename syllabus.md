@@ -49,19 +49,17 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![Physical Charts/Teninson Road, 2013+, David Sweeney](http://i.imgur.com/BApqOXS.jpg?1) ![Hypertension Singing Bowl, 2013, Stephen Barras](http://i.imgur.com/DGvBovS.jpg?1)  
 
 - _The Source_, 2004, Greyworld [+](http://greyworld.org/archives/31)
-- _Physical Charts/Teninson Road_, 2013+, David Sweeney [+](http://dataphys.org/list/dynamic-physical-charts-to-communicate-community-data/)
-- _Hypertension Singing Bowl_, 2013, Stephen Barras [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
- 
+
 ### Lab 2
 - openrefine
 - raw
-- processing
+- processing + data
 
 ---
 
 ###### compito/lettura critica*
-1. -  
-2. -  
+1. _Physical Charts/Teninson Road_, 2013+, David Sweeney [+](http://dataphys.org/list/dynamic-physical-charts-to-communicate-community-data/)
+2. _Hypertension Singing Bowl_, 2013, Stephen Barras [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
 3. -  
 4. -  
 5. -  
