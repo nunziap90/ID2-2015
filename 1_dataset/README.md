@@ -7,31 +7,31 @@
 Idee per _dataset_ con cui lavorare.   
 Per _titoli_, i dettagli nelle cartelle relative.
 
-- [Nunzia](/nunzia)
+- [Nunzia](./Nunzia)
   - Le aree più utilizzate dai ragazzi
   - Perchè noi valiamo! e dove sono ora?
   - Rete di conoscenza tra studenti
-- [Francesca](/francesca)
+- [Francesca](./Francesca)
   - Connections to server > information exchanged > energy wasted
   - Establish the mood of the day > FB profiles > spread music
   - Photos tagged #unirsm
-- [Gian Andrea](/GianAndrea)
+- [Gian Andrea](./GianAndrea)
   - Quanto viene comunicata l'università > social, siti, parole chiave
   - Consumo di risorse da parte degli studenti > energia, carta, rifiuti, acqua, caffè, ...
   - Database dei file, informazioni ed argomenti creati dagli studenti...
-- [Lorella](/LorellaCamellina)
+- [Lorella](./LorellaCamellina)
   - Quanto viaggia l'Università?
   - Scalini saliti
   - Dialetti parlati
-- [Raffaele](/raffaele)
+- [Raffaele](./Raffaele)
   - Provenienza e eventuali altri test di ammissione studenti
   - Dati sugli esami
   - Dati sulla musica ascoltata > FB & Spotify
-- [Luigi](/luigi)
+- [Luigi](./luigi)
   - Spostamenti fuorisede
   - Iscrizione e impiego post laurea
   - Interesse nei corsi
-- [Federico](/Federico_Lo_Porto)
+- [Federico](./Federico_Lo_Porto)
   - Provenienza studenti
   - Spazi utilizzati durante le pause
   - Rendimento/presenza relazionato al clima
