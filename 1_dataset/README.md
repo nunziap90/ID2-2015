@@ -68,4 +68,4 @@ Alla ricerca di scintille e idee possibili.
 
 -----
 
-_in progress_
+_Resoconto lavoro, in progress_
