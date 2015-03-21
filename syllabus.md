@@ -23,7 +23,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - git/github [+](https://guides.github.com/)
 - markdown [+](https://guides.github.com/features/mastering-markdown)
 - hackpad
-- google fogli
 
 ---
 
@@ -85,9 +84,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
 
 ### Lab 3
-- _scraping_
+- google fogli
 - processing
 - api/temboo
+- _scraping_
+
 
 ---
 
