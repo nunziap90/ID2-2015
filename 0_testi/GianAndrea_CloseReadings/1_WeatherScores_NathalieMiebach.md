@@ -12,12 +12,15 @@ Il progetto è un interazione tra diversi dati derivanti da misurazioni metereol
 
 **Cosa potrebbe significare?**
 
-Per l'artista, l'opera vuole rendere tangibile, udibile e rappresentabile visivamente tutti gli elementi nascosti in un evento metereologico. 
-L'obiettivo è dunque quello di cercare nuove interpretazioni visive utili per trovare nuove connessioni tra gli elementi che tra loro creano delle relazioni comportamentali e attive, non visibili ad occhio nudo. 
-L'artista in questo modo crea una metodologia di visualizzazione che è adattabile a diversi contesti e modi interpretare lo stesso dato. Il progetto non è solo poetico ma anche funzionale al tipo di obiettivo che si ha: la struttura diventa un oggetto di indagine metereologica, ma nello stesso tempo diventa un'opera astratta, ma anche un'esperienza musicale. Non solo si ha un diverso modo di esplorare e fruire la scienza, nuovi punti di vista con cui estrapolare nuove riflessioni, ma si cerca di trovare un più adeguato linguaggio espressivo per comprendere meglio la complessità dei dati.
+L'opera rende tangibile, udibile e rappresentabile visivamente tutti gli elementi nascosti in un evento metereologico. 
+L'obiettivo è quello di cercare nuove interpretazioni visive dei dati, per identificare le relazioni dinamiche tra gli elementi, non visibili ad occhio nudo. 
+L'artista in questo modo crea una sorta di rappresentazione universale, adattabile a diversi contesti e modi interpretare lo stesso dato. Il progetto non è solo poetico ma anche funzionale al tipo di obiettivo che si ha: la struttura diventa un oggetto di indagine metereologica, nello stesso tempo un'opera astratta, ma anche un'esperienza musicale. Non si ha solo diverso modo di esplorare e fruire la scienza, nuovi punti di vista con cui estrapolare nuove riflessioni, ma anche un linguaggio espressivo per comprendere meglio la complessità dei dati.
+
+***e se . . .***
+Se l'artista usasse un database digitale potrebbe utilizzare la grafica generativa per creare, con lo stesso principio metodologico, nuove forme di rappresentazione dinamica. Con l'aiuto di programmi informatici pobrebbe esplorare nuove tipologie di
 
 **Come funziona?**
 
-Dati metereologici e scientifici (tempo, pressione, direzione vento, umidità, temperatura, fasi lunari, maree, ecc.) vengono registrati dall'artista per estrapolare delle variabili numeriche, essenziali per tradurle in una rappresentazione visiva. Ogni elemento viene raffigurato sopra uno spartito (assumedo una valenza musicale), e contradistinto da una rappresentazione formale (sfere e linee) e cromatica. Successivamente questa visualizzazione viene tradotta materialmente in una infografica tridimensionale, tramite l'uso di una struttura in vimini che prende forma attraverso una disposizione cartesiana dei dati. L'opera quindi può essere utilizzata dai musicisti per essere riprodotta musicalmente: per ogni diversa inquadratura si potrà avere una diversa composizione. 
+Dati metereologici e scientifici (tempo, pressione, direzione vento, umidità, temperatura, fasi lunari, maree, ecc.) vengono registrati dall'artista per estrapolare delle variabili numeriche, essenziali per tradurle in una rappresentazione visiva. Ogni elemento viene raffigurato sopra uno spartito (assumedo una valenza musicale), e contradistinto da una rappresentazione formale (sfere e linee) e cromatica. Successivamente questa visualizzazione viene tradotta materialmente in una infografica tridimensionale tramite l'uso di una struttura in vimini, che prende forma attraverso una disposizione cartesiana dei dati. L'opera può essere quindi utilizzata dai musicisti per essere riprodotta musicalmente: per ogni diverso punto di vista si può avere una diversa composizione. 
 
 Il progetto dell'artista è presentato in questo [VIDEO](http://www.ted.com/talks/nathalie_miebach?language=it#t-56636) del TEDtalks
