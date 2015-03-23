@@ -8,21 +8,26 @@
 -
 
 **Cosa è?**
+
 Il progetto presentato è un sistema complessivo multidisciplinare che coinvolge molteplici elementi tra loro, in modo da realizzare un continuo processo esperenziale polisensoriale, tradotto in un'opera d'arte dinamica dalle diverse sembianze.
 Il progetto è un interazione tra diversi dati derivanti da misurazioni metereologiche che si traduce in inedite rappresentazioni visive bidimensionali (spartiti musicali), tridimensionali (installazioni), e composizioni musicali.
 
 -
 
 **Cosa potrebbe significare?**
+
 L'opera rende tangibile, udibile e rappresentabile visivamente tutti gli elementi nascosti in un evento metereologico. 
 Vuole identificare le relazioni dinamiche tra gli elementi, non visibili ad occhio nudo. 
 L'artista in questo modo crea una sorta di rappresentazione universale, adattabile a diversi contesti e modi interpretare lo stesso dato. Il progetto intreccia l'arte con la scienza per creare un nuovo linguaggio di rappresentazione dei dati in modo poetico.
+
 ***e se . . .***
+
 Se l'artista usasse un database digitale potrebbe utilizzare la grafica generativa per creare, con lo stesso principio metodologico, nuove forme di rappresentazione dinamica che amplierebbero la capacità espressiva dell'opera. Con l'aiuto di programmi informatici pobrebbe dinamicizzare i dati in una composizione attiva che autogenera delle proprie esperienze musicali.
 
 -
 
 **Come funziona?**
+
 Dai dati metereologici e scientifici, vengono estrapolate delle variabili numeriche, poi tradotte in una rappresentazione visiva. Ogni elemento viene raffigurato sopra uno spartito, e contradistinto da una caratteristica formale (sfere e linee) e cromatica. Successivamente, la visualizzazione viene tradotta materialmente in un'infografica tridimensionale tramite l'uso di una struttura in vimini, che prende forma attraverso una disposizione cartesiana dei dati. Ogni elemento assume una valenza sonora e l'opera si traduce in una composizione musicale da poter suonare.
 
 Il progetto dell'artista è presentato in questo [VIDEO](http://www.ted.com/talks/nathalie_miebach?language=it#t-56636) del TEDtalks
