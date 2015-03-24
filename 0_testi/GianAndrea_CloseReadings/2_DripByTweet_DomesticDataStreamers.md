@@ -15,22 +15,24 @@ L'opera infatti è una struttura metallica che supporta 271 provette, ognuna del
 
 **Cosa potrebbe significare?**
 
-"*La goccia che fa traboccare il vaso*, è la frase che fa pensare a questo progetto. Non si tratta di pazienza ma il  Il significato riguarda appunto al quantificare dei dati attraverso una materia fluida, adattabile e flessibile al cambiamento. L'analogia ricade correttamente, perché la dinamicità dell'acqua rappresenta al meglio l'evoluzione dei voti. I dati digitali diventano dinamici anche materialmente, dove la quantià dei punteggi diventa tangibile
+"*La goccia che fa traboccare il vaso*", è la frase che fa pensare a questo progetto. Come viene usata per superare il livello di pazienza, l'acqua diventa uno strumento di misurazione del livello di valutazione dei progetti. Il significato riguarda appunto il quantificare dei dati attraverso una materia fluida, adattabile e flessibile al cambiamento. L'analogia ricade correttamente perché la dinamicità dell'acqua rappresenta al meglio l'evoluzione dei voti. I dati digitali diventano dinamici anche materialmente, dove la quantià dei punteggi diventa tangibile, sottoforma di un volume fluido.
 
 ***e se . . .***
 
-Se lo studio avesse usato un sistema di rappresentazione diverso? La disposizione circolare dei recipienti è funzionale al [LIQUID STATISTICS] (https://vimeo.com/94884123)
-[DATA FURNITURE] (https://vimeo.com/87347128)
+*Se il collettivo avesse usato un sistema di rappresentazione diverso?* La disposizione circolare dei recipienti è funzionale al meccanismo strutturale, ma per la comparazione delle votazioni potrebbe creare difficoltà. Forse se avessero relazionato l'opera con il progetto [LIQUID STATISTICS] (https://vimeo.com/94884123), da loro svolto, avrebbero potuto comunicare i dati in modo più efficace.
+
+*Se il collettivo avesse sperimentato di più sui fluidi?* L'acqua esprime movimento, ma in questa rappresentazione viene sottovalutata la sua potenzialità. Se avessero intrecciato il lavoro con un altro loro progetto [DATA FURNITURE] (https://vimeo.com/87347128), forse avrebbero potuto ampliare il concetto di dinamicità.
 
 -
-
 
 **Come funziona?**
 
 Una votazione è espressa attraverso un hashtag di Twitter e, tramite un software informatico, viene tradotta in una goccia d'acqua. Quest'ultima viene rilasciata da un contagocce nella provetta associata al progetto cui è rivolta. Più voti si riceve e più la propria boccetta viene riempita. Il periodo di giudizio è stato svolto dal 23 maggio al 13 giugno del 2014. Finito il tempo è stata stilata la lista dei vincitori in base ai voti ricevuti.
 
-
+Il progetto dello studio è presentato in questo [VIDEO] (https://vimeo.com/119475606).
 
 -
 
 **Referenze**
+- Accosto il progetto di . . ., perché utilizza il pubblico che fruisce l'opera come parte attiva nella modifica della propria struttura.
+- Accosto il progetto di . . ., perché 
