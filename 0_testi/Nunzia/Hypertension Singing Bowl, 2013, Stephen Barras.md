@@ -26,7 +26,7 @@ a pressione arteriosa è riassunta da due misure, sistolica e diastolica, che di
 È un fattore significativo di molte malattie come ictus, attacchi di cuore...è noto anche come "killer silenzioso" perchè non ci sono sintomi. 
 
 ### Se invece...
-#### Fosse realizzato in metallo riciclato? 
+##### Fosse realizzato in metallo riciclato? 
 
 
 
