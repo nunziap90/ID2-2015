@@ -17,14 +17,19 @@ The participants were from many different countries, so the organizers wanted to
 the city in the conference. That's why they asked Illutron, an installation for the reception hall which
 would relate to Copenhagen being an extraordinary good city for biking.
 
-The starting point was the interest that NOME TIPO has always had towards fractals and chaotic systems, their
+The starting point was the interest that Tobias Lukassen has always had towards fractals and chaotic systems, their
 mathematical unpredictable results and the aestethic beauty of their rapresentations related to the city development.
 Here an [explanation for fractal:] (http://en.wikipedia.org/wiki/Fractal)
 What a fractal look like ![] (http://www.fractalsciencekit.com/fractals/large/Fractal-Mobius-Dragon-IFS-04.jpg)
 
 They had access to the city database and took the dataset on bikes and their numbers.
-Colored liquids flows through transparent tubes, representing the flow of the bikes in the city, bringing the dataset back 
-to the physic realm. The installation was not only visual but also sounded with registration tooken by the authors
-themselves  
-The real deal was competing with daylight because they used lots of colors which were difficult to show ina proper way 
-in the place chosen for the installation
+Colored liquids flows through transparent tubes, representing the flow of the bikes in the city, bringing the dataset 
+back to the physic realm. 
+The installation was not only visual but also sounded with registration of mechanical parts of a moving bycicle
+tooken by the authors themselves. Those sounds were aubible with headphones put under the installation.
+The real deal was competing with daylight because they used lots of colors which were difficult to show in a proper way 
+in the place chosen for the installation. In a upper part of the hall, they had the control center, with the liquid tanks, 
+computers and controllers. The installation was made by 10 trianle wood structures hung on the ceiling with wires, 
+which held the tubes an
+All this stuff where put toghether in a system thanks to Arduino. The complete code is accessible at 
+[Illutron GitHub page] (https://github.com/Illutron/chaosflow).
