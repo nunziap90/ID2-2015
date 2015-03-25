@@ -1,5 +1,5 @@
 ### Stephen Barrass
-Stephen Barrass è un sound artist e disegnatore,  professore presso la facoltà di Design e Arti dell'Università 
+[Stephen Barrass](http://stephenbarrass.com/) è un sound artist e disegnatore,  professore presso la facoltà di Design e Arti dell'Università 
 di Canberra. Stephen è  uno degli inventori della [sonicazione](http://it.wikipedia.org/wiki/Sonicazione) (descrive l'utilizzo di onde acustiche) alla fine 
 degli anni '90 e presso l'università di Camberra ha iniziato ad esplorare sonificazioni fisiche, egli chiamò questo 
 principio Acoustic Sonification, ossia oggetti fisici progettati per produrre suoni che trasmettono informazioni utili 
@@ -10,9 +10,11 @@ of Acoustic Engineering Society nel 2012. Nel 2000 in Australia è diventato, il
 spazio interattivo che è stato uno delle cinque più grandi opere multimediali commissionate per l'apertura 
 del National Museum of Australia. 
 
-### 
+### Campane tibetane
+Sono un antico strumento musicale originario della cultura pre-buddista che regnava nell'antico Tibet. Successivamente si è diffusa in tutta l'Asia. Le campane tibetane sono tipiche campane statiche o a terra e, a differenza delle campane tradizionali, la campana tibetana non viene appesa capovolta e il batacchio non è interno e a pendolo, ma manuale ed esterno: la campana viene suonata colpendola e/o sfregandola con il percussore sul bordo esterno. Questa caratteristica le ha rese molto usate per fini religiosi, per i riti e le meditazioni, visto l'effetto psicotropo che il suono vibrante ha sulla mente umana, associate con la riduzione dello stress e benessere. Le campane tibetane venivano lavorate a mano includendo materialei come oro, argento, mercurio, rame, ferro, stagno ecc... ogni ciotola così aveva il suo rumore individuale e  caratteristico; ma le campane ottenute tramite fusione di bronzo sono quelle più uniformi in forma e suono. 
 
 
 
-[Stephen Barrass](http://stephenbarrass.com/)
+
+
 
