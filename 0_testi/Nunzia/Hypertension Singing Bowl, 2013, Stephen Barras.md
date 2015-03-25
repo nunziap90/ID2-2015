@@ -51,7 +51,7 @@ nello spettogramma in figura 9. Quando il cerchio viene strofinato con il baston
 
 ### Mi ricorda...
 
- ![GitHub Logo](http://imgur.png)
+ ![GitHub Logo](http://imgur.com/CroMYSg)
 
 
 
