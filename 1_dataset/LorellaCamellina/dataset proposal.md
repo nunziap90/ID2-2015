@@ -11,4 +11,5 @@ http://www.wired.com/2015/03/stealing-data-computers-using-heat/?mbid=social_fb 
 ##### input 
 
 rilevamento calore ( laboratorio + aula video + aule lezione + segreteria + distributori + giardino + biblioteca + chiesetta + ??)
+
 rilevamento calore ( laboratorio + aula video + aule lezione + segreteria + distributori + giardino + biblioteca + chiesetta + ??)
