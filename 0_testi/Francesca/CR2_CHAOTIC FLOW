@@ -1,14 +1,19 @@
 #Chaotic Flow
+###Abstract Flow Visualization of Copenhagen Bike Traffic
 
 by Illutron
 
 ###What is it?
+
+![] (http://media.johan.cc/cache/e6/25/e625da8861eed1aebb5760ab33c677a2.jpg)
 
 ####Description from the author
 
 Using water pumps, compressed air and 1000 meters of PVC tubing we designed a sculpture that simulates the flow of
 bike traffic through the streets and pathways Copenhagen. Presenting the real data in an abstract form.
 The sculpture was commissioned by the organizers of the 4S/EASST which has taken place in Copenhagen in 2012.
+
+####Context
 
 The EASST is the European Association for the Study of Science and Technology and that year the theme of the Conference
 was the Copenhagenization phenomenon: the status a city acquires as a site for experimental design,
@@ -17,19 +22,59 @@ The participants were from many different countries, so the organizers wanted to
 the city in the conference. That's why they asked Illutron, an installation for the reception hall which
 would relate to Copenhagen being an extraordinary good city for biking.
 
-The starting point was the interest that Tobias Lukassen has always had towards fractals and chaotic systems, their
-mathematical unpredictable results and the aestethic beauty of their rapresentations related to the city development.
-Here an [explanation for fractal:] (http://en.wikipedia.org/wiki/Fractal)
-What a fractal look like ![] (http://www.fractalsciencekit.com/fractals/large/Fractal-Mobius-Dragon-IFS-04.jpg)
+####What is, actually.
 
+! [] (http://payload118.cargocollective.com/1/7/254186/4668096/IMG_9671.jpg)
+
+The installation was made by 10 trianle wood structures hung on the ceiling with wires, 
+the triangle frames hold the tubes and let them show how liquids flows trough.
 They had access to the city database and took the dataset on bikes and their numbers.
 Colored liquids flows through transparent tubes, representing the flow of the bikes in the city, bringing the dataset 
 back to the physic realm. 
 The installation was not only visual but also sounded with registration of mechanical parts of a moving bycicle
 tooken by the authors themselves. Those sounds were aubible with headphones put under the installation.
-The real deal was competing with daylight because they used lots of colors which were difficult to show in a proper way 
-in the place chosen for the installation. In a upper part of the hall, they had the control center, with the liquid tanks, 
-computers and controllers. The installation was made by 10 trianle wood structures hung on the ceiling with wires, 
-which held the tubes an
-All this stuff where put toghether in a system thanks to Arduino. The complete code is accessible at 
+
+###How it works
+
+The real deal was competing with daylight because, in the place chosen for the installation,transparent liquids were
+not easy to show from distance. 
+So they came up with the choice of using lots of colors which were easier to show in a proper way and 
+represented bike fluxes better.
+In the second storey of the hall, they had the control center with the liquid tanks, computers and controllers. 
+![] (http://payload118.cargocollective.com/1/7/254186/4668096/IMG_1380.jpg)
+Physically, the liquids were pushed at different times by controlled pumps.
+The headphones were connected to the central system and they played an edited sequence of sounds.
+They converted the statistical dataset in an abstract simulation with python and c++ with openframeworks.
+All this stuff was put toghether in a system thanks to Arduino. The complete code is accessible at 
 [Illutron GitHub page] (https://github.com/Illutron/chaosflow).
+
+Quoting from [the coder site] (http://johan.cc/2012/12/28/chaotic-flow/) _"The technical system behind the installation 
+consists of a set of python scripts for converting the raw data that we received in a set of similarly (as in not 
+identically) formatted .xlsx files. The scripts imports the data to a mongodb database, does geocode lookups and a thin 
+python server written using flask and pymongo returns the data as json.The auditive element of the installation is 
+a maxMSP patch that mixes recordings of traffic and mechanical sounds from bike parts according to the current amount
+of traffic in the simulation that it receives over OSC from openframeworks. An openframeworks application runs 
+the actual simulation. It maps paths through the city to paths through the sculpture. Three arduino boards control 
+the pumps, air pressure regulators and magnetic valves for the eight individual channels in the installation."_
+
+
+###Similar workpiece
+![] (http://payload118.cargocollective.com/1/7/254186/4668096/IMG_1380.jpg)
+
+###What it could mean
+
+Usually you only relate to this kind of data in a quantitative way. We wanted to create an abstract representation
+of the data that conveys something about how the system behind the data works creating a new kind of relation to 
+the data set and perhaps inspiring new ways to think of it.
+
+The spatial structure is modelled with inspiration from strange attractors and represent the often chaotic nature
+of how cities and their infrastructure develop. The fractal that it is modelled after was generated using this script.
+
+####Source of inspiration
+
+The starting point was the interest that Tobias Lukassen has always had towards fractals and chaotic systems, their
+mathematical unpredictable results and the aestethic beauty of their rapresentations related to the city development.
+Here an [explanation for fractal:] (http://en.wikipedia.org/wiki/Fractal)
+What a fractal look like ![] (http://www.fractalsciencekit.com/fractals/large/Fractal-Mobius-Dragon-IFS-04.jpg)
+
+
