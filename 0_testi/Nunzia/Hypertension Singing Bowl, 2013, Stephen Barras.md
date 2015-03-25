@@ -28,7 +28,7 @@ a pressione arteriosa è riassunta da due misure, sistolica e diastolica, che di
 
 ### Hypertension_Singing Bowl 
 
-  ![cestino] (Stephen-Barrass_singing-bowl-2-copy-940x705.jpg)
+  ![cestino](Stephen-Barrass_singing-bowl-2-copy-940x705.jpg)
 
 Nel 2013 i servizi di stampa 3D online hanno annunciato l'inizio di una "nuova età del bronzo", con la capacità per le stampanti 3D di stampare modelli in bronzo e ottone. 
 La crescente disponibiltà di prodotti a basso costo come sensori indossabili, ha condotto ad un interesse sempre crescente nel [self-tracking](http://www.treccani.it/vocabolario/self-tracking_%28Neologismi%29/) nello sport, salute e benessere. 
