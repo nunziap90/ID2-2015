@@ -65,7 +65,9 @@ nello spettogramma in figura 9. Quando il cerchio viene strofinato con il baston
 
 #### Siti di riferimento 
 http://www.workshopped.com.au/default.asp
+
 http://currentsnewmedia.org/artists/stephen-barrass/
+
 
 
 
