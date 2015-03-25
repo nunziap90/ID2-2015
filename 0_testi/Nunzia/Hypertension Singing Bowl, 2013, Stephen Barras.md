@@ -16,6 +16,7 @@ del National Museum of Australia.
 
 ![HRTF Medallion] (http://imgur.com/m2mjPSi.png)
 ##### HRTF Medallion
+Un lato del medaglione è un insieme di dati HRTF misurata dall' orecchio sinistro , mentre l' altro lato è dall'orecchio destra. Le creste e solchi sulla superficie sono tacche di frequenza che sono spunti per localizzare i suoni. 
 
 ![HRTF Bells] (http://imgur.com/UT1bgNl.png)
 ##### HRTF Bells
