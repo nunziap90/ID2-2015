@@ -14,10 +14,10 @@ del National Museum of Australia.
 
 ### Progetti...
 
-![HRTF Medallion] (http://imgur.com/UT1bgNl.png)
+![HRTF Medallion] (http://imgur.com/m2mjPSi.png)
 ##### HRTF Medallion
 
-![HRTF Bells] (http://imgur.com/m2mjPSi.png)
+![HRTF Bells] (http://imgur.com/UT1bgNl.png)
 ##### HRTF Bells
 Il primo esperimento è stato un gioiello ricco di dati che descrivono l'udito spaziale umano; il lato sinistro è differente da quello destro, ha mappato così i dati sull'esterno di una forma a campana. 
 
