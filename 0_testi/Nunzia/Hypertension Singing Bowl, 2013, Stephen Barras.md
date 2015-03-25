@@ -40,7 +40,8 @@ a pressione arteriosa è riassunta da due misure, sistolica e diastolica, che di
 
 Nel 2013 i servizi di stampa 3D online hanno annunciato l'inizio di una "nuova età del bronzo", con la capacità per le stampanti 3D di stampare modelli in bronzo e ottone. 
 La crescente disponibiltà di prodotti a basso costo come sensori indossabili, ha condotto ad un interesse sempre crescente nel [self-tracking](http://www.treccani.it/vocabolario/self-tracking_%28Neologismi%29/) nello sport, salute e benessere. 
-Stephen Barrass ha iniziato con auto-traking della propria pressione sanguigna, per un intero anno, con un bracciale che invia la lettura ad una App sul cellulare. (figura1). 
+Stephen Barrass ha iniziato con auto-traking della propria pressione sanguigna, per un intero anno, con un bracciale che invia la lettura ad una App sul cellulare. 
+[figura 1](http://www.york.ac.uk/media/c2d2/media/sonihedconference/Barrass_SoniHED_2014.pdf)
 La scelta è stata quella di riprendere la tibetana "Singing Bowl", perchè è associata con la meditazione e altre terapie di rilassamento che possono abbassare la pressione sanguigna. 
 La singing bowl è una ciotola realizzata con la stampante 3D in acciaio inox; il suo tono e timbro sono dovuti ai dati registrati, diversi da persona a persona. 
 Il suono meditativo che produce non è solo un mezzo per ridurre lo stress, ma anche un promemoria per monitorare il benessere e vivere una vita sana. 
