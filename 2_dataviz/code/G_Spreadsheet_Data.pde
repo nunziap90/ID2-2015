@@ -1,5 +1,5 @@
 // -
-// GSpreadsheetData 0.1 [JSON / Public url]
+// G_Spreadsheet_Data 0.1 [JSON / Public url]
 // © Daniele @ Fupete for the course ID2 @ UnirSM  
 // github.com/fupete — github.com/Fupete/ID2-2015
 // Educational purpose, MIT License, march 2015, San Marino
