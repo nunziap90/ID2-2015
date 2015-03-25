@@ -53,7 +53,7 @@ nello spettogramma in figura 9. Quando il cerchio viene strofinato con il baston
 
  ![http://imgur.com/CroMYSg](http://imgur.com/CroMYSg)
 
-
+![Cestino frutta] (http://imgur.com/CroMYSg) 
 
 
 
