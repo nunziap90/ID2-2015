@@ -27,6 +27,8 @@ a pressione arteriosa è riassunta da due misure, sistolica e diastolica, che di
 
 ### Hypertension_Singing Bowl 
 La crescente disponibiltà di prodotti a basso costo come sensori indossabili, ha condotto ad un interesse sempre crescente nel [self-tracking](http://www.treccani.it/vocabolario/self-tracking_%28Neologismi%29/) nello sport, salute e benessere. 
+La scelta è stata quella di riprendere la tibetana "Singing Bowl", perchè è associata con la meditazione e altre terapie di rilassamento che possono abbassare la pressione sanguigna. 
+
 
 ### Se invece...
 ##### Fosse realizzato in metallo riciclato? 
