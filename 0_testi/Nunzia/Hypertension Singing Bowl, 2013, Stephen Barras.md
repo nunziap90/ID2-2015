@@ -51,11 +51,7 @@ nello spettogramma in figura 9. Quando il cerchio viene strofinato con il baston
 
 ### Mi ricorda...
 
- ![cestino frutta] (http://imgur.com/CroMYSg.png) 
- 
- ![conchiglia] (http://www.conchilium.it/wp-content/uploads/2011/10/Conchiglie.jpg) 
- 
- ![xilofono] (http://www.musicalbareda.com/img/upload/XAC.jpg) 
+ ![cestino frutta] (http://imgur.com/CroMYSg.png)![conchiglia](http://www.conchilium.it/wp-content/uploads/2011/10/Conchiglie.jpg) ![xilofono] (http://www.musicalbareda.com/img/upload/XAC.jpg) 
 
 
 
