@@ -11,7 +11,16 @@ spazio interattivo che è stato uno delle cinque più grandi opere multimediali 
 del National Museum of Australia. 
 
 ### Campane tibetane
-Sono un antico strumento musicale originario della cultura pre-buddista che regnava nell'antico Tibet. Successivamente si è diffusa in tutta l'Asia. Le campane tibetane sono tipiche campane statiche o a terra e, a differenza delle campane tradizionali, la campana tibetana non viene appesa capovolta e il batacchio non è interno e a pendolo, ma manuale ed esterno: la campana viene suonata colpendola e/o sfregandola con il percussore sul bordo esterno. Questa caratteristica le ha rese molto usate per fini religiosi, per i riti e le meditazioni, visto l'effetto psicotropo che il suono vibrante ha sulla mente umana, associate con la riduzione dello stress e benessere. Le campane tibetane venivano lavorate a mano includendo materialei come oro, argento, mercurio, rame, ferro, stagno ecc... ogni ciotola così aveva il suo rumore individuale e  caratteristico; ma le campane ottenute tramite fusione di bronzo sono quelle più uniformi in forma e suono. 
+Sono un antico strumento musicale originario della cultura pre-buddista che regnava nell'antico Tibet. 
+Successivamente si è diffusa in tutta l'Asia. Le campane tibetane sono tipiche campane statiche o a terra e, 
+a differenza delle campane tradizionali, la campana tibetana non viene appesa capovolta e il batacchio non è interno 
+e a pendolo, ma manuale ed esterno: la campana viene suonata colpendola e/o sfregandola con il percussore sul bordo esterno. Questa caratteristica le ha rese molto usate per fini religiosi, per i riti e le meditazioni, visto l'effetto
+psicotropo che il suono vibrante ha sulla mente umana, associate con la riduzione dello stress e benessere. 
+Le campane tibetane venivano lavorate a mano includendo materialei come oro, argento, mercurio, rame, ferro, 
+stagno ecc... ogni ciotola così aveva il suo rumore individuale e  caratteristico; ma le campane ottenute tramite 
+fusione di bronzo sono quelle più uniformi in forma e suono. 
+
+
 
 
 
