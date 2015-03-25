@@ -20,6 +20,12 @@ Le campane tibetane venivano lavorate a mano includendo materialei come oro, arg
 stagno ecc... ogni ciotola così aveva il suo rumore individuale e  caratteristico; ma le campane ottenute tramite 
 fusione di bronzo sono quelle più uniformi in forma e suono. 
 
+### Ipertensione 
+L'ipertensione è la condizione clinica in cui la pressione del sangue nelle arterie della circolazione sistemica risulta elevato, ciò comporta un aumento di lavoro per il cuore. 
+a pressione arteriosa è riassunta da due misure, sistolica e diastolica, che dipendono dal fatto che il muscolo cardiaco si contrae (sistole) e si rilassa (diastole), tra un battito e l'altro. 
+È un fattore significativo di molte malattie come ictus, attacchi di cuore...è noto anche come "killer silenzioso" perchè non ci sono sintomi. 
+
+
 
 
 
