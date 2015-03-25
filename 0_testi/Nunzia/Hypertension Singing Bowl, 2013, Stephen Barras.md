@@ -56,8 +56,7 @@ Dopo varie prove, la ciotola finale è di 100 mm di diametro, con un volume di 1
 ![lui] (http://imgur.com/hr9ocnB.png)
 
 ##### 
-Colpendo il lato della ciotola 609 Hz. Il colpo produce anche un suono insolito tipo sibilio che dura 2-3 secondi, tra i 1500 e i 2000 Hz. [figura 9](http://www.york.ac.uk/media/c2d2/media/sonihedconference/Barrass_SoniHED_2014.pdf).  
-Una volta colpita la ciotola il suono continua fino a scemare per 16 secondi. [figura 10](http://www.york.ac.uk/media/c2d2/media/sonihedconference/Barrass_SoniHED_2014.pdf). 
+Colpendo il lato della ciotola 609 Hz. Il colpo produce anche un suono insolito tipo sibilio che dura 2-3 secondi, tra i 1500 e i 2000 Hz. [figura 9](http://www.york.ac.uk/media/c2d2/media/sonihedconference/Barrass_SoniHED_2014.pdf). Una volta colpita la ciotola il suono continua fino a scemare per 16 secondi. [figura 10](http://www.york.ac.uk/media/c2d2/media/sonihedconference/Barrass_SoniHED_2014.pdf). 
 
 
 ### Se invece...
