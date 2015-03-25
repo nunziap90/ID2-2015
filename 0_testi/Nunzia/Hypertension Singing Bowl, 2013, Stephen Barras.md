@@ -15,6 +15,9 @@ del National Museum of Australia.
 ### Progetti...
 
 ### Campane tibetane
+
+![Campane tibetane] (http://imgur.com/Ha5UFSy.png) 
+
 Sono un antico strumento musicale originario della cultura pre-buddista che regnava nell'antico Tibet. 
 Successivamente si è diffusa in tutta l'Asia. Le campane tibetane sono tipiche campane statiche o a terra e, 
 a differenza delle campane tradizionali, la campana tibetana non viene appesa capovolta e il batacchio non è interno 
