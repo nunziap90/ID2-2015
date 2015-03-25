@@ -8,7 +8,7 @@ http://www.wired.com/2015/03/stealing-data-computers-using-heat/?mbid=social_fb 
 
 ##### Rumore + Calore - - - Affollamento
 
-##### input 
+##### Input
 
 rilevamento calore ( laboratorio + aula video + aule lezione + segreteria + distributori + giardino + biblioteca + chiesetta + ??)
 
