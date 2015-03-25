@@ -1,4 +1,4 @@
-#####Pinned
+####Pinned
 
 https://vimeo.com/76894821 - - > è statico: se i chiodi fossero in movimento?
 
@@ -8,8 +8,8 @@ http://www.wired.com/2015/03/stealing-data-computers-using-heat/?mbid=social_fb 
 
 rumore + calore - - > affollamento - - > perché dovrei averne bisogno?
 
-##### Input
+####Input
 
 rilevamento calore - - > rilevato da (laboratorio + aula video + aule lezione + segreteria + distributori + giardino + biblioteca + chiesetta + ??) - - > http://www.robot-italy.com/it/sensors/temperature.html
 
-rilevamento rumore - - > laboratorio + aula video + aule lezione + segreteria + distributori + giardino + biblioteca + chiesetta + ??)
+rilevamento rumore - - > laboratorio + aula video + aule lezione + segreteria + distributori + giardino + biblioteca + chiesetta + ??) - - > microfono
