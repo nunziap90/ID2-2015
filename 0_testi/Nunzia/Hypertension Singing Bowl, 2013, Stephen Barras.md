@@ -2,13 +2,14 @@
 [Stephen Barrass](http://stephenbarrass.com/) è un sound artist e disegnatore,  professore presso la facoltà di Design e Arti dell'Università 
 di Canberra. Stephen è  uno degli inventori della [sonicazione](http://it.wikipedia.org/wiki/Sonicazione) (descrive l'utilizzo di onde acustiche) alla fine 
 degli anni '90 e presso l'università di Camberra ha iniziato ad esplorare sonificazioni fisiche, egli chiamò questo 
-principio Acoustic Sonification, ossia oggetti fisici progettati per produrre suoni che trasmettono informazioni utili 
-trasmesse da una serie di dati; non richiedono alimentatori, ed i suoni vengono prodotti in modo interattivo in tempo 
-reale attraverso l'interazione fisica con l'oggetto. 
+principio Acoustic Sonification, ossia oggetti fisici progettati per produrre suoni che trasmettono informazioni 
+utili trasmesse da una serie di dati; non richiedono alimentatori, ed i suoni vengono prodotti in modo interattivo in tempo reale attraverso l'interazione fisica con l'oggetto. 
 La sua ricerca nella realizzazione 3D di sonificazione acustica e forme di dati sonori è stata pubblicata sul Journal 
 of Acoustic Engineering Society nel 2012. Nel 2000 in Australia è diventato, il direttore creativo per il Welcome 
 spazio interattivo che è stato uno delle cinque più grandi opere multimediali commissionate per l'apertura 
 del National Museum of Australia. 
+
+### Progetti...
 
 ### Campane tibetane
 Sono un antico strumento musicale originario della cultura pre-buddista che regnava nell'antico Tibet. 
@@ -26,8 +27,16 @@ a pressione arteriosa è riassunta da due misure, sistolica e diastolica, che di
 È un fattore significativo di molte malattie come ictus, attacchi di cuore...è noto anche come "killer silenzioso" perchè non ci sono sintomi. 
 
 ### Hypertension_Singing Bowl 
+Nel 2013 i servizi di stampa 3D online hanno annunciato l'inizio di una "nuova età del bronzo", con la capacità per le stampanti 3D di stampare modelli in bronzo e ottone. 
 La crescente disponibiltà di prodotti a basso costo come sensori indossabili, ha condotto ad un interesse sempre crescente nel [self-tracking](http://www.treccani.it/vocabolario/self-tracking_%28Neologismi%29/) nello sport, salute e benessere. 
+Stephen Barrass ha iniziato con auto-traking della propria pressione sanguigna, per un intero anno, con un bracciale che invia la lettura ad una App sul cellulare. (figura1). 
 La scelta è stata quella di riprendere la tibetana "Singing Bowl", perchè è associata con la meditazione e altre terapie di rilassamento che possono abbassare la pressione sanguigna. 
+La singing bowl è una ciotola realizzata con la stampante 3D in acciaio inox; il suo tono e timbro sono dovuti ai dati registrati, diversi da persona a persona. 
+Il suono meditativo che produce non è solo un mezzo per ridurre lo stress, ma anche un promemoria per monitorare il benessere e vivere una vita sana. 
+Il disegno della ciotola è una risposta a una diagnosi medica di ipertensione che richiedeva un automonitoraggio della pressione sanguigna. 
+
+
+La ciotola può essere sfruttata per produrre diversi suoni, e potrebbe anche essere utilizzato per performance musicali. 
 
 
 ### Se invece...
