@@ -53,7 +53,11 @@ Il file CAD è stato poi caricato su un servizio di fabbricazione digitale per l
 La ciotola può essere sfruttata per produrre diversi suoni, e potrebbe anche essere utilizzato per performance musicali. 
 Dopo varie prove, la ciotola finale è di 100 mm di diametro, con un volume di 18, 7 cm3, e pesa 162 gr.  
 
-_(mettere grafici) Colpire il lato della ciotola: 609 Hz. 
+![lui] (http://imgur.com/hr9ocnB.png)
+
+[figura 1](http://www.york.ac.uk/media/c2d2/media/sonihedconference/Barrass_SoniHED_2014.pdf). 
+
+Colpire il lato della ciotola: 609 Hz. 
 Il colpo produce anche un suono insolito tipo sibilio che dura 2-3 secondi, come si può vedere tra i 1500 e i 2000 Hz
 nello spettogramma in figura 9. Quando il cerchio viene strofinato con il bastone la ciotola comincia a "canticchiare". Una volta colpita la ciotola il suono continua fino a scemare per 16 secondi, come si vede in figura 10._
 
