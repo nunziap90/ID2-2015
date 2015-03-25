@@ -37,12 +37,12 @@ Stephen Barrass ha iniziato con auto-traking della propria pressione sanguigna, 
 La scelta è stata quella di riprendere la tibetana "Singing Bowl", perchè è associata con la meditazione e altre terapie di rilassamento che possono abbassare la pressione sanguigna. 
 L' Hypertension_Singing Bowl è una ciotola realizzata con la stampante 3D in acciaio inox; il suo tono e timbro sono dovuti ai dati registrati, diversi da persona a persona. 
 Il suono meditativo che produce non è solo un mezzo per ridurre lo stress, ma anche un promemoria per monitorare il benessere e vivere una vita sana. 
-Il disegno della ciotola è una risposta a una diagnosi medica di ipertensione che richiedeva un automonitoraggio della pressione sanguigna. Le letture della pressione sistolica (quando il cuore si contrae) e della pressione diastolica (quando è rilassato), con 120/80 essendo un valore normale, sono state registrate in un foglio di calcolo che è stato letto in un programma di grafica 3D scritto con un ambiente di programmazione chiamato Processing. 
+Il disegno della ciotola è una risposta a una diagnosi medica di ipertensione che richiedeva un automonitoraggio della pressione sanguigna. Le letture della pressione sistolica (quando il cuore si contrae) e della pressione diastolica (quando è rilassato), sono state registrate in un foglio di calcolo che è stato letto in un programma di grafica 3D scritto in ambiente di programmazione chiamato Processing. 
 La forma della ciotola è stata modificata con raggi, uno per ogni lettura. Lo spessore della parte superiore del raggio varia con la pressione sistolica e la metà inferiore varia con la pressione diastolica, con ciotola di 
 spessore variabile. 
 Il file CAD è stato poi caricato su un servizio di fabbricazione digitale per la stampa 3D (ad es Shapeways.com o i.materialise.com). 
 La ciotola finale ha le seguenti misure: 100 mm di diametro, con un volume di 18, 7 cm3, e pesa 162 gr.  
-*Personalmente il lavoro di Stephen Barrass sembra un richiamo all'ordine, come un "ricordati di star bene!", come il triangolo che viene suonato per la preparazione del pranzo, questa campana viene suonata per farti rilassare, con le "note del tuo corpo", ma allo stesso tempo ricordarti di far attenzione e condurre uno stile di vita sano.*
+*Personalmente il lavoro di Stephen Barrass sembra un richiamo all'ordine, come un "ricordati di star bene!", come il triangolo che viene suonato per la preparazione del pranzo, questa campana viene suonata per farti ricordarti di non lasciarti trasportare dallo stress della vita e grazie alle "note del tuo corpo", non solo farti trasportare dalla musica, ma soprattutto ricordarti di far attenzione e condurre uno stile di vita sano.*
 
 ![lui] (http://imgur.com/hr9ocnB.png)
 
