@@ -27,6 +27,8 @@ a pressione arteriosa è riassunta da due misure, sistolica e diastolica, che di
 È un fattore significativo di molte malattie come ictus, attacchi di cuore...è noto anche come "killer silenzioso" perchè non ci sono sintomi. 
 
 ### Hypertension_Singing Bowl 
+
+
 Nel 2013 i servizi di stampa 3D online hanno annunciato l'inizio di una "nuova età del bronzo", con la capacità per le stampanti 3D di stampare modelli in bronzo e ottone. 
 La crescente disponibiltà di prodotti a basso costo come sensori indossabili, ha condotto ad un interesse sempre crescente nel [self-tracking](http://www.treccani.it/vocabolario/self-tracking_%28Neologismi%29/) nello sport, salute e benessere. 
 Stephen Barrass ha iniziato con auto-traking della propria pressione sanguigna, per un intero anno, con un bracciale che invia la lettura ad una App sul cellulare. (figura1). 
@@ -54,6 +56,7 @@ nello spettogramma in figura 9. Quando il cerchio viene strofinato con il baston
  ![cestino frutta] (http://imgur.com/CroMYSg.png)![conchiglia](http://www.conchilium.it/wp-content/uploads/2011/10/Conchiglie.jpg) ![xilofono] (http://www.musicalbareda.com/img/upload/XAC.jpg) 
 
 
+#### Siti di riferimento 
 
 
 
