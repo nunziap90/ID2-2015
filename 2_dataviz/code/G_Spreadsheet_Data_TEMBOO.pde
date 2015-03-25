@@ -1,5 +1,5 @@
 // -
-// RETRIEVE_DATA_FROM_GOOGLE_SHEETS_USING_TEMBOO
+// GSpreadsheetData 0.1a [XML / TEMBOO mod]
 // © Daniele @ Fupete for the course ID2-2015 @ UnirSM  
 // github.com/fupete — github.com/fupete/ID2-2015
 // Made for educational purposes, MIT License, february 2015, Crespina
