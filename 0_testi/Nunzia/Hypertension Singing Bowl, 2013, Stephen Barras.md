@@ -42,8 +42,7 @@ Le letture della pressione sistolica (quando il cuore si contrae) e della pressi
 La forma della ciotola è stata modificata con raggi, uno per ogni lettura. Lo spessore della parte superiore del raggio varia con la pressione sistolica e la metà inferiore varia con la pressione diastolica, con ciotola di 
 spessore variabile. 
 Il file CAD è stato poi caricato su un servizio di fabbricazione digitale per la stampa 3D (ad es Shapeways.com o i.materialise.com). 
-La ciotola può essere sfruttata per produrre diversi suoni, e potrebbe anche essere utilizzato per performance musicali. 
-Dopo varie prove, la ciotola finale è di 100 mm di diametro, con un volume di 18, 7 cm3, e pesa 162 gr.  
+La ciotola finale ha le seguenti misure: 100 mm di diametro, con un volume di 18, 7 cm3, e pesa 162 gr.  
 
 ![lui] (http://imgur.com/hr9ocnB.png)
 
