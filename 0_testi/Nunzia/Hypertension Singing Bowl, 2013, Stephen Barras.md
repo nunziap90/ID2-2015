@@ -19,6 +19,7 @@ del National Museum of Australia.
 
 ![HRTF Bells] (http://imgur.com/m2mjPSi.png)
 ##### HRTF Bells
+Il primo esperimento è stato un gioiello ricco di dati che descrivono l'udito spaziale umano; il lato sinistro è differente da quello destro, ha mappato così i dati sull'esterno di una forma a campana. 
 
 ### Campane tibetane
 
