@@ -16,11 +16,11 @@ del National Museum of Australia.
 
 ![HRTF Medallion] (http://imgur.com/m2mjPSi.png)
 ##### HRTF Medallion
-######Un lato del medaglione è un insieme di dati HRTF misurata dall' orecchio sinistro , mentre l' altro lato è dall'orecchio destra. Le creste e solchi sulla superficie sono tacche di frequenza che sono spunti per localizzare i suoni. 
+###### Un lato del medaglione è un insieme di dati HRTF misurata dall' orecchio sinistro , mentre l' altro lato è dall'orecchio destra. Le creste e solchi sulla superficie sono tacche di frequenza che sono spunti per localizzare i suoni. 
 
 ![HRTF Bells] (http://imgur.com/UT1bgNl.png)
 ##### HRTF Bells
-######Il primo esperimento è stato un gioiello ricco di dati che descrivono l'udito spaziale umano; il lato sinistro è differente da quello destro, ha mappato così i dati sull'esterno di una forma a campana. 
+###### Il primo esperimento è stato un gioiello ricco di dati che descrivono l'udito spaziale umano; il lato sinistro è differente da quello destro, ha mappato così i dati sull'esterno di una forma a campana. 
 
 ### Campane tibetane
 
