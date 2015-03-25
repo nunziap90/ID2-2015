@@ -9,7 +9,7 @@ Dust Serenade è una rievocazione di un esperimento acustico fatta dal fisico te
 Ispirate alle famose figure sabbiose di Chladni che visualizzano le onde sonore in materiali solidi. 
 Gli autori sono due studenti del MIT, Dietmar Offenhuber e Orkan Telhan e il sound artist austriaco Markus Decker che
 hanno collaborato per ricostruire l'esperimento acustico di Kundt in Dust Serenade.
-L'installazione intende ricordare la materialità del suono ed è costituita da un tubo pieno di ritagli di parole e lettere, dove ad un'estremità troviamo un altoparlante che emette i suoni, ed all'altra estremità è incastrato un tondino scorrevole che permette al visitatore di modulare la frequenza del suono e creare diversi effetti sonori armonici. A questa estremità troviamo anche aun laser, che emette un raggio di luce verde che attraversa il tubo, in modo da evidenziare lo spostamento dei ritagli.
+L'installazione intende ricordare la materialità del suono ed è costituita da un tubo pieno di ritagli di parole e lettere, dove ad un'estremità troviamo un altoparlante che emette i suoni, ed all'altra estremità è incastrato un tondino scorrevole che permette al visitatore di modulare la frequenza del suono e creare diversi effetti sonori armonici. A questa estremità troviamo anche un laser, che emette un raggio di luce verde che attraversa il tubo, in modo da evidenziare lo spostamento dei ritagli.
 
 ![Image visitor]
 (http://web.mit.edu/museum/exhibitions/images/Dust-Serenade-for-Webpage.jpg)
@@ -33,7 +33,7 @@ Lo scopo degli autori è di far visualizzare la materialità del suono, quindi v
 
 ####Installazioni Simili####
 
-Cercando in rete ho trovato questo esempio dove l'installazione è influenzata da coloro che la guardano. Quando il pubblico si muove intorno, influenzano i movimenti della corda generando onde sonore, visive e acustiche dai modelli armonici a quelli complessi. Dipende come ci si muove di fronte ad esso, in base al numero di spettatori e i loro movimenti, si passerà da una linea fissa senza suono a forme caotiche e suoni irregolari. 
+Cercando in rete ho trovato questo esempio dove l'installazione è influenzata da coloro che la guardano. Quando il pubblico si muove intorno, influenza i movimenti della corda generando onde sonore, visive e acustiche dai modelli armonici a quelli complessi. In base al numero di spettatori ed i loro movimenti, si passerà da una linea fissa senza suono a forme caotiche e suoni irregolari. 
 
 ![image waves] (http://api.ning.com/files/kV4MbYiv7oQQUuWZolNpsFIKLuEtXBEfhT98UmkLB-p2cVVAO4Sit4-4XRxJfMnqflk6HIsOXDHPuVbVs7DrxvUP14LRjRBW/1082094581.jpeg)
 
