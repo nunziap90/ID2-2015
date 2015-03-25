@@ -15,8 +15,10 @@ del National Museum of Australia.
 ### Progetti...
 
 ![HRTF Medallion] (http://imgur.com/UT1bgNl.png)
+##### HRTF Medallion
 
 ![HRTF Bells] (http://imgur.com/m2mjPSi.png)
+##### HRTF Bells]
 
 ### Campane tibetane
 
