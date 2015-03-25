@@ -57,6 +57,6 @@ nello spettogramma in figura 9. Quando il cerchio viene strofinato con il baston
 
 
 #### Siti di riferimento 
-
+http://www.workshopped.com.au/article/Exhibition_2013/WS13___Stephen_Barrass 
 
 
