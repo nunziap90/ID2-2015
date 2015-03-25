@@ -1,4 +1,7 @@
 ### Stephen Barrass
+
+![Stephen] (http://imgur.com/uPLOwEL.png)
+
 [Stephen Barrass](http://stephenbarrass.com/) è un sound artist e disegnatore,  professore presso la facoltà di Design e Arti dell'Università 
 di Canberra. Stephen è  uno degli inventori della [sonicazione](http://it.wikipedia.org/wiki/Sonicazione) (descrive l'utilizzo di onde acustiche) alla fine 
 degli anni '90 e presso l'università di Camberra ha iniziato ad esplorare sonificazioni fisiche, egli chiamò questo 
