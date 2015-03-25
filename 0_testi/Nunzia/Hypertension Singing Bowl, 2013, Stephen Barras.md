@@ -25,8 +25,13 @@ L'ipertensione è la condizione clinica in cui la pressione del sangue nelle art
 a pressione arteriosa è riassunta da due misure, sistolica e diastolica, che dipendono dal fatto che il muscolo cardiaco si contrae (sistole) e si rilassa (diastole), tra un battito e l'altro. 
 È un fattore significativo di molte malattie come ictus, attacchi di cuore...è noto anche come "killer silenzioso" perchè non ci sono sintomi. 
 
+### Hypertension_Singing Bowl 
+La crescente disponibiltà di prodotti a basso costo come sensori indossabili, ha condotto ad un interesse sempre crescente nel [self-tracking](http://www.treccani.it/vocabolario/self-tracking_%28Neologismi%29/) nello sport, salute e benessere. 
+
 ### Se invece...
 ##### Fosse realizzato in metallo riciclato? 
+
+### Mi ricorda...
 
 
 
