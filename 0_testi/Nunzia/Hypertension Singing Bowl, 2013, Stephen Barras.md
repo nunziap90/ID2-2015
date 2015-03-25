@@ -18,7 +18,7 @@ del National Museum of Australia.
 ##### HRTF Medallion
 
 ![HRTF Bells] (http://imgur.com/m2mjPSi.png)
-##### HRTF Bells]
+##### HRTF Bells
 
 ### Campane tibetane
 
