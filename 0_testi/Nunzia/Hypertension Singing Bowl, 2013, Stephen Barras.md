@@ -4,8 +4,8 @@
 
 ![Stephen] (http://imgur.com/uPLOwEL.png)
 
-[Stephen Barrass](http://stephenbarrass.com/) è un sound artist e disegnatore,  professore presso la facoltà di Design e Arti dell'Università 
-di Canberra. Stephen è  uno degli inventori della [sonicazione](http://it.wikipedia.org/wiki/Sonicazione) (descrive l'utilizzo di onde acustiche) alla fine 
+[Stephen Barrass](http://stephenbarrass.com/) è un sound artist e disegnatore,  professore presso la facoltà 
+di Design e Arti dell'Università di Canberra. Stephen è  uno degli inventori della [sonicazione](http://it.wikipedia.org/wiki/Sonicazione) (descrive l'utilizzo di onde acustiche) alla fine 
 degli anni '90 e presso l'università di Camberra ha iniziato ad esplorare sonificazioni fisiche, egli chiamò questo 
 principio Acoustic Sonification, ossia oggetti fisici progettati per produrre suoni che trasmettono informazioni 
 utili trasmesse da una serie di dati; non richiedono alimentatori, ed i suoni vengono prodotti in modo interattivo in tempo reale attraverso l'interazione fisica con l'oggetto. 
@@ -18,7 +18,7 @@ del National Museum of Australia.
 
 ![HRTF Medallion] (http://imgur.com/m2mjPSi.png)
 ##### HRTF Medallion
-Un lato del medaglione è un insieme di dati HRTF misurata dall' orecchio sinistro , mentre l' altro lato è dall'orecchio destra. Le creste e solchi sulla superficie sono tacche di frequenza che sono spunti per localizzare i suoni. 
+Un lato del medaglione è un insieme di dati HRTF (Head-related transfer function ) misurata dall' orecchio sinistro , mentre l' altro lato è dall'orecchio destra. Le creste e solchi sulla superficie sono tacche di frequenza che sono spunti per localizzare i suoni. 
 
 ![HRTF Bells] (http://imgur.com/UT1bgNl.png)
 ##### HRTF Bells
