@@ -25,7 +25,8 @@ L'ipertensione è la condizione clinica in cui la pressione del sangue nelle art
 a pressione arteriosa è riassunta da due misure, sistolica e diastolica, che dipendono dal fatto che il muscolo cardiaco si contrae (sistole) e si rilassa (diastole), tra un battito e l'altro. 
 È un fattore significativo di molte malattie come ictus, attacchi di cuore...è noto anche come "killer silenzioso" perchè non ci sono sintomi. 
 
-
+### Se invece...
+#### Fosse realizzato in metallo riciclato? 
 
 
 
