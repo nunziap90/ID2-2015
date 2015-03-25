@@ -68,6 +68,15 @@ http://www.workshopped.com.au/default.asp
 
 http://currentsnewmedia.org/artists/stephen-barrass/
 
+http://ces.anu.edu.au/sites/ces.anu.edu.au/files/2014/Barrass.pdf
+
+http://blog.whodhavethought.com/2013/10/01/interview-stephen-barrass-and-his-singing-bowls/
+
+http://stephenbarrass.com/category/sonification/
+
+http://dataphys.org/list/barrass-physical-data-sonifications/
+
+
 
 
 
