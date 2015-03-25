@@ -27,12 +27,16 @@ L'opera infatti è una struttura metallica che supporta 271 provette, ognuna del
 
 **Come funziona?**
 
-Una votazione è espressa attraverso un hashtag di Twitter e, tramite un software informatico, viene tradotta in una goccia d'acqua. Quest'ultima viene rilasciata da un contagocce nella provetta associata al progetto cui è rivolta. Più voti si riceve e più la propria boccetta viene riempita. Il periodo di giudizio è stato svolto dal 23 maggio al 13 giugno del 2014. Finito il tempo è stata stilata la lista dei vincitori in base ai voti ricevuti.
+Una votazione è espressa attraverso un hashtag di Twitter (#OhlaLaus * numero del progetto *) e, tramite un software informatico, viene tradotta in una goccia d'acqua. Quest'ultima viene rilasciata da un contagocce nella provetta associata al progetto cui è rivolta. Più voti si riceve e più la propria boccetta viene riempita. Il periodo di giudizio è stato svolto dal 23 maggio al 13 giugno del 2014. Finito il tempo è stata stilata la lista dei vincitori in base ai voti ricevuti.
 
 Il progetto dello studio è presentato in questo [VIDEO] (https://vimeo.com/119475606).
 
 -
 
 **Referenze**
-- Accosto il progetto di . . ., perché utilizza il pubblico che fruisce l'opera come parte attiva nella modifica della propria struttura.
-- Accosto il progetto di . . ., perché 
+
+  ![] (http://www.creativeapplications.net/wp-content/uploads/2012/09/emoto_installation_08.jpg)
+- Accosto il progetto [*Emoto* dello Studio NAND] (http://www.nand.io/visualisation/emoto-installation), perchè anch'esso interpreta dei dati derivanti dal social network per rappresentarli sottoforma di un'infografica interattiva e tangibile.
+
+![] (http://payload118.cargocollective.com/1/7/254186/4668096/IMG_1380_o.jpg)
+- Accosto il progetto [*Chaotic Flow* di Johan Bichel Lindegaard] (http://illutron.dk/filter/showcase/Chaotic-Flow), per il fatto che viene associato del liquido per rappresentare dei flussi cittadini, in modo da enfatizzare il cambiamento della struttura che ne rappresenta lo stato dinamico.
