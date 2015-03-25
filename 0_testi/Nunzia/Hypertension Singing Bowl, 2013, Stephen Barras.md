@@ -34,19 +34,10 @@ La scelta è stata quella di riprendere la tibetana "Singing Bowl", perchè è a
 La singing bowl è una ciotola realizzata con la stampante 3D in acciaio inox; il suo tono e timbro sono dovuti ai dati registrati, diversi da persona a persona. 
 Il suono meditativo che produce non è solo un mezzo per ridurre lo stress, ma anche un promemoria per monitorare il benessere e vivere una vita sana. 
 Il disegno della ciotola è una risposta a una diagnosi medica di ipertensione che richiedeva un automonitoraggio della pressione sanguigna. 
-
-Le letture della pressione del sangue è stata registrata con un bracciale. La pressione sistolica (quando il cuore 
-si contrae) sopra la pressione diastolica (quando è rilassato), con 120/80 essendo un valore normale. 
-Le letture sono state registrate in un foglio di calcolo che è stato letto in un programma di grafica 3D scritto 
-con un ambiente di programmazione chiamato Processing. La forma della ciotola è stata modificata con raggi, 
-uno per ogni lettura. Lo spessore della parte superiore del raggio varia con la pressione sistolica e la metà inferiore varia con la pressione diastolica. Il file CAD è stato poi caricato su un servizio di fabbricazione 
-digitale per la stampa 3D (ad es Shapeways.com o i.materialise.com). 
-Il set di dati completo è composto di 120 letture effettuate su uno periodo durato un anno. La lettura diastolica 
-è stato mappato sullo spessore esterno della ciotola, mentre la sistolica nella parte interna, con ciotola di 
+Le letture della pressione sistolica (quando il cuore si contrae) e della pressione diastolica (quando è rilassato), con 120/80 essendo un valore normale, sono state registrate in un foglio di calcolo che è stato letto in un programma di grafica 3D scritto con un ambiente di programmazione chiamato Processing. 
+La forma della ciotola è stata modificata con raggi, uno per ogni lettura. Lo spessore della parte superiore del raggio varia con la pressione sistolica e la metà inferiore varia con la pressione diastolica, con ciotola di 
 spessore variabile. 
-
-
-
+Il file CAD è stato poi caricato su un servizio di fabbricazione digitale per la stampa 3D (ad es Shapeways.com o i.materialise.com). 
 La ciotola può essere sfruttata per produrre diversi suoni, e potrebbe anche essere utilizzato per performance musicali. 
 
 
