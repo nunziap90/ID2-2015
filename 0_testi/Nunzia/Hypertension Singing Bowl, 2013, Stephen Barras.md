@@ -32,17 +32,17 @@ Il primo esperimento è stato un gioiello ricco di dati che descrivono l'udito s
 
 Nel 2013 i servizi di stampa 3D online hanno annunciato l'inizio di una "nuova età del bronzo", con la capacità per le stampanti 3D di stampare modelli in bronzo e ottone. 
 La crescente disponibiltà di prodotti a basso costo come sensori indossabili, ha condotto ad un interesse sempre crescente nel [self-tracking](http://www.treccani.it/vocabolario/self-tracking_%28Neologismi%29/) nello sport, salute e benessere. 
-Stephen Barrass ha iniziato con auto-traking della propria pressione sanguigna, per un intero anno, con un bracciale che invia la lettura ad una App sul cellulare. 
+Stephen Barrass ha iniziato con auto-traking della propria pressione sanguigna, per un intero anno, con un bracciale che gli inviava la lettura dei dati personali ad una App sul cellulare. 
 [figura 1](http://www.york.ac.uk/media/c2d2/media/sonihedconference/Barrass_SoniHED_2014.pdf). 
 La scelta è stata quella di riprendere la tibetana "Singing Bowl", perchè è associata con la meditazione e altre terapie di rilassamento che possono abbassare la pressione sanguigna. 
-La singing bowl è una ciotola realizzata con la stampante 3D in acciaio inox; il suo tono e timbro sono dovuti ai dati registrati, diversi da persona a persona. 
+L' Hypertension_Singing Bowl è una ciotola realizzata con la stampante 3D in acciaio inox; il suo tono e timbro sono dovuti ai dati registrati, diversi da persona a persona. 
 Il suono meditativo che produce non è solo un mezzo per ridurre lo stress, ma anche un promemoria per monitorare il benessere e vivere una vita sana. 
-Il disegno della ciotola è una risposta a una diagnosi medica di ipertensione che richiedeva un automonitoraggio della pressione sanguigna. 
-Le letture della pressione sistolica (quando il cuore si contrae) e della pressione diastolica (quando è rilassato), con 120/80 essendo un valore normale, sono state registrate in un foglio di calcolo che è stato letto in un programma di grafica 3D scritto con un ambiente di programmazione chiamato Processing. 
+Il disegno della ciotola è una risposta a una diagnosi medica di ipertensione che richiedeva un automonitoraggio della pressione sanguigna. Le letture della pressione sistolica (quando il cuore si contrae) e della pressione diastolica (quando è rilassato), con 120/80 essendo un valore normale, sono state registrate in un foglio di calcolo che è stato letto in un programma di grafica 3D scritto con un ambiente di programmazione chiamato Processing. 
 La forma della ciotola è stata modificata con raggi, uno per ogni lettura. Lo spessore della parte superiore del raggio varia con la pressione sistolica e la metà inferiore varia con la pressione diastolica, con ciotola di 
 spessore variabile. 
 Il file CAD è stato poi caricato su un servizio di fabbricazione digitale per la stampa 3D (ad es Shapeways.com o i.materialise.com). 
 La ciotola finale ha le seguenti misure: 100 mm di diametro, con un volume di 18, 7 cm3, e pesa 162 gr.  
+*Personalmente il lavoro di Stephen Barrass sembra un richiamo all'ordine, come un "ricordati di star bene!", come il triangolo che viene suonato per la preparazione del pranzo, questa campana viene suonata per farti rilassare, con le "note del tuo corpo", ma allo stesso tempo ricordarti di far attenzione e condurre uno stile di vita sano.*
 
 ![lui] (http://imgur.com/hr9ocnB.png)
 
