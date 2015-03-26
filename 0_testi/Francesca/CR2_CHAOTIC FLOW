@@ -7,7 +7,7 @@ by Illutron
 
 ![] (http://media.johan.cc/cache/e6/25/e625da8861eed1aebb5760ab33c677a2.jpg)
 
-####Description from the author
+####Description by the author
 
 Using water pumps, compressed air and 1000 meters of PVC tubing we designed a sculpture that simulates the flow of
 bike traffic through the streets and pathways Copenhagen. Presenting the real data in an abstract form.
@@ -41,25 +41,72 @@ not easy to show from distance.
 So they came up with the choice of using lots of colors which were easier to show in a proper way and 
 represented bike fluxes better.
 In the second storey of the hall, they had the control center with the liquid tanks, computers and controllers. 
+
 ![] (http://payload118.cargocollective.com/1/7/254186/4668096/IMG_1380.jpg)
+
 Physically, the liquids were pushed at different times by controlled pumps.
 The headphones were connected to the central system and they played an edited sequence of sounds.
 They converted the statistical dataset in an abstract simulation with python and c++ with openframeworks.
 All this stuff was put toghether in a system thanks to Arduino. The complete code is accessible at 
-[Illutron GitHub page] (https://github.com/Illutron/chaosflow).
+[Illutron GitHub page!] (https://github.com/Illutron/chaosflow).
 
-Quoting from [the coder site] (http://johan.cc/2012/12/28/chaotic-flow/) _"The technical system behind the installation 
-consists of a set of python scripts for converting the raw data that we received in a set of similarly (as in not 
-identically) formatted .xlsx files. The scripts imports the data to a mongodb database, does geocode lookups and a thin 
-python server written using flask and pymongo returns the data as json.The auditive element of the installation is 
-a maxMSP patch that mixes recordings of traffic and mechanical sounds from bike parts according to the current amount
-of traffic in the simulation that it receives over OSC from openframeworks. An openframeworks application runs 
-the actual simulation. It maps paths through the city to paths through the sculpture. Three arduino boards control 
-the pumps, air pressure regulators and magnetic valves for the eight individual channels in the installation."_
-
-
-###Similar workpiece
 ![] (http://payload118.cargocollective.com/1/7/254186/4668096/IMG_1380.jpg)
+
+Quoting from [the coder site!] (http://johan.cc/2012/12/28/chaotic-flow/):
+_"The technical system behind the installation consists of a set of python scripts for converting the raw data 
+that we received in a set of similarly (as in not identically) formatted .xlsx files. The scripts imports the data 
+to a mongodb database, does geocode lookups and a thin python server written using flask and pymongo returns 
+the data as json.The auditive element of the installation is a maxMSP patch that mixes recordings of traffic and 
+mechanical sounds from bike parts according to the current amount of traffic in the simulation that it receives over
+OSC from openframeworks. An openframeworks application runs the actual simulation. It maps paths through the city to
+paths through the sculpture. Three arduino boards control the pumps, air pressure regulators and magnetic
+valves for the eight individual channels in the installation."_
+
+
+###Similar workpieces
+
+####2010 – eCLOUD & airFIELD: Ambient Airport Visualizations
+
+![] (http://www.ecloudproject.com/images/index_01.jpg)
+![] (http://http://airfieldsculpture.com/img/pics/airfield00.jpg)
+
+First image: eCLOUD is an airport installation at the San Jose International Airport created by Dan Goods, 
+Nik Hafermaas, and Aaron Koblin. It is made of many large LCD pixels laid out in 3D space whose opacity change as a function of weather.
+
+Second image: A similar installation called airFIELD was created by the same team two years later. It shows air traffic
+and is installed at the Hartsfield-Jackson Atlanta International Airport.
+
+####2014 – Drip-By-Tweet: Each Vote is a Drop
+
+![] (http://http://domesticstreamers.com/wp-content/uploads/4.jpg)
+![] (http://http://domesticstreamers.com/wp-content/uploads/Liquid_tweets.jpg)
+
+Team of developers Domestic Data Streamers created a real-time physical visualization of votes for a graphic design 
+contest. A person can vote for a specific piece by sending a tweet, after which the machine releases a drop of yellow
+liquid and sends it to the corresponding test tube.
+
+####2013 – Pneumatic Charts
+
+![] (http://http://dataphys.org/list/wp-content/uploads/2014/11/VisualizationPaloAltoHive.jpg)
+
+The Hive Big Data Think Tank at Palo Alto created a device for visualizing city data (power, waste,
+demographic, transportation) using blowers, microcontrollers and ping pongs balls.
+
+
+###About the artists
+
+Illutron has a bunch of members and it's a collaborative interactive arts studio.
+"_Illutron creates large scale interactive art, intriguing explorations into the realm where art and technology meet, 
+experiments in the water and is a place for individual or collaborative work_"
+This is their headquarter
+![] (http://payload68.cargocollective.com/1/7/254186/3661292/IllutronBarge_MathiasVejerslev_MVI_6696.jpg)
+Their artistical research deals many factors and media, such as the city and the relationship with data from the 
+traffic shown with lights or connecting people and makes them mingle with fun; another path is the interaction between 
+mankind and machines, sometimes in a funny way, others in a more dramatic way. The media is mostly tangible with an 
+actual interaction, a concrete one.
+To discover their works [click here!] (http://illutron.dk/filter/showcase/) 
+
+
 
 ###What it could mean
 
@@ -74,7 +121,7 @@ of how cities and their infrastructure develop. The fractal that it is modelled 
 
 The starting point was the interest that Tobias Lukassen has always had towards fractals and chaotic systems, their
 mathematical unpredictable results and the aestethic beauty of their rapresentations related to the city development.
-Here an [explanation for fractal:] (http://en.wikipedia.org/wiki/Fractal)
+Here an [explanation for fractal:!] (http://en.wikipedia.org/wiki/Fractal)
 What a fractal look like ![] (http://www.fractalsciencekit.com/fractals/large/Fractal-Mobius-Dragon-IFS-04.jpg)
 
 
