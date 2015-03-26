@@ -1,6 +1,6 @@
 ### Proposte 
 
-In base alle aree sviluppate la settimana scorsa, mi sono focalizzata su alcune aree di interesse: umore, risorse 
+##### In base alle aree sviluppate la settimana scorsa, mi sono focalizzata su alcune aree di interesse: umore, risorse 
 e meteo/tempo (area da me introdotta). 
 Andando ad analizzare queste tre aree penso siano le tre dove ogni giorno o settimana si possa avere un riscontro e una raccolta dati, mentre in altri settori avremmo una staticità di dati per lunghi periodi. 
 Mi son successivamente soffermata su *"lasciare la propria traccia"* e sullo *"scorrere del tempo"*. 
