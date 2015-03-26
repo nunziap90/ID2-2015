@@ -59,11 +59,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ###### compito/lettura critica*
 1. _Physical Charts/Teninson Road_, 2013+, David Sweeney
 2. _Hypertension Singing Bowl_, 2013, Stephen Barras 
-3. -  
-4. -  
-5. -  
-6. -  
-7. -   
+3. _Drip by tweet_, 2014, Domestic Data Streamers
+4. _Warning Real Time Air Quality_, 2011, Rodrigo Medeiros  
+5. _Dust Serenade_, 2010, Markus Decker & Orkan Telhan +
+6. _District 5_, 2014, Loren Madsen
+7. _Chaotic flow_, 2012, Illutron
 
 (* _progetti scelti da [dataphys.org/list](http://dataphys.org/list)_)  
 
