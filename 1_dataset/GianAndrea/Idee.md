@@ -29,3 +29,14 @@ Creazione di un database visibile ed online dei file, informazioni ed argomenti 
 - Estrapolare i dati direttamente dal server per creare una nuova forma di visualizzazione. Utilizzare una forma tangibile, analogica per rappresentare un dato digitale ed invisibile. Il progetto [Irregular Polyhedron Study 1] (http://www.creativeapplications.net/openframeworks/irregular-polyhedron-study-1-vertex-edge-and-volume/), è interessante per poter capire come creare delle varizioni dimaniche su rappresentazioni di dati in modo tangibile.
 
 - Possibilità di creare un sistema multimediale che mette in relazione suono, immagine e materia.
+
+> 2a Ipotesi
+#### InfoRSM
+
+> - Creare un sistema di infografica interattiva che possa esplorare la struttura universitaria, in base agli studenti, prvenienza, anni passati, iscrizioni, carriere, professori, storie, corsi ecc..
+
+> - Avere una struttura a più livelli, dalla rappresentazione generale alle parti più specifiche. Ottenere un metodo ludico di interazione con l'utente.
+
+> - Pensare ad un sistema tangibile ma nello stesso tempo visibile online (sito università), magari che si relaziona con altre installazioni.
+
+> - Dati esplorati in base agli archivi dell'università
