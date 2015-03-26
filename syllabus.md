@@ -1,6 +1,6 @@
 # Syllabus ID2-2015
 **_Data, art and meaning_, Interaction Design 2 @ [design.unirsm.sm](http://design.unirsm.sm)**  
-Corso di Laurea Magistrale in Design, Università di San Marino / IUAV Venezia |  A/A 2014-15  
+Corso di Laurea Magistrale in Design, Università di San Marino |  A/A 2014-15  
 Docente _Daniele Tabellini_ < <daniele.tabellini@unirsm.sm> >
 
 _Digital Art and Meaning: ..._, Simanowski 2011 :
@@ -23,7 +23,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - git/github [+](https://guides.github.com/)
 - markdown [+](https://guides.github.com/features/mastering-markdown)
 - hackpad
-- google fogli
 
 ---
 
@@ -46,27 +45,25 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ##18 - 19 Marzo
 ###_Data: big, little, no, open. Mapping art._
 
-![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![Physical Charts/Teninson Road, 2013+, David Sweeney](http://i.imgur.com/BApqOXS.jpg?1) ![Hypertension Singing Bowl, 2013, Stephen Barras](http://i.imgur.com/DGvBovS.jpg?1)  
+![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![The Source, 2004, Greyworld](http://i.imgur.com/kPVYKuO.jpg?1)
 
 - _The Source_, 2004, Greyworld [+](http://greyworld.org/archives/31)
-- _Physical Charts/Teninson Road_, 2013+, David Sweeney [+](http://dataphys.org/list/dynamic-physical-charts-to-communicate-community-data/)
-- _Hypertension Singing Bowl_, 2013, Stephen Barras [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
- 
+
 ### Lab 2
 - openrefine
 - raw
-- processing
+- processing + data
 
 ---
 
 ###### compito/lettura critica*
-1. -  
-2. -  
-3. -  
-4. -  
-5. -  
-6. -  
-7. -   
+1. _Physical Charts/Teninson Road_, 2013+, David Sweeney
+2. _Hypertension Singing Bowl_, 2013, Stephen Barras 
+3. _Drip by tweet_, 2014, Domestic Data Streamers
+4. _Warning Real Time Air Quality_, 2011, Rodrigo Medeiros  
+5. _Dust Serenade_, 2010, Markus Decker & Orkan Telhan +
+6. _District 5_, 2014, Loren Madsen
+7. _Chaotic flow_, 2012, Illutron
 
 (* _progetti scelti da [dataphys.org/list](http://dataphys.org/list)_)  
 
@@ -87,9 +84,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
 
 ### Lab 3
-- _scraping_
+- google fogli
 - processing
 - api/temboo
+- _scraping_
+
 
 ---
 
