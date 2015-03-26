@@ -16,6 +16,8 @@ Mi son successivamente soffermata su *"lasciare la propria traccia"* e sullo *"s
 
 ![Cubo] (http://imgur.com/OIZ3I9B.png) 
 
+![Cubo] (http://imgur.com/Ungsyrx.png) 
+
 [Clockwork Forest] (http://greyworld.org/archives/1000) 
 
 
