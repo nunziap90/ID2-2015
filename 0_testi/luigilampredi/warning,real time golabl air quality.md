@@ -1,5 +1,7 @@
 # Warning, Real time global air quality|2011 |Rodrigo Medeiros
 
++![Alt Text](http://rodrigomedeiros.com.br/warning/ok/warning01.jpg)
+
 ### What it is
 Warning è un installazione artistica che visualizza in modo dinamico le informazioni  sullo stato dell’indice della qualità dell’aria di 30 città distribuite sui cinque continenti mediante un interfaccia fisica composta da nuvole sospese a mezz’aria. Il progetto è composto da una parte software che permette la raccolta dei  dati sui valori degli indici sulla qualità dell’aria prelevati direttamente da siti di agenzie meteo. Un'altra componente software permette l’interpretazione e la successiva visualizzazione dei dati. L’ultima parte di software funge da collegamento tra i moduli è l’installazione fisica.
 
