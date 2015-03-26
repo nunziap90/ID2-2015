@@ -14,7 +14,7 @@ Mi son successivamente soffermata su *"lasciare la propria traccia"* e sullo *"s
 * TEMPO: inteso come tempo metereologico e scorrere del tempo in quanto rincorrersi di secondi. Perchè non avere un piccolo sistema metereologico che ti dica in tempo reale la condizione che troverai mettendo il naso fuori la porta? Il tutto collegato al sito [Il meteo](http://www.meteo.it/ ). Una bolla gigante che si deforma ad ogni variare del tempo che sia sole, pioggia, temporale o neve. 
 
 
-[Cubo] (http://imgur.com/OIZ3I9B) 
+![Cubo] (http://imgur.com/OIZ3I9B.png) 
 
 [Clockwork Forest] (http://greyworld.org/archives/1000) 
 
