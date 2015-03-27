@@ -81,7 +81,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ![The Secret Lives of Numbers, 2002, Golan Levin+](http://i.imgur.com/qDrLG5X.jpg?1) ![Bio Mapping / Emotion Mapping_, 2004+, Christian Nold](http://i.imgur.com/I7IOGP9.jpg?1) ![Listening Post, 2000+, Mark H_ansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
 
 - _The Secret Lives of Numbers_, 2002, Golan Levin+ [+](http://www.flong.com/projects/slon/)
-_Bio Mapping / Emotion Mapping_, 2004+, Christian Nold [+](http://biomapping.net/)
+- _Bio Mapping / Emotion Mapping_, 2004+, Christian Nold [+](http://biomapping.net/)
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
 
 ### Lab 3
