@@ -7,8 +7,11 @@ Il progetto è pensato sulla base dei dati digitali della rete universitaria.
 
 **FUNZIONAMENTO**
 
-Un ***server*** elabora e programma delle informazioni digitali, in un insieme organizzato di dati. Esso non è altro che un ***database*** nel quale le informazioni in esso registrate (***record***), venogno strutturate e collegate tra loro, secondo un particolare modello logico di tipo relazionale, gerarchico, reticolare o a oggetti. Queste operazioni vengono gestite attraverso un ***database management system***, ovvero un software di controllo e manipolazione dati, che interagisce con i dati del server. Esso può  registrat
+Un ***server*** elabora e programma delle informazioni digitali, in un insieme organizzato di dati. 
+Esso non è altro che un ***database*** fisico nel quale, le informazioni in esso registrate (***record***), venogno strutturate e collegate tra loro, secondo un particolare modello logico di tipo relazionale, gerarchico, reticolare o a oggetti. 
+Queste operazioni vengono gestite attraverso un ***database management system***, ovvero un software informatico di controllo e manipolazione dei dati server. Nel nostro caso si parta di ***server di rete***, ovvero un sistema che fornisce un servizio di controllo di trasmissione e ricezione dati tra diversi dispositivi. 
 
+Il server, sulla base del traffico informatico, può registrare il numero di accessi, il tempo di connessione degli utenti, chi sono, i dati scambiati, quali siti vengono navigati, ecc.  
 
 Per interrogare il server bisogna creare delle ***query*** attraverso un ***data query language***. Serve per rendere possibile l'estrazione di informazioni dal database in base alle esigenze del cliente.
 
@@ -17,6 +20,7 @@ Per interrogare il server bisogna creare delle ***query*** attraverso un ***data
 **ISPIRAZIONI**
 
 [4010 Facebook Tree] (http://www.onformative.com/work/4010-facebook-tree/)
+[Type/Dynamics] (http://lust.nl/#projects-5525)
 
 
 
