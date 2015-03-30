@@ -1,9 +1,8 @@
 // -
-// G_Spreadsheet_Data 0.2 [JSON / Public url]
-// © Daniele @ Fupete for the course ID2 @ UnirSM  
+// G_Spreadsheet_Data_TABLE [JSON / Public url > TABLE | csv]
+// © Daniele @ Fupete and Giuseppe D'Ambrosio for the course ID2 @ UnirSM  
 // github.com/fupete — github.com/Fupete/ID2-2015
 // Educational purpose, MIT License, march 2015, San Marino
-// update by Giuseppe D'Ambrosio
 // —
 // Load and parse JSON data from a public Google Spreadsheet Url
 // Collect columns contents in List arrays (A_values, B_values, ...) 
