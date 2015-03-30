@@ -4,9 +4,9 @@
 // github.com/fupete — github.com/Fupete/ID2-2015
 // Educational purpose, MIT License, march 2015, San Marino
 // —
-// Load and parse JSON data from a public Google Spreadsheet Url
-// Collect columns contents in List arrays (A_values, B_values, ...) 
-// and column titles in String variables (A_title, B_title, ...)
+// Load and parse JSON data from a public Google Spreadsheet Url in a two-dimensional array matrix [columns][row].
+// The table is a series of lists (columns), where the first value is the title of the list.
+// draw table in the sketch and save a table with exel file (CSV format) in the data folder
 // Credits to Jer Thorp on why connect G_Spreadsheet to Processing http://goo.gl/MQNsxr
 // —
 
