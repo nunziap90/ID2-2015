@@ -5,6 +5,10 @@
 #### CONCEPT 
 Il progetto è pensato sulla base dei dati digitali della rete universitaria. 
 
+Parlando di dati e in questo caso di codificazioni, è interessante questa riflessione su come, il valore espressivo di una semplice lettera, può rappresentare in sé nuove interpretazioni, linguaggi, narrazioni diverse di un contenuto più ampio (dateset).  Il progetto che parla di questo argomento è [Type/Dynamics] (http://lust.nl/#projects-5525).
+
+>Nowadays attention is paid more to the design of rules, or creating the framework in which something can happen. In a database for instance, content does not have an innate form, but rather receives form at the moment it is shown via the interface. In fact, the same information can be represented in an endless number of ways. The interface allows for content to be shown as data, as information, or as knowledge; ultimately content appears as loose data without a context, as data in a context, or as interpreted information. This data can even change per week, day, or minute. [ ] In a time when data can be accessed and can manifest itself in all kinds of ways, typography should no longer represent just formal aspects of information. Instead typography can itself be the carrier of content. A letter is the smallest content entity, but even this letter can contain the whole dataset for the content it represents.
+
 
 
 -
@@ -22,9 +26,9 @@ Il software che gestisce la rete è [PaloaltoNetworks] (https://www.paloaltonetw
 Tramite il servizio di DBMS, si possono estrapolare dati dal server, grazie ad un linguaggio di interrogazione (***DQL - Data Query Language***), cioè un tipo di sintassi che estrae dal database il tipo di informazione richiesta. Il linguaggio viene utilizzato dal software per appunto creare delle ***query***, in modo da ottenere i "*record*" da analizzare. 
 Il tipo di linguaggio usato è il *SQL - Structured Query Language*, un codice standardizzato per database basati sul modello relazionale della rappresentazione o strutturazione dei dati. 
 
-Dal sistema predefinito si possono creare dei report predefiniti, personalizzati da zero, o modificandone uno predefinito. Quest'ultimi possono essere esportati in ***CSV - Comma-Separated Values***, ***XML - eXtensible Markup Language***, PDF, inviati via email in base a una pianificazione, o integrati ad una repository utente, attraverso delle ***API - Application Programming Interface*** descritte in questa [***guida***] (https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/technical-documentation/pan-os-61/XML-API-6.1.pdf) o [***link***] (https://www.paloaltonetworks.it/documentation/wildfire/wf_admin/section_4/chapter_4.html).
+Dal sistema predefinito si possono creare dei report predefiniti, personalizzati da zero, o modificandone uno predefinito. Quest'ultimi possono essere esportati in registri ***CSV - Comma-Separated Values***, ***XML - eXtensible Markup Language***, PDF, inviati via email in base a una pianificazione, o integrati ad una repository utente, attraverso delle ***API - Application Programming Interface*** descritte in questa [***guida***] (https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/technical-documentation/pan-os-61/XML-API-6.1.pdf) o [***link***] (https://www.paloaltonetworks.it/documentation/wildfire/wf_admin/section_4/chapter_4.html).
 
-I record possono essere elaborati successivamente da Processing, per creare una propria personale rappresentazione dei dati registrati.
+Una volta ottenuti i registri, successivamente possono essere elaborati da noi stessi, per dare un nostro preciso significato ed una propria personale rappresentazione. 
 
 **ISPIRAZIONI**
 
