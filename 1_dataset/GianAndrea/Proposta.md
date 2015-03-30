@@ -28,7 +28,7 @@ Il tipo di linguaggio usato è il *SQL - Structured Query Language*, un codice s
 
 Dal sistema predefinito si possono creare dei report predefiniti, personalizzati da zero, o modificandone uno predefinito. Quest'ultimi possono essere esportati in registri ***CSV - Comma-Separated Values***, ***XML - eXtensible Markup Language***, PDF, inviati via email in base a una pianificazione, o integrati ad una repository utente, attraverso delle ***API - Application Programming Interface*** descritte in questa [***guida***] (https://www.paloaltonetworks.com/content/dam/paloaltonetworks-com/en_US/assets/pdf/technical-documentation/pan-os-61/XML-API-6.1.pdf) o [***link***] (https://www.paloaltonetworks.it/documentation/wildfire/wf_admin/section_4/chapter_4.html).
 
-Una volta ottenuti i registri, successivamente possono essere elaborati da noi stessi, per dare un nostro preciso significato ed una propria personale rappresentazione. 
+Una volta ottenuti i registri, successivamente possono essere elaborati da noi stessi, per dare un nostro preciso significato ed una propria personale interpretazione. Utilizzando un programma di elaborazione dati, si possono dunque richiamare questi datalog attraverso una precisa terminologia del software, in modo da ricreare la rappresentazione progettata. L'interrogazione del server e l'estrapolazione delle relative informazioni, segue le regole dell'algoritmo da noi scritto.
 
 **ISPIRAZIONI**
 
