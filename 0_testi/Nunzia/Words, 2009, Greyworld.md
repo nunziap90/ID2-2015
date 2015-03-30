@@ -25,6 +25,8 @@ Sfera che diffonde la sua luce dell'alba in tutta Londra
 ![Words] (http://imgur.com/KYVHC0o.png)
 ##### Words
 
+![Words] (http://imgur.com/ah42p1B.png)
+
 Words è un'istallazione di augmented reality, che si basa sull'interazione col pubblico e che permette di fare 
 una mappatura sonora, che possa essere riproposta in seguito. 
 I partecipanti devono pensare ad una parola che esprima la propria riflessione sul futuro. Futuro: parola chiave 
