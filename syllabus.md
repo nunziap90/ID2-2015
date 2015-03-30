@@ -106,7 +106,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ###### compito/progetto
 1. idee **dataviz**
-2. code **dataviz/code** [+](https://github.com/Fupete/ID2-2015/tree/master/2_dataviz/code)
+2. code _G_Spreadsheet_Data.pde_ 3 versioni [+](https://github.com/Fupete/ID2-2015/tree/master/2_dataviz/code)
 
 
 
