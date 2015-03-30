@@ -97,6 +97,9 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ##2 Aprile
 
+![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/086ew8k.jpg?1)
+
+
 ### 
 - consegna **dataset**
 
