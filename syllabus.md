@@ -100,7 +100,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### 
 - consegna **dataset**
 
-###### compito/leggere e approfondire
+###### compito/approfondire
 1. _Artistic Data Visualization: Beyond Visual Analytics_, Fernanda B. Viégas & Martin Wattenberg [+](http://hint.fm/papers/artistic-infovis.pdf)
 2. _Dear Data_, 2015, Giorgia Lupi & Stefanie Posavec [+](http://www.dear-data.com/)
 
