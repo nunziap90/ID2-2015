@@ -89,6 +89,4 @@ http://stephenbarrass.com/category/sonification/
 
 http://dataphys.org/list/barrass-physical-data-sonifications/
 
-
-457741774_o.png
-
+![cestino frutta] (http://http://imgur.com/wuxlmvd.png)
