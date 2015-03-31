@@ -65,6 +65,21 @@ Due dispositivi, la stazione esterna traccia l'umidità relativa, la temperatura
 
 [official site] (https://www.netatmo.com/en-US/product/weather-station)
 
+
+**CubeSensors**
+
+Controlla la temperatura interna, pressione barometrica, luce ambientale e livelli sonori, la qualità dell'aria interna e l'umidità relativa.
+
+![Image of CubeSensors]
+(http://gurucareers.com/wp-content/uploads/2013/04/CubeSensors1.png)
+
+[official site] (https://cubesensors.com)
+
+
+
+###Progetto###
+
+da finire...
 Piazzare dei sensori di rilevamento di gas nelle aule e nei punti nevralgici della struttura 
 in modo da capire quali sono i punti più inquinati e quale soluzione poter adottare.
  
