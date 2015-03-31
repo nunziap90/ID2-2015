@@ -80,7 +80,7 @@ Controlla la temperatura interna, pressione barometrica, luce ambientale e livel
 ###Progetto###
 
 
-Piazzare dei sensori di rilevamento di gas nelle aule e nei punti nevralgici della struttura, e dei sensori di rilevamento di polveri sottili vicino le stampanti in modo da sensibilizzare gli occupanti della struttura. 
+Piazzare dei sensori di rilevamento di gas nelle aule e nei punti nevralgici dell'università, e dei sensori di rilevamento di polveri sottili vicino le stampanti in modo da sensibilizzare gli occupanti della struttura. 
 
 ### Sensori ###
 
