@@ -36,6 +36,7 @@ vissuti determinati ambienti, con la speranza di innescare un comportamento migl
 
 **Alima** 
 
+Alima è il primo dispositivo intelligente per monitorare la qualità dell'aria interna, l'invio di messaggi sui livelli di inquinamento e le previsioni dei prossimi eventi.
 
 ![Image of Alima] 
 (http://www.domotinnov.fr/wp-content/uploads/2014/02/20140105203851-Bedroom_and_App.png)
@@ -46,15 +47,26 @@ vissuti determinati ambienti, con la speranza di innescare un comportamento migl
 
 **Birdi**
 
+Birdi traccia i livelli di inquinamento polvere, polline, umidità, temperatura e anidride carbonica.
+
 ![Image of Birdi]
-(http://images.techtimes.com/data/images/full/1625/birdi-smart-air-monitor.jpg?w=600)
+(http://www.instash.com/wp-content/uploads/2014/07/birdi.png)
 
 [official site] (http://getbirdi.com)
 
 [site] (https://www.indiegogo.com/projects/birdi)
 
+**Netatmo**
+
+Due dispositivi, la stazione esterna traccia l'umidità relativa, la temperatura, la pressione atmosferica e la qualità dell'aria esterna. Quella interna invece tiene traccia della temperatura interna, dell'umidità relativa e dei livelli di biossido di carbonio per dare un quadro complessivo della qualità dell'aria. 
+
+![Image of Netatmo]
+(http://www.conrad.com/medias/global/ce/6000_6999/6600/6650/6653/615765_AB_00_FB.EPS_1000.jpg)
+
+[official site] (https://www.netatmo.com/en-US/product/weather-station)
+
 Piazzare dei sensori di rilevamento di gas nelle aule e nei punti nevralgici della struttura 
-in modo da capire quali sono i punti più inquinati e quale soluzione poter adottare
+in modo da capire quali sono i punti più inquinati e quale soluzione poter adottare.
  
 
  
