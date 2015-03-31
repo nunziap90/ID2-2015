@@ -25,6 +25,7 @@ addirittura superiore a quella relativa agli inquinanti in ambiente esterno o in
  * Bioeffluenti [+] (http://www.nonsoloaria.com/bioeffluenti.htm)
  * 
  
+Nei luoghi di lavoro un'altra fonte d'inquinamento sono le stampanti laser, che per aumentare la qualità di stampa si è passati ad utilizzare polimeri sintetici di vario tipo, che meglio si prestavano a essere ridotti in particelle microscopiche di dimensioni omogenee. Nella maggioranza dei casi si usano polimeri acrilati a base di stirene, resine di poliestere o materiali simili. Con queste tecnologie si sono ottenute particelle con diametro nell’ordine di 8-10 micrometri, necessarie a raggiungere densità di stampa di 600 dpi o superiori. Proprio a causa del progressivo affinamento delle particelle di toner,  si è sollevato il dubbio sulla loro potenziale tossicità, allo stesso modo delle polveri Pm10 contenute nello smog cittadino. Infatti, anche se le stampanti laser attuali sono efficienti nell’uso dei materiali di consumo e la quantità di toner dispersa nell’aria è molto ridotta, è inevitabile che una piccola percentuale di polvere sia espulsa attraverso i sistemi di manutenzione del tamburo e dei rulli di scorrimento della carta.
 
 
 #### Concept ####
@@ -79,9 +80,40 @@ Controlla la temperatura interna, pressione barometrica, luce ambientale e livel
 
 ###Progetto###
 
-da finire...
-Piazzare dei sensori di rilevamento di gas nelle aule e nei punti nevralgici della struttura 
-in modo da capire quali sono i punti più inquinati e quale soluzione poter adottare.
- 
 
- 
+Piazzare dei sensori di rilevamento di gas nelle aule e nei punti nevralgici della struttura, e dei sensori di rilevamento di polveri sottili vicino le stampanti in modo da sensibilizzare gli occupanti della struttura. 
+
+### Sensori ###
+
+**MQ135**
+
+![Image mq135]
+(http://www.elecrow.com/images/s/201405/13993673140.jpg)
+
+[Sensor gas] (http://playground.arduino.cc/Main/MQGasSensors) 
+
+[Buy] (http://www.plexishop.it/it/modulo-sensore-qualita-aria-mq-135.html)
+
+**Grove Dust Sensor**
+
+Questo sensore di polvere misura il livello particolato nell'aria. 
+
+![Image GroveDustSensor]
+(http://www.seeedstudio.com/wiki/images/thumb/b/b7/Dust_sensor.JPG/400px-Dust_sensor.JPG)
+
+[Sensor Dust] (http://www.seeedstudio.com/wiki/Grove_-_Dust_sensor)
+
+[Buy] (http://www.seeedstudio.com/depot/Grove-Dust-Sensor-p-1050.html)
+
+
+**Dati** 
+
+Entrambi i sensori restituiscono un dato numerico.
+
+[MQ-135] (http://www.kosmodrom.com.ua/pdf/MQ135.pdf)
+
+[GroveDustSensor] (http://www.seeedstudio.com/wiki/images/4/4c/Grove_-_Dust_sensor.pdf)
+
+**Conclusione**
+
+Posizionando i sensori di gas nelle aule e i sensori di polveri vicino le stampanti, potremmo ottenere approsimativamente un una serie di dati sull'inquinamento universitario nonchè spazio dove passiamo la maggior parte delle nostre giornate.
