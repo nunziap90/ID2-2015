@@ -34,7 +34,7 @@ Una volta ottenuti i registri, successivamente possono essere elaborati da noi s
 
 [4010 Facebook Tree] (http://www.onformative.com/work/4010-facebook-tree/)
 [Type/Dynamics] (http://lust.nl/#projects-5525)
-
+[Matrix] (http://it.wikipedia.org/wiki/Matrix)
 
 
 -
@@ -52,3 +52,5 @@ Utilizzo del server. Estrapolazione di dati tramite dei report
 
 #### DATI SERVER
 Domain,Receive Time,Serial #,Type,Threat/Content Type,Config Version,Generate Time,Source address,Destination address,NAT Source IP,NAT Destination IP,Rule,Source User,Destination User,Application,Virtual System,Source Zone,Destination Zone,Inbound Interface,Outbound Interface,Log Action,Time Logged,Session ID,Repeat Count,Source Port,Destination Port,NAT Source Port,NAT Destination Port,Flags,IP Protocol,Action,Bytes,Bytes Sent,Bytes Received,Packets,Start Time,Elapsed Time (sec),Category,Padding,seqno,actionflags,Source Country,Destination Country,cpadding,pkts_sent,pkts_received
+
+[Cartella Dati] (https://drive.google.com/drive/#folders/0B4R1LJkiLwBIfm5kS01uRDF1U0RHeEpGcWFfNk5Gb01fTzFudmZnTEMyazVrRGc0T0k4T3M) 
