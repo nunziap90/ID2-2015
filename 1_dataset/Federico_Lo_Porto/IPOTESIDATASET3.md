@@ -23,7 +23,6 @@ addirittura superiore a quella relativa agli inquinanti in ambiente esterno o in
  * Fumo di legna
  * Antiparassitari
  * Bioeffluenti [+] (http://www.nonsoloaria.com/bioeffluenti.htm)
- * 
  
 Nei luoghi di lavoro un'altra fonte d'inquinamento sono le stampanti laser, che per aumentare la qualità di stampa si è passati ad utilizzare polimeri sintetici di vario tipo, che meglio si prestavano a essere ridotti in particelle microscopiche di dimensioni omogenee. Nella maggioranza dei casi si usano polimeri acrilati a base di stirene, resine di poliestere o materiali simili. Con queste tecnologie si sono ottenute particelle con diametro nell’ordine di 8-10 micrometri, necessarie a raggiungere densità di stampa di 600 dpi o superiori. Proprio a causa del progressivo affinamento delle particelle di toner,  si è sollevato il dubbio sulla loro potenziale tossicità, allo stesso modo delle polveri Pm10 contenute nello smog cittadino. Infatti, anche se le stampanti laser attuali sono efficienti nell’uso dei materiali di consumo e la quantità di toner dispersa nell’aria è molto ridotta, è inevitabile che una piccola percentuale di polvere sia espulsa attraverso i sistemi di manutenzione del tamburo e dei rulli di scorrimento della carta.
 
