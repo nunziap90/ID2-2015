@@ -52,6 +52,9 @@ Per quanto riguarda i sensori saranno utilizzati quelli a pressione; per le scal
 *Cultura*: quante persone accedono alla biblioteca e quante sfogliano le riviste. Per quanto riguarda il sensore di chi entra in biblioteca, sempre un sensore di pressione posto all'entrata, mentre per rilevare quante volte vengono prese le riviste un sensore di....
 *Scorciatoie*: quante persone utilizzano l'ascensore.  Per quanto riguarda il sensore di chi entra in ascensore, sempre un sensore di pressione posto all'entrata.
 
+![Sensori di pressione] (http://imgur.com/Tfsn9cz.png) 
+
+
 Per quanto riguarda l'uso del colore la cromoterapia insegna che: *"L'utilizzo dei colori è normalmente regolato da principi comuni, analoghi a quelli che portano a scegliere il colore dell'abito da indossare o la tinta delle pareti di casa per abbinarli a una determinata personalità e favorire o contrastare un certo stato d'animo. Secondo la cromoterapia, i colori aiuterebbero il corpo e la psiche a ritrovare il loro naturale equilibrio, e avrebbero effetti fisici e psichici in grado di stimolare il corpo e calmare certi sintomi."* (da scienza e salute)
 
 
