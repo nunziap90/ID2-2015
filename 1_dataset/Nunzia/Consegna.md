@@ -29,7 +29,7 @@ M.Gandhi
 *"A mete eccelse per anguste vie.*"
 Victor Hugo 
 
-Ci sono molte metafore che si addicano alle scale con qualcos'altro, ma la più indicata pernso sia la montagna. 
+Ci sono molte metafore che si addicono alle scale con qualcos'altro, ma la più indicata pernso sia la montagna. 
 *"Scalare la montagna per arrivare all'obiettivo finale"*. 
 
 
