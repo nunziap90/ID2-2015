@@ -6,9 +6,9 @@ Aule | Laboratori | Amministrazione | Condivisi | Cellette
 A | Modelli | Direzione | Portineria | Celletta 1 
 B | Informatica | Segreteria | Riviste | Celletta 2
 D | Fotografia | Ricerca | Stampanti | Celletta 3
-E | -  | - | Plotter | Celletta 4
-F | - | - | Distributori 1 | Celletta 5
-G | - | - | Distributori 2 | -
+E |    |   | Plotter | Celletta 4
+F |   |   | Distributori 1 | Celletta 5
+G |   |   | Distributori 2 |  
 
 #####Strumento
 
