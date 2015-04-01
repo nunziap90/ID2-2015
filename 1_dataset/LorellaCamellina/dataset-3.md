@@ -1,12 +1,10 @@
-## DATASET
+##DATASET
 
 Il brief che ci è stato indicato richiede come base di partenza un Dataset relativo alla Facoltà di Design dell'Università della Repubblica di San Marino (a noi decidere se si tratti di contenuti, studenti, output, etc).
 
 Ho voluto prendere in considerazione dati che immagino in continuo mutamento, vivaci, molto diversi fra loro anche nell'arco di una singola giornata: il rumore ed il calore. Mi affascinano in quanto li considero valori strettamente legati alla quotidianità della vita universitaria nella sua sede, l'antico monastero Santa Chiara. Penso che potrebbero trovare una traduzione valida sottoforma di installazione e che sarebbero anche capaci di significati paralleli.
 
---
-
-## Luoghi
+##Luoghi
 
 Primissimo step, la creazione di un elenco degli spazi dove andare ad effettuare il prelievo dei dati. Ho già attuato qui una scrematura rispetto ai luoghi che secondo me "fanno" l'Università, andando a escludere tutti gli spazi interni alla sede che però non sono abitualmente frequentati da studenti o docenti.
 
@@ -20,8 +18,6 @@ F |   |   | Distributori 1 | Celletta 5
 G |   |   | Distributori 2 |  
   |   |   | Prato |  
   |   |   | Ponte fumatori | 
-
---
 
 ## Rumore
 
@@ -76,8 +72,6 @@ http://www.instructables.com/id/Sound-Pressure-sensor-for-Arduino-based-on-ZX-so
 
 http://www.giga-mobile.com/it/electronic-diy-single-chip-microcomputer/30459-keyes-microphone-sound-detection-sensor-module-for-arduino---red.html
 
---
-
 ## Calore
 
 #####Strumento
@@ -105,9 +99,7 @@ http://www.logicaprogrammabile.it/arduino-sensore-di-temperatura-tmp36/
 
 http://playground.arduino.cc/Italiano/Sensori
 
---
-
-#####Conclusioni
+## Conclusioni
 
 Le variabili che condizionano i due valori scelti potrebbero essere:
 - luogo di rilevamento (esterno/interno, aula/laboratorio)
