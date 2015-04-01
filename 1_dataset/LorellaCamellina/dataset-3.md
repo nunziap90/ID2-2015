@@ -1,14 +1,14 @@
 ## Dataset | Rumore
 
 #####Luoghi
-gruppo | gruppo | gruppo | gruppo | gruppo
------------ | ------------ | ------------ | ------------ | ------------
-Aula A | Aula Plotter | Direzione | Portineria | Celletta 1 
-Aula B | Aula Informatica | Segreteria | Riviste | Celletta 2
-Aula D | Aula Fotografia | Ricerca | Laboratorio Modelli | Celletta 3
-Aula E | Area Stampanti  | - | - | Celletta 4
-Aula F | Distributori 1 | - | - | Celletta 5
-Aula G | Distributori 2 | - | - | -
+Aule | Laboratori | Amministrazione | Condivisi | Cellette
+---------- | ----------- | ----------- | ----------- | -----------
+A | Modelli | Direzione | Portineria | Celletta 1 
+B | Informatica | Segreteria | Riviste | Celletta 2
+D | Fotografia | Ricerca | Stampanti | Celletta 3
+E | -  | - | Plotter | Celletta 4
+F | - | - | Distributori 1 | Celletta 5
+G | - | - | Distributori 2 | -
 
 #####Strumento
 
