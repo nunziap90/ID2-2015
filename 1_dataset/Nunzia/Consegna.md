@@ -70,6 +70,14 @@ http://www.antartika.it/psicologia-dei-colori-nel-logo-design/
 http://www.oikos-group.it/contenuti/colore/colore-e-cultura/psicologia-archivio3
 Psicologia e simbologia del colore
 
+http://www.corriere.it/salute/cardiologia/14_gennaio_13/vero-che-salire-scale-puo-essere-gia-un-attivita-fisica-salutare-28c9e3b2-7c4d-11e3-bc95-3898e25f75f1.shtml
+È vero che salire le scale può essere già un’attività fisica salutare?
+
+http://www.colori-soleggiati.it/ita/ulteriori-informazioni/i-colori-ed-il-loro-influsso-sullambiente/linfluenza-dei-colori-sullumore
+L’influenza dei colori sull’umore
+
+
+
 
 
 
