@@ -9,7 +9,7 @@ Son partita con la prima tavola raccontando il percorso fatto, tra i tanti temi,
 
 ![1] (http://imgur.com/p1BPYmv.png) 
 
-Il proprio umore, gli studenti, lo potranno involontarimente trasformare in dati, grazie all'utilizzo delle scale, culminando poi in musica, in base ai dati raccolti, nelle aree relax ed entrata. 
+Il proprio umore, gli studenti, lo potranno involontarimente trasformare in dati, grazie all'utilizzo delle scale, culminando tutto in musica, in base ai dati raccolti, nelle aree relax ed entrata. 
 
 ![2] (http://imgur.com/f53mTHb.png) 
 
