@@ -64,7 +64,11 @@ In conclusione gli studenti creano i dati, che rappresentano la metafora del per
 
 [Railings] (http://greyworld.org/archives/35) 
 
+![1] (http://imgur.com/hs6gjAA.png)
+
 [Scala mobile Stoccolma] (https://www.youtube.com/watch?v=otW3B0LxLnI) 
+![2] (http://imgur.com/QyYv3cs.png)
+
 
 
 
