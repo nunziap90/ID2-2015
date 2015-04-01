@@ -40,10 +40,7 @@ Ho iniziato così a pensare oltre ai gesti che involontariamente o volontariamen
 ![4] (http://imgur.com/FSGCECd.png) 
 
 Il mio "percorso" si sofferma così su alcuni aspetti caratteristici della nostra vita universitaria, che ci accompagnano al "percoso per arrivare alla vetta". Gli aspetti principali su cui mi soffermerò sono: 
-*Frenesia*
-*Cultura*
-*Umore*
-*Scorciatoie*
+*Frenesia*, *Cultura*, *Umore*, *Scorciatoie*. Grazie ai quali raccoglierò dati per l'istallazione finale. 
 
 ![5] (http://imgur.com/uqeUHpV.png) 
 
