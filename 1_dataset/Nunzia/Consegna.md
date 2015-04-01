@@ -47,7 +47,7 @@ Il mio "percorso" si sofferma così su alcuni aspetti caratteristici della nostr
 Tramite alcuni sensori, di cui parlerò dopo, raccoglierò i seguenti dati:
 
 *Frenesia*: tramite le scale quanti Km vengono compiuti ogni giorno all'interno dell'università, così da capirne i ritmi e se in periodi come gli esami i ritmi aumentano o diminuiscono e quanti caffè vengono presi al giorno.
-Per quanto riguarda i sensori saranno utilizzati quelli a pressione; per le scale verrano nascosti nelle fasce antiscivolo e posizionati sulle rampe delle scale al primo e ultimo scalino.
+Per quanto riguarda i sensori saranno utilizzati quelli a pressione; per le scale verrano nascosti nelle fasce antiscivolo e posizionati sulle rampe delle scale al primo e ultimo scalino. (accelerometro?) 
 *Umore*: il corrimano diventa un banco di stimolo di colori, per cui il base all'umore o al gusto la persona sceglierà il suo colore del giorno. Per quanto riguarda la scelta dei colori sul corrimano pensavo sempre a sensori di pressione.
 *Cultura*: quante persone accedono alla biblioteca e quante sfogliano le riviste. Per quanto riguarda il sensore di chi entra in biblioteca, sempre un sensore di pressione posto all'entrata, mentre per rilevare quante volte vengono prese le riviste un sensore di....
 *Scorciatoie*: quante persone utilizzano l'ascensore.  Per quanto riguarda il sensore di chi entra in ascensore, sempre un sensore di pressione posto all'entrata.
