@@ -1,6 +1,9 @@
 ## Dataset | Rumore
 
 #####Luoghi
+
+Elenco dei luoghi presi in considerazione per il prelievo dei dati.
+
 Aule | Laboratori | Amministrazione | Condivisi | Cellette
 ---------- | ----------- | ----------- | ----------- | -----------
 A | Modelli | Direzione | Portineria | Celletta 1 
@@ -9,7 +12,8 @@ D | Fotografia | Ricerca | Stampanti | Celletta 3
 E |    |   | Plotter | Celletta 4
 F |   |   | Distributori 1 | Celletta 5
 G |   |   | Distributori 2 |  
-
+  |   |   | Prato |  
+  |   |   | Ponte fumatori | 
 #####Strumento
 
 Possiamo prelevare il rumore tramite _sensori di rilevamento del suono_.
