@@ -61,6 +61,8 @@ Per quanto riguarda l'uso del colore la cromoterapia insegna che: *"L'utilizzo d
 In conclusione gli studenti creano i dati, che rappresentano la metafora del percorso universitario (la frenesia che aumenta sempre di più durante l'arco della gioranta, l'umore che cambia in base agli eventi, la cultura in base a quanto ti piace approfondire e per chi vuole le scorciatoie, rappresentate in questo caso dall'ascensore), tra frenesia, impegno e stress, i dati vengono rilevati, e tramite impianti sonori posti all'esterno (zona relax ed entrata) viene ascoltata la musica che cambierà in base all'umore, partendo dalla mattina con musica metal, per dare la carica, fino ad arrivare a sera per ascoltare musica classica, per rilassarti.  
 
 
+#####Siti di riferimento
+
 [Mood: il maglione che cambia colore in base all'umore](http://www.nextme.it/societa/concept-e-design/6930-mood-maglione-cambia-colore-umore )
 
 [La psicologia dei colori nel logo design](http://www.antartika.it/psicologia-dei-colori-nel-logo-design/)
