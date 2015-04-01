@@ -36,6 +36,8 @@ I sensori di rilevamento del suono, per rendere "udibile" agli strumenti del cas
 
 Il sensore presentato in foto permette la regolazione della sensibilità tramite un potenziometro (direttamente sul circuito) ed è dotato di due uscite AO (_uscita analogica, uscita in tempo reale del segnale di tensione del microfono_) e DO (per la gestione in digitale delle soglie) - credo. Ha dimensioni molto ridotte (43 x 16 x 14 mm) ed è molto economico (meno di 5 euro).
 
+Immagino sarà necessario posizionarne uno per ogni luogo indicato  ne lla tabella ad inizio pagina, per un totale di venticinque sensori.
+
 #####Ricerca significato
 
 ![rumore](http://i.imgur.com/eeZg84x.jpg?1)
@@ -71,3 +73,23 @@ http://www.instructables.com/id/Sound-Pressure-sensor-for-Arduino-based-on-ZX-so
 http://www.giga-mobile.com/it/electronic-diy-single-chip-microcomputer/30459-keyes-microphone-sound-detection-sensor-module-for-arduino---red.html
 
 ## Calore
+
+#####Strumento
+
+Per quanto riguarda il calore, ci affidiamo ad un sensore di temperatura, almeno in fase di prototipazione. 
+Nella realtà si potrebbero sfruttare i sensori di temperatura già posizionati nella maggioranza dei luoghi considerati, i termostati (non presenti solo nelle cinque cellette).
+
+![sensore](http://i.imgur.com/HCHSxiS.jpg?2)
+![dim](http://i.imgur.com/lKuoGow.jpg?2)
+
+#####Ricerca significato
+
+![rumore](http://i.imgur.com/LAzNbUd.jpg?1)
+
+#####References
+
+Progetti
+
+https://graphicjunk.wordpress.com/
+
+Sensore
