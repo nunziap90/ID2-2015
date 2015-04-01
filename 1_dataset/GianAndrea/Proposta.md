@@ -16,9 +16,10 @@ Lo scopo del progetto sarebbe quello di creare una traccia, un segno che identif
 Un esempio curioso è [Words of a Middle Man] (http://www.creativeapplications.net/objects/words-of-a-middle-man-human-to-machine-and-machine-to-machine-dialogues/), un progetto che racconta ciò che noi svolgiamo attraverso la rete, e cerca di comunicarcelo in modo comprensibile e più naturale possibile. L'opera rende visibile il rapporto con la rete e come in qualche modo lo usiamo, essendo quest'ultima la schematizzatrice delle nostre attività. Importante appunto è anche la ricerca di una forma di comunicazione che può assumere un insieme di lettere, assegnandole una rappresentazione chiara e significativa.
 
 ![] (http://lust.nl/media/image/large/005SMJSCHROFERLUSTZ029en028NOV2013PhGJvanROOIJ.jpg)
-Appunto noi spostiamo dati, astratti, logici e non chiari: il progetto sopracitato cerca di dare un valore alle informazioni attraserso una giusta rappresentatività.
-Parlando di dati e in questo caso di codificazioni, è interessante questa riflessione su come, il valore espressivo di una semplice lettera, può rappresentare in sé nuove interpretazioni, linguaggi, narrazioni diverse di un contenuto più ampio (dateset). Il progetto che parla di questo argomento è [Type/Dynamics] (http://lust.nl/#projects-5525).
 
+Per noi, la codificazione, l'incombrensibilità dei dati, sono in realtà questo "succo" necessario per le nostre attività. Un semplice linguaggio cifrato, apparentemente neutro, può diventare natura di valore e importanza. Dunque parlando di dati, è interessante proprio questo ragionamento su come il valore espressivo di una semplice lettera può rappresentare in sé nuove interpretazioni, linguaggi, narrazioni diverse di un contenuto più ampio (dateset). Il progetto che riflette questo argomento è [Type/Dynamics] (http://lust.nl/#projects-5525).
+
+Tratto dalla spiegazione del progetto:
 >Nowadays attention is paid more to the design of rules, or creating the framework in which something can happen. In a database for instance, content does not have an innate form, but rather receives form at the moment it is shown via the interface. In fact, the same information can be represented in an endless number of ways. The interface allows for content to be shown as data, as information, or as knowledge; ultimately content appears as loose data without a context, as data in a context, or as interpreted information. This data can even change per week, day, or minute. [ ] In a time when data can be accessed and can manifest itself in all kinds of ways, typography should no longer represent just formal aspects of information. Instead typography can itself be the carrier of content. A letter is the smallest content entity, but even this letter can contain the whole dataset for the content it represents.
 
 
@@ -27,7 +28,9 @@ Parlando di dati e in questo caso di codificazioni, è interessante questa rifle
 
 
 
-#### FUNZIONAMENTO
+#### DATI
+
+**FUNZIONAMENTO**
 
 Un ***server*** elabora e programma delle informazioni digitali, in un insieme organizzato di dati. 
 Esso non è altro che un ***database*** fisico nel quale, le informazioni in esso registrate (***record***), venogno strutturate e collegate tra loro, secondo un particolare modello logico di tipo relazionale, gerarchico, reticolare o a oggetti. 
@@ -42,32 +45,28 @@ Dal sistema predefinito si possono creare dei report predefiniti, personalizzati
 
 Una volta ottenuti i registri, successivamente possono essere elaborati da noi stessi, per dare un nostro preciso significato ed una propria personale interpretazione. Utilizzando un programma di elaborazione dati, si possono dunque richiamare questi ***datalog*** attraverso una precisa terminologia del software, in modo da ricreare la rappresentazione progettata. L'interrogazione del servizio e l'estrapolazione delle relative informazioni, segue le regole dell'algoritmo da noi scritto.
 
+
+
+-
+
+
+
+**FONTI**
+Estrapolando informazioni dal server, si possono ottenere dei datalog in formato ***.csv***, con la divisione in colonne delle seguenti di categorie:
+
+>Domain,Receive Time,Serial #,Type,Threat/Content Type,Config Version,Generate Time,Source address,Destination address,NAT Source IP,NAT Destination IP,Rule,Source User,Destination User,Application,Virtual System,Source Zone,Destination Zone,Inbound Interface,Outbound Interface,Log Action,Time Logged,Session ID,Repeat Count,Source Port,Destination Port,NAT Source Port,NAT Destination Port,Flags,IP Protocol,Action,Bytes,Bytes Sent,Bytes Received,Packets,Start Time,Elapsed Time (sec),Category,Padding,seqno,actionflags,Source Country,Destination Country,cpadding,pkts_sent,pkts_received
+
+I file di analisi concessi dall'università si trovano in questa [Cartella Dati] (https://www.copy.com/s/su4Cu0lLhJIXjwh1/Nuova%20cartella) 
+
+Dalle colonne, i dati utili da estrapolare saranno: il numero di connessioni al server, la durata di connessione e il peso dei dati scambiati. L'obiettivo è capire l'attività dinamica dell'università e il flusso di scambio con la rete, per comprendere come è necessario il rapporto con questo "secondo spazio" e come ci si relaziona con il suo mare di informazioni.
+
+>Ho configurato Temboo ed è possibile dialogare con Google Sreadsheet attraverso Processing
+
 **ISPIRAZIONI**
 
+Ispirazione di ispirazione del concept di partenza | [Matrix] (http://it.wikipedia.org/wiki/Matrix)
+
+Ispirazioni su come potrebbero essere rappresentati, i dati digitali tramessi dal server | [Cascade] (http://o-c-r.org/portfolio/cascade/) | 
 [4010 Facebook Tree] (http://www.onformative.com/work/4010-facebook-tree/)
 
 
-[Matrix] (http://it.wikipedia.org/wiki/Matrix)
-
-
--
-
-
-
-#### FONTI DEI DATI
-Utilizzo del server/firewall. Estrapolazione di dati tramite dei registri 
-
-
-
--
-
-
-
-#### DATI SERVER
-Estrapolando informazioni dal server, si possono ottenere dei datalog in formato ***.csv***, con la divisione in colonne delle seguenti di categorie:
-
-Domain,Receive Time,Serial #,Type,Threat/Content Type,Config Version,Generate Time,Source address,Destination address,NAT Source IP,NAT Destination IP,Rule,Source User,Destination User,Application,Virtual System,Source Zone,Destination Zone,Inbound Interface,Outbound Interface,Log Action,Time Logged,Session ID,Repeat Count,Source Port,Destination Port,NAT Source Port,NAT Destination Port,Flags,IP Protocol,Action,Bytes,Bytes Sent,Bytes Received,Packets,Start Time,Elapsed Time (sec),Category,Padding,seqno,actionflags,Source Country,Destination Country,cpadding,pkts_sent,pkts_received
-
-I file concessi dall'università si trovano in questa [Cartella Dati] (https://www.copy.com/s/su4Cu0lLhJIXjwh1/Nuova%20cartella) 
-
-Dalle colonne si etrapolano il tempo di connessione, il peso de 
