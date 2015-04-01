@@ -51,6 +51,8 @@ Umore: il corrimano diventa un banco di stimolo di colori, per cui il base all'u
 Cultura: quante persone accedono alla biblioteca e quante sfogliano le riviste. 
 Scorciatoie: quante persone utilizzano l'ascensore. 
 
+Per quanto riguarda l'uso del colore la cromoterapia insegna che: *"L'utilizzo dei colori è normalmente regolato da principi comuni, analoghi a quelli che portano a scegliere il colore dell'abito da indossare o la tinta delle pareti di casa per abbinarli a una determinata personalità e favorire o contrastare un certo stato d'animo. Secondo la cromoterapia, i colori aiuterebbero il corpo e la psiche a ritrovare il loro naturale equilibrio, e avrebbero effetti fisici e psichici in grado di stimolare il corpo e calmare certi sintomi."* (da scienza e salute)
+
 
 
 ![6] (http://imgur.com/1Fk9kLG.png) 
