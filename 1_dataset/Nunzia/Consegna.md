@@ -2,6 +2,8 @@
 
 #### "Il percorso universitario" 
 
+Ogni giorni gli studenti vivono l'università, ognuno a proprio modo, con le proprie ansie, paure, traguardi, sforzi...
+Quindi perchè non raccontare l'umore che ogni giorno si respira in questo luogo? Con tutta la sua frenesia. 
 
 ![1] (http://imgur.com/p1BPYmv.png) 
 
