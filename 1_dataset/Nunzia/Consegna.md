@@ -46,7 +46,8 @@ Il mio "percorso" si sofferma così su alcuni aspetti caratteristici della nostr
 
 Tramite alcuni sensori, di cui parlerò dopo, raccoglierò i seguenti dati:
 
-*Frenesia*: tramite le scele quanti Km vengono compiuti ogni giorno all'interno dell'università, così da capirne i ritmi e se in periodi come gli esami i ritmi aumentano o diminuiscono e quanti caffè vengono presi al giorno.
+*Frenesia*: tramite le scale quanti Km vengono compiuti ogni giorno all'interno dell'università, così da capirne i ritmi e se in periodi come gli esami i ritmi aumentano o diminuiscono e quanti caffè vengono presi al giorno.
+Per quanto riguarda i sensori saranno utilizzati quelli a pressione; per le scale verrano nascosti nelle fasce antiscivolo e posizionati sulle rampe delle scale al primo e ultimo scalino.
 *Umore*: il corrimano diventa un banco di stimolo di colori, per cui il base all'umore o al gusto la persona sceglierà il suo colore del giorno.
 *Cultura*: quante persone accedono alla biblioteca e quante sfogliano le riviste. 
 *Scorciatoie*: quante persone utilizzano l'ascensore. 
