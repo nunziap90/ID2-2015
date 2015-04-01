@@ -15,11 +15,11 @@ L'umore quotidiano degli studenti, che involontarimente potranno lasciare i prop
 
 Qui ho iniziato a far dei ragionamenti su quanto riguarda l'utilizzo delle scale e cosa mi ricordassero: scalare la montagna, altezza, raggiungere degli obiettivi, traguardi...cercando frasi da spunto:
 
-*"Camminatore che vai cercando la pace al crepuscolo la troverai alla fine della strada"*
+*"Camminatore che vai cercando la pace al crepuscolo la troverai alla fine della strada."*
 Franco Battiato
 
-Alice: quale via dovrei prendere? Gatto: dipende dove vuoi andare. Alice: ma io non so dove andare. 
-Gatto: allora non importa quale via prendere!
+*"Alice: quale via dovrei prendere? Gatto: dipende dove vuoi andare. Alice: ma io non so dove andare. 
+Gatto: allora non importa quale via prendere!"*
 Lewis Carroll
 
  Chi sa concentrarsi su qualche cosa e perseguirla come unico scopo ottiene, alla fine, la capacità di fare 
