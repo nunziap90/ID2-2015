@@ -46,10 +46,10 @@ Il mio "percorso" si sofferma così su alcuni aspetti caratteristici della nostr
 
 Tramite alcuni sensori, di cui parlerò dopo, raccoglierò i seguenti dati:
 
-Frenesia: tramite le scele quanti Km vengono compiuti ogni giorno all'interno dell'università, così da capirne i ritmi e se in periodi come gli esami i ritmi aumentano o diminuiscono e quanti caffè vengono presi al giorno.
-Umore: il corrimano diventa un banco di stimolo di colori, per cui il base all'umore o al gusto la persona sceglierà il suo colore del giorno.
-Cultura: quante persone accedono alla biblioteca e quante sfogliano le riviste. 
-Scorciatoie: quante persone utilizzano l'ascensore. 
+*Frenesia*: tramite le scele quanti Km vengono compiuti ogni giorno all'interno dell'università, così da capirne i ritmi e se in periodi come gli esami i ritmi aumentano o diminuiscono e quanti caffè vengono presi al giorno.
+*Umore*: il corrimano diventa un banco di stimolo di colori, per cui il base all'umore o al gusto la persona sceglierà il suo colore del giorno.
+*Cultura*: quante persone accedono alla biblioteca e quante sfogliano le riviste. 
+*Scorciatoie*: quante persone utilizzano l'ascensore. 
 
 Per quanto riguarda l'uso del colore la cromoterapia insegna che: *"L'utilizzo dei colori è normalmente regolato da principi comuni, analoghi a quelli che portano a scegliere il colore dell'abito da indossare o la tinta delle pareti di casa per abbinarli a una determinata personalità e favorire o contrastare un certo stato d'animo. Secondo la cromoterapia, i colori aiuterebbero il corpo e la psiche a ritrovare il loro naturale equilibrio, e avrebbero effetti fisici e psichici in grado di stimolare il corpo e calmare certi sintomi."* (da scienza e salute)
 
@@ -58,7 +58,7 @@ Per quanto riguarda l'uso del colore la cromoterapia insegna che: *"L'utilizzo d
 ![6] (http://imgur.com/1Fk9kLG.png) 
 
 
-In conclusione gli studenti creano i dati, che rappresentano la metafora del percorso universitario (la frenesia che aumenta sempre di più durante l'arco della gioranta, l'umore che cambia in base agli eventi, la cultura in base a quanto ti piace approfondire e per chi vuole le scorciatoie, rappresentate in questo caso dall'ascensore), tra frenesia, impegno e stress, i dati vengono rilevati, e tramite impianti sonori posti all'esterno (zona relax ed entrata) viene ascoltata la musica che cambierà in base all'umore, partendo dalla mattina con musica metal, per dare la carica, fino ad arrivare a sera per ascoltare musica classica, per rilassarti; si potrebbe ipotizzare che oltre alla musica ci sia un oggetto fisico che ci faccia rendere conto dell'evolversi dei dati. 
+In conclusione gli studenti creano i dati, che rappresentano la metafora del percorso universitario (la frenesia che aumenta sempre di più durante l'arco della giornata, l'umore che cambia in base agli eventi, la cultura in base a quanto ti piace approfondire e per chi vuole le scorciatoie, rappresentate in questo caso dall'ascensore), tra frenesia, impegno e stress, i dati vengono rilevati, in quel momento viene riprodotto un suono, da stimolo per riprovare. Tramite impianti sonori, posti all'esterno (zona relax ed entrata), viene ascoltata la musica che cambierà in base all'umore, partendo dalla mattina con musica metal, per dare la carica, fino ad arrivare a sera per ascoltare musica classica, per rilassarti; si potrebbe ipotizzare che oltre alla musica ci sia un oggetto fisico che ci faccia rendere conto dell'evolversi dei dati. 
 
 #####Ispirazioni:
 
