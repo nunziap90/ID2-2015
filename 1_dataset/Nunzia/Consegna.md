@@ -1,3 +1,5 @@
 ### "Il percorso universitario" 
 
-http://imgur.com/p1BPYmv
+
+![1] (http://imgur.com/p1BPYmv.png) 
+
