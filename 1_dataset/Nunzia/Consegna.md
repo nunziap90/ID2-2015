@@ -48,9 +48,9 @@ Tramite alcuni sensori, di cui parlerò dopo, raccoglierò i seguenti dati:
 
 *Frenesia*: tramite le scale quanti Km vengono compiuti ogni giorno all'interno dell'università, così da capirne i ritmi e se in periodi come gli esami i ritmi aumentano o diminuiscono e quanti caffè vengono presi al giorno.
 Per quanto riguarda i sensori saranno utilizzati quelli a pressione; per le scale verrano nascosti nelle fasce antiscivolo e posizionati sulle rampe delle scale al primo e ultimo scalino.
-*Umore*: il corrimano diventa un banco di stimolo di colori, per cui il base all'umore o al gusto la persona sceglierà il suo colore del giorno.
-*Cultura*: quante persone accedono alla biblioteca e quante sfogliano le riviste. 
-*Scorciatoie*: quante persone utilizzano l'ascensore. 
+*Umore*: il corrimano diventa un banco di stimolo di colori, per cui il base all'umore o al gusto la persona sceglierà il suo colore del giorno. Per quanto riguarda la scelta dei colori sul corrimano pensavo sempre a sensori di pressione.
+*Cultura*: quante persone accedono alla biblioteca e quante sfogliano le riviste. Per quanto riguarda il sensore di chi entra in biblioteca, sempre un sensore di pressione posto all'entrata, mentre per rilevare quante volte vengono prese le riviste un sensore di....
+*Scorciatoie*: quante persone utilizzano l'ascensore.  Per quanto riguarda il sensore di chi entra in ascensore, sempre un sensore di pressione posto all'entrata.
 
 Per quanto riguarda l'uso del colore la cromoterapia insegna che: *"L'utilizzo dei colori è normalmente regolato da principi comuni, analoghi a quelli che portano a scegliere il colore dell'abito da indossare o la tinta delle pareti di casa per abbinarli a una determinata personalità e favorire o contrastare un certo stato d'animo. Secondo la cromoterapia, i colori aiuterebbero il corpo e la psiche a ritrovare il loro naturale equilibrio, e avrebbero effetti fisici e psichici in grado di stimolare il corpo e calmare certi sintomi."* (da scienza e salute)
 
