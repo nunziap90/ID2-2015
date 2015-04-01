@@ -98,3 +98,13 @@ Sensore
 http://www.logicaprogrammabile.it/arduino-sensore-di-temperatura-tmp36/
 
 http://playground.arduino.cc/Italiano/Sensori
+
+Le variabili che condizionano i due valori scelti potrebbero essere:
+- luogo di rilevamento (esterno/interno, aula/laboratorio)
+- affollamento (area fumatori/laboratorio modelli, aula grande/aula piccola);
+- periodo della giornata (pausa pranzo/laboratorio, prima mattinata/metà mattinata)
+- periodo dell'anno (interno/esterno, lezioni/esami)
+
+Vorrei che l'installazione riuscisse a fornire una rappresentazione della vitalità dell'Università, mai uguale a se stessa, che cambi istantaneamente mentre la si osserva. 
+
+Di qui in avanti vorrei approfondire quali potrebbero essere le possibili _traduzioni_ alle rilevazioni.
