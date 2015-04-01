@@ -56,6 +56,9 @@ Scorciatoie: quante persone utilizzano l'ascensore.
 ![6] (http://imgur.com/1Fk9kLG.png) 
 
 
+In conclusione gli studenti creano i dati, che rappresentano la metafora del percorso universitario (la frenesia che aumenta sempre di più durante l'arco della gioranta, l'umore che cambia in base agli eventi, la cultura in base a quanto ti piace approfondire e per chi vuole le scorciatoie, rappresentate in questo caso dall'ascensore). 
+
+
 
 
 
