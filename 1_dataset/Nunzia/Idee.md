@@ -8,3 +8,5 @@ usciti dall'uni e che ora stanno lavorando in aziende/studi e progetti.
 
 - Umore: in base all'umore del giorno: musica, colori diversi. 
 - Cos'è il design? 
+
+http://imgur.com/wuxlmvd.png
