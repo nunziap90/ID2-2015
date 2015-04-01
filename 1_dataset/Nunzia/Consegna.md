@@ -2,7 +2,7 @@
 
 #### "Il percorso universitario" 
 
-Ogni giorni gli studenti vivono l'università, ognuno a proprio modo, con le proprie ansie, paure, traguardi, sforzi...
+Ogni giorno gli studenti vivono l'università, ognuno a proprio modo, con le proprie ansie, paure, traguardi, sforzi...
 Quindi perchè non raccontare l'umore che ogni giorno si respira in questo luogo? Con tutta la sua frenesia. 
 Ho voluto raccontare il mio percorso con schemi dei pensieri fatti, fino ad arrivare alla conclusione. 
 Son partita con la prima tavola raccontando il percorso fatto, tra i tanti temi, mi son soffermata su quelli di cui si potessero prendere dati giornalieri, per scegliere in definitiva l'umore/percorso. 
