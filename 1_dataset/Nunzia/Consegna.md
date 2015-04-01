@@ -22,11 +22,11 @@ Franco Battiato
 Gatto: allora non importa quale via prendere!"*
 Lewis Carroll
 
- Chi sa concentrarsi su qualche cosa e perseguirla come unico scopo ottiene, alla fine, la capacità di fare 
-qualsiasi cosa.
+*"Chi sa concentrarsi su qualche cosa e perseguirla come unico scopo ottiene, alla fine, la capacità di fare 
+qualsiasi cosa."*
 M.Gandhi
 
-«A mete eccelse per anguste vie».
+*"A mete eccelse per anguste vie.*"
 Victor Hugo 
 
 
