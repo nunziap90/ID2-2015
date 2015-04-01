@@ -22,7 +22,10 @@ L'artista in questo modo crea una sorta di rappresentazione universale, adattabi
 
 ***e se . . .***
 
-*Se l'artista usasse delle rappresentazioni digitali?* Se si usasse un database digitale si potrebbe utilizzare la grafica generativa per creare, con lo stesso principio metodologico, nuove forme di rappresentazione dinamica che amplierebbero la capacità espressiva dell'opera. Con l'aiuto di programmi informatici si pobrebbe dinamicizzare i dati in una composizione attiva che autogenera delle proprie esperienze musicali.
+*Se l'artista usasse delle rappresentazioni digitali?* Se si usasse un database digitale si potrebbe utilizzare la grafica generativa per creare, con lo stesso principio metodologico, nuove forme di rappresentazione dinamica che amplierebbero la capacità espressiva dell'opera. Con l'aiuto di programmi informatici si pobrebbe dinamicizzare i dati in una composizione attiva che autogenera delle proprie esperienze musicali. 
+
+![] (http://www.creativeapplications.net/wp-content/uploads/2010/08/radius05.jpg)
+Un esempio potrebbe essere questo progetto [Radius Music] (http://www.creativeapplications.net/processing/radius-music-processing/), il quale crea una composizione visiva e musicale in base ai dati ricevuti in tempo reale, da sensori di distanza situati nello spazio dell'installazione.
 
 -
 
