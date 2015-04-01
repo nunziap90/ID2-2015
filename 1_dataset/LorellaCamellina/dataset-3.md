@@ -1,6 +1,6 @@
-## Dataset | Rumore
+## Dataset
 
-#####Luoghi
+## Luoghi
 
 Elenco dei luoghi presi in considerazione per il prelievo dei dati.
 
@@ -14,6 +14,9 @@ F |   |   | Distributori 1 | Celletta 5
 G |   |   | Distributori 2 |  
   |   |   | Prato |  
   |   |   | Ponte fumatori | 
+
+## Rumore
+
 #####Strumento
 
 Possiamo prelevare il rumore tramite _sensori di rilevamento del suono_.
