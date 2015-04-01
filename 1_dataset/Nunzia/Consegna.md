@@ -35,7 +35,7 @@ Ci sono molte metafore che si addicano alle scale con qualcos'altro, ma la più 
 
 ![3] (http://imgur.com/kvIIdqu.png) 
 
-Ho iniziato così a pensare oltre ai gesti che involontariamente o volontariamente si fanno sulle scale, come picchiettare sul corrimano, saltare i gradini, ci fossero altri gesti che si potessero fare in tutta l'università, così ho pensato a tutti i luoghi dove noi passiamo la nostra giornata. 
+Ho iniziato così a pensare oltre ai gesti che involontariamente o volontariamente si fanno sulle scale, come picchiettare sul corrimano, saltare i gradini, ci fossero altri gesti che si potessero fare in tutta l'università, così ho pensato a tutti i luoghi dove noi passiamo la nostra giornata, ad esempio i distributori, le aule, i giardino...
 
 ![4] (http://imgur.com/FSGCECd.png) 
 
