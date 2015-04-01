@@ -45,13 +45,10 @@ Dal sistema predefinito si possono creare dei report predefiniti, personalizzati
 
 Una volta ottenuti i registri, successivamente possono essere elaborati da noi stessi, per dare un nostro preciso significato ed una propria personale interpretazione. Utilizzando un programma di elaborazione dati, si possono dunque richiamare questi ***datalog*** attraverso una precisa terminologia del software, in modo da ricreare la rappresentazione progettata. L'interrogazione del servizio e l'estrapolazione delle relative informazioni, segue le regole dell'algoritmo da noi scritto.
 
-
-
--
-
-
+*
 
 **FONTI**
+
 Estrapolando informazioni dal server, si possono ottenere dei datalog in formato ***.csv***, con la divisione in colonne delle seguenti di categorie:
 
 >Domain,Receive Time,Serial #,Type,Threat/Content Type,Config Version,Generate Time,Source address,Destination address,NAT Source IP,NAT Destination IP,Rule,Source User,Destination User,Application,Virtual System,Source Zone,Destination Zone,Inbound Interface,Outbound Interface,Log Action,Time Logged,Session ID,Repeat Count,Source Port,Destination Port,NAT Source Port,NAT Destination Port,Flags,IP Protocol,Action,Bytes,Bytes Sent,Bytes Received,Packets,Start Time,Elapsed Time (sec),Category,Padding,seqno,actionflags,Source Country,Destination Country,cpadding,pkts_sent,pkts_received
@@ -61,6 +58,9 @@ I file di analisi concessi dall'università si trovano in questa [Cartella Dati]
 
 **L'obiettivo è capire l'attività dinamica dell'università e il flusso di scambio con la rete, per comprendere come è necessario il rapporto con questo "secondo spazio", come lo si utilizza e come ci si relaziona con il suo volume di informazioni.**
 
+*
+
+**ISPIRAZIONI**
 
 ![] (http://o-c-r.org/wp-content/uploads/2014/07/IMG_3081.jpg)
 [The Sight and Sound of Cybercrime] (http://o-c-r.org/2014/11/15/specimen_box/), è utile per capire come poter interpretare dei dati invisibili sotto diversi punti di vista, in modo da comunicare la densità dei soggetti che si relazionano tra di loro e con la rete, la personalità di questi ultimi, il loro comportamento e l'andamento delle attività nel tempo e nello spazio.
