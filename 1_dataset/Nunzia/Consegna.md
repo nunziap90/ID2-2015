@@ -11,5 +11,5 @@
 
 ![5] (http://imgur.com/uqeUHpV.png) 
 
-![6] (http://imgur.com/p1BPYmv.png) 
+![6] (http://imgur.com/1Fk9kLG.png) 
 
