@@ -45,12 +45,17 @@ Il mio "percorso" si sofferma così su alcuni aspetti caratteristici della nostr
 ![5] (http://imgur.com/uqeUHpV.png) 
 
 Tramite alcuni sensori, di cui parlerò dopo, raccoglierò i seguenti dati:
+
 Frenesia: tramite le scele quanti Km vengono compiuti ogni giorno all'interno dell'università, così da capirne i ritmi e se in periodi come gli esami i ritmi aumentano o diminuiscono e quanti caffè vengono presi al giorno.
 Umore: il corrimano diventa un banco di stimolo di colori, per cui il base all'umore o al gusto la persona sceglierà il suo colore del giorno.
 Cultura: quante persone accedono alla biblioteca e quante sfogliano le riviste. 
 Scorciatoie: quante persone utilizzano l'ascensore. 
 
+
+
 ![6] (http://imgur.com/1Fk9kLG.png) 
+
+
 
 
 
