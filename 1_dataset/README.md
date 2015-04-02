@@ -65,6 +65,29 @@ Alla ricerca di scintille e idee possibili.
 - Memoria
 - _Social_
 
+## 25 - 26 Marzo
+
+### Proposte
+
+![Brainstorming 25-26 Marzo](http://i.imgur.com/Btd2oA4.gif)
+
+Proposte per _dataset_ sull'Università con cui lavorare.   
+Per titoli.
+
+- [Nunzia](./Nunzia)
+  - Umore. I dati li si lascia non li si cerca.
+- [Francesca](./Francesca)
+  - _Server._ 
+- [Gian Andrea](./GianAndrea)
+  - The visible network. Server+
+- [Lorella](./LorellaCamellina)
+  - Calore. Rumore.
+- [Raffaele](./Raffaele)
+  - Sustainable me. Risorse/Consumi.
+- [Luigi](./luigi)
+  - _Tag e keyword._
+- [Federico](./Federico_Lo_Porto)
+  - Andamento universitario. Gli studenti.
 
 -----
 

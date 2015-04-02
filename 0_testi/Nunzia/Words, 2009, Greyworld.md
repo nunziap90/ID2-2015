@@ -23,6 +23,7 @@ Sfera che diffonde la sua luce dell'alba in tutta Londra
 
 ### Come Funziona?
 ![Words] (http://imgur.com/KYVHC0o.png)
+
 ##### Words
 
 Words è un'istallazione di augmented reality, che si basa sull'interazione col pubblico e che permette di fare 

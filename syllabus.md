@@ -52,7 +52,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Lab 2
 - openrefine
 - raw
-- processing + data
+- idee **dataset**
 
 ---
 
@@ -78,17 +78,14 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ##26 Marzo
 ###_Digital Art and Meaning: close reading._
 
-![The Secret Lives of Numbers, 2002, Golan Levin+](http://i.imgur.com/qDrLG5X.jpg?1) ![Listening Post, 2000+, Mark Hansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
+![The Secret Lives of Numbers, 2002, Golan Levin+](http://i.imgur.com/qDrLG5X.jpg?1) ![Bio Mapping / Emotion Mapping_, 2004+, Christian Nold](http://i.imgur.com/I7IOGP9.jpg?1) ![Listening Post, 2000+, Mark H_ansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
 
 - _The Secret Lives of Numbers_, 2002, Golan Levin+ [+](http://www.flong.com/projects/slon/)
+- _Bio Mapping / Emotion Mapping_, 2004+, Christian Nold [+](http://biomapping.net/)
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
 
 ### Lab 3
-- google fogli
-- processing
-- api/temboo
-- _scraping_
-
+- proposte **dataset**
 
 ---
 
@@ -100,8 +97,23 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ##2 Aprile
 
-### Lab 4
-- discussione **dataset**
+![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/086ew8k.jpg?1)
+
+
+### 
+- consegna **dataset**
+
+###### compito/approfondire
+1. _Artistic Data Visualization: Beyond Visual Analytics_, Fernanda B. Viégas & Martin Wattenberg [+](http://hint.fm/papers/artistic-infovis.pdf)
+2. _Dear Data_, 2015, Giorgia Lupi & Stefanie Posavec [+](http://www.dear-data.com/)
+
+###### compito/progetto
+1. idee **dataviz**
+2. code _G_Spreadsheet_Data.pde_ 3 versioni [+](https://github.com/Fupete/ID2-2015/tree/master/2_dataviz/code)
+
+
+
+
 
 -------
 
