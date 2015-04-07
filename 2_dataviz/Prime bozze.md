@@ -1,14 +1,20 @@
-###Ipotesi
+###Dataviz
+
+##### Artistic Data Visualization
 
 ![1] (http://imgur.com/MOGuGeL.png)
 
 ![2] (http://imgur.com/WjS3aEp.png)
+
+##### Dear Data
 
 ![3] (http://imgur.com/iuldNMr.png)
 
 ![4] (http://imgur.com/hWCuCE9.png)
 
 ![5] (http://imgur.com/Ddw1jyY.png)
+
+##### Idee per visualizzazioni grafiche:
 
 ![6] (http://imgur.com/F7cUiJc.png)
 
