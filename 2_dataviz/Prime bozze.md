@@ -6,13 +6,15 @@
 
 ##### Dear Data
 
+![3] (http://imgur.com/iuldNMr.png)
+
 ![1] (http://imgur.com/MOGuGeL.png)
 
 ![2] (http://imgur.com/WjS3aEp.png)
 
 
 
-![3] (http://imgur.com/iuldNMr.png)
+
 
 
 
