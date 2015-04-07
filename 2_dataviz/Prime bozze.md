@@ -33,5 +33,9 @@
 *Tondo come il mondo*
 ![9] (http://imgur.com/OHTdu3F.png)
 
+#####Tener presenti alcuni progetti: 
+
+
+
 
 
