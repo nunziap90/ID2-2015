@@ -8,15 +8,13 @@
 
 ![3] (http://imgur.com/iuldNMr.png)
 
+![10] (http://imgur.com/xFyw1JZ.png) ![11] (http://imgur.com/sQXJkja.png) ![12] (http://imgur.com/Ti30UNn.png) 
+
+
+
 ![1] (http://imgur.com/MOGuGeL.png)
 
 ![2] (http://imgur.com/WjS3aEp.png)
-
-
-
-
-
-
 
 ![5] (http://imgur.com/Ddw1jyY.png)
 
@@ -30,5 +28,5 @@
 
 ![9] (http://imgur.com/OHTdu3F.png)
 
-![10] (http://imgur.com/xFyw1JZ.png) ![11] (http://imgur.com/sQXJkja.png) ![12] (http://imgur.com/Ti30UNn.png) 
+
 
