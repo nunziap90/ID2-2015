@@ -37,5 +37,14 @@
 
 [2013 – Very Pointy Elevation Map](http://dataphys.org/list/very-pointy-elevation-map/)
 
+[2007 – Global Cities: Elevation Maps of City Population](http://dataphys.org/list/city-populations/)
 
+[2007 – Explosion of Sound Sculptures](http://dataphys.org/list/variety-of-sound-sculptures/)
 
+[2012 – Emoto: Projection Augmented Heatmaps of Twitter Data](http://dataphys.org/list/emoto-projection-augmented-heatmaps-of-twitter-data/)
+
+[2013 – Line Charts of Cortisol Levels](http://dataphys.org/list/line-charts-of-cortisol-levels/)
+
+[2004 – Cylinder: Early Sound Sculpture](http://dataphys.org/list/sound-sculpture/)
+
+[A Wilderness Most Luminous – The Making of Micah Scott’s Forest](http://www.creativeapplications.net/cinder/circle-forest/)
