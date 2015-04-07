@@ -10,6 +10,8 @@
 
 ![10] (http://imgur.com/xFyw1JZ.png) ![11] (http://imgur.com/sQXJkja.png) ![12] (http://imgur.com/Ti30UNn.png) 
 
+![6] (http://imgur.com/F7cUiJc.png)
+
 
 
 ![1] (http://imgur.com/MOGuGeL.png)
@@ -20,7 +22,7 @@
 
 ##### Idee per visualizzazioni grafiche:
 
-![6] (http://imgur.com/F7cUiJc.png)
+
 
 ![7] (http://imgur.com/KDHZMUP.png)
 
