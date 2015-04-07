@@ -18,5 +18,5 @@
 
 ![9] (http://imgur.com/OHTdu3F.png)
 
-
+![10] (http://imgur.com/VZ42lLf.png) ![11] (http://imgur.com/jhap4zY.png) ![12] (http://imgur.com/6MTkjtC.png) 
 
