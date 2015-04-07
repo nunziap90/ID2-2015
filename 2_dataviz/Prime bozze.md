@@ -12,7 +12,11 @@
 
 ![6] (http://imgur.com/F7cUiJc.png)
 
+![7] (http://imgur.com/KDHZMUP.png)
 
+![8] (http://imgur.com/dYmiTpN.png)
+
+![9] (http://imgur.com/OHTdu3F.png)
 
 
 
