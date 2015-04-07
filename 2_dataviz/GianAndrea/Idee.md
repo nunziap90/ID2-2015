@@ -4,6 +4,7 @@
 ![] (http://www.cheswick.com/ches/map/gallery/wired.gif)
 Riferimento [The Internet Mapping Project] (http://www.cheswick.com/ches/map/)
 ![] (http://o-c-r.org/wp-content/uploads/2014/07/IMG_3026-1024x682.jpg)
+![] (http://static1.squarespace.com/static/54eec73ee4b0ae0904da0e94/54f3716ae4b0b75ae55ae121/54f3724de4b09389aa3b3c41/1425240655980/Stefanie_DearData_06+front.jpg?format=1500w)
 idea per utenza e tempo di sessioni
 
 -
