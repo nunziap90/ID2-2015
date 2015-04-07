@@ -4,15 +4,17 @@
 
 ![4] (http://imgur.com/hWCuCE9.png)
 
-##### Dear Data
+#### Dear Data
 
 ![3] (http://imgur.com/iuldNMr.png)
 
 ![10] (http://imgur.com/xFyw1JZ.png) ![11] (http://imgur.com/sQXJkja.png) ![12] (http://imgur.com/Ti30UNn.png) 
 
+#####Schizzi ripresi da "Dear Data".
+
 ![6] (http://imgur.com/F7cUiJc.png)
 
-##### Idee per visualizzazioni grafiche:
+#### Idee per visualizzazioni grafiche:
 
 ![1] (http://imgur.com/MOGuGeL.png)
 
