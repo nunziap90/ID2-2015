@@ -28,7 +28,7 @@
 ![5] (http://imgur.com/Ddw1jyY.png)
 *Arrivare all'obiettivo
 ![7] (http://imgur.com/KDHZMUP.png)
-*
+*Dura la salita*
 ![8] (http://imgur.com/dYmiTpN.png)
 
 ![9] (http://imgur.com/OHTdu3F.png)
