@@ -15,7 +15,7 @@
 ![6] (http://imgur.com/F7cUiJc.png)
 
 #### Idee per visualizzazioni grafiche:
-#####Ipotizzare al giorno quanti dati abbiamo per sviluppare il nostro dataset. 
+#####Ipotizzare al giorno quanti dati abbiamo per sviluppare il nostro dataset: frenesia, umore, cultura scorciatoie. 
 
 ![1] (http://imgur.com/MOGuGeL.png)
 
