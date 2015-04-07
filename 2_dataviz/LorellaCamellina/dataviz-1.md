@@ -28,37 +28,37 @@ Spiegazione traduzione
 
 Spiegazione obiettivo
 
-###### 3.1
+##### 3.0
 
 ![3.0](http://i.imgur.com/eyAkGHO.png?1)
 
 Spiegazione
 
-###### 3.2
+##### 3.1
 
 ![3.1](http://i.imgur.com/4ezTeYZ.png?1)
 
 Spiegazione
 
-###### 3.3
+##### 3.2
 
 ![3.2](http://i.imgur.com/jdL47Y6.png?1)
 
 Spiegazione
 
-###### 3.3
+##### 3.3
 
 ![3.3](http://i.imgur.com/r4SaD8a.png?1)
 
 Spiegazione
 
-###### 3.4
+##### 3.4
 
 ![3.4](http://i.imgur.com/yw1n8I5.png?1)
 
 Spiegazione
 
-###### 3.5
+##### 3.5
 
 ![3.5](http://i.imgur.com/dntJ8Cr.png?1)
 
