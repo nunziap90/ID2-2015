@@ -1,6 +1,6 @@
 ##DATASET
 
-Per iniziare a comprendere meglio la variabilità e la natura dei dati che ho intenzione di rilevare ho deciso di dedicare una ipotesi di visualizzazione al suono (#1), una al calore (#2) ed una terza che mettesse in relazione le due, utilizzando il tool online Raw.
+Per iniziare a comprendere la variabilità e la natura dei dati che ho intenzione di rilevare, ho deciso di dedicare una ipotesi di visualizzazione al suono (#1), una al calore (#2) ed una terza alla possibile relazione fra le due, in particolare quest'ultima è stata elaborata provando ad utilizzare il tool online Raw.
 
 
 ![intro](http://i.imgur.com/jQcZeAO.png?1)
@@ -69,8 +69,8 @@ Spiegazione
 
 ## Conclusioni
 
-Nonostante credo di aver giustificato correttamente ogni scelta, credo che il risultato finale ottenuto tramite Raw sia un po' troppo povero. Credo di aver dato in input troppi pochi dati, poche variabili. Vorrei raggiungere un livello di complessità maggiore. 
-Riprendendo quanto consegnato relativamente al Dataset dicevo che:
+Non mi convince il risultato ottenuto con Raw. Non credo di aver sfruttato al meglio lo strumento e tantomeno la variabilità dei dati di cui dispongo. Credo di aver dato in input troppi pochi dati, troppe poche variabili e così facendo è stato impossibile comprendere significati ulteriori dalle visualizzazioni. Lo prenderò come un tentativo di approccio a quel preciso strumento. Vorrei raggiungere un livello di complessità maggiore. 
+Riprendendo quanto consegnato in passato relativamente al Dataset dicevo che:
 
 *"Le variabili che condizionano i due valori scelti potrebbero essere:
 _- luogo di rilevamento (esterno/interno, aula/laboratorio)_
@@ -79,7 +79,3 @@ _- luogo di rilevamento (esterno/interno, aula/laboratorio)_
 _- periodo dell'anno (interno/esterno, lezioni/esami)_*
 
 Inizierò ad arricchire la Visualizzazione 3 a partire da _queste ulteriori condizioni_.
-
-Vorrei che l'installazione riuscisse a fornire una rappresentazione della vitalità dell'Università, mai uguale a se stessa, che cambi istantaneamente mentre la si osserva. 
-
-Di qui in avanti vorrei approfondire quali potrebbero essere le possibili _traduzioni_ alle rilevazioni.
