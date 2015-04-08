@@ -2,16 +2,17 @@
 
 Per iniziare a comprendere la variabilità e la natura dei dati che ho intenzione di rilevare, ho deciso di dedicare una ipotesi di visualizzazione al suono (#1), una al calore (#2) ed una terza alla possibile relazione fra le due, in particolare quest'ultima è stata elaborata provando ad utilizzare il tool online Raw.
 
+Di seguito alcune puntualizzazioni iniziali per chiarirmi e chiarire le idee su che cosa voglio intendere quando parlo di rilevazione del *"suono"*.
 
-![intro](http://i.imgur.com/jQcZeAO.png?1)
+![00](http://i.imgur.com/jQcZeAO.png?1)
 
-Intro
+Brevemente, in fase di acquisizione dati non mi interesserà l'aspetto emotivo del suono ma la sua mera essenza fisica, il suo essere vibrazione che si propaga nell'aria a prescindere da chi/cosa lo produca e come.
 
 ##Visualizzazione 1
 
 ![01](http://i.imgur.com/G3EZ2Q2.png?1)
 
-Spiegazione
+ xxxxxx
 
 ![02](http://i.imgur.com/V2RC49X.png?1)
 
