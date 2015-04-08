@@ -42,15 +42,13 @@ Le variabili per il dato calore sono praticamente le stesse del suono:
 
 ![3](http://i.imgur.com/0PSbdC5.png?1)
 
-Visto l'esercizio precedente, sono arrivata direttamente ad una visualizzazione che mettesse in gioco le tre variabili contemporaneamente.
+![04](http://i.imgur.com/035dpLG.png?1)
 
-![4](http://i.imgur.com/035dpLG.png?1)
-
-Spiegazione traduzione
+Visto l'esercizio precedente, sono arrivata direttamente ad una visualizzazione che mettesse in gioco le tre variabili contemporaneamente. Anche qui, immagino che il frame possa esser messo in movimento per fornire maggiore significato al dato che si presenta, così da poterlo seguire nella sua evoluzione nell'arco della giornata.
 
 ##Visualizzazione 3
 
-Spiegazione obiettivo
+L'obiettivo che avevo in mente era di riuscire ad entrare nella logica di utilizzo di Raw e di riuscire ad apprezzarne le capacità di modifica della lettura dei dati.
 
 ##### 3.0
 
