@@ -20,10 +20,15 @@ In questa prima visualizzazione ho pensato a tre variabili che sono:
 
 Sono arrivata ad immaginare una serie di vettori che abbiano lo stesso punto di applicazione (il centro di un cerchio) e che siano divergenti per direzione. 
 
-Il settore del cerchio inutilizzato in ogni caso di provenienza rappresenta il lasso di tempo che non appartiene alla giornata universitaria secondo me, cioè _08:30 > tempo non considerato < 19:30_.
+Il settore del cerchio inutilizzato, a prescindere da V2, rappresenta il lasso di tempo che non appartiene alla giornata universitaria secondo me. 
+
+08:30 < giornata universitaria < 19:30
+
+08:30 > giornata non universitaria > 19:30
+
 L'evoluzione temporale della giornata segue la logica comunemente accettata dell'orologio: _il senso orario_.
 Il problema era che in questo modo avrei avuto tante visualizzazioni quante le varie "situazioni sonore" della sede universitaria. Praticamente a colpo d'occhio sarebbe stato facile intuire la rumorosità (V3) ed il suo svolgimento nella giornata (V1) ma non avrei visualizzato tutta l'università in un colpo solo.
-Di conseguenza ho cercato di caratterizzare i vettori in base alla V2 cioè la provenienza.
+Di conseguenza ho cercato di caratterizzare i vettori in base a V2, cioè alla provenienza.
 
 ![02](http://i.imgur.com/V2RC49X.png?1)
 
@@ -60,13 +65,13 @@ Tre step: temperatura + rumorosità + provenienza. Nessun criterio di dimensiona
 
 ![3.1](http://i.imgur.com/4ezTeYZ.png?1)
 
-Quattro step: momento della giornata + temperatura + rumorosità + provenienza. Il criterio di dimensionamento è dato dal parametro della rumorosità.
+Quattro step: momento della giornata + temperatura + rumorosità + provenienza. Il criterio di dimensionamento è dato dal parametro della rumorosità. Ho scelto questa visualizzazione perché era quella che mi permettava di mantenere al meglio sia stringhe di testo (luogo di provenienza della rilevazione) che dati numerici (temperatura + rumorosità).
 
 ##### 3.2
 
 ![3.2](http://i.imgur.com/jdL47Y6.png?1)
 
-Cambia l'ordine dei quattro step: momento della giornata + provenienza + temperatura + rumorosità. Stesso criterio di dimensionamento è dato dal parametro della rumorosità. Inizio a capire che l'orario non crea differenze nell'interpretazione. Se venisse dichiarato in partenza o fosse ovvio (es.: so che avviene un campionamento dei dati con frequenza oraria per cui so che quel che vedo è relativo alla fascia oraria immediatamente precedente) probabilmente sarebbe più facile fruire la visualizzazione.
+Cambia l'ordine dei quattro step: momento della giornata + provenienza + temperatura + rumorosità. Stesso criterio di dimensionamento: il parametro della rumorosità. Inizio a capire che l'orario non crea differenze nell'interpretazione. Se venisse dichiarato in partenza o fosse ovvio (es.: so che avviene un campionamento dei dati con frequenza oraria per cui so che quel che vedo è relativo alla fascia oraria immediatamente precedente) probabilmente sarebbe addirittura più facile fruire la visualizzazione.
 
 ##### 3.3
 
