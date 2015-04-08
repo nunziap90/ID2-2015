@@ -10,13 +10,27 @@ Brevemente, in fase di acquisizione dati non mi interesserà l'aspetto emotivo d
 
 ##Visualizzazione 1
 
+In questa prima visualizzazione ho pensato a tre variabili che sono:
+
+- V1 il tempo (in quale momento della giornata? + quali sono i confini della giornata universitaria?);
+- V2 la provenienza (da quale luogo dell'UNIRSM?);
+- V3 l'intensità (come visualizzo un livello sonoro più o meno debole? + che unità di misura utilizzo?).
+
 ![01](http://i.imgur.com/G3EZ2Q2.png?1)
 
- xxxxxx
+Sono arrivata ad immaginare una serie di vettori che abbiano lo stesso punto di applicazione (il centro di un cerchio) e che siano divergenti per direzione. 
+
+Il settore del cerchio inutilizzato in ogni caso di provenienza rappresenta il lasso di tempo che non appartiene alla giornata universitaria secondo me, cioè _08:30 > tempo non considerato < 19:30_.
+L'evoluzione temporale della giornata segue la logica comunemente accettata dell'orologio: _il senso orario_.
+Il problema era che in questo modo avrei avuto tante visualizzazioni quante le varie "situazioni sonore" della sede universitaria. Praticamente a colpo d'occhio sarebbe stato facile intuire la rumorosità (V3) ed il suo svolgimento nella giornata (V1) ma non avrei visualizzato tutta l'università in un colpo solo.
+Di conseguenza ho cercato di caratterizzare i vettori in base alla V2 cioè la provenienza.
 
 ![02](http://i.imgur.com/V2RC49X.png?1)
 
-Spiegazione traduzione
+Non so se il risultato così ottenuto sia più soddisfacente di quello che lo precedeva. Forse la causa è da ricercare nel mezzo (a mano libera si crea confusione al lettore). O forse anche un po' perché l'attribuzione del significato passa sempre per un codice, per una legenda, che andrebbero studiati al fine di comprendere la visualizzazione, quindi creo (come si racconta in Raw) uno step ulteriore alla comprensione.
+Inoltre, con queste visualizzazioni io sto creando di tante istantanee, dei frame di momenti precisi, non di rappresentazioni dinamiche.
+
+Quindi, la domanda è: in realtà, se la visualizzazione fosse dinamica, cosa avrei interesse di sapere? Dove c'è più rumore? Dove ce n'è meno? Quale intensità raggiunge il luogo con più confusione?
 
 ##Visualizzazione 2
 
