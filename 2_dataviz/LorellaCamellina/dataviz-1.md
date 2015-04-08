@@ -53,7 +53,7 @@ Visto l'esercizio precedente, sono arrivata direttamente ad una visualizzazione 
 
 ##Visualizzazione 3
 
-L'obiettivo che avevo in mente era di riuscire ad entrare nella logica di utilizzo di Raw e di riuscire ad apprezzarne le capacità di modifica della lettura dei dati.
+L'obiettivo che avevo in mente era di riuscire ad entrare nella logica di utilizzo di Raw e di riuscire ad apprezzarne le capacità di modifica della lettura dei dati. Ho scelto questo tipo di visualizzazione perché era la più idonea a mantenere ben rappresentare sia le stringhe di testo (V2 e V1) che i dati numerici (V3 temperatura + V3 rumorosità).
 
 ##### 3.0
 
