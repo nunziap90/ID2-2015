@@ -54,41 +54,42 @@ L'obiettivo che avevo in mente era di riuscire ad entrare nella logica di utiliz
 
 ![3.0](http://i.imgur.com/eyAkGHO.png?1)
 
-Spiegazione
+Tre step: temperatura + rumorosità + provenienza. Nessun criterio di dimensionamento del flusso.
 
 ##### 3.1
 
 ![3.1](http://i.imgur.com/4ezTeYZ.png?1)
 
-Spiegazione
+Quattro step: momento della giornata + temperatura + rumorosità + provenienza. Il criterio di dimensionamento è dato dal parametro della rumorosità.
 
 ##### 3.2
 
 ![3.2](http://i.imgur.com/jdL47Y6.png?1)
 
-Spiegazione
+Cambia l'ordine dei quattro step: momento della giornata + provenienza + temperatura + rumorosità. Stesso criterio di dimensionamento è dato dal parametro della rumorosità. Inizio a capire che l'orario non crea differenze nell'interpretazione. Se venisse dichiarato in partenza o fosse ovvio (es.: so che avviene un campionamento dei dati con frequenza oraria per cui so che quel che vedo è relativo alla fascia oraria immediatamente precedente) probabilmente sarebbe più facile fruire la visualizzazione.
 
 ##### 3.3
 
 ![3.3](http://i.imgur.com/r4SaD8a.png?1)
 
-Spiegazione
+Rimane il criterio di dimensionamento tramite il parametro della rumorosità ma lo stesso paramentro scompare dagli step, che diventano tre: momento della giornata + provenienza + temperatura.
 
 ##### 3.4
 
 ![3.4](http://i.imgur.com/yw1n8I5.png?1)
 
-Spiegazione
+Quattro step: momento della giornata + provenienza + temperatura + rumorosità. Il criterio di dimensionamento del flusso diventa la temperatura: la differenza non è apprezzabile. Potrei risolvere scalando il dato temperatura in input nella fase di visualizzazione?
 
 ##### 3.5
 
 ![3.5](http://i.imgur.com/dntJ8Cr.png?1)
 
-Spiegazione
+Tre step: momento della giornata + provenienza + rumorosità. Il criterio di dimensionamento del flusso diventa la temperatura: la differenza non è apprezzabile. Come sopra.
 
 ## Conclusioni
 
-Non mi convince il risultato ottenuto con Raw. Non credo di aver sfruttato al meglio lo strumento e tantomeno la variabilità dei dati di cui dispongo. Credo di aver dato in input troppi pochi dati, troppe poche variabili e così facendo è stato impossibile comprendere significati ulteriori dalle visualizzazioni. Lo prenderò come un tentativo di approccio a quel preciso strumento. Vorrei raggiungere un livello di complessità maggiore. 
+Non mi convince appieno il risultato ottenuto con Raw. Non credo di aver sfruttato al meglio lo strumento e tantomeno la variabilità dei dati di cui dispongo. Credo di aver dato in input troppi pochi dati, troppe poche variabili e così facendo è stato impossibile comprendere significati ulteriori dalle visualizzazioni. Lo prenderò come un tentativo di approccio a quel preciso strumento. Vorrei raggiungere un livello di complessità maggiore.
+
 Riprendendo quanto consegnato in passato relativamente al Dataset dicevo che:
 
 *"Le variabili che condizionano i due valori scelti potrebbero essere:
