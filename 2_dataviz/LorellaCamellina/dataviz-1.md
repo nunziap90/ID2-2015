@@ -1,5 +1,8 @@
 ##DATASET
 
+Per iniziare a comprendere meglio la variabilità e la natura dei dati che ho intenzione di rilevare ho deciso di dedicare una ipotesi di visualizzazione al suono (#1), una al calore (#2) ed una terza che mettesse in relazione le due, utilizzando il tool online Raw.
+
+
 ![intro](http://i.imgur.com/jQcZeAO.png?1)
 
 Intro
@@ -66,11 +69,16 @@ Spiegazione
 
 ## Conclusioni
 
-Le variabili che condizionano i due valori scelti potrebbero essere:
-- luogo di rilevamento (esterno/interno, aula/laboratorio)
-- affollamento (area fumatori/laboratorio modelli, aula grande/aula piccola);
+Nonostante credo di aver giustificato correttamente ogni scelta, credo che il risultato finale ottenuto tramite Raw sia un po' troppo povero. Credo di aver dato in input troppi pochi dati, poche variabili. Vorrei raggiungere un livello di complessità maggiore. 
+Riprendendo quanto consegnato relativamente al Dataset dicevo che:
+
+*"Le variabili che condizionano i due valori scelti potrebbero essere:
+_- luogo di rilevamento (esterno/interno, aula/laboratorio)_
+- affollamento (area fumatori/laboratorio modelli, _aula grande/aula piccola_);
 - periodo della giornata (pausa pranzo/laboratorio, prima mattinata/metà mattinata)
-- periodo dell'anno (interno/esterno, lezioni/esami)
+_- periodo dell'anno (interno/esterno, lezioni/esami)_*
+
+Inizierò ad arricchire la Visualizzazione 3 a partire da _queste ulteriori condizioni_.
 
 Vorrei che l'installazione riuscisse a fornire una rappresentazione della vitalità dell'Università, mai uguale a se stessa, che cambi istantaneamente mentre la si osserva. 
 
