@@ -27,18 +27,24 @@ Di conseguenza ho cercato di caratterizzare i vettori in base alla V2 cioè la p
 
 ![02](http://i.imgur.com/V2RC49X.png?1)
 
-Non so se il risultato così ottenuto sia più soddisfacente di quello che lo precedeva. Forse la causa è da ricercare nel mezzo (a mano libera si crea confusione al lettore). O forse anche un po' perché l'attribuzione del significato passa sempre per un codice, per una legenda, che andrebbero studiati al fine di comprendere la visualizzazione, quindi creo (come si racconta in Raw) uno step ulteriore alla comprensione.
-Inoltre, con queste visualizzazioni io sto creando di tante istantanee, dei frame di momenti precisi, non di rappresentazioni dinamiche.
+Ho potuto anche inserire una ulteriore caratterizzazione, la frequenza. Non so però se il risultato così ottenuto sia più soddisfacente di quello che lo precedeva. Forse la causa è da ricercare nel mezzo (a mano libera si crea confusione per il lettore). O forse anche perché l'attribuzione del significato passa sempre per un codice, per una legenda, che andrebbero studiati al fine di comprendere la visualizzazione, quindi creo (come si dice in Raw) uno step ulteriore alla comprensione.
+Inoltre, con queste visualizzazioni io sto creando tante istantanee, dei frame di momenti precisi, non rappresentazioni dinamiche.
 
-Quindi, la domanda è: in realtà, se la visualizzazione fosse dinamica, cosa avrei interesse di sapere? Dove c'è più rumore? Dove ce n'è meno? Quale intensità raggiunge il luogo con più confusione?
+Quindi, la domanda è: in realtà, se la visualizzazione fosse dinamica, cosa avrei interesse di conoscere? Dove c'è più rumore? Dove ce n'è meno? Quale intensità raggiunge il luogo con più confusione? Di che stanza stiamo parlando?
 
 ##Visualizzazione 2
 
-![03](http://i.imgur.com/0PSbdC5.png?1)
+Le variabili per il dato calore sono praticamente le stesse del suono:
 
-Spiegazione
+- V1 il tempo (in quale momento della giornata? + quali sono i confini della giornata universitaria?);
+- V2 la provenienza (da quale luogo dell'UNIRSM?);
+- V3 l'intensità (come visualizzo la temperatura più o meno alta? + che unità di misura utilizzo?).
 
-![04](http://i.imgur.com/035dpLG.png?1)
+![3](http://i.imgur.com/0PSbdC5.png?1)
+
+Visto l'esercizio precedente, sono arrivata direttamente ad una visualizzazione che mettesse in gioco le tre variabili contemporaneamente.
+
+![4](http://i.imgur.com/035dpLG.png?1)
 
 Spiegazione traduzione
 
