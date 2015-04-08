@@ -53,7 +53,7 @@ Estrapolando informazioni dal server, si possono ottenere dei datalog in formato
 
 >Domain,Receive Time,Serial #,Type,Threat/Content Type,Config Version,Generate Time,Source address,Destination address,NAT Source IP,NAT Destination IP,Rule,Source User,Destination User,Application,Virtual System,Source Zone,Destination Zone,Inbound Interface,Outbound Interface,Log Action,Time Logged,Session ID,Repeat Count,Source Port,Destination Port,NAT Source Port,NAT Destination Port,Flags,IP Protocol,Action,Bytes,Bytes Sent,Bytes Received,Packets,Start Time,Elapsed Time (sec),Category,Padding,seqno,actionflags,Source Country,Destination Country,cpadding,pkts_sent,pkts_received
 
-I file di analisi concessi dall'università si trovano in questa [Cartella Dati] (https://www.copy.com/s/su4Cu0lLhJIXjwh1/Nuova%20cartella). Dalle colonne, i dati utili da estrapolare saranno: il numero di connessioni al server, la durata di connessione e il peso dei dati scambiati.
+Dalle colonne, i dati utili da estrapolare saranno: il numero di connessioni al server, la durata di connessione e il peso dei dati scambiati.
 >Ho configurato Temboo ed è possibile dialogare con Google Sreadsheet attraverso Processing
 
 **L'obiettivo è capire l'attività dinamica dell'università e il flusso di scambio con la rete, per comprendere come è necessario il rapporto con questo "secondo spazio", come lo si utilizza e come ci si relaziona con il suo volume di informazioni.**
