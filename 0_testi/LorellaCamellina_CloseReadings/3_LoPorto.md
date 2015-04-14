@@ -29,7 +29,7 @@ l'aria è sempre consumatissima per l'alta concentrazione di persone in spazi re
 e per i ventilconvettori impostati su temperature spropositate.
 In questo caso ad _"innescare un comportamento migliore"_ ci pensano già emicranie e buonsenso.
 
-Mi piace l'idea di visializzare l'inquinamento provocato dai toner delle nostre stampanti, sempre accese, 
+Mi piace l'idea di visualizzare l'inquinamento provocato dai toner delle nostre stampanti, sempre accese, 
 quasi un punto di ritrovo in sede. 
 Purtroppo però, anche in questo caso, si tratterebbe di sottolineare un aspetto negativo e relativamente al 
 quale abbiamo poco potere. 
@@ -45,7 +45,9 @@ e spingerei per un'accezione positiva dell'aria di San Marino.
 
 #####How it works
 
-
+A prescindere dalle specifiche tecniche, si tratta di sensori che riescono a percepire le qualità dell'aria nell'ambiente nel quale sono posizionati. Quello che risulterà da un rilevamento attraverso questi oggetti sarà un valore digitale, 
+un numero. A differenza del mio caso (il rumore) forse questo dato potrebbe risultare un po' meno leggibile per una
+utenza che non ha dimestichezza con certe qualità (es.: _"il particolato nell'aria"_).
 
 #####What if . . .
 
