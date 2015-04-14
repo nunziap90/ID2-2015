@@ -51,7 +51,7 @@ utenza che non ha dimestichezza con certe qualità (es.: _"il particolato nell'a
 
 #####What if . . .
 
-
+Che cosa succederebbe se la finestra si oscurasse all'aumentare del livello di polveri sottili provocate dalle fotocopiatrici? La luce del luogo cambierebbe, noi ce ne accorgeremmo e apriremmo la finestra per tornare a vederci e a respirare aria nella media (come suggerito da Tabellini). Forse alla fine fotocopieremmo anche meno.
 
 
 ---
