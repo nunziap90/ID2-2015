@@ -16,11 +16,11 @@ e dei sensori di rilevamento di polveri sottili vicino le stampanti"._
 
 L'intento dichiarato è di:
 
-_"far riflettere su come vengono vissuti determinati ambienti"_
+> _"far riflettere su come vengono vissuti determinati ambienti"_
 
-_"innescare un comportamento migliore"_
+> _"innescare un comportamento migliore"_
 
-_"sensibilizzare gli occupanti della struttura"_
+> _"sensibilizzare gli occupanti della struttura"_
 
 #####What it could mean
 
