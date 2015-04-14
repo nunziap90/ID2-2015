@@ -64,4 +64,4 @@ utenza che non ha dimestichezza con certe qualità (es.: _"il particolato nell'a
 
 [Pulse room - Rafael Lozano-Hemmer](https://vimeo.com/33929358)
 
-[Big heart NYC - B.I.G](https://vimeo.com/33929358)
+[Big heart NYC - B.I.G](https://vimeo.com/80903304)
