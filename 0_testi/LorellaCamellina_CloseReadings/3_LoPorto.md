@@ -58,6 +58,10 @@ utenza che non ha dimestichezza con certe qualità (es.: _"il particolato nell'a
 
 #####References
 
-[Immaterials: light painting WiFi](https://vimeo.com/20412632)
+[Immaterials: light painting WiFi - Timo Arnall, Jørn Knutsen, Einar Sneve Martinussen](https://vimeo.com/20412632)
 
-[Toy emissions](https://vimeo.com/1713136)
+[Toy emissions - HeHe](https://vimeo.com/1713136)
+
+[Pulse room - Rafael Lozano-Hemmer](https://vimeo.com/33929358)
+
+[Big heart NYC - B.I.G](https://vimeo.com/33929358)
