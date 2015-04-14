@@ -51,8 +51,10 @@ utenza che non ha dimestichezza con certe qualità (es.: _"il particolato nell'a
 
 #####What if . . .
 
-**Che cosa succederebbe se** la finestra si oscurasse all'aumentare del livello di polveri sottili provocate dalle fotocopiatrici? La luce del luogo cambierebbe, noi ce ne accorgeremmo e apriremmo la finestra per tornare a vederci e a respirare aria nella media (come suggerito da Tabellini). Forse alla fine fotocopieremmo anche meno. Ma questa cosa avrebbe senso se spostata all'ingresso, come richiesto da brief di committenza? No. E' un modo di capire quanto il dualismo fotocopiatrice/inquinamento interno (ma anche aria consumata/inquinamento interno) tocchi solo la praticità della sede universitaria e non abbia un risvolto più sottile.
+**Che cosa succederebbe se** la finestra si oscurasse all'aumentare del livello di polveri sottili provocate dalle fotocopiatrici? La luce del luogo cambierebbe, noi ce ne accorgeremmo e apriremmo la finestra per tornare a vederci e a respirare aria nella media (come suggerito da Tabellini). Forse alla fine fotocopieremmo anche meno. L'installazione sarebbe concentrata nello spazio delle stampanti. La stessa avrebbe senso se spostata all'ingresso, come richiesto da brief di committenza? No. E' un modo di capire quanto il dualismo fotocopiatrice/inquinamento indoor (ma anche aria consumata/inquinamento indoor) tocchi solo la praticità della sede universitaria e non abbia un risvolto più sottile, un valore ulteriore.
 
+**Che cosa succederebbe se** visualizzassimo/mostrassimo all'ingresso il _"non-inquinamento outdoor"_? Sarebbe utile a trasmettere il senso di pulizia del posto in cui vive e respira UniRSM (lo dico basandomi sul luogo comune "montagna=aria pulita", da verificare insomma). 
+Immagino l'installazione come un qualcosa che accolga, rassicuri e doni serenità a chi entra, che riesca a strappare un sorriso ogni mattina agli studenti. Immagino uno scenario un po' etereo, con la luce ed il chiarore che la fanno da padrone. L'abbraccio a cui mi riferivo nella mappa creata le volte scorse per raccontare il [calore](http://i.imgur.com/LAzNbUd.jpg?1) era più orientato verso la sensazione di calore fisico; in questo caso invece immagino che esprima la freschezza dell'aria di San Marino.
 
 ---
 
@@ -65,3 +67,5 @@ utenza che non ha dimestichezza con certe qualità (es.: _"il particolato nell'a
 [Pulse room - Rafael Lozano-Hemmer](https://vimeo.com/33929358)
 
 [Big heart NYC - B.I.G](https://vimeo.com/80903304)
+
+[Nimbus - Berndnaut Smilde](http://www.dezeen.com/2013/08/02/nimbus-green-room-by-berndnaut-smilde/)
