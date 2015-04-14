@@ -4,16 +4,16 @@ Tutte e tre le proposte di visualizzazione mettono in evidenza gli inquinanti ri
 
 La prima visualizzazione è un'istogramma che indica il livello degli inquinanti.
 
-[Proposta1] (https://drive.google.com/open?id=0B6XlPHFBIn-Kb2FiNC1WOUo3QkU&authuser=0)
+[Proposta1] (http://i.imgur.com/ymeRdhU.png)
 
 
 
 La seconda proposta è un grafico a bolle, dove il valore degli inquinanti è proporzionale all'area delle bolle dove ogni gruppo, che rappresenta lo spazio deve è posizionato il sensore, formerà una nuvola.
 
-[Proposta2] (https://drive.google.com/open?id=0B6XlPHFBIn-KemFWQTVXdE9xNGc&authuser=0)
+[Proposta2] (http://i.imgur.com/uJG8KVN.png)
 
 
 L'ultima proposta è una ramificazione degli inquinanti, al loro aumentare aumentera il corpo del carattere interessato.
 
 
-[Proposta3] (https://drive.google.com/open?id=0B6XlPHFBIn-KSEMwM0lHSkp2ZnM&authuser=0)
+[Proposta3] (http://i.imgur.com/HTimdWu.png)
