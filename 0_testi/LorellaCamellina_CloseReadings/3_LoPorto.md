@@ -16,8 +16,10 @@ e dei sensori di rilevamento di polveri sottili vicino le stampanti"._
 
 L'intento dichiarato è di:
 
-_"far riflettere su come vengono vissuti determinati ambienti"
+_"far riflettere su come vengono vissuti determinati ambienti"_
+
 _"innescare un comportamento migliore"_
+
 _"sensibilizzare gli occupanti della struttura"_
 
 #####What it could mean
@@ -35,13 +37,11 @@ In linea di massima non ci si può sottrarre alla richiesta di carta stampata da
 _"innescare un comportamento migliore"_ sarebbe un po' difficoltoso.
 
 Il fatto è che l'inquinamento da toner è pericoloso tanto quanto quello provocato dal traffico 
-e non è assolutamente visibile (mi vengono in mente [loro](https://vimeo.com/20412632)) o "pubblicizzato" 
-(vedi tutte le app che vogliono far diventare lo smartphone uno strumento di controllo della qualità dell'aria).
+e non è assolutamente visibile (mi vengono in mente [loro](https://vimeo.com/20412632) e [loro](https://vimeo.com/1713136)) 
+o "pubblicizzato" (vedi tutte le app che vogliono far diventare lo smartphone uno strumento di controllo della qualità dell'aria).
 
-Come ci disse una volta uno dei nostri insegnanti _"il progetto vale una visione positiva"._
-Quindi spingerei per un'accezione positiva dell'aria di San Marino.
-
-Magari la visualizzazione potrebbe passare attraverso un paragone (e penso a [loro](https://vimeo.com/1713136)).
+Come ci disse una volta uno dei nostri insegnanti _"il progetto vale una visione positiva"_ 
+e spingerei per un'accezione positiva dell'aria di San Marino.
 
 #####How it works
 
