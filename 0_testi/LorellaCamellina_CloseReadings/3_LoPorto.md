@@ -51,7 +51,7 @@ utenza che non ha dimestichezza con certe qualità (es.: _"il particolato nell'a
 
 #####What if . . .
 
-Che cosa succederebbe se la finestra si oscurasse all'aumentare del livello di polveri sottili provocate dalle fotocopiatrici? La luce del luogo cambierebbe, noi ce ne accorgeremmo e apriremmo la finestra per tornare a vederci e a respirare aria nella media (come suggerito da Tabellini). Forse alla fine fotocopieremmo anche meno.
+**Che cosa succederebbe se** la finestra si oscurasse all'aumentare del livello di polveri sottili provocate dalle fotocopiatrici? La luce del luogo cambierebbe, noi ce ne accorgeremmo e apriremmo la finestra per tornare a vederci e a respirare aria nella media (come suggerito da Tabellini). Forse alla fine fotocopieremmo anche meno. Ma questa cosa avrebbe senso se spostata all'ingresso, come richiesto da brief di committenza? No. E' un modo di capire quanto il dualismo fotocopiatrice/inquinamento interno (ma anche aria consumata/inquinamento interno) tocchi solo la praticità della sede universitaria e non abbia un risvolto più sottile.
 
 
 ---
