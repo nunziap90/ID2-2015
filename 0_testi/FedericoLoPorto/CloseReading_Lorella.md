@@ -20,7 +20,7 @@ all'interno dell'università.
 
 ###Considerazioni Personali e Suggerimenti###
 
-Personalmente mi concentrerei sul dato rumore e sul siginficato "il rumore fa vivere qualcosa". 
+Personalmente mi concentrerei sui dati rilevati dai microfoni e sul siginficato "il rumore fa vivere qualcosa". 
 Estenderei il concetto di rumore a vibrazione (come accennato anche da Lorella in aula). 
 
 Un'idea potrebbe essere individuare dei suoni nelle vibrazioni dell'edificio
@@ -35,7 +35,7 @@ Un'idea potrebbe essere visualizzare il rumore/suono in vibrazione come le figur
 ![ ](http://www.electronicshadow.org/nm/wp-content/uploads/2013/12/Sounds-of-light1.jpg)
 
 Un altro riferimento potrebbe essere [Silent Lights] (http://urbanmatterinc.com/silent-lights/) che rende visibile il ronzio 
-sempre presente del traffico della super strada
+sempre presente del traffico della superstrada la Navy Yard di Brooklyn.
 ![ ] (http://insiderlouisville.com/wp-content/uploads/2014/11/silent-lights.jpg)
 
 
