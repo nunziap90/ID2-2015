@@ -23,11 +23,8 @@ all'interno dell'università.
 Personalmente mi concentrerei sui dati rilevati dai microfoni e sul siginficato "il rumore fa vivere qualcosa". 
 Estenderei il concetto di rumore a vibrazione (come accennato anche da Lorella in aula). 
 
-Un'idea potrebbe essere individuare dei suoni nelle vibrazioni dell'edificio
 
 
-
-le frequenze armoniche nascoste dentro le frequenze rumorose
 
 Un'idea potrebbe essere visualizzare il rumore/suono in vibrazione come le figure sabbiose di Chladni, però usando del liquido,
 [esempio suond of light] (http://www.electronicshadow.org/nm/?page_id=268), ed utilizzare la luce per indicare l'intensità del rumore. 
@@ -37,6 +34,8 @@ Un'idea potrebbe essere visualizzare il rumore/suono in vibrazione come le figur
 Un altro riferimento potrebbe essere [Silent Lights] (http://urbanmatterinc.com/silent-lights/) che rende visibile il ronzio 
 sempre presente del traffico della superstrada la Navy Yard di Brooklyn.
 ![ ] (http://insiderlouisville.com/wp-content/uploads/2014/11/silent-lights.jpg)
+
+![Sonic Water] (http://www.sonicwater.org/sonicwater.html)
 
 
 
