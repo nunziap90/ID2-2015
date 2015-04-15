@@ -35,7 +35,7 @@ Un altro riferimento potrebbe essere [Silent Lights] (http://urbanmatterinc.com/
 sempre presente del traffico della superstrada la Navy Yard di Brooklyn.
 ![ ] (http://insiderlouisville.com/wp-content/uploads/2014/11/silent-lights.jpg)
 
-![Sonic Water] (http://www.sonicwater.org/sonicwater.html)
+[Sonic Water] (http://www.sonicwater.org/sonicwater.html)
 
 
 
