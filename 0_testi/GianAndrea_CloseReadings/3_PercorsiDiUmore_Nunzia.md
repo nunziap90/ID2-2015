@@ -21,12 +21,14 @@ Il progetto vuole raccontare come viene vissuto l'ambiente universitario in base
 
 ***e se . . .***
 
-Si potrebbe considerare l'opera come conseguenza di noi studenti. Essa è la rappresentazione di noi stessi. Può essere un ponte tra la nostra emotività e l'espressività di quest'ultima. Il progetto potrebbe lavorare sul concetto di interiorità ed esteriorità. Essa rispecchia i gesti svolti nel nostro tragitto e ci lascia traccia del comportamento svolto. Un esempio potrebbe essere un raccoglitore delle nostre emozioni che vengono percepite attravarso il cammino.
+Si potrebbe considerare l'opera come conseguenza di noi studenti. Essa è la rappresentazione di noi stessi. Può essere un ponte tra la nostra emotività e l'espressività di quest'ultima. Il progetto potrebbe lavorare sul concetto di interiorità ed esteriorità. Essa rispecchia i gesti svolti nel nostro tragitto e ci lascia traccia del comportamento svolto. Un esempio potrebbe essere un raccoglitore delle nostre emozioni che vengono percepite attraverso il cammino.
 
 Si potrebbe esplorare la potenzialità della kinect, in quanto può aiutare a percepire le persone e catturare movimenti o gesti. Forse è uno strumento per meglio può avvicinarsi a capire i movimenti del corpo e potrebbe valorizzare questi ultimi.
 
 Si potrebbe anche lavorare sugli spostamenti d'aria, anch'esso è dato da un movimento e da un gesto umano. In questo caso è lo spazio invisibile ad essere mutato dalle persone, ovvero il volume d'aria che cambia. L'installazione può essere rappresentata da tessuti o ventole che entrano in movimento con la nostra interazione.
 [The wind portal] (http://www.najlaelzein.com/works/the-wind-portal) può essere interessante come aiuto di questo pensiero e inoltre al rapporto con interiorità ed esteriorità delle persone.
+
+
 
 -
 
