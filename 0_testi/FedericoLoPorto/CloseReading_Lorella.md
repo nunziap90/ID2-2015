@@ -36,7 +36,12 @@ sempre presente del traffico della superstrada la Navy Yard di Brooklyn.
 
 ![ ] (http://insiderlouisville.com/wp-content/uploads/2014/11/silent-lights.jpg)
 
-Altro esempio [Sonic Water] (http://www.sonicwater.org/sonicwater.html)
+Altri esempi: 
+* [Sonic Water] (http://www.sonicwater.org/sonicwater.html) 
+* [Eunonia] (http://thecreatorsproject.vice.com/blog/eunoia-seeking-enlightenment-by-tracking-brainwaves) 
+* [Voice Tunnel] (http://thecreatorsproject.vice.com/blog/ivoice-tunneli-turns-new-yorkers-voices-into-an-audiovisual-performance)
+
+
 
 
 ###Conclusioni###
