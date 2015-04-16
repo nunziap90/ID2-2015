@@ -17,19 +17,24 @@ dello studente. Tutto ciò genererà della musica.
 
 ###Considerazioni Personali e Suggerimenti###
 
-Personalmente restringerei il rilevamento d'informazione solo ad un dato, la frenesia. Rilevata tramite il tempo di percorrenza 
-delle scale. Di solito le persone frenetiche vanno sempre di fretta e quindi impiegheranno di meno a percorrere le scale. Questo
-dato potrebbe essere rilevato forse tramite una webcam. In più prendendo ispirazione da [Magical Harp](http://jenlewinstudio.com/art/the-magical-harp/),
-si potrebbe piazzare un laser (o un sensore) su ogni pedata della scala in modo che lo studente percorrendo i gradini interromperà 
-il raggio di luce. Ogni laser avrà assegnata una nota (simile al progetto della scala mobile di Stoccolma) che lo studente suonerà
-e comporrà la sua melodia salendo le scale.
+Personalmente mi soffermerei sul significato della frenesia e sulla vita frenetica degli studenti. Rilevare il dato tramite il tempo di percorrenza delle scale, forse tramite una webcam. 
+
+In più prendendo ispirazione da:
+
+[Magical Harp](http://jenlewinstudio.com/art/the-magical-harp/) ![Magical Harp] (http://jenlewinstudio.com/wp-content/uploads/2015/03/Render1-950x534.jpg)
+si potrebbe piazzare un laser (o un sensore) su ogni pedata della scala in modo che l'utente percorrendo i gradini interrompa il fascio di luce, che emetterà una nota musicale (simile al progetto della [scala mobile di Stoccolma] (https://www.youtube.com/watch?v=otW3B0LxLnI)).
+
+
+
 
 ###Conclusioni###
 
-Lo studente genera dei dati percorrendo le scale, ed avendo un feedback audio immediato *forse* possiamo migliorare la sua giornata
-o farlo rallentare nella sua frenesia. 
+Il dato che sarà visualizzato è il tempo di percorrenza delle scale,...
+
+Lo studente genera dei dati percorrendo le scale, 
+ed avendo un feedback audio immediato *forse* possiamo alleggerire il suo **percorso in salita**. 
 Una possibile visualizzazione 
 
 
-
+work in progress...:(
 
