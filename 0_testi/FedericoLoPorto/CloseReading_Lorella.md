@@ -27,15 +27,28 @@ Estenderei il concetto di rumore a vibrazione (come accennato anche da Lorella i
 
 
 Un'idea potrebbe essere visualizzare il rumore/suono in vibrazione come le figure sabbiose di Chladni, però usando del liquido,
-[esempio suond of light] (http://www.electronicshadow.org/nm/?page_id=268), ed utilizzare la luce per indicare l'intensità del rumore. 
+[esempio suond of light] (http://www.electronicshadow.org/nm/?page_id=268). 
 
 ![ ](http://www.electronicshadow.org/nm/wp-content/uploads/2013/12/Sounds-of-light1.jpg)
 
 Un altro riferimento potrebbe essere [Silent Lights] (http://urbanmatterinc.com/silent-lights/) che rende visibile il ronzio 
 sempre presente del traffico della superstrada la Navy Yard di Brooklyn.
+
 ![ ] (http://insiderlouisville.com/wp-content/uploads/2014/11/silent-lights.jpg)
 
-[Sonic Water] (http://www.sonicwater.org/sonicwater.html)
+Altro esempio [Sonic Water] (http://www.sonicwater.org/sonicwater.html)
+
+
+###Conclusioni###
+
+
+La visualizzazione che propopongo è quella di far propagare come vibrazione in un liquido il rumore acquisito dai sensori disposti all'interno dell'università. Individuerei più spazi e farei una media ponderata tra i valori, impostando come peso l'utilizzo di tale spazio, così da avere una visione complessiva sul rumore/suono di tutta l'università. Inoltre indicherei l'intensità del rumore con della luce.
+
+
+
+
+
+
 
 
 
