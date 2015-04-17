@@ -21,7 +21,10 @@ utilizzate dagli studenti e da chi occupa la facoltà in generale."._
 Il nodo fondamentale consiste nel porre sullo stesso piano i concetti di _consumo_, _risorsa_ e _spreco_. 
 
 Non sembrerebbe esistere una differenziazione tra _risorsa in ingresso_ e _risorsa in uscita_.
+
 Che succede esattamente nella fase intermedia, in cosa consiste?
+
+L'output è solo materico?
 
 (Senza quelle risorse in ingresso avremmo risorse in uscita?
 Gli output sono tutti scarti, quindi prodotti negativi?
