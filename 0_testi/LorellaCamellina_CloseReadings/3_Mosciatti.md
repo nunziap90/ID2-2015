@@ -102,4 +102,4 @@ Qualcosa di molto simile a quello che succede in una ["lampada lava"](https://ww
 
 [Lava lamp](http://www.mathmos.com/lava-lamps-uk-6494-0.html)
 
-[Lampada Lava]([Lava lamp](http://www.mathmos.com/lava-lamps-uk-6494-0.html)
+[Lampada Lava](http://www.mathmos.com/lava-lamps-uk-6494-0.html)
