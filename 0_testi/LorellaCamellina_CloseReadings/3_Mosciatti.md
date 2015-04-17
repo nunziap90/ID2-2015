@@ -18,13 +18,22 @@ utilizzate dagli studenti e da chi occupa la facoltà in generale."._
 
 #####What it could mean
 
-Il nodo fondamentale secondo me sta nel paragonare i concetti di _consumo_ e _risorsa_. 
-Non c'è inoltre differenziazione fra _risorsa in ingresso_ e _risorsa in uscita_.
+Il nodo fondamentale secondo me sta nel porre sullo stesso piano i concetti di _consumo_ e _risorsa_. 
 
-Mi chiedo: senza quelle risorse in ingresso avremmo risorse in uscita? 
-Senza quei consumi avremmo risorse in uscita? 
-Escono solo rifiuti da UniRSM?
-A che cosa porta il consumo delle risorse in ingresso?
+**Che succede esattamente nella fase intermedia, in cosa consiste?**
+
+**Esiste una differenziazione tra _risorsa in ingresso_ e _risorsa in uscita_?**
+
+Senza quelle risorse in ingresso avremmo risorse in uscita?
+Gli output sono tutti scarti, quindi prodotti negativi?
+Senza quei consumi avremmo risorse in uscita?
+A cosa porta il consumo delle risorse in ingresso?
+
+Considerando solamente input materici, consumi energetici intesi come utenze ed output materici 
+(scarti e rifiuti) si rischia di creare solo un 
+[rendiconto finanziario](http://it.wikipedia.org/wiki/Rendiconto_finanziario) della "impresa niversità".
+Sarebbe un'operazione di valutazione economica; gli spunti di ragionamento riguarderebbero come
+limitare le spese e come aumentare i guadagni l'anno che verrà.
 
 #####How it works
 
