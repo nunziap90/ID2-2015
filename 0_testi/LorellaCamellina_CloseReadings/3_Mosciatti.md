@@ -90,10 +90,10 @@ Il **contatto** fra studenti/docenti ed elementi carichi conoscenza (libri, rivi
 tecnici, docenti una tantum, seminari, workshop, etc) deve comportare visivamente 
 una mescolanza più o meno reciproca (colori?) che indichi cambiamento e crescita (dimensione/forma?).
 
-Qualcosa di molto simile a quello che succede in una "lampada lava"
-["lampada lava"](https://www.google.it/search?q=lampada+lava&rlz=1C1TEUA_enIT479IT480&espv=2&biw=1517&bih=714&tbm=isch&tbo=u&source=univ&sa=X&ei=XrcwVbjHH8Wv7AbFp4GYAQ&ved=0CDIQsAQ#q=lava+lamp&tbs=isz:l&tbm=isch&tbas=0&imgrc=7KaHQtgRXo7seM%253A%3ByFPmDrl76HJ-VM%3Bhttp%253A%252F%252Fwww.alanrudnick.org%252Fwp-content%252Fuploads%252F2013%252F12%252Flava-lamp.jpg%3Bhttp%253A%252F%252Fwww.alanrudnick.org%252F2013%252F12%252F18%252Fcoalesce-lava-lamp-ministry%252F%3B2592%3B1936)
+Qualcosa di molto simile a quello che succede in una ["lampada lava"](https://www.google.it/search?q=lampada+lava&rlz=1C1TEUA_enIT479IT480&espv=2&biw=1517&bih=714&tbm=isch&tbo=u&source=univ&sa=X&ei=XrcwVbjHH8Wv7AbFp4GYAQ&ved=0CDIQsAQ#q=lava+lamp&tbs=isz:l&tbm=isch&tbas=0&imgrc=7KaHQtgRXo7seM%253A%3ByFPmDrl76HJ-VM%3Bhttp%253A%252F%252Fwww.alanrudnick.org%252Fwp-content%252Fuploads%252F2013%252F12%252Flava-lamp.jpg%3Bhttp%253A%252F%252Fwww.alanrudnick.org%252F2013%252F12%252F18%252Fcoalesce-lava-lamp-ministry%252F%3B2592%3B1936)
 
 Qualcosa che si avvicina alla [riproduzione cellulare](https://www.google.it/search?q=sdoppiamento+cellulare&rlz=1C1TEUA_enIT479IT480&espv=2&biw=1517&bih=714&source=lnms&tbm=isch&sa=X&ei=Q7wwVfzDIovA7Ab1loCgCw&sqi=2&ved=0CAcQ_AUoAg&dpr=0.9#tbm=isch&q=mitosi+microscopio).
+
 ---
 
 #####References
