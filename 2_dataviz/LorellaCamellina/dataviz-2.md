@@ -16,7 +16,7 @@
 
 [Shivering Bowls - Nendo](http://www.nendo.jp/en/works/shivering-bowls-2/) >> silicone
 
-[Big conscience - Carlo De Mattia](http://www.carlodemattia.it/public/?s=projects&m=category&x=30&y=69) >>silicone
+http://www.lozano-hemmer.com/voice_tunnel.php
 
 **Wind**
 
@@ -29,3 +29,7 @@
 (sound become l.)
 
 [Sun speak - Studio Indefinit](https://vimeo.com/107795963) >> voice
+
+[Voice tunnel - Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/voice_tunnel.php)
+
+
