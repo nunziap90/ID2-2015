@@ -58,9 +58,9 @@ che si dirigerà chissà dove.
 
 Se dovessi ripensare allo schema iniziale, le tre fasi per me sarebbero: 
 
-1 arrivo in UniRSM
-2 trasformazione tramite UniRSM
-3 uscita da UniRSM
+1. arrivo in UniRSM
+2. trasformazione tramite UniRSM
+3. uscita da UniRSM
 
 Nella fase 1 avremmo: risme, toner, libri, riviste, materiali di laboratorio, studenti, docenti, etc.
 Nella fase 2 si mescolerebbero i **valori** di ogni elemento in ingresso e degli studenti.
