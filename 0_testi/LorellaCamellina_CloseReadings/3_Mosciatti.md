@@ -26,10 +26,13 @@ Che succede esattamente nella fase intermedia, in cosa consiste?
 
 L'output è solo materico?
 
-(Senza quelle risorse in ingresso avremmo risorse in uscita?
+Senza quelle risorse in ingresso avremmo risorse in uscita?
+
 Gli output sono tutti scarti, quindi prodotti negativi?
+
 Senza quei consumi avremmo risorse in uscita?
-A cosa porta il consumo delle risorse in ingresso?)
+
+A cosa porta il consumo delle risorse in ingresso?
 
 Considerando solamente input materici, consumi energetici (intesi come utenze) ed output materici 
 (scarti e rifiuti) si rischia di creare un [rendiconto finanziario](http://it.wikipedia.org/wiki/Rendiconto_finanziario) della "impresa università". Sarebbe un'operazione di valutazione economica; gli spunti di ragionamento 
