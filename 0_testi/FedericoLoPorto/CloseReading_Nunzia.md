@@ -29,12 +29,8 @@ si potrebbe piazzare un laser (o un sensore) su ogni pedata della scala in modo 
 
 ###Conclusioni###
 
-Il dato che sarà visualizzato è il tempo di percorrenza delle scale,...
-
-Lo studente genera dei dati percorrendo le scale, 
-ed avendo un feedback audio immediato *forse* possiamo alleggerire il suo **percorso in salita**. 
-Una possibile visualizzazione 
+Lo studente genera dei dati percorrendo le scale, ed avendo un feedback audio immediato *forse* possiamo alleggerire il suo **percorso in salita**. 
+Il dato per una visualizzazione potrebbe essere il tempo di percorrenza delle scale, nello specifico la sommatoria del tempo impegato in salita, come metafora del percorso di studio che affrontiamo. 
 
 
-work in progress...:(
 
