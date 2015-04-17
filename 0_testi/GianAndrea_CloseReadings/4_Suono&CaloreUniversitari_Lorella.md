@@ -44,6 +44,7 @@ Il progetto è pensato sul rilevamento degli stimoli sonori e termici attraverso
 -
 
 **Consigli/Spunti**
+
 ![] (http://zimoun.net/system/html/Zimoun_7046_800x533px-4cab2fd3.jpg)
 - Il progetto [36 ventilators, 4.7m³ packing chips] (http://zimoun.net/2014-36.html) potrebbe darti spunti sull'esplorazione del rapporto tra l'azione umana e il rumore/vibrazione prodotti dalla sua conseguenza. In questo caso l'opera può ritrasmettere le attività umane sottoforma di vibrazioni che muovono la struttura.
 
