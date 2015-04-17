@@ -33,7 +33,7 @@ Nel progetto [Museo Laboratorio della mente] (http://www.studioazzurro.com/index
 
 ![](http://www.onformative.com/uploads/projects/heat1.jpg)
 
-Sul calore invece si potrebbe sempre lavorare sul trasmettere questo valore cercando un'asonanza cromatica in rapporto col tempo che uno rimane all'interno di un determinato spazio. L'intensità può essere data dalla presenza  o l'assenza dei corpi umani presenti in un determinato spazio. Il tutto potrebbe avvenire lentamente in modo da lasciare la traccia di coloro che hanno vissuto questi spazi.  
+Sul calore invece si potrebbe sempre lavorare sul trasmettere questo valore cercando un'asonanza cromatica in rapporto col tempo che uno rimane all'interno di un determinato spazio. L'intensità può essere data dalla presenza  o l'assenza dei corpi umani presenti in un determinato spazio. Il tutto potrebbe avvenire lentamente in modo da lasciare la traccia di coloro che hanno vissuto questi spazi. [Heatmap] (http://www.onformative.com/lab/heatmap/) è un esempio su cui prendere spunti.
 
 -
 
@@ -43,7 +43,7 @@ Il progetto è pensato sul rilevamento degli stimoli sonori e termici attraverso
 
 -
 
-**Consigli**
+**Consigli/Spunti**
 ![] (http://zimoun.net/system/html/Zimoun_7046_800x533px-4cab2fd3.jpg)
 - Il progetto [36 ventilators, 4.7m³ packing chips] (http://zimoun.net/2014-36.html) potrebbe darti spunti sull'esplorazione del rapporto tra l'azione umana e il rumore/vibrazione prodotti dalla sua conseguenza. In questo caso l'opera può ritrasmettere le attività umane sottoforma di vibrazioni che muovono la struttura.
 
@@ -56,4 +56,4 @@ Il progetto è pensato sul rilevamento degli stimoli sonori e termici attraverso
 
 
 ![] (http://41.media.tumblr.com/64e4f1fab6987ebf2044b1ea697f353d/tumblr_mnh61nWKna1sqn4c1o4_r1_1280.jpg)
-- [BLOOM SKIN] (http://takashiaoki.com/post/51501470446) è un altro progetto che potrebbe essere una rappresentazione dei tuoi dati 
+- [BLOOM SKIN] (http://takashiaoki.com/post/51501470446) è un altro progetto che potrebbe essere una rappresentazione dei tuoi dati, riprendendo il flusso ondulatorio del suono. Il movimento potrebbe entrare in relazione all'intensità del rumore che si produce nell'università. Il tessuto potrebbe anche diventare la base per rappresentare cromaticamente il calore delle persone che vivono questi luoghi.
