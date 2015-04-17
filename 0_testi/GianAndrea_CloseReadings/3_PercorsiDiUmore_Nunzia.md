@@ -54,6 +54,10 @@ Il progetto è pensato sul concetto di azione/reazione. Attraverso dei sensori p
 ![] (http://www.flong.com/storage/images/projects/eyecode.jpg) 
 - [Eyecode] (http://www.flong.com/projects/eyecode/) di Levin mette in relazione le persone che interagiscono la struttura con coloro che ne hanno già usufruito l'esperienza. Da cogliere secondo me è il discorso di traccia passata, la narrazione di quello che è stato vissuto in quel momento, in modo da far riflettere il nuovo fruitore su come potrebbe comportarsi rispetto a come si è già comportato. 
 
+![] (http://kennywong.co/wp-content/uploads/2014/03/IRISDATABASE-1024x585.png)
+
+- Un progetto simile che utilizza i gesti delle mani è [Iris] (http://kennywong.co/2014/iris/). In questo caso c'è anche una componente ludica ed esplorativa che si inserisce nella relazione con i gesti che vengono svolti dagli utenti.
+
 - Il progetto di Studio Azzurro [Ombre di passaggio] (http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=117&option=com_works&Itemid=22&lang=it) potrebbe ispirarti propio su ciò che può riflettere la tua figura, il tuo segno nell'ambiente e ciò che lasci come tua traccia.
 
 - Lavorerei sul discorso Percorso --> Traccia. Cosa io lascio ogni giorno nell'ambiente in cui vivo, e capire i miei intenti/decisioni che prendo.
