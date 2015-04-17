@@ -12,11 +12,11 @@
 
 -
 
-(interazione genera v.)
+(interaction generates v.)
 
 [Shivering Bowls - Nendo](http://www.nendo.jp/en/works/shivering-bowls-2/) >> silicone
 
-http://www.lozano-hemmer.com/voice_tunnel.php
+[Big Conscience - Carlo De Mattia](http://www.nendo.jp/en/works/shivering-bowls-2/) >> silicone
 
 **Wind**
 
@@ -32,4 +32,11 @@ http://www.lozano-hemmer.com/voice_tunnel.php
 
 [Voice tunnel - Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/voice_tunnel.php)
 
+[Big Conscience - Carlo De Mattia](http://www.nendo.jp/en/works/shivering-bowls-2/) >> silicone
 
+
+**Motion**
+
+(m. generates sound)
+
+[works - Zimoun](http://www.zimoun.net/works.html) >> mechanical components
