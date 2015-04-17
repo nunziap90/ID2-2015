@@ -100,3 +100,6 @@ Qualcosa di molto simile a quello che succede in una ["lampada lava"](https://ww
 
 [Osmosis - Miguel Palma](http://www.bloombergspace.com/artists/past/miguel-palma-comma-01/)
 
+[Lava lamp](http://www.mathmos.com/lava-lamps-uk-6494-0.html)
+
+[Lampada Lava]([Lava lamp](http://www.mathmos.com/lava-lamps-uk-6494-0.html))
