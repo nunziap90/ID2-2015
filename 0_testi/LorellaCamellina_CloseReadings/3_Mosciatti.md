@@ -4,7 +4,7 @@
 
 Il concept vorrebbe portare a ragionare sui consumi della sede UniRSM.
 
-![Alt Text](http://i.imgur.com/LbtxYL9.png)
+[Schema riassuntivo](http://i.imgur.com/LbtxYL9.png)
 
 Stando alla schematizzazione di cui sopra, avremo tre famiglie di dati: 
 
@@ -18,8 +18,8 @@ utilizzate dagli studenti e da chi occupa la facoltà in generale."._
 
 #####What it could mean
 
-Il nodo fondamentale sta nel paragone fra _consumo_ e _risorsa_. 
-(E poi fra _risorsa in ingresso_ e _risorsa in uscita_).
+Il nodo fondamentale secondo me sta nel paragonare i concetti di _consumo_ e _risorsa_. 
+Non c'è inoltre differenziazione fra _risorsa in ingresso_ e _risorsa in uscita_.
 
 Mi chiedo: senza quelle risorse in ingresso avremmo risorse in uscita? 
 Senza quei consumi avremmo risorse in uscita? 
