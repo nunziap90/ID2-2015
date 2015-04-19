@@ -13,7 +13,7 @@ Noi studenti, ma non solo, passiamo intere giornate chiusi all'interno delle aul
 in che modo far riflettere sul come vivere determinati ambienti? innescando comportamenti migliori? 
 
 ### Cosa potrebbe significare:
-Ma in realtà san marino, rispetto ad altre città, è un luogo con un "respiro universitario" più limpido? 
+Ma in realtà San Marino, rispetto ad altre città, è un luogo con un "respiro universitario" più limpido? 
 Far di questo un vanto. Analizzando il livello di polveri sottili nell'aria, tramite sensori. 
 
 ### e se fosse...
