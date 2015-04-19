@@ -24,8 +24,8 @@ Per quanto riguarda la visualizzazione e l'installazione, pensando sempre al res
 immaginarci cosa provoca nell'uomo un inquinamento eccessivo, uno di questi è  l' oppressione al petto. 
 Tenendo presente l'oppressione si potrebbe immaginare sia per la visualizzazione che per l'installazione di 
 ricreare questo effetto. Tanti pallini (polveri sottili) che fluttuano nell'aria, ma che nel momento in cui l'aria 
-inizia a farsi più inquinata, più "pesante", il valore limite inizia ad aumentare, questi pallini si depositano 
-sul fondo dando un senso di oppressione. Per l'installazione il tutto potrebbe essere realizzato con palline 
+inizia a farsi più inquinata, più "pesante", questi pallini si depositano sul fondo dando un senso di oppressione. 
+Per l'installazione il tutto potrebbe essere realizzato con palline 
 di polistirolo, una gabbia per la forma e l'entrata dell'aria per regolare l'intensità del getto. 
 
 ###Ispirazioni 
