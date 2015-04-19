@@ -20,7 +20,10 @@ Come in una mini galleria del vento vedremo i nostri flussi fondersi.
 Un flusso colorato, rispettivamente per ogni social, caratterizzato da un colore tipico (blu, azzurro...), che scagliandosi contro un elemento aerodinamico ricrei delle turbolenze, portando l'aria colorata a mescolarsi. In base a quante persone ci sono collegate sul quel social, il flusso sarà maggiore; dati separati che si mescolano nel caos della rete. 
 I dati saranno presi dal server e l'installazione posta all'ingresso renderà visibile un flusso di comunicazione "nascosto". 
 
-Spunti:
+#### Spunti:
+
+http://imgur.com/ihXXRyB
+
 https://www.youtube.com/watch?v=CdE7IT-EsZ0 ( capire l'effetto con un oggetto; L'aerodinamica è una scienza derivata della fluidodinamica che studia la dinamica dei gas, in particolare dell'aria, e la loro interazione con corpi solidi.) 
 
 https://vimeo.com/54152122 (Anton GINZBURG : Hyperborea) 
