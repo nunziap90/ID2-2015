@@ -23,7 +23,7 @@ I dati saranno presi dal server e l'installazione posta all'ingresso renderà vi
 #### Spunti:
 
 ![Turbolenze] (http://imgur.com/ihXXRyB.png)
-![Turbolenze] (http://imgur.com/PgdlL2a.png)
+![Turbolenze] (http://imgur.com/pMA7gRV.png)
 ![Turbolenze] (http://imgur.com/mHnJhJ6.png)
 ![Turbolenze] (http://imgur.com/q8ewVH3.png)
 
