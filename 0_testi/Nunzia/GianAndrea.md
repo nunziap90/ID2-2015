@@ -32,14 +32,18 @@ I dati saranno presi dal server e l'installazione posta all'ingresso renderà vi
 ####Video
 
 [Novitec Rosso Ferrari 458 Italia in Wind Tunnel](https://www.youtube.com/watch?v=CdE7IT-EsZ0 )
+
 Capire l'effetto con un oggetto; L'aerodinamica è una scienza derivata della fluidodinamica che studia la dinamica dei gas, in particolare dell'aria e la loro interazione con corpi solidi. 
 
 [Anton GINZBURG : Hyperborea](https://vimeo.com/54152122 )
+
 La serie fotografica Hyperborea, segue la narrazione del film. Le foto sono state scattate durante le riprese e servono come documento di sviluppo del progetto. La sua spedizione ha attraversato le foreste del Pacific Northwest americano, i palazzi sbiaditi di San Pietroburgo, e nei gulag della Russia Bianca Sea. Sulle tracce di vestigia antiche, foreste primarie, fossili di mammut e rovine, l'esploratore è stata accompagnata dalla misteriosa nuvola di fumo rosso.
 
 [Trajectum Lumen, Percorso luminoso d’arte](http://www.blogolanda.it/2011/12/09/alla-scoperta-di-utrecht-di-sera-con-il-trajectum-lumen/)
+
 Il percorso luminoso segue artisticamente le opere illuminate in tutto il centro storico della città di Utrecht rendendo omaggio alla sua ricca storia.
 
 Visualizzazioni:
 [Data Visualization](http://webdesignledger.com/inspiration/15-stunning-examples-of-data-visualization)
+
 Esempi di come un flusso potrebbe essere rappresentato, singoli flussi che vanno a fondersi con altri. 
