@@ -43,7 +43,7 @@ La serie fotografica Hyperborea, segue la narrazione del film. Le foto sono stat
 
 Il percorso luminoso segue artisticamente le opere illuminate in tutto il centro storico della città di Utrecht rendendo omaggio alla sua ricca storia.
 
-Visualizzazioni:
+#### Visualizzazioni:
 [Data Visualization](http://webdesignledger.com/inspiration/15-stunning-examples-of-data-visualization)
 
 Esempi di come un flusso potrebbe essere rappresentato, singoli flussi che vanno a fondersi con altri. 
