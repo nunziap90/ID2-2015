@@ -22,15 +22,18 @@ I dati saranno presi dal server e l'installazione posta all'ingresso renderà vi
 
 #### Spunti:
 
+#####Immagini
+
 ![Turbolenze] (http://imgur.com/ihXXRyB.png)
 ![Turbolenze] (http://imgur.com/pMA7gRV.png)
 ![Turbolenze] (http://imgur.com/mHnJhJ6.png)
 ![Turbolenze] (http://imgur.com/q8ewVH3.png)
 
+####Video
 
+[Novitec Rosso Ferrari 458 Italia in Wind Tunnel](https://www.youtube.com/watch?v=CdE7IT-EsZ0 )
 
-
-https://www.youtube.com/watch?v=CdE7IT-EsZ0 ( capire l'effetto con un oggetto; L'aerodinamica è una scienza derivata della fluidodinamica che studia la dinamica dei gas, in particolare dell'aria, e la loro interazione con corpi solidi.) 
+( capire l'effetto con un oggetto; L'aerodinamica è una scienza derivata della fluidodinamica che studia la dinamica dei gas, in particolare dell'aria, e la loro interazione con corpi solidi.) 
 
 https://vimeo.com/54152122 (Anton GINZBURG : Hyperborea) 
 La serie fotografica Hyperborea, segue la narrazione del film. Le foto sono state scattate durante le riprese e servono come documento di sviluppo del progetto. La sua spedizione ha attraversato le foreste del Pacific Northwest americano, i palazzi sbiaditi di San Pietroburgo, e nei gulag della Russia Bianca Sea. Sulle tracce di vestigia antiche, foreste primarie, fossili di mammut e rovine, l'esploratore è stata accompagnata dalla misteriosa nuvola di fumo rosso.
