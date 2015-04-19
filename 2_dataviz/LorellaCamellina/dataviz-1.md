@@ -1,4 +1,4 @@
-##DATASET
+##DATAVIZ
 
 Per iniziare a comprendere la variabilità e la natura dei dati che ho intenzione di rilevare, ho deciso di dedicare una ipotesi di visualizzazione al suono (#1), una al calore (#2) ed una terza alla possibile relazione fra le due, in particolare quest'ultima è stata elaborata provando ad utilizzare il tool online Raw.
 
