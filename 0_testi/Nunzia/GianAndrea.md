@@ -22,7 +22,10 @@ I dati saranno presi dal server e l'installazione posta all'ingresso renderà vi
 
 #### Spunti:
 
-http://imgur.com/ihXXRyB
+![Turbolenze] (http://imgur.com/ihXXRyB.png)
+![Turbolenze] (http://imgur.com/ihXXRyB.png)
+
+
 
 https://www.youtube.com/watch?v=CdE7IT-EsZ0 ( capire l'effetto con un oggetto; L'aerodinamica è una scienza derivata della fluidodinamica che studia la dinamica dei gas, in particolare dell'aria, e la loro interazione con corpi solidi.) 
 
