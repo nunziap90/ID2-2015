@@ -41,7 +41,14 @@ Tele come fossero polmoni, dipinte con un inchiostro speciale, ottenuto dalle si
 L'opera è di due creativi di First Floor Under, che si sono serviti della mano dello street artist Ozmo
 
 
-http://www.claudiaciarpella.com/portfolio/hover/
-https://www.youtube.com/watch?v=jJfpL5QkixU
-http://interactivedesign.it/blog/category/inspiration/kinetic-art/
+[Hover](http://www.claudiaciarpella.com/portfolio/hover/)
+
+[FFT library](https://www.youtube.com/watch?v=jJfpL5QkixU)
+
+Ecco come mi immagginavo l'effetto visivo. 
+
+[Büyük Ayı Lab](http://interactivedesign.it/blog/inspiration/kinetic-art/2014/12/15/buyuk-ayi-lab-kinetic-installation-controlled-with-leap-motion/)
+
+Ipotetica variazione. 
+
 
