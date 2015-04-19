@@ -17,7 +17,7 @@ Raccontare la vita virtuale come se fosse un "flusso";
 Il flusso mi ricorda un qualcosa in continuo movimento, proprio come i dati da cui si andrà ad attingere le informazioni che ci servono. 
 Si potrebbe pensare di rendere qualcosa di virtuale... concreto, trasformando il flusso in qualcosa di materiale e visibile. 
 Come in una mini [galleria del vento](http://it.wikipedia.org/wiki/Galleria_del_vento) vedremo i nostri flussi fondersi. 
-Un flusso colorato, rispettivamente per ogni social, caratterizzato da un colore tipico (blu, azzurro...), che scagliandosi contro un elemento aerodinamico ricrei delle turbolenze, portando l'aria colorata a mescolarsi. In base a quante persone ci sono collegate sul quel social, il flusso sarà maggiore; dati separati che si mescolano nel caos della rete. 
+Un flusso colorato, rispettivamente per ogni social, caratterizzato da un colore tipico (blu, azzurro...), che scagliandosi contro un elemento aerodinamico ricrei delle turbolenze, portando l'aria colorata a mescolarsi. In base a quante persone ci sono collegate su quel social, il flusso sarà maggiore; dati separati che si mescolano nel caos della rete. 
 I dati saranno presi dal server e l'installazione posta all'ingresso renderà visibile un flusso di comunicazione "nascosto". 
 
 #### Spunti:
