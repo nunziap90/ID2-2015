@@ -51,4 +51,10 @@ Ecco come mi immagginavo l'effetto visivo.
 
 Ipotetica variazione. 
 
+Trovo interessanti anche questa serie di installazioni: 
+
+[Zimoun : Compilation Video 3.4](https://vimeo.com/7235817)
+
+[SCATTERED PIXEL](https://vimeo.com/7071410)
+
 
