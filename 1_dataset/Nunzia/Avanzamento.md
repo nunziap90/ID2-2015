@@ -51,7 +51,9 @@ Poiché l’acqua è 10 mila volte meno comprimibile dell’aria, nell’acqua i
 [Cimatica con liquido] (https://www.youtube.com/watch?v=LCk9-blM5Xg&list=PL68CEA84D849C13B3&index=3
 )
 [Cimatica con liquido] (https://www.youtube.com/watch?v=JVhYuqr03IQ)
+
 [Cimatica con liquido] (https://www.youtube.com/watch?v=tI6S5CS-6JI)
+
 [Creature in the Sonic Liquid ] (https://www.youtube.com/watch?v=Yw4qklgNIxI)
 
 
