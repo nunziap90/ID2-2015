@@ -33,6 +33,9 @@ Sale , sabbia o liquido, tramuteranno la vibrazione in qualcosa di visibile; si 
 ![Propagazione sonora] (http://imgur.com/4Nn7aYS.png)
 ![Propagazione sonora] (http://imgur.com/iGnXymY.png)
 
+![Cimatica] (http://imgur.com/28wXNDE.png)
+![Cimatica] (http://imgur.com/mPrQ5Sf.png)
+
 
 Se si utilizza l'ascensore nell'installazione avverrà qualcosa?
 Le persone che salgono le scale avranno una scia sonora tipo cartoni animati? 
