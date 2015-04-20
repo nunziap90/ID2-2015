@@ -1,5 +1,5 @@
 ### Melodia universitaria.  I dati li si lascia non li si cerca.
-"Rendiamo visibile il nostro umore"
+###"Rendiamo visibile il nostro umore"
 
 Ogni giorno gli studenti vivono l'università, ognuno a proprio modo, con le proprie ansie, frenesie... 
 Perchè non raccontare l'umore che ogni giorno si respira in questo luogo? Come? Attraverso i nostri piccoli gesti 
@@ -27,11 +27,14 @@ si comporteranno di conseguenza.
 Sale , sabbia o liquido, tramuteranno la vibrazione in qualcosa di visibile; si vedrà così la melodia dell'università.
 
 #### Visualizzazione 
-
+#####Propagazione sonora
 
 ![Propagazione sonora] (http://imgur.com/mzCADoB.png)
 ![Propagazione sonora] (http://imgur.com/4Nn7aYS.png)
 ![Propagazione sonora] (http://imgur.com/iGnXymY.png)
+
+#### Installazione
+#####Cimatica
 
 ![Cimatica] (http://imgur.com/28wXNDE.png)
 ![Cimatica] (http://imgur.com/mPrQ5Sf.png)
