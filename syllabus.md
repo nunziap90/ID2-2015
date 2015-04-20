@@ -119,6 +119,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - presentazione e discussione **dataset** e idee **dataviz**
 
 ### Lab 4
+- Dati Vs Processing
 - prototipi **dataviz** in Processing
 
 ###### compito/lettura critica
