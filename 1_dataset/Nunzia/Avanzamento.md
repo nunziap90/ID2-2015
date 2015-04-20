@@ -26,6 +26,9 @@ formeranno un diversa installazione, se le persone sono più tranquille il suono
 si comporteranno di conseguenza. 
 Sale , sabbia o liquido, tramuteranno la vibrazione in qualcosa di visibile; si vedrà così la melodia dell'università.
 
+*Se si utilizza l'ascensore nell'installazione avverrà qualcosa?
+Le persone che salgono le scale avranno una scia sonora tipo cartoni animati?*
+
 #### Visualizzazione 
 #####Propagazione sonora
 
@@ -39,9 +42,6 @@ Sale , sabbia o liquido, tramuteranno la vibrazione in qualcosa di visibile; si 
 ![Cimatica] (http://imgur.com/28wXNDE.png)
 ![Cimatica] (http://imgur.com/mPrQ5Sf.png)
 
-
-Se si utilizza l'ascensore nell'installazione avverrà qualcosa?
-Le persone che salgono le scale avranno una scia sonora tipo cartoni animati? 
 
 ### Ispirazioni
 
