@@ -133,7 +133,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ## 22 - 23 Aprile
-###_Digital Art and Meaning: close reading._
+###_Visualize in Processing._
 
 ![Valence, 1999, Ben Fry](http://i.imgur.com/WMIEi1a.jpg?1) ![Genome Valence, 2002, Ben Fry](http://i.imgur.com/fF4a0Qs.jpg?1) ![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1)
 
