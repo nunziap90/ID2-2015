@@ -113,6 +113,44 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
+## 8 - 9 Aprile
+
+### 
+- presentazione e discussione **dataset** e idee **dataviz**
+
+### Lab 4
+- prototipi **dataviz** in Processing
+
+###### compito/lettura critica
+1. progetto **dataset** e idee **dataviz** di un compagno dato
+2. progetto **dataset** e idee **dataviz** di un compagno a scelta
+
+###### compito/progetto
+1. continuo proposte **dataset** e **dataviz**
+2. continuo prototipi **dataviz** in Processing
+
+
+
+## 22 - 23 Aprile
+###_Digital Art and Meaning: close reading._
+
+![Valence, 1999, Ben Fry](http://i.imgur.com/WMIEi1a.jpg?1) ![Genome Valence, 2002, Ben Fry](http://i.imgur.com/fF4a0Qs.jpg?1) ![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1)
+
+- _Valence_, 1999, Ben Fry [+](http://benfry.com/valence/)
+- _Genome Valence_, 2002, Ben Fry [+](http://benfry.com/genomevalence/)
+- _All the names | 9/11 Memorial_, 2009, Jer Thorp+ [+](http://blog.blprnt.com/blog/blprnt/all-the-names/)
+
+### Lab 5
+- prototipi **dataviz** in Processing
+- Arduino Vs. Processing
+
+###### compito/progetto
+1. prototipo/i finale **dataviz** in Processing
+2. eventuali prototipo/i finale **dataviz** in grafica
+
+
+
+
 
 
 -------
