@@ -24,7 +24,16 @@ l'installazione posta all'ingresso si azionerà ogni qualvolta la porta verrà a
 Quindi se le persone percorrono le scale in modo più frenetico il suono finale sarà più acuto e le vibrazioni 
 formeranno un diversa installazione, se le persone sono più tranquille il suono sarà più grave e le vibrazioni 
 si comporteranno di conseguenza. 
-Sale , sabbia o liquido, tramuteranno la vibrazione in qualcosa di visibile; si vedrà così la melodia dell'università. 
+Sale , sabbia o liquido, tramuteranno la vibrazione in qualcosa di visibile; si vedrà così la melodia dell'università.
+
+#### Visualizzazione 
+
+
+![Propagazione sonora] (http://imgur.com/mzCADoB.png)
+![Propagazione sonora] (http://imgur.com/4Nn7aYS.png)
+![Propagazione sonora] (http://imgur.com/iGnXymY.png)
+
+
 Se si utilizza l'ascensore nell'installazione avverrà qualcosa?
 Le persone che salgono le scale avranno una scia sonora tipo cartoni animati? 
 
@@ -38,3 +47,5 @@ Poiché l’acqua è 10 mila volte meno comprimibile dell’aria, nell’acqua i
 
 [Cimatica con liquido] (https://www.youtube.com/watch?v=LCk9-blM5Xg&list=PL68CEA84D849C13B3&index=3
 )
+
+[Creature in the Sonic Liquid ] (https://www.youtube.com/watch?v=Yw4qklgNIxI)
