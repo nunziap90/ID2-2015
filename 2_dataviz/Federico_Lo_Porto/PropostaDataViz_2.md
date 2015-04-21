@@ -4,19 +4,28 @@ La proposta precedente di DataViz si allontana dalla richiesta da parte del comm
 di data visualizzation. I dati da visualizzare devono avere a che fare con l'università e/o con il luogo in cui si trova la 
 struttura. L'installazione sarà posizionata all'ingresso principale dell'università.
 
+###Concept###
+
+L'università è composta dal personale didattico, personale tecnico e dagli studenti. Queste figure sono fondamentali per la sopravvivenza di essa, come per noi è fondamentale l'ossigeno. 
+
+Quindi si potrebbe pensare alla metafora della respirazione. 
+
+**L'università respira grazie alle persone che ci sono dentro.**
+
+La respirazione è uno scambio di gas tra organismo ed ambiente esterno con assorbimento dell'ossigeno ed emissione del biossido di carbonio. L'edificio sarà l'organismo e le persone saranno l'ambiente esterno.
 
 
 
-I miei dati vengono generati da dei sensori di rilevamento dell'aria,
+###Come funziona###
 
-La nuova proposta si concentra sul visualizzare il **respiro** dell'università, cioè quanto vive l'università, quanto gli studenti 
-ed il personale respirano al suo interno e di conseguenza come 
+L'aria all'interno della struttura proviene dall'ambiente esterno, una volta all'interno dell'edificio sarà influenzata dal personale accademico. La differenza tra l'aria esterna ed interna sarà il dato che mi farà capire quanto è *viva* la struttura.
 
-L'aria dell'università sono le persone che la vivono, dai docenti agli studenti, dal personale universitario al visitatore occasionale.
+Per ottenere il dato interessato, utilizzerò dei sensori per monitorare l'ossigeno e la CO2 presenti nell'aria all'interno ed all'esterno dell'edificio. La differenza tra i rispettivi valori interni ed esterni formeranno il dato. 
 
-L'università è formata da personale didattico, personale amministrativo, studenti
+Più persone ci sono dentro più il respiro sarà profondo.
 
-L'università dipende da tutte queste persone come noi dipendiamo dall'ossigeno.
-Quindi si potrebbe pensare alla metafora del corpo umano, l'università sarebbe il corpo e le persone che si trovano 
-all'interno i globuli rossi. Una delle funzioni principali dei globuli rossi è trasportare l'ossigeno. L'ossigeno viene 
-introdotto nel nostro corpo attraverso la respirazione.
+###References###
+
+
+
+
