@@ -13,9 +13,7 @@ Ho immaginato le scale come se fossero una "scala musicale"; nella terminologia 
 *Il suono è un fenomeno fisico che stimola il senso dell’udito:* **esso è provocato dal rapido movimento (vibrazione) di un qualsiasi corpo (una corda, un elastico, un pezzo di legno,una colonna d’aria, ecc.).**
 *Anche i suoni hanno un’altezza; l’altezza dei suoni dipende dalla frequenza, cioè dalla velocità delle vibrazioni: dato un tempo costante (un secondo), quanto più numerose esse sono, tanto più acuto è il suono.*
 
-
-
-Rifacendomi alla cimatica: "Tutta la creazione è una sinfonia di suoni, di vibrazioni". 
+Rifacendomi alla **cimatica**: *"Tutta la creazione è una sinfonia di suoni, di vibrazioni".*
 La cimatica, sarebbe lo studio degli effetti delle onde sonore sulla materia fisica. 
 Uno dei successi di Chladni fu quello di escogitare un metodo per rendere visibile quello che le onde sonore generano.
 Egli provò a far vibrare un arco da violino su una sottile lamina di metallo su cui distribuì una piccola quantità 
