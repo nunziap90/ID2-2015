@@ -28,31 +28,36 @@ Con questo esperimento dimostrò che il suono influisce davvero sulla materia fi
 All'origine del suono c'è un corpo vibrante. Vibrando, questo corpo trasmette le proprie vibrazioni al mezzo che lo circonda (ad esempio l'aria). 
 Il suono è energia che si propaga sotto forma di onda
 
-Ciò che vorrei trasportare nell mia installazione finale è il concetto di *" rendere visibile il suono"* creato da noi. Rendere visibile lo stato di frenesia/gioia dell'università. 
-Le persone che usano le scale, verranno monitorate in base alla velocità, più sei tranquillo più andrai piano e viceversa. Tutto ciò monitorato dalla kinect. 
+Ciò che vorrei trasportare nell mia installazione finale è il concetto di *" rendere visibile il suono"* creato da noi. Rendere visibile lo stato di frenesia/gioia dell'università. Una sinestesia del suono, ossia l'accostamento di due parole appartenenti a due piani sensoriali diversi. 
 
+Le persone che usano le scale, verranno monitorate in base alla velocità, più sei tranquillo più andrai piano e viceversa. Tutto ciò monitorato dalla kinect. (oppure: OpenNI permette di catturare il movimento in tempo reale, il riconoscimento di gesti delle mani e dei comandi vocali e implementa anche un "analizzatore di scena", che rileva figure in primo piano e le separa dallo sfondo). 
 
-L'installazione posta all'ingresso si azionerà ogni qualvolta la porta verrà aperta. 
-Quindi se le persone percorrono le scale in modo più frenetico il suono finale sarà più acuto, mentre se le persone sono più tranquille il suono sarà più grave e le vibrazioni si comporteranno di conseguenza. 
-(Avrò una scala di valori da tener presente in base alla velocità e il relativo suono abbinato).
-Sale , sabbia o liquido, tramuteranno la vibrazione in qualcosa di visibile; si vedrà così la melodia dell'università.
-
-*Se si utilizza l'ascensore nell'installazione avverrà qualcosa?
-
-Le persone che salgono le scale avranno una scia sonora tipo cartoni animati?*
-
-#### Visualizzazione 
+####Visualizzazione
 #####Propagazione sonora
 
 ![Propagazione sonora] (http://imgur.com/mzCADoB.png)
 ![Propagazione sonora] (http://imgur.com/4Nn7aYS.png)
 ![Propagazione sonora] (http://imgur.com/iGnXymY.png)
+![Propagazione sonora] (http://imgur.com/Nn4jkKe.png) 
+*(La sorgente deve vibrare con continuità, non una sola volta)*
 
 #### Installazione
 #####Cimatica
 
 ![Cimatica] (http://imgur.com/28wXNDE.png)
 ![Cimatica] (http://imgur.com/mPrQ5Sf.png)
+
+L'installazione all'ingresso, in base a quello detto fin a qui, vorrei si basasse sulla cimatica, quindi sarebbe interessante osservare gli effetti delle onde sonore sulla materia fisica; onde sonore create dalle stesse persone che poco prima hanno percorso le scale. (Quindi se le persone percorrono le scale in modo più frenetico il suono finale sarà più acuto, mentre se le persone sono più tranquille il suono sarà più grave e le vibrazioni si comporteranno di conseguenza). 
+L'installazione posta all'ingresso si azionerà ogni qualvolta la porta verrà aperta. 
+Sale , sabbia o liquido, tramuteranno la vibrazione in qualcosa di visibile; si vedrà così la melodia dell'università.
+
+Avrò una scala di valori da tener presente in base alla velocità, con relativo suono abbinato.
+In base alla velocità media di un uomo andrò a variare: stato di calma e frenetico. 
+**Da 1 ad 1,5 m/s; da 3,6 a 5,4 km/s: Velocità media di un uomo che cammina.**
+
+*Se si utilizza l'ascensore nell'installazione avverrà qualcosa?
+
+Le persone che salgono le scale avranno una scia sonora tipo cartoni animati?*
 
 
 ### Ispirazioni
