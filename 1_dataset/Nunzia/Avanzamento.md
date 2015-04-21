@@ -56,7 +56,7 @@ In base alla velocità media di un uomo andrò a variare: stato di calma e frene
 **Da 1 ad 1,5 m/s; da 3,6 a 5,4 km/s: Velocità media di un uomo che cammina.**
 
 *Se si utilizza l'ascensore nell'installazione avverrà qualcosa?
-
+Fa differenza se salgo o scendo? o calcolo solo la velocità?
 Le persone che salgono le scale avranno una scia sonora tipo cartoni animati?*
 
 
