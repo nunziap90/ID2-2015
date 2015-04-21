@@ -96,6 +96,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ##2 Aprile
+###_Approfondire._
 
 ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/086ew8k.jpg?1)
 
@@ -116,6 +117,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ## 8 - 9 Aprile
+###_Presentazioni e confronto._
 
 ### 
 - presentazione e discussione **dataset** e idee **dataviz**
