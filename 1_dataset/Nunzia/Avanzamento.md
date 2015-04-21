@@ -25,9 +25,13 @@ di sabbia: facendo scorrere l'archetto scoprì che la sabbia si separava andando
 Con questo esperimento dimostrò che il suono influisce davvero sulla materia fisica e diede inizio a una nuova scienza. 
 
 **Il suono crea vibrazioni**, sulla base di ciò baserei lo sviluppo del mio progetto. 
-La mia visualizzazione e l'installazione, " rendere visibile il suono" creato da noi.  
-Rendere visibile lo stato di frenesia/gioia dell'università. 
-Le persone che usano le scale, verranno monitorate per velocità, in base alla kinect. 
+All'origine del suono c'è un corpo vibrante. Vibrando, questo corpo trasmette le proprie vibrazioni al mezzo che lo circonda (ad esempio l'aria). 
+Il suono è energia che si propaga sotto forma di onda
+
+Ciò che vorrei trasportare nell mia installazione finale è il concetto di *" rendere visibile il suono"* creato da noi. Rendere visibile lo stato di frenesia/gioia dell'università. 
+Le persone che usano le scale, verranno monitorate in base alla velocità, più sei tranquillo più andrai piano e viceversa. Tutto ciò monitorato dalla kinect. 
+
+
 L'installazione posta all'ingresso si azionerà ogni qualvolta la porta verrà aperta. 
 Quindi se le persone percorrono le scale in modo più frenetico il suono finale sarà più acuto, mentre se le persone sono più tranquille il suono sarà più grave e le vibrazioni si comporteranno di conseguenza. 
 (Avrò una scala di valori da tener presente in base alla velocità e il relativo suono abbinato).
