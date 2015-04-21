@@ -3,14 +3,17 @@
 
 Ogni giorno gli studenti vivono l'università, ognuno a proprio modo, con le proprie ansie, frenesie... 
 Perchè non raccontare l'umore che ogni giorno si respira in questo luogo? Come? Attraverso i nostri piccoli gesti 
-quotidiani, si raccoglieranno dati che si tramuteranno in suono, come se fosse una sorta di melodia universitaria. 
-Le persone che la vivono ogni giorno per raggiungere i propri luoghi di lavoro hanno necessariamente bisogno 
-di percorrere le scale, mentre i più pigri prenderanno l'ascensore. Concentrandomi sulle scale, ho ragionato sul concetto di scala e di come aver un filo conduttore per arrivare all'installazione finale. 
-Quindi ho immaginato le scale come una scala musicale:  nella terminologia della musica, è una successione 
-di suoni compresi nell'ambito di una o più ottave.
+quotidiani. 
+Monitorando lo stato d'animo giornaliero, si raccoglieranno dati che si tramuteranno in suono, come una melodia universitaria. 
+Le persone che la vivono ogni giorno, per raggiungere i propri luoghi di lavoro, hanno necessariamente bisogno 
+di percorrere le scale, mentre i più pigri prenderanno l'ascensore. 
+Concentrandomi sulle scale, ho ragionato sul concetto di scala e di come aver un filo conduttore per arrivare all'installazione finale. 
+Ho immaginato le scale come se fossero una "scala musicale".  
+Nella terminologia della musica, è una successione di suoni compresi nell'ambito di una o più ottave.
+
 Rifacendomi alla cimatica: "Tutta la creazione è una sinfonia di suoni, di vibrazioni". 
 La cimatica, sarebbe lo studio degli effetti delle onde sonore sulla materia fisica. 
-Uno dei successi di Chladni fu quello di escogitare un metodo per rendere visibile quello che le onde sonore generano. 
+Uno dei successi di Chladni fu quello di escogitare un metodo per rendere visibile quello che le onde sonore generano.
 Egli provò a far vibrare un arco da violino su una sottile lamina di metallo su cui distribuì una piccola quantità 
 di sabbia: facendo scorrere l'archetto scoprì che la sabbia si separava andando a formare meravigliose forme simmetriche. 
 Con questo esperimento dimostrò che il suono influisce davvero sulla materia fisica e diede inizio a una nuova scienza. 
