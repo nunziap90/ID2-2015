@@ -103,6 +103,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### 
 - consegna **dataset**
 
+------
+
 ###### compito/approfondire
 1. _Artistic Data Visualization: Beyond Visual Analytics_, Fernanda B. Viégas & Martin Wattenberg [+](http://hint.fm/papers/artistic-infovis.pdf)
 2. _Dear Data_, 2015, Giorgia Lupi & Stefanie Posavec [+](http://www.dear-data.com/)
@@ -121,6 +123,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Lab 4
 - dati Vs Processing
 - prototipi **dataviz** in Processing
+
+------
 
 ###### compito/lettura critica
 1. progetto **dataset** e idee **dataviz** di un compagno dato
@@ -144,6 +148,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Lab 5
 - prototipi **dataviz** in Processing
 - Arduino Vs. Processing
+
+------
 
 ###### compito/progetto
 1. prototipo/i finale **dataviz** in Processing
