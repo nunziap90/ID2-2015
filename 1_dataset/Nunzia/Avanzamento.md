@@ -40,9 +40,17 @@ Dove si posiziona la camera? Vicino l'ascensore, inquadrando la doppia direzione
 
 
 ![Propagazione sonora] (http://imgur.com/mzCADoB.png)
+
+
 ![Propagazione sonora] (http://imgur.com/4Nn7aYS.png)
+
+
 ![Propagazione sonora] (http://imgur.com/iGnXymY.png)
+
+
 ![Propagazione sonora] (http://imgur.com/Nn4jkKe.png) 
+
+
 *(La sorgente deve vibrare con continuità, non una sola volta)*
 
 #####Idea di visualizzazione 
@@ -60,7 +68,7 @@ L'installazione all'ingresso, vorrei si basasse sulla **cimatica**, quindi sareb
 **L'installazione posta all'ingresso si azionerà ogni qualvolta la porta verrà aperta.**
 Sale , sabbia o liquido, tramuteranno la vibrazione in qualcosa di visibile; si vedrà così la melodia dell'università.
 
-Avrò una **scala di valori** da tener presente in base alla velocità, con relativo suono abbinato.
+- Avrò una **scala di valori** da tener presente in base alla velocità, con relativo suono abbinato.
 In base alla velocità media di un uomo andrò a variare: stato di calma e frenetico. 
 **Da 1 ad 1,5 m/s; da 3,6 a 5,4 km/s: Velocità media di un uomo che cammina.**
 Per la velocità di percorrenza avrò un range di valori per catalogarne la velocità: 
@@ -74,6 +82,9 @@ Per ogni 20 persone che percorrono le scale viene elaborata una media, da cui ve
 - *Se si utilizza l'ascensore nell'installazione avverrà qualcosa?
 Fa differenza se salgo o scendo? o calcolo solo la velocità?
 Le persone che salgono le scale avranno una scia sonora tipo cartoni animati?*
+
+###Conclusione
+![Conclusione?] (http://imgur.com/oNXzQkv.png)
 
 
 ### Ispirazioni
