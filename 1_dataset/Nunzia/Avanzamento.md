@@ -54,6 +54,10 @@ Sale , sabbia o liquido, tramuteranno la vibrazione in qualcosa di visibile; si 
 Avrò una scala di valori da tener presente in base alla velocità, con relativo suono abbinato.
 In base alla velocità media di un uomo andrò a variare: stato di calma e frenetico. 
 **Da 1 ad 1,5 m/s; da 3,6 a 5,4 km/s: Velocità media di un uomo che cammina.**
+Per la velocità di percorrenza avrò un range di valori per catalogarne la valocità: 
+Es: 1, 2, 3, saranno velocità lenta, media e veloce, ad ogni valore avrò un suono, grace, medio grave e acuto. 
+- Possono variare in base a se salgo o scando le scale? 
+Per ogni 20 persone che percorrono le scale viene elaborata una media, da cui verrà estratto il suono/melodia da far sentire/vedere all'entrata. Ogni qualvolta si apre la porta si attiva l'installazione ( in loop...una volta raccolti i dati di 20 persone il suono cambia. 
 
 *Se si utilizza l'ascensore nell'installazione avverrà qualcosa?
 Fa differenza se salgo o scendo? o calcolo solo la velocità?
