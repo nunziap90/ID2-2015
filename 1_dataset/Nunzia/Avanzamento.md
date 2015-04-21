@@ -64,7 +64,7 @@ Le persone che salgono le scale avranno una scia sonora tipo cartoni animati?*
 
 [GEOMETRIE SACRE - LA MAGIA DEL SUONO E DELLE VIBRAZIONI ] (https://www.youtube.com/watch?v=BOQrzRl0LcM)
 
-Poiché l’acqua è 10 mila volte meno comprimibile dell’aria, nell’acqua il suono si propaga più velocemente che nell’aria.
+Meno lo strato è comprimibile, prima cederà l’energia al successivo. Poiché l’acqua è 10 mila volte meno comprimibile dell’aria, nell’acqua il suono si propaga più velocemente che nell’aria.
 
 [Non-Newtonian Fluid on a Speaker Cone ] (https://www.youtube.com/watch?v=3zoTKXXNQIU&list=PL68CEA84D849C13B3)
 
