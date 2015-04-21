@@ -149,6 +149,9 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. prototipo/i finale **dataviz** in Processing
 2. eventuali prototipo/i finale **dataviz** in grafica
 
+###### compito/approfondire
+1. _Visualizing Information for Advocacy_, [+](https://visualisingadvocacy.org/getbook)
+2. _Data + Design_, [+](https://infoactive.co/data-design)
 
 
 
