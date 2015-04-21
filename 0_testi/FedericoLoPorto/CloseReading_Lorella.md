@@ -1,9 +1,10 @@
 #Close Reading Progetto Lorella#
 
-###Cosa è?###
+###Introduzione###
+Un continuo mutamento di dati rilevati tramite sensori sensibili al rumore ed al calore disposti in luoghi predefiniti
+all'interno dell'università.
 
-
-Un'installazione che fornisce una rappresentazione della vitalità dell'Università. Un continuo mutamento di dati rilevati tramite sensori sensibili al rumore ed al calore.
+###Ricerca di significato###
 
 **Rumore**
 
@@ -16,10 +17,6 @@ Un'installazione che fornisce una rappresentazione della vitalità dell'Universi
 
 * trovare supporto morale tutte le mattine
 * smorzare ansia e varie preoccupazioni relative all'università
-
-###Cosa potrebbe significare?###
-Tracciare 
-
 
 ###Considerazioni Personali e Suggerimenti###
 
@@ -51,13 +48,4 @@ Altri esempi:
 
 
 La visualizzazione che suggerisco è quella di far propagare come vibrazione in un liquido il rumore acquisito dai sensori disposti all'interno dell'università. Individuerei più spazi e farei una media ponderata tra i valori, impostando come peso l'utilizzo di tale spazio, così da avere una visione complessiva sul rumore/suono di tutta l'università. Inoltre indicherei l'intensità del rumore con della luce.
-
-
-
-
-
-
-
-
-
 
