@@ -41,6 +41,9 @@ Le persone che usano le scale, verranno monitorate in base alla velocità, più 
 ![Propagazione sonora] (http://imgur.com/Nn4jkKe.png) 
 *(La sorgente deve vibrare con continuità, non una sola volta)*
 
+#####Idea di visualizzazione 
+![Visualizzazione] (http://imgur.com/mfwWCdR.png)
+
 #### Installazione
 #####Cimatica
 
