@@ -14,12 +14,18 @@ Ho immaginato le scale come se fossero una "scala musicale"; nella terminologia 
 *Anche i suoni hanno un’altezza; l’altezza dei suoni dipende dalla frequenza, cioè dalla velocità delle vibrazioni: dato un tempo costante (un secondo), quanto più numerose esse sono, tanto più acuto è il suono.*
 
 Rifacendomi alla **cimatica**: *"Tutta la creazione è una sinfonia di suoni, di vibrazioni".*
-La cimatica, sarebbe lo studio degli effetti delle onde sonore sulla materia fisica. 
-Uno dei successi di Chladni fu quello di escogitare un metodo per rendere visibile quello che le onde sonore generano.
+
+Tutta la creazione è una sinfonia di suoni, di vibrazioni, in cui le singole parti si inseriscono attratte dalla risonanza con i suoni simili.
+Quindi la Cimatica sarebbe lo studio degli effetti delle onde sonore sulla materia fisica.
+Il nome Cimatica deriva dal greco “chima”, cioè onda.
+
+Uno dei successi di Chladni, giurista, musicista e fisico tedesco , fu quello di escogitare un metodo per rendere visibile quello che le onde sonore generano.
 Egli provò a far vibrare un arco da violino su una sottile lamina di metallo su cui distribuì una piccola quantità 
 di sabbia: facendo scorrere l'archetto scoprì che la sabbia si separava andando a formare meravigliose forme simmetriche. 
 Con questo esperimento dimostrò che il suono influisce davvero sulla materia fisica e diede inizio a una nuova scienza. 
-Il suono crea vibrazioni, sulla base di ciò baserei la mia visualizzazione e l'installazione, " rendere visibile il suono" creato da noi.  
+
+**Il suono crea vibrazioni**, sulla base di ciò baserei lo sviluppo del mio progetto. 
+La mia visualizzazione e l'installazione, " rendere visibile il suono" creato da noi.  
 Rendere visibile lo stato di frenesia/gioia dell'università. 
 Le persone che usano le scale, verranno monitorate per velocità, in base alla kinect. 
 L'installazione posta all'ingresso si azionerà ogni qualvolta la porta verrà aperta. 
