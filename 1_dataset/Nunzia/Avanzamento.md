@@ -33,7 +33,8 @@ Ciò che vorrei trasportare nell mia installazione finale è il concetto di *" r
 Le persone che usano le scale, verranno monitorate in base alla velocità, più sei tranquillo più andrai piano e viceversa. Tutto ciò monitorato dalla kinect. (oppure: OpenNI permette di catturare il movimento in tempo reale, il riconoscimento di gesti delle mani e dei comandi vocali e implementa anche un "analizzatore di scena", che rileva figure in primo piano e le separa dallo sfondo). 
 
 ####Visualizzazione
-#####Propagazione sonora
+#####Propagazione sonora_Spunti
+
 
 ![Propagazione sonora] (http://imgur.com/mzCADoB.png)
 ![Propagazione sonora] (http://imgur.com/4Nn7aYS.png)
@@ -43,6 +44,8 @@ Le persone che usano le scale, verranno monitorate in base alla velocità, più 
 
 #####Idea di visualizzazione 
 ![Visualizzazione] (http://imgur.com/mfwWCdR.png)
+
+La pulsazione come se fosse il passo, i cerchi intorno l'energia. 
 
 #### Installazione
 #####Cimatica
