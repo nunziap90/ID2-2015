@@ -10,8 +10,8 @@ di percorrere le scale, mentre i più pigri prenderanno l'ascensore.
 Concentrandomi sulle scale, ho ragionato sul concetto di scala e di come aver un filo conduttore per arrivare all'installazione finale. 
 Ho immaginato le scale come se fossero una "scala musicale"; nella terminologia della musica, è una successione di suoni compresi nell'ambito di una o più ottave.
 
-*Il suono è un fenomeno fisico che stimola il senso dell’udito: **esso è provocato dal rapido movimento (vibrazione) di un qualsiasi corpo (una corda, un elastico, un pezzo di legno,una colonna d’aria, ecc.).**
-Anche i suoni hanno un’altezza; l’altezza dei suoni dipende dalla frequenza, cioè dalla velocità delle vibrazioni: dato un tempo costante (un secondo), quanto più numerose esse sono, tanto più acuto è il suono.*
+*Il suono è un fenomeno fisico che stimola il senso dell’udito:* **esso è provocato dal rapido movimento (vibrazione) di un qualsiasi corpo (una corda, un elastico, un pezzo di legno,una colonna d’aria, ecc.).**
+*Anche i suoni hanno un’altezza; l’altezza dei suoni dipende dalla frequenza, cioè dalla velocità delle vibrazioni: dato un tempo costante (un secondo), quanto più numerose esse sono, tanto più acuto è il suono.*
 
 
 
