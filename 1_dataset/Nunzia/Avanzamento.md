@@ -105,5 +105,13 @@ Meno lo strato è comprimibile, prima cederà l’energia al successivo. Poiché
 
 [Creature in the Sonic Liquid ] (https://www.youtube.com/watch?v=Yw4qklgNIxI)
 
+[Cimática - Placa Chladni] (https://www.youtube.com/watch?v=4g9Gu1vxqYE)
+
+[Cimatica e levitazione] (https://www.youtube.com/watch?v=BuaS_SugAjE)
+
+[Creeping Oobleck ] (https://www.youtube.com/watch?v=Yp1wUodQgqQ&index=2&list=PL68CEA84D849C13B3)
+
+Un fluido non newtoniano ( amido di mais + acqua) che cambia da uno stato liquido allo stato solido quando viene applicata tensione ( cioè agitazione della lamiera con onde sonore )
+
 
 Work in progress...
