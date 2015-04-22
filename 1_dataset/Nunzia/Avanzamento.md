@@ -56,6 +56,8 @@ Dove si posiziona la camera? Vicino l'ascensore, inquadrando la doppia direzione
 #####Idea di visualizzazione 
 ![Visualizzazione] (http://imgur.com/mfwWCdR.png)
 
+![Visualizzazione] (http://imgur.com/5kLrYsY.png)
+
 La pulsazione come se fosse il passo, i cerchi intorno l'energia. 
 
 #### Installazione
