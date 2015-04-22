@@ -22,9 +22,34 @@ L'aria all'interno della struttura proviene dall'ambiente esterno, una volta all
 
 Per ottenere il dato interessato, utilizzerò dei sensori per monitorare l'ossigeno e la CO2 presenti nell'aria all'interno ed all'esterno dell'edificio. La differenza tra i rispettivi valori interni ed esterni formeranno il dato. 
 
-Più persone ci sono dentro più il respiro sarà profondo.
+*Maggiore sarà la differenza più il respiro sarà profondo.*
+
+###Conclusioni###
+
+Il dato potrebbe essere visualizzato come una "bolla" che si gonfia e sgonfia seguendo un andamento ritmico il tutto in base ai dati rilevati. 
+
 
 ###References###
+
+[Breathing] (https://vimeo.com/37134952)
+
+[MAKEAWISH] (https://vimeo.com/34070923)
+
+[Last Breath] (http://www.lozano-hemmer.com/last_breath.php)
+
+[Pulse Room] (http://www.lozano-hemmer.com/pulse_room.php)
+
+[Less Than Three] (http://www.lozano-hemmer.com/less_than_three.php)
+
+[NINETY SIX] (http://www.nilsvoelker.com/content/ninetysix/index.html)
+
+[Daniel Wurtzel]  (http://www.danielwurtzel.com/air.cfm)
+
+[Bubbles] (http://ibubbles.blogspot.it)
+
+[30.000 Plastic Bags] (https://vimeo.com/9187772)
+
+[Ring Smoke] (https://www.youtube.com/watch?v=SqMbgmK5L4M&spfreload=10)
 
 
 
