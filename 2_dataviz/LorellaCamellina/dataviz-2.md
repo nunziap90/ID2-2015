@@ -1,9 +1,11 @@
 ##Possibilità di traduzione del suono
 
 In questa fase, ho scelto di crearmi una specie di libreria personale per capire come ci si approccia 
-solitamente al tema della traduzione del suono al fine di farlo fruire come qualcosa di diverso, di concreto.
-Quindi ho raccolto esempi in cui il suono diventa qualcos'altro: una vibrazione, una luce, un soffio
-o via dicendo. Questo per me rappresenta un panorama di partenza all'interno del quale trarre  direzioni 
+solitamente al tema della traduzione del suono. Il fine ultimo è far fruire il suono come qualcosa di diverso, 
+di concreto. 
+
+Ho raccolto esempi in cui il suono diventa qualcos'altro: una vibrazione, una luce, un soffio
+o via dicendo. Questo per me rappresenta un panorama di partenza all'interno del quale trarre direzioni 
 da approfondire. Lo step successivo riguarderà il come attuare concretamente la traduzione.
 
 ####References
@@ -70,11 +72,10 @@ da approfondire. Lo step successivo riguarderà il come attuare concretamente la
 ####Conclusioni
 
 La mia idea è di riportare con l'installazione all'ingresso la "vivacità" o la calma 
-della sede UniRSM, a colpo d'ochhio. Direi che il lavoro che più si avvicina alla mia idea di visualizzazione 
-di vivacità è [questa](https://www.youtube.com/watch?v=jJfpL5QkixU).
-Volendo seguire questa direzione di traduzione e a differenza di quanto accadeva in
+della sede UniRSM, a colpo d'ochhio. Direi che il lavoro che più si avvicina ad essa è [questa](https://www.youtube.com/watch?v=jJfpL5QkixU).
+Volendo seguire la direzione di traduzione di cui sopra e a differenza di quanto accadeva in
 [dataviz - 1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/dataviz-1.md),
-sarbbe meglio avere a che fare con dati istantanei, non prelevati ad intervalli di tempo. 
+sarbbe meglio aver a che fare con dati istantanei, non prelevati ad intervalli di tempo. 
 Per facilitare il tutto, porei riprodurre il valore medio della rumorosità della sede e 
 non più andare ad ascoltare e tradurre il suono di ogni aula singolarmente (cosa da verificare in base 
 a come verrà concepita l'installazione fisica finale).
