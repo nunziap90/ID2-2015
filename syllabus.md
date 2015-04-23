@@ -1,6 +1,6 @@
 # Syllabus ID2-2015
 **_Data, art and meaning_, Interaction Design 2 @ [design.unirsm.sm](http://design.unirsm.sm)**  
-Corso di Laurea Magistrale in Design, Università di San Marino / IUAV Venezia |  A/A 2014-15  
+Corso di Laurea Magistrale in Design, Università di San Marino |  A/A 2014-15  
 Docente _Daniele Tabellini_ < <daniele.tabellini@unirsm.sm> >
 
 _Digital Art and Meaning: ..._, Simanowski 2011 :
@@ -23,7 +23,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - git/github [+](https://guides.github.com/)
 - markdown [+](https://guides.github.com/features/mastering-markdown)
 - hackpad
-- google fogli
 
 ---
 
@@ -46,29 +45,25 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ##18 - 19 Marzo
 ###_Data: big, little, no, open. Mapping art._
 
-![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![Physical Charts/Teninson Road, 2013+, David Sweeney](http://i.imgur.com/BApqOXS.jpg?1) ![Hypertension Singing Bowl, 2013, Stephen Barras](http://i.imgur.com/DGvBovS.jpg?1)  
+![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![The Source, 2004, Greyworld](http://i.imgur.com/kPVYKuO.jpg?1)
 
 - _The Source_, 2004, Greyworld [+](http://greyworld.org/archives/31)
-- _Physical Charts/Teninson Road_, 2013+, David Sweeney [+](http://dataphys.org/list/dynamic-physical-charts-to-communicate-community-data/)
-- _Hypertension Singing Bowl_, 2013, Stephen Barras [+](http://dataphys.org/list/barrass-physical-data-sonifications/)
- 
+
 ### Lab 2
-- _scraping_
 - openrefine
 - raw
-- processing
-- api/temboo
+- idee **dataset**
 
 ---
 
 ###### compito/lettura critica*
-1. -  
-2. -  
-3. -  
-4. -  
-5. -  
-6. -  
-7. -   
+1. _Physical Charts/Teninson Road_, 2013+, David Sweeney
+2. _Hypertension Singing Bowl_, 2013, Stephen Barras 
+3. _Drip by tweet_, 2014, Domestic Data Streamers
+4. _Warning Real Time Air Quality_, 2011, Rodrigo Medeiros  
+5. _Dust Serenade_, 2010, Markus Decker & Orkan Telhan +
+6. _District 5_, 2014, Loren Madsen
+7. _Chaotic flow_, 2012, Illutron
 
 (* _progetti scelti da [dataphys.org/list](http://dataphys.org/list)_)  
 
@@ -83,14 +78,14 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ##26 Marzo
 ###_Digital Art and Meaning: close reading._
 
-![The Secret Lives of Numbers, 2002, Golan Levin+](http://i.imgur.com/qDrLG5X.jpg?1) ![Listening Post, 2000+, Mark Hansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
+![The Secret Lives of Numbers, 2002, Golan Levin+](http://i.imgur.com/qDrLG5X.jpg?1) ![Bio Mapping / Emotion Mapping_, 2004+, Christian Nold](http://i.imgur.com/I7IOGP9.jpg?1) ![Listening Post, 2000+, Mark H_ansen & Ben Rubin](http://i.imgur.com/L9etHPR.jpg?1)
 
 - _The Secret Lives of Numbers_, 2002, Golan Levin+ [+](http://www.flong.com/projects/slon/)
+- _Bio Mapping / Emotion Mapping_, 2004+, Christian Nold [+](http://biomapping.net/)
 - _Listening Post_, 2000+, Mark Hansen & Ben Rubin [+](https://vimeo.com/3885443)
 
 ### Lab 3
-- processing
-- D3
+- proposte **dataset**
 
 ---
 
@@ -101,9 +96,74 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ##2 Aprile
+###_Approfondire._
+
+![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/086ew8k.jpg?1)
+
+
+### 
+- consegna **dataset**
+
+------
+
+###### compito/approfondire
+1. _Artistic Data Visualization: Beyond Visual Analytics_, Fernanda B. Viégas & Martin Wattenberg [+](http://hint.fm/papers/artistic-infovis.pdf)
+2. _Dear Data_, 2015, Giorgia Lupi & Stefanie Posavec [+](http://www.dear-data.com/)
+
+###### compito/progetto
+1. idee **dataviz**
+2. code _G_Spreadsheet_Data.pde_ 3 versioni [+](https://github.com/Fupete/ID2-2015/tree/master/2_dataviz/code)
+
+
+
+## 8 - 9 Aprile
+###_Presentazioni e confronto._
+
+### 
+- presentazione e discussione **dataset** e idee **dataviz**
 
 ### Lab 4
-- discussione **dataset**
+- dati Vs Processing
+- prototipi **dataviz** in Processing
+
+------
+
+###### compito/lettura critica
+1. progetto **dataset** e idee **dataviz** di un compagno dato
+2. progetto **dataset** e idee **dataviz** di un compagno a scelta
+
+###### compito/progetto
+1. continuo proposte **dataset** e **dataviz**
+2. continuo prototipi **dataviz** in Processing
+
+
+
+## 22 - 23 Aprile
+###_Visualize in Processing._
+
+![Valence, 1999, Ben Fry](http://i.imgur.com/WMIEi1a.jpg?1) ![Genome Valence, 2002, Ben Fry](http://i.imgur.com/fF4a0Qs.jpg?1) ![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1)
+
+- _Valence_, 1999, Ben Fry [+](http://benfry.com/valence/)
+- _Genome Valence_, 2002, Ben Fry [+](http://benfry.com/genomevalence/)
+- _All the names | 9/11 Memorial_, 2009, Jer Thorp+ [+](http://blog.blprnt.com/blog/blprnt/all-the-names/)
+
+### Lab 5
+- prototipi **dataviz** in Processing
+- Arduino Vs. Processing
+
+------
+
+###### compito/progetto
+1. prototipo/i finale **dataviz** in Processing
+2. eventuali prototipo/i finale **dataviz** in grafica
+
+###### compito/approfondire
+1. _Visualizing Information for Advocacy_, [+](https://visualisingadvocacy.org/getbook)
+2. _Data + Design_, [+](https://infoactive.co/data-design)
+
+
+
+
 
 -------
 
