@@ -18,11 +18,15 @@
 
 [Big Conscience - Carlo De Mattia](http://www.nendo.jp/en/works/shivering-bowls-2/) >> silicone
 
+-
+
 **Wind**
 
 (w. become sound)
 
 [And the wind was like the regret for what is no more - Joao Costa](http://joaocosta.co/and-the-wind-was-like-the-regret-for-what-is-no-more.html) >> blow
+
+-
 
 **Light**
 
@@ -34,6 +38,7 @@
 
 [Big Conscience - Carlo De Mattia](http://www.nendo.jp/en/works/shivering-bowls-2/) >> silicone
 
+-
 
 **Motion**
 
