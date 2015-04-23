@@ -2,9 +2,8 @@
 
 In questa fase, ho scelto di crearmi una specie di libreria personale per capire come ci si approccia 
 solitamente al tema della traduzione del suono al fine di farlo fruire come qualcosa di diverso, di concreto.
-Quindi il suono diventa qualcosa di altro: una vibrazione, una luce, un soffio o via dicendo.
-
-Questo per me rappresenta un panorama di partenza all'interno del quale trarre direzioni da approfondire.
+Quindi il suono diventa qualcosa di altro: una vibrazione, una luce, un soffio o via dicendo.Questo per me 
+rappresenta un panorama di partenza all'interno del quale trarre direzioni da approfondire.
 
 ####References
 
@@ -42,6 +41,9 @@ Questo per me rappresenta un panorama di partenza all'interno del quale trarre d
 
 [Yukikaze - 3](https://www.youtube.com/watch?v=aB9G4ogxxm4)
 
+[Claudia Ciarpella - Hover](http://www.claudiaciarpella.com/portfolio/hover/) >> noise
+
+
 -
 
 **Light**
@@ -67,9 +69,12 @@ Questo per me rappresenta un panorama di partenza all'interno del quale trarre d
 ####Conclusioni
 
 La mia idea è di riportare con l'installazione all'ingresso la "vivacità" o la calma 
-della sede UniRSM a colpo d'ochhio. A questo punto e a differenza di quanto accadeva in
+della sede UniRSM, a colpo d'ochhio. Direi che il lavoro che pi si avvicina alla mia idea di visualizzazione di vivacità
+è [questa](https://www.youtube.com/watch?v=jJfpL5QkixU).
+A questo punto e a differenza di quanto accadeva in
 [dataviz - 1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/dataviz-1.md),
 sarbbe meglio avere a che fare con dati istantanei, non prelevati ad intervalli di tempo. 
 Per facilitare il tutto, vorrei riprodurre il valore medio della rumorosità della sede e 
-non più andare ad ascoltare e tradurre il suono di ogni aula singolarmente.
+non più andare ad ascoltare e tradurre il suono di ogni aula singolarmente (cosa da verificare in base 
+alla visualizzazione fisica finale):
 
