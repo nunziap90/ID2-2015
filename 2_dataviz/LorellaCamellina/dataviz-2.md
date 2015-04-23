@@ -1,5 +1,8 @@
 ##Possibilità di traduzione del suono
 
+In questa fase ho scelto di creare una specie di libreria personale per capire cone ci si approcci 
+al tema della traduzione del suono al fine di farlo fruire come qualcosa di diverso, di concreto.
+
 ####References
 
 **Vibration**
@@ -14,7 +17,7 @@
 
 (interaction generates v.)
 
-[Shivering Bowls - Nendo](http://www.nendo.jp/en/works/shivering-bowls-2/) >> silicone
+[Shivering Bowls - Nendo](http://www.nendo.jp/en/works/shivering-bowls-2/) >> no sound
 
 [Big Conscience - Carlo De Mattia](http://www.nendo.jp/en/works/shivering-bowls-2/) >> silicone
 
@@ -25,6 +28,8 @@
 (w. become sound)
 
 [And the wind was like the regret for what is no more - Joao Costa](http://joaocosta.co/and-the-wind-was-like-the-regret-for-what-is-no-more.html)
+
+-
 
 (sound become w.)
 
