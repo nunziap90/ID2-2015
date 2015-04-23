@@ -96,12 +96,15 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ##2 Aprile
+###_Approfondire._
 
 ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/086ew8k.jpg?1)
 
 
 ### 
 - consegna **dataset**
+
+------
 
 ###### compito/approfondire
 1. _Artistic Data Visualization: Beyond Visual Analytics_, Fernanda B. Viégas & Martin Wattenberg [+](http://hint.fm/papers/artistic-infovis.pdf)
@@ -114,6 +117,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ## 8 - 9 Aprile
+###_Presentazioni e confronto._
 
 ### 
 - presentazione e discussione **dataset** e idee **dataviz**
@@ -121,6 +125,8 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Lab 4
 - dati Vs Processing
 - prototipi **dataviz** in Processing
+
+------
 
 ###### compito/lettura critica
 1. progetto **dataset** e idee **dataviz** di un compagno dato
@@ -145,10 +151,15 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - prototipi **dataviz** in Processing
 - Arduino Vs. Processing
 
+------
+
 ###### compito/progetto
 1. prototipo/i finale **dataviz** in Processing
 2. eventuali prototipo/i finale **dataviz** in grafica
 
+###### compito/approfondire
+1. _Visualizing Information for Advocacy_, [+](https://visualisingadvocacy.org/getbook)
+2. _Data + Design_, [+](https://infoactive.co/data-design)
 
 
 
