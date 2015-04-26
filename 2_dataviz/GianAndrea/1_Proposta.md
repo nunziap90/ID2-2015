@@ -28,7 +28,7 @@ Il progetto si basa sulla trasmissione delle informazioni nascoste della rete in
 
 -
 
-###spazio ingresso università
+###Spazio d'ingresso università
 
 ![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430055532187_WP_20150426_003.jpg?fit=max&w=882)
 
