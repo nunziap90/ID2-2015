@@ -42,7 +42,7 @@ Work in progress...
 
 ####Immagini 
 
-![1] (http://imgur.com/dwTWppJ.png)
+![1] (http://imgur.com/1EwMeqf.png)
 
 Doppia porta 
 
