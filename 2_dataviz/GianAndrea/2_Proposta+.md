@@ -13,9 +13,9 @@
 
 - 
 
-![] ()
+![] (http://domesticstreamers.com/wp-content/uploads/36-1024x682.jpg)
 
-[Behance Reviews] (http://domesticstreamers.com/#projects)
+[Behance Reviews] (http://domesticstreamers.com/#projects) è un sistema di votazione dedicato alla selezione di uno degli alcuni profili Behance presentati per redigere l'ultimo discorso della manifestazione.
 
 
 -
