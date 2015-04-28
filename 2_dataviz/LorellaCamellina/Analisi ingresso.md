@@ -1,10 +1,10 @@
 ##Analisi ingresso
 
 Essendo il brief di committenza una installazione _site specific_, 
-necessita un approfondimento lo spazio fisico al quale ci si riferisce.
+necessita un approfondimento lo fisicità del luogo al quale ci si riferisce.
 L'obiettivo è l'astrazione dello spazio architettonico in altri termini. 
 
-Nel mio caso specifico 
+Ricordo che, nel mio caso 
 (il rumore Unirsm e la sua visualizzazione fisica) l'intento è utilizzare l'ingresso per:
 
 > _"riportare la "vivacità" o la calma della sede UniRSM, a colpo d'ochhio"_
@@ -23,7 +23,7 @@ tempo rispetto a me.
 
 _1. Rilievo di partenza (fuori scala)_
 
-Io farei una scelta e posizionerei l'installazione in **uno** dei due "vani" che costituiscono l'ingresso. 
+Io farei una scelta, posizionando l'installazione in **uno** dei due "vani" che costituiscono l'ingresso. 
 Nell'immagine seguente il riferimento in pianta e nella 3 delle foto di queste due aree.
 
 ![01](http://i.imgur.com/5gpfRlF.jpg?2)
@@ -35,7 +35,7 @@ _2. Individuazione planimetrica aree_
 _3. Area celeste e area blu_
 
 Con in mente la questione del _colpo d'occhio_ ho iniziato ad osservare come si muovessero 
-i flussi di persone in entrata (immagine 4). Il flusso maggiore si dirige verso l'ascensore.
+i flussi di persone in entrata (4). Il flusso maggiore si dirige verso l'ascensore.
 C'è chi imbocca la rampa di scale a sinistra della porta d'ingresso; pochissime persone hanno 
 necessità di rivolgersi al personale della portineria per chiedere informazioni. Ancor meno 
 sono quelle che si avviano verso la zona dei tavoli per consultare le riviste messe a disposizione o
@@ -67,7 +67,7 @@ ripostiglio disordinato.
 _6. Parete area blu_
 
 Un'altra possibilità che coinvolgerebbe il _colpo d'occhio_ di tutti i flussi entranti, 
-sarebbe l'utilizzo della parete di fronte alla porta principale ma situata nell'area celeste - immagine 3. 
+sarebbe l'utilizzo della parete di fronte alla porta principale ma situata nell'area celeste (3). 
 In quest'ultimo caso però la parete risulta già attrezzata con dei pannelli in maniera permanente. 
 Inoltre la lontananza potrebbe finire con lo sminuire l'installazione in sé. 
 
