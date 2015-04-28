@@ -55,9 +55,9 @@ _5. Scelta_
 
 In questo caso sarebbe bello immaginare che l'installazione fisica fosse posizionata a muro,
 mettendo in evidenza una parete che ha anche una valenza architettonica ed estetica, attualmente 
-addirittura nascosta, a creare un po' un'aria da scantinato.
+addirittura nascosta, a creare una sensazione un po' da ripostiglio disordinato.
 
-![celeste](http://i.imgur.com/RA8BUk3.jpg?1) ![blu](http://i.imgur.com/Cv6KKnR.jpg?1) 
+![front](http://i.imgur.com/lBegNEN.jpg?1) ![ingresso](http://i.imgur.com/Cv6KKnR.jpg?1) 
 
 _6. La parete_
 
