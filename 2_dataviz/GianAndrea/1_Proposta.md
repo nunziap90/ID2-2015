@@ -28,6 +28,12 @@ Il progetto si basa sulla trasmissione delle informazioni nascoste della rete in
 
 -
 
+###Pixel Track
+
+![] (http://blog.bergcloud.com/wp-content/uploads/2014/05/pixel_track_loop.gif)
+
+-
+
 ###Spazio d'ingresso università
 
 ![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430209534887_WP_20150427_004.jpg?fit=max&w=882)
