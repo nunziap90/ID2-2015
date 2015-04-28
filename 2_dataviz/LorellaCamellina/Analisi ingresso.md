@@ -57,14 +57,19 @@ _5. Contemporaneità dei flussi_
 
 #####Conclusioni
 
-Volendo sfruttare l'area blu, sarebbe bello immaginare che l'installazione fisica venisse 
-posizionata a muro, mettendo in evidenza una parete che ha anche valenze architettoniche 
-e che, attualmente, viene addirittura nascosta, a creare un po' la sensazione di 
+Volendo sfruttare l'area blu, sarebbe bello immaginare l'installazione fisica a muro, 
+mettendo in evidenza una parete che ha anche delle valenze estetico-architettoniche 
+e che, attualmente, viene addirittura nascosta, a creare un po' la sensazione di un 
 ripostiglio disordinato.
 
-![front](http://i.imgur.com/lBegNEN.jpg?1) ![ingresso](http://i.imgur.com/Cv6KKnR.jpg?1) 
+![front](http://i.imgur.com/lBegNEN.jpg?1) ![entrance](http://i.imgur.com/Cv6KKnR.jpg?1) 
 
 _6. Parete area blu_
+
+![det](http://i.imgur.com/1T8Vj5n.jpg?1)
+
+_7. Dettaglio arete area blu_
+
 
 Un'altra possibilità che coinvolgerebbe il _colpo d'occhio_ di tutti i flussi entranti, 
 sarebbe l'utilizzo della parete di fronte alla porta principale ma situata nell'area celeste (3). 
