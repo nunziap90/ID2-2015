@@ -42,25 +42,25 @@ Work in progress...
 
 ####Immagini 
 
-http://imgur.com/dwTWppJ
+![1] (http://imgur.com/dwTWppJ.png)
 
 Doppia porta 
 
-http://imgur.com/yZw67bM
+![2] (http://imgur.com/yZw67bM.png)
 
 Timbrare cartellino e posta sgabuzzino 
 
-http://imgur.com/UrxAod7
+![3] (http://imgur.com/UrxAod7.png)
 
-http://imgur.com/0URcCpY
+![4] (http://imgur.com/0URcCpY.png)
 
 Esposizione progetti 
 
-http://imgur.com/g7ELolV
+![5] (http://imgur.com/g7ELolV.png)
 
 Parete sinistra 
 
-http://imgur.com/JF3Xwkx
+![6] (http://imgur.com/JF3Xwkx.png)
 
 Portineria 
 
