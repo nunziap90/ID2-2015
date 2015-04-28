@@ -22,7 +22,7 @@
 10_Continuando a camminare ritroviamo la "sala lettura" e il corridoio per andare ai piani superiori. 
 
 
-####Analisi di cosa si può fare
+####Analisi di gesti comuni 
 
 _Ci si saluta
 
@@ -39,4 +39,34 @@ _Ci si puliscono le scarpe sul tappeto quando piove
 (+ Foto dell'ambiente) 
 
 Work in progress...
+
+####Immagini 
+
+http://imgur.com/dwTWppJ
+
+Doppia porta 
+
+http://imgur.com/yZw67bM
+
+Timbrare cartellino e posta sgabuzzino 
+
+http://imgur.com/UrxAod7
+
+http://imgur.com/0URcCpY
+
+Esposizione progetti 
+
+http://imgur.com/g7ELolV
+
+Parete sinistra 
+
+http://imgur.com/JF3Xwkx
+
+Portineria 
+
+
+
+
+
+
 
