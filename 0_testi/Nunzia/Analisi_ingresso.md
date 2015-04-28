@@ -21,8 +21,9 @@
 
 10_Continuando a camminare ritroviamo la "sala lettura" e il corridoio per andare ai piani superiori. 
 
+![Mappa] (http://imgur.com/dK9NUOY.png)
 
-####Analisi di cosa si può fare
+####Analisi di gesti comuni 
 
 _Ci si saluta
 
@@ -34,9 +35,34 @@ _Si saluta la portineria
 
 _Ci si puliscono le scarpe sul tappeto quando piove 
 
-(+ Mappa numerata del luogo) 
 
-(+ Foto dell'ambiente) 
+####Immagini 
 
-Work in progress...
+![1] (http://imgur.com/1EwMeqf.png)
+
+#####Doppia porta 
+
+![2] (http://imgur.com/ZTBs2DG.png)
+
+#####Timbrare cartellino e porta sgabuzzino 
+
+![4] (http://imgur.com/0URcCpY.png)
+
+![3] (http://imgur.com/wWhrUwC.png)
+
+#####Esposizione progetti (interessante per esposizione installazione finale)
+
+![5] (http://imgur.com/Gu4BqeS.png)
+
+#####Parete sinistra 
+
+![6] (http://imgur.com/JF3Xwkx.png)
+
+#####Portineria 
+
+
+
+
+
+
 
