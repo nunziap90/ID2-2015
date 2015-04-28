@@ -21,6 +21,7 @@
 
 10_Continuando a camminare ritroviamo la "sala lettura" e il corridoio per andare ai piani superiori. 
 
+![Mappa] (http://imgur.com/dK9NUOY.png)
 
 ####Analisi di gesti comuni 
 
