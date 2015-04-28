@@ -51,16 +51,25 @@ il primo "vano" che si incontra entrando, come evidenziato nell'immagine di segu
 
 ![03](http://i.imgur.com/mP4Zvhc.jpg?2)
 
-_5. Scelta_
+_5. Contemporaneità dei flussi_
 
-In questo caso sarebbe bello immaginare che l'installazione fisica fosse posizionata a muro,
-mettendo in evidenza una parete che ha anche una valenza architettonica ed estetica, attualmente 
-addirittura nascosta, a creare una sensazione un po' da ripostiglio disordinato.
+--
+
+#####Conclusioni
+
+Volendo sfruttare l'area blu, sarebbe bello immaginare che l'installazione fisica venisse 
+posizionata a muro, mettendo in evidenza una parete che ha anche valenze architettoniche 
+e che, attualmente, viene addirittura nascosta, a creare un po' la sensazione di 
+ripostiglio disordinato.
 
 ![front](http://i.imgur.com/lBegNEN.jpg?1) ![ingresso](http://i.imgur.com/Cv6KKnR.jpg?1) 
 
-_6. La parete_
+_6. Parete area blu_
 
-Un'altra possibilità per sfruttare il 
+Un'altra possibilità che coinvolgerebbe il _colpo d'occhio_ di tutti i flussi entranti, 
+sarebbe l'utilizzo della parete di fronte alla porta principale ma situata nell'area celeste - immagine 3. 
+In quest'ultimo caso però la parete risulta già attrezzata con dei pannelli in maniera permanente. 
+Inoltre la lontananza potrebbe finire con lo sminuire l'installazione in sé. 
 
---
+Opterei quindi per la parete nell'area blu, così da portare l'attenzione, oltre che sull'installazione, 
+su un'altra porzione di bellezza della sede UniRSM.
