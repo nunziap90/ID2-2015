@@ -68,7 +68,7 @@ _6. Parete area blu_
 
 ![det](http://i.imgur.com/kbgdyrs.jpg?1)
 
-_7. Dettaglio arete area blu_
+_7. Dettaglio parete area blu_
 
 
 Un'altra possibilità che coinvolgerebbe il _colpo d'occhio_ di tutti i flussi entranti, 
