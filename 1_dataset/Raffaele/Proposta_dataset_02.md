@@ -9,3 +9,5 @@ Avremo quindi un flusso di risorse che andrà ad evidenziare come studenti ed un
 L'università come risorse concretamente utilizzabili fornisce principalmente elettricità, riscaldamento, acqua, materiali da laboratorio e stampe.
 Per quanto riguarda invece le risorse astratte essa offre la conoscenza e la professionalità dei docenti, i libri della biblioteca, le conferenze di professionisti nel settore del design e affini, una connessione alla rete sempre molto attiva e inoltre è il luogo di incontro e confronto per gli studenti.
 Riguardante la parte di ciò che l'università produce e porta all'esterno della sua piccola realtà si possono prendere in considerazione i progetti degli studenti e i futuri designer che, terminando il percorso di studi proposto, arrivano al conseguimento della laurea.
+
+![](http://i.imgur.com/e2SigRk.jpg)
