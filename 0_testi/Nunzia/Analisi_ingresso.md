@@ -35,11 +35,6 @@ _Si saluta la portineria
 
 _Ci si puliscono le scarpe sul tappeto quando piove 
 
-(+ Mappa numerata del luogo) 
-
-(+ Foto dell'ambiente) 
-
-Work in progress...
 
 ####Immagini 
 
