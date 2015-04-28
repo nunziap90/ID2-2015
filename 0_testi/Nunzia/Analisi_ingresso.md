@@ -46,17 +46,17 @@ Work in progress...
 
 Doppia porta 
 
-![2] (http://imgur.com/yZw67bM.png)
+![2] (http://imgur.com/ZTBs2DG.png)
 
-Timbrare cartellino e posta sgabuzzino 
-
-![3] (http://imgur.com/UrxAod7.png)
+Timbrare cartellino e porta sgabuzzino 
 
 ![4] (http://imgur.com/0URcCpY.png)
 
+![3] (http://imgur.com/wWhrUwC.png)
+
 Esposizione progetti 
 
-![5] (http://imgur.com/g7ELolV.png)
+![5] (http://imgur.com/Gu4BqeS.png)
 
 Parete sinistra 
 
