@@ -66,7 +66,7 @@ ripostiglio disordinato.
 
 _6. Parete area blu_
 
-![det](http://i.imgur.com/1T8Vj5n.jpg?1)
+![det](http://i.imgur.com/kbgdyrs.jpg?1)
 
 _7. Dettaglio arete area blu_
 
