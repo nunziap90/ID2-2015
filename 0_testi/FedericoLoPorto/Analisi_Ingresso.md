@@ -2,16 +2,23 @@
 
 La zona ingresso dell'UNIRSM è il luogo dove il committente vuole posizionare l'installazione. 
 
-L'ingresso viene attraversato da chiunque voglia entrare 
+*L'ingresso ha il ruolo di accogliere e salutare tutti quelli che entrano ed escono dall'edificio.*
 
-Il "ruolo" della zona ingresso è quello di fare entrare ed uscire le persone. 
+**L'ingresso dell'UNIRSM** si può dividere in due area:
 
-La zona si può dividere in due area la zona portineria e la zona riviste. 
+![ ] (http://i.imgur.com/RCTnywz.jpg)
 
-La zona ingresso per la maggior parte della giornata è un luogo di passaggio, con maggiore affluenza nelle ore d'inizio e fine delle lezioni.
-A volte durante la pausa pranzo i tavoli, su cui sono esposte le riviste, vengono utilizzati come tavoli da pranzo. Forse è l'unico uso che se ne fa.
 
-dove quasi nessuno si ferma. 
+* zona portineria 
+* zona riviste e bacheche. 
 
-tranne in pausa pranzo dove i tavoli su cui sono esposte
-le riviste vengono utilizzati come tavoli da pranzo.
+La prima ci si presenta dopo aver varcato la porta, uno spazio lungo circa 7,50 m e largo circa 3 m, in quest'area troviamo il front-office della portineria ed un angolo dove vengono esposti temporaneamente alcuni progetti degli studenti.
+Nella zona riviste e bacheche, più larga della precedente, troviamo appese alle pareti delle bacheche con avvisi universitari e posti al centro della zona due tavoli su cui sono esposte le riviste.
+
+
+
+![ ] (http://i.imgur.com/AjKCUpV.jpg)
+
+
+
+La zona ingresso dell'UNIRSM per la maggior parte della giornata è un luogo di passaggio, con maggiore affluenza nelle ore d'inizio e fine delle lezioni. Tranne in pausa pranzo quando i tavoli su cui sono esposte le riviste vengono utilizzati come tavoli da pranzo.
