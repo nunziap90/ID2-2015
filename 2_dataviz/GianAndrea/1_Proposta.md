@@ -26,5 +26,3 @@ Il progetto si basa sulla trasmissione delle informazioni nascoste della rete in
 
 [Post code] (http://interactivedesign.it/blog/interactive-design/2014/02/11/post-code-interactive-installation/) è sempre un progetto simile al sopracitato, nel quale anche qui c'è un mediatore tra luogo digitale e luogo reale. 
 
-
-![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430209534892_WP_20150427_007.jpg?fit=max&w=882)
