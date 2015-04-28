@@ -54,7 +54,7 @@ Work in progress...
 
 ![3] (http://imgur.com/wWhrUwC.png)
 
-#####Esposizione progetti 
+#####Esposizione progetti (interessante per esposizione installazione finale)
 
 ![5] (http://imgur.com/Gu4BqeS.png)
 
