@@ -30,9 +30,15 @@ Il progetto si basa sulla trasmissione delle informazioni nascoste della rete in
 
 ###Spazio d'ingresso università
 
+![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430209534887_WP_20150427_004.jpg?fit=max&w=882)
+
 ![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430055532187_WP_20150426_003.jpg?fit=max&w=882)
 
-L'ingresso dell'università si presenta come un lungo corridoio composto da due principali piccole aree che ne costituiscono uno spazio longilineo e stretto. Nella prima parte, appena entrati dalla porta d'ingresso, troviamo sul lato sinistro una lunga parete adibita alla comunicazione dell'università, e sul lato destro la portineria. Quest'ultima, essendo parecchio ampia, porta via molto spazio, e nonostante si salvi una piccola parte per l'installazione, non è per niente una posizione appetibile per mostrare un'opera. L'area è molto adiacende all'ingresso, dove quest'ultimo quasi ne nasconde la percezione. Dunque per posizionare l'opera, considererei meglio la seconda area, la quale potrebbe essere utilizzata in modo più efficiente della prima. Oltretutto la sua collocazione risulta più facile da individuare perché è rivolta frontalmente all'ingresso. 
+L'ingresso dell'università si presenta come un lungo corridoio composto da due principali piccole aree che ne costituiscono uno spazio longilineo e stretto. Nella prima parte, appena entrati dalla porta d'ingresso, troviamo sul lato sinistro una lunga parete adibita alla comunicazione dell'università, e sul lato destro la portineria. Quest'ultima, essendo parecchio ampia, porta via spazio, e nonostante si salvi una parte per l'installazione, non pare una posizione appetibile per mostrare un'opera. 
+
+![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430209534895_WP_20150427_008.jpg?fit=max&w=882)
+
+L'area è ricca di elementi di contorno in poco spazio, e questo crea un forte rumore visimo al luogo. Si perde un po' l'importanza gerarchica degli elementi e non si capisce dove focalizzare lo sguardo. Il luogo, anche se lascia spazio all'inserimento di una struttura, secondo me perde importanza, proprio per il fatto che esiste una confusione visiva che ne limita la percezione. Inoltre, essendo davanti all'entrata, la zona diventa un luogo passaggio e di deposito merci per mistarlo nei vari laboratori. Questo potrebbe causare conttatti con l'opera e di conseguenza urti o danneggiamenti al progetto. Dunque per posizionare l'opera, considererei meglio la seconda area, la quale potrebbe essere utilizzata in modo più efficiente della prima. Oltretutto la sua collocazione risulta più facile da individuare perché è rivolta frontalmente all'ingresso e se ne può percepire la sua unità spaziale. 
 
 ![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430044077967_WP_20150421_005.jpg?fit=max&w=882)
 
@@ -43,4 +49,8 @@ La zona tutt'ora è poco utilizzata e occupata soltanto da due tavoli con alcune
 - non ha zone di distrazione come la portineria, quindi tutto lo spazio può concentrarsi sull'opera.
 - nelle pareti troviamo alcune prese per movimentare l'opera se necessita di energia elettrica.
 
-Quindi, la soluzione migliore potrebbe essere una delle due pareti in fondo alla seconda zona. In questo luogo è possibile dar spazio all'installazione di essere vista e contemplata. In questo modo non entrerebbe in conflitto con gli svariati flussi di persone che accedono alla portineria e il primo luogo rimarrebbe adibito alla sua funzione d'ingresso e di punto informativo. Inoltre, se ben progettato, si potrebbe utilizzare la prima area come introduzione e anticipazione dell'opera che si trova successivamente dopo l'entrata. Evidenziando il principale corridoio e invitanto le persone a passare per quest'ultimo, si creerebbe anche una gerarchia di percorso, in modo da diminuire la possibilità di passare per le scale a sinistra della portineria. 
+![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430209534892_WP_20150427_007.jpg?fit=max&w=882)
+
+Quindi, la soluzione migliore potrebbe essere una delle due pareti in fondo alla seconda zona. In questo luogo è possibile dar spazio all'installazione per essere vista e contemplata. L'area è molto piatta e asettica, utile per mostrare l'opera senza distrazioni visive. In questo modo non entrerebbe in conflitto con gli svariati flussi di persone che accedono alla portineria cosicché il primo luogo avrebbe la possibilità di rimanere adibito alla sua funzione d'ingresso e di punto informativo. Gli avvisi potrebbero passare nella prima area (più utile per la loro funzione) e lasciare spazio utilizzabile o di contorno all'opera. Inoltre, se ben progettato, si potrebbe utilizzare la prima area come introduzione e anticipazione dell'opera che si trova successivamente dopo l'entrata. Evidenziando il principale corridoio e invitanto le persone a passare per quest'ultimo, si creerebbe anche una gerarchia di percorso, in modo da diminuire la possibilità di passare per le scale a sinistra della portineria. 
+
+![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430209534892_WP_20150427_007.jpg?fit=max&w=882)
