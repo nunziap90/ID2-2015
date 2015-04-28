@@ -44,25 +44,25 @@ Work in progress...
 
 ![1] (http://imgur.com/1EwMeqf.png)
 
-Doppia porta 
+#####Doppia porta 
 
 ![2] (http://imgur.com/ZTBs2DG.png)
 
-Timbrare cartellino e porta sgabuzzino 
+#####Timbrare cartellino e porta sgabuzzino 
 
 ![4] (http://imgur.com/0URcCpY.png)
 
 ![3] (http://imgur.com/wWhrUwC.png)
 
-Esposizione progetti 
+#####Esposizione progetti 
 
 ![5] (http://imgur.com/Gu4BqeS.png)
 
-Parete sinistra 
+#####Parete sinistra 
 
 ![6] (http://imgur.com/JF3Xwkx.png)
 
-Portineria 
+#####Portineria 
 
 
 
