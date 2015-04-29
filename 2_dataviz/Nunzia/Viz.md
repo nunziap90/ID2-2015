@@ -6,6 +6,7 @@
 Saranno in movimento.
 
 **_I cerchi colorati:** in base alla frenesia del passo verrà fatta una media.
+
 1. Blu: da 3,5 a 4,5 km/h
 
 2. Giallo: da 4,6 a 5,6 km/h
