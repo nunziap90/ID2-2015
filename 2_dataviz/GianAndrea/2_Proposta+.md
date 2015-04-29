@@ -1,17 +1,22 @@
 
 #METADATA JUICE
 
+-
+
+###ISPIRAZIONI
+
+
 ![] (http://blog.bergcloud.com/wp-content/uploads/2014/05/pixel_track_loop.gif)
 
-[Pixel Track] (http://bergcloud.com/case-studies/pixel-track)
+[Pixel Track] (http://bergcloud.com/case-studies/pixel-track) è un display materico informativo a funzionamento elettromeccanico.
 
 -
 
 ![] (http://payload118.cargocollective.com/1/7/254186/4668096/IMG_1673_o.jpg)
 
-[Chaotic Flow] (http://illutron.dk/filter/showcase/Chaotic-Flow)
+[Chaotic Flow] (http://illutron.dk/filter/showcase/Chaotic-Flow) è un'installazione che simula il flusso del traffico ciclistico nella città di Copenaghen
 
-- 
+-
 
 ![] (http://domesticstreamers.com/wp-content/uploads/36-1024x682.jpg)
 
@@ -21,7 +26,7 @@
 -
 
 
-###Spazio d'ingresso università
+###ANALISI SPAZIO D'INGRESSO UNIVERSITARIO
 
 ![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430209534887_WP_20150427_004.jpg?fit=max&w=882)
 
