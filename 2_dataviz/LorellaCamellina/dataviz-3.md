@@ -1,6 +1,8 @@
 ##Prime visualizzazioni in Processing
 
-Lo sketch di riferimento è [getLineIn](http://code.compartmental.net/minim/minim_method_getlinein.html) 
+#####SKETCH RIFERIMENTO 1
+
+Il primo sketch di riferimento è [getLineIn](http://code.compartmental.net/minim/minim_method_getlinein.html) 
 della libreria [Minim](http://code.compartmental.net/tools/minim/).
 
 Mi serve ad immettere in Processing l'input audio proveniente direttamente dal microfono del mio portatile.
@@ -10,7 +12,7 @@ Utilissimo per riuscire a vedere il tipo di dati numerici con cui ho a che fare,
 cioè cosa viene rilevato dal mic del mio portatile ed introdotto in Processing.
 
 ```
-// SKETCH PROVE
+// SKETCH 1
 
 import ddf.minim.*; // indico la libreria
 
@@ -82,5 +84,88 @@ void draw() {
 ```
 
 --
+
+#####SKETCH RIFERIMENTO 2
+
+Il secondo sketch di riferimento è [clock](https://processing.org/examples/clock.html), 
+dagli esempi di Processing.
+
+```
+// SKETCH 2
+
+// mi baso sui secondi
+// elimino tutto quello che
+// riguarda minuti ed ore
+
+int cx, cy; // il centro
+float secondsRadius; // variabile angolo rotazione del raggio
+// float minutesRadius; // no need
+// float hoursRadius; // no need
+// float clockDiameter; // serve?
+
+void setup() {
+  size(640, 360);
+  stroke(255);
+
+  int radius = min(width, height) / 2;  // dichiaro raggio //perc diviso due?
+  secondsRadius = radius * 0.72; // inizializzo raggio
+
+  cx = width / 2; // inizializzo centro
+  cy = height / 2; // inizializzo centro
+} // end setup
+
+void draw() {
+  background(0);
+
+  fill(80);
+  noStroke();
+
+  // Angles for sin() and cos() start at 3 o'clock;
+  // subtract HALF_PI to make them start at the top
+  float s = map(second(), 0, 60, 0, TWO_PI) - HALF_PI; 
+
+  // Draw the hands of the clock
+  stroke(255);
+  strokeWeight(1);
+  line(cx, cy, cx + cos(s) * secondsRadius, cy + sin(s) * secondsRadius);
+
+  endShape();
+} //end draw
+
+```
+
+--
+
+#####SKETCH RIFERIMENTO 3
+
+L'ultimo sketch (non riesco a trovare dove l'ho rimediato) rappresenta una linea che ruota attorno ad un punto dato.
+Un po' come fosse una lancetta senza temporizzazione.
+
+```
+float   angle  =   0.00 ; 
+float  offset  =  60 ; 
+float   scalar  =  50 ; 
+// ci aumento le dimensioni della lancetta
+
+float   speed   =  0.1 ; 
+
+void setup  () {
+  size   (120, 120) ;  
+  // smooth  () ; // servirebbe per ottimizzare il visualizzato
+} //end setup
+
+void  draw  () { 
+  
+  background(255); 
+  
+  float  x  =  offset + cos (angle) * scalar ; // spostamento x
+  float  y  =  offset + sin  (angle) * scalar ; // spostamento y
+  
+  line  ( width/2, height/2,  x, y); 
+  
+  angle  +=  speed; // che vol dì?
+} //end draw
+
+```
 
 
