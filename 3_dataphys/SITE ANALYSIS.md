@@ -10,7 +10,8 @@ The space is articulated in two consequential rooms, one introducing the another
 The first room hosts the reception at right and a little hided space used as a showcase of students' works.
 Then, we are introduced to the second room, which is the same dimensions of the first one not considering the ramp on the left. There are two wooden table on which lay design magazines of all kind. On the right wall, three info panels hang. An interesting thing is the low wall between this room and the ramp: it is a wooden cover bench, thought it is fascinating, it's not used.
 Another info panel hangs on the wall near the corner before the ramp and a presentation panel on the final wall.
-
+![](https://raw.githubusercontent.com/fraguz/ID2-2015/c3c708a492e312948e35d035a6fa96c1734ee769/3_dataphys/IMG_20150429_022825.jpg)
+![](https://raw.githubusercontent.com/fraguz/ID2-2015/c3c708a492e312948e35d035a6fa96c1734ee769/3_dataphys/IMG_20150429_031841.jpg)
 ###Dimensions
 The two rooms are both about 7.5 x 4.5 meters wide and 3.5-4 meters high.
  
@@ -33,3 +34,4 @@ The most recurring colors are:
 The perfect installation site for its visibility would be on the wall at the very end of the second room.
 Considering interactions with the users it not might be as perfect as it seemed. Under this light, a good place might be over the wooden covered bench and it would also create a division from the ramp and the room, giving the rrom the kind of concentration feeling it needs to be used for studying porpuse.
 To enhance the room usability opportunities with the installation should be considered, because it would become a fundamental component in the room and not only the funnt trhing thing to play with the first three four times someone sees it. 
+![](https://raw.githubusercontent.com/fraguz/ID2-2015/c3c708a492e312948e35d035a6fa96c1734ee769/3_dataphys/IMG_20150429_031931.jpg)
