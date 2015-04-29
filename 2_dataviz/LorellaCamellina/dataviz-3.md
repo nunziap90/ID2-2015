@@ -167,4 +167,21 @@ void  draw  () {
 } //end draw
 
 ```
+--
+
+#####DESIDERATA
+
+![1](http://i.imgur.com/uEaXdCG.jpg?1)
+
+_Esempio 1_
+
+
+![2](http://i.imgur.com/WXXS3YH.jpg?1)
+
+_Esempio 2_
+
+![3](http://i.imgur.com/rRIahzs.jpg?1)
+
+_Esempio 3_
+
 _in progress_
