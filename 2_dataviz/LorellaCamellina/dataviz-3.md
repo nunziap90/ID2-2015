@@ -7,8 +7,8 @@ della libreria [Minim](http://code.compartmental.net/tools/minim/).
 
 Mi serve ad immettere in Processing l'input audio proveniente dal microfono del mio portatile.
 
-L'obiettivo per ora è capirne il funzionamento e provare a controllare visualizzazioni minime.
-Utilissimo per riuscire a vedere il tipo di dati numerici con cui ho a che fare, 
+L'obiettivo per ora è stato capirne il funzionamento e provare a controllare visualizzazioni minime.
+Utile anche per riuscire a vedere il tipo di dati numerici con cui ho a che fare, 
 cosa viene rilevato dal mic del mio portatile ed introdotto in Processing.
 
 ```
