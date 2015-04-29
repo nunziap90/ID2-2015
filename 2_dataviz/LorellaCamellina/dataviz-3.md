@@ -24,7 +24,7 @@ void setup() {
 
   // use the getLineIn method of the Minim object to get an AudioInput
   // in = minim.getLineIn(Minim.STEREO); linea originale
-  in = minim.getLineIn(Minim.MONO); // modalità input: stereo
+  in = minim.getLineIn(Minim.MONO); // modalità input: stereo o mono
 } // fine setup
 
 void draw() {
