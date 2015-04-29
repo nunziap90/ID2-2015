@@ -5,11 +5,11 @@
 Il primo sketch di riferimento è [getLineIn](http://code.compartmental.net/minim/minim_method_getlinein.html) 
 della libreria [Minim](http://code.compartmental.net/tools/minim/).
 
-Mi serve ad immettere in Processing l'input audio proveniente direttamente dal microfono del mio portatile.
+Mi serve ad immettere in Processing l'input audio proveniente dal microfono del mio portatile.
 
 L'obiettivo per ora è capirne il funzionamento e provare a controllare visualizzazioni minime.
 Utilissimo per riuscire a vedere il tipo di dati numerici con cui ho a che fare, 
-cioè cosa viene rilevato dal mic del mio portatile ed introdotto in Processing.
+cosa viene rilevato dal mic del mio portatile ed introdotto in Processing.
 
 ```
 // SKETCH 1
@@ -82,13 +82,13 @@ void draw() {
 } //fine draw
 
 ```
+Mi crea qualche problema la distinzione fra i dati in mono e in stereo.
 
 --
 
 #####SKETCH RIFERIMENTO 2
 
-Il secondo sketch di riferimento è [clock](https://processing.org/examples/clock.html), 
-dagli esempi di Processing.
+Il secondo sketch  è il [clock](https://processing.org/examples/clock.html), dagli esempi di Processing.
 
 ```
 // SKETCH 2
@@ -167,5 +167,4 @@ void  draw  () {
 } //end draw
 
 ```
-
-
+_in progress_
