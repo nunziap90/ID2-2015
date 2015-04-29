@@ -82,9 +82,6 @@ void draw() {
 } //fine draw
 
 ```
-Mi crea qualche problema la distinzione fra i dati in mono e in stereo.
-
---
 
 #####SKETCH RIFERIMENTO 2
 
@@ -134,7 +131,6 @@ void draw() {
 
 ```
 
---
 
 #####SKETCH RIFERIMENTO 3
 
@@ -167,7 +163,6 @@ void  draw  () {
 } //end draw
 
 ```
---
 
 ##Desiderata
 
