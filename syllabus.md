@@ -180,7 +180,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ------
 
 ###### compito/progetto
-1. finale **dataviz** in Processing (caricare pde)
+1. finale **dataviz** in Processing (caricare pde e schermate/video)
 2. prototipo/i finale **dataviz** in grafica
  
 
