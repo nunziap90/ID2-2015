@@ -171,6 +171,19 @@ void  draw  () {
 
 ##Desiderata
 
+Fra le visualizzazioni proposte in [Dataviz-1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/dataviz-1.md) 
+quella che approfondirei è la #1, modificandone le variabili come di seguito:
+
+- V1 è il tempo (in particolare 360°=60''=1');
+- V2 è l'intensità (per R=raggio maggiore e r=raggio minore, avremo che rumore R > rumore r).
+
+L'input sarà ciò che viene rilevato dal microfono del mio portatile.
+
+L'idea è di visualizzare secondo per secondo (o forse con una frequenza più elevata) la quantità di rumore.
+Trascorsi i 60', la visualizzazione del minuto appena passato si azzera per lasciare posto a quella del 
+minuto entrante. Negli esempi riportati di seguito ho provato a rendere l'idea in bianco e nero 
+ma non è escludibile un possibile apporto dato dall'utilizzo dei colori.
+
 ![1](http://i.imgur.com/uEaXdCG.jpg?1)
 
 _Esempio 1_
@@ -183,5 +196,3 @@ _Esempio 2_
 ![3](http://i.imgur.com/rRIahzs.jpg?1)
 
 _Esempio 3_
-
-_in progress_
