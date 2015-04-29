@@ -24,12 +24,12 @@ void draw() {
   fill(0, 0, 255, 80);
   background(255, 255, 255);
 
-  if (limite_inspirazione < valore_espirazione) {                 //inspiro
+  if (limite_inspirazione < valore_espirazione) {                 
     limite_inspirazione++;
-    ellipse( verticeX, verticeY, limite_inspirazione, limite_inspirazione);
+    ellipse( verticeX, verticeY, limite_inspirazione, limite_inspirazione);  //inspirazione
   } else
-  {                            //espiro
-    ellipse(verticeX, verticeY, limite_espirazione, limite_espirazione);
+  {                            
+    ellipse(verticeX, verticeY, limite_espirazione, limite_espirazione);  //espirazione
     limite_espirazione--;
   }
 
