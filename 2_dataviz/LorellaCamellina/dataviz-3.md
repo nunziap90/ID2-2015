@@ -7,7 +7,7 @@ Mi serve ad immettere in Processing l'input audio proveniente direttamente dal m
 
 L'obiettivo per ora è capirne il funzionamento e provare a controllare visualizzazioni minime.
 Utilissimo per riuscire a vedere il tipo di dati numerici con cui ho a che fare, 
-che cosa esce dal microfono del mio portatile e cosa viene introdotto in Processing.
+cioè cosa viene rilevato dal mic del mio portatile ed introdotto in Processing.
 
 ```
 // SKETCH PROVE
