@@ -1,6 +1,17 @@
 
 #METADATA JUICE
 
+###IDEA
+
+![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430311612295_WP_20150429_002.jpg?fit=max&w=882)
+
+L'obiettivo del progetto è di rendere visibile le azioni svolte dagli studenti attraverso la rete informatica. Lo scopo è quello di mettere in evidenza il flusso di informazioni create nello spazio virtuale del web. I dati verrebbero estrapolati dal firewall universitario, che a loro volta sarebbero tradotti in una rappresentazione concreta. L'interesse è quello di vedere nel tempo i gesti degli studenti ed evidenziane il cambiamento in base all'analisi delle classificazioni delle categorie d'interesse. Il movimento delle informazioni verrebbe espresso disponendo gli elementi estrapolati su un'asse cartesiano, in modo da creare una rappresentazione a tabella. Sull'asse delle ordinate troveremo le categorie degli URL associati alle sessioni degli studenti e sull'asse delle ascisse, quello temporale. Per ogni secondo passato si verrebbero a creare svariate richieste di sessione e quindi la logica visiva sarebbe riempire solo le caselle che corrisponderebbero ad ogni categoria richiesta in quel determinato spazio di tempo. In questo modo si verrebbe a ricreare un'analogia con l'alternanza degli impulsi elettronici del codice binario. Il progetto dunque non perderebbe l'identità della sintassi digitale nel momento in cui i dati verrebbero presentati in forma tangibile.
+
+![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430311612290_WP_20150429_001.jpeg?fit=max&w=882)
+
+Un sistema di rappresentazione concreta potrebbe essere quella di reinterpretare la logica della cicolazione del codice digitale binario in un flusso liquido.
+La dinamicità dell'acqua diventerebbe l'interpretazione tangibile delle stringhe di codice. Il binomio 0|1 si trasformerebbe nell'alternanza di passaggio tra un volume d'acqua e un volume d'aria. Il flusso dei dati avverrebbe attraverso dei tubi trasparenti in pressione dove ognuno di essi rappresenterebbe una categoria. In questo caso si avrebbe la riproduzione del mondo virtuale in uno spazio reale.
+
 -
 
 ###ISPIRAZIONI
