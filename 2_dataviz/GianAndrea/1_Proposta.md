@@ -1,4 +1,4 @@
-##METADATA JUICE
+#METADATA JUICE
 
 Il progetto si basa sulla trasmissione delle informazioni nascoste della rete informatica.
 
@@ -15,6 +15,7 @@ Il progetto si basa sulla trasmissione delle informazioni nascoste della rete in
 
 -
 
+
 ![] (http://payload371.cargocollective.com/1/11/376496/9738114/DSC00578_1_1340_c.jpg)
 
 [i/o] (https://vimeo.com/125523559) potrebbe essere un progetto interessante che fonde un oggetto analogico che ricrea uno spazio digitale, nel quale il dato potrebbe diventare tangibile fisicamente.
@@ -24,3 +25,4 @@ Il progetto si basa sulla trasmissione delle informazioni nascoste della rete in
 ![] (http://interactivedesign.it/wp-content/uploads/2014/02/post_code_vtol.jpg)
 
 [Post code] (http://interactivedesign.it/blog/interactive-design/2014/02/11/post-code-interactive-installation/) è sempre un progetto simile al sopracitato, nel quale anche qui c'è un mediatore tra luogo digitale e luogo reale. 
+

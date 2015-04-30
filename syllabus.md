@@ -164,6 +164,28 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
+## 29 - 30 Aprile
+###_Approfondire._
+
+### 
+- presentazione e discussione **dataviz** e contesto **dataphys**
+
+### Lab 6
+- librerie Processing: controlP5, ...
+- prototipi **dataviz** in Processing
+- prototipi **dataviz** in grafica
+- contesto **dataphys** 
+- propedeutica preparazione materiali per **book** finale
+
+------
+
+###### compito/progetto
+1. finale **dataviz** in Processing (caricare pde e schermate/video)
+2. prototipo/i finale **dataviz** in grafica
+ 
+
+
+
 
 -------
 
