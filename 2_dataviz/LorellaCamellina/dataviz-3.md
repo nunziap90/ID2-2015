@@ -134,8 +134,10 @@ void draw() {
 
 #####SKETCH RIFERIMENTO 3
 
-L'ultimo sketch (non riesco a trovare dove l'ho rimediato) rappresenta una linea che ruota attorno ad un punto dato.
+L'[ultimo sketch](http://forum.processing.org/two/discussion/7163/rotating-more-than-one-offset-circle)
+rappresenta una linea che ruota attorno ad un punto dato.
 Un po' come fosse una lancetta senza temporizzazione.
+Mi interessano il mix di variabilità dell'angolo di rotazione, dell'offset e della velocità.
 
 ```
 float   angle  =   0.00 ; 
