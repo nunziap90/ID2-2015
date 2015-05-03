@@ -1,24 +1,24 @@
 #METADATA JUICE
 
 ###BRIEF
-L'obiettivo del corso consiste nel realizzare un artefatto che possa elaborare, esprimere e rappresentare dei dati significativi derivanti dal constesto dell'Università di San Marino, in particolare estrapolandoli dalla sua attività/vita quotidiana. La ricerca e lo sviluppo del progetto saranno continuamente accompagnati da una metodologia progettuale legata al mondo delle arti digitali e alla gestione quantitativa di dati.
+L'obiettivo del corso consiste nel realizzare un artefatto che possa elaborare, esprimere e rappresentare dei dati significativi derivanti dal constesto dell'università della Repubblica di San Marino, in particolare estrapolandoli dalla propria attività/vita quotidiana. La ricerca e lo sviluppo del progetto saranno continuamente accompagnati da una metodologia progettuale legata al mondo delle arti digitali e alla gestione quantitativa di dati.
+
+-
 
 ###LOCATION
-L'artefatto sarà disposto presso l'entrata dell'ateneo con l'obiettivo di esprimere l'identità dell'università a tutti coloro che saranno a contatto con l'installazione. La disposizione dovrà essere pensata per creare un rapporto di comunicazione con il pubblico interno od esterno all'università.
+L'artefatto sarà disposto presso l'entrata dell'ateneo con l'obiettivo di esprimere l'identità dell'università a tutti coloro che saranno a contatto con l'installazione e di diventare un punto forte di riconoscibilità per il luogo al di fuori dell'edificio principale. La disposizione dovrà essere pensata per creare un rapporto di comunicazione con il pubblico interno od esterno all'università. 
+
+-
 
 ###NARRAZIONE
- 
+Il progetto vuole raccontare al pubblico l'identità dell'università attraverso la rappresentazione visiva di una raccolta dati, proveniente dalle azioni svolte dalle persone all'interno dell'ateneo. In particolare, le informazioni che esprimono l'avvenimento di queste attività, sono ricavate sotto la loro diretta trasposizione in dati digitali, tramite l'utilizzo della rete informatica universitaria. In questo caso si cerca di evidenziare il nostro rapporto con il mondo virtuale e il nostro comportamento in relazione ad esso. 
 
-L'analisi si concentra sulle attività  dati esistenti , perché registrati da un server, che tuttavia rimangono nascosti e non percepibili da chi ne entra in contatto. ers scopo è quello di evidenziare il nostro rapporto con il mondo virtuale e di rendere consci noi stessi della grande quantità di dati che produciamo, muoviamo o analizziamo.
+Lo scopo è quello di renderci conto della grande quantità di dati che produciamo, muoviamo o analizziamo durante il giorno in questo secondo spazio astratto, ma che non percepiamo affatto. Le azioni che svolgiamo su questo livello producono infatti dei dati esistenti (perchè registrati dal server universitario), ma che tuttavia rimangono invisibili a chi ne entra in contatto. L'opera vuole raccontare ciò che si nasconde dietro questi dati e di raccontare la loro umanità, ovvero il corpo che ne crea l'esistenza. Grazie alla loro rappresentazione, si può ricreare un flusso tangibile che esprima l'anima universitaria. Ogni gesto ed ogni scelta personale, lascia una traccia che agisce direttamente sulla trasformazione visiva dell'opera. Ognuno di noi è chiamato a costruirne il flusso agendo sull'artefatto attraverso l'utilizzo della rete informatica. 
 
-Il progetto vuole raccontare ciò che si nasconde dietro questi dati: il senso dell'opera è quello di raccontare le attività che vengono svolte  il senso di umanità dietro i dati.
+L'insieme dei dati in particolare vuole prendere in considerazione le azioni svolte nelle categorie delle applicazioni sociali.
+In questo caso, il progetto mira al racconto del nostro rapporto sociale attraverso la rete informatica.  è anche un modo per esprimere la nostra interazione con la cultura digitale contemporanea, con la quale ne siamo quotidianamente ad ampio contatto. Ogni giorno ci ritroviamo su internet, a sfruttare i suoi spazi e ad entrare in contatto con altre persone anch'esse connesse alla rete. La comunicazione è immensa, sempre presente intorno a noi, la quale cambia il nostro comportamento con le altre persone. ci riflettiamo la nostra identità. L'opera quindi diventa una risposta visiva al contenuto, alla grandezza, e all'immediatezza della comunicazione virtuale che ogni giorno creiamo in univerità. Con ciò, il progetto diventa la rappresentazione digitale dell'ateneo in questo secondo spazio che si manifesta nella realtà.
 
-i modi troviamo di connettersi con l'altro e di esprimere le nostre identità in linea mondo.
 
-L'interazione con l'installazione quindi avviene indirettamente 
-
-Il progetto vuole cercare di raccontare al pubblico l'identità dell'università attraverso la rappresentazione visiva di una raccolta dati, proveniente dalle azioni svolte dalle persone all'interno dell'ateneo. In particolare, le informazioni che esprimono l'avvenimento di queste attività, sono ricavate sotto la loro diretta trasposizione in dati digitali, tramite l'utilizzo della rete informatica universitaria. In questo caso si cerca di evidenziare il nostro rapporto con il mondo virtuale e il nostro comportamento in relazione ad esso. 
-Lo scopo è quello di renderci conto della grande quantità di dati che produciamo, muoviamo o analizziamo durante il giorno in questo secondo spazio astratto, ma che non percepiamo affatto. Le azioni che svolgiamo su questo livello producono infatti dei dai esistenti perchè registrati dal server universitario, ma che tutta via rimangono invisibili a chi ne entra in contatto. L'opera vuole raccontare ciò che si nasconde dietro questi dati e di raccontare la loro umanità, ovvero il corpo che ne crea l'esistenza. Grazie alla loro rappresentazione si può ricreare un flusso tangibile che esprima l'anima universitaria. Ogni gesto ed ogni scelta di una persona, lascia un segno, una traccia che agisce direttamente sulla trasformazione visiva dell'opera.
 
 
 
@@ -31,4 +31,7 @@ Un sistema di rappresentazione concreta potrebbe essere quella di reinterpretare
 
 ###CODE
 
-
+```
+void setup() {}
+void draw() {}
+```
