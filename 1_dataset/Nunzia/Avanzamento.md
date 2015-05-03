@@ -56,6 +56,10 @@ Dove si posiziona la camera? Vicino l'ascensore, inquadrando la doppia direzione
 #####Idea di visualizzazione 
 ![Visualizzazione] (http://imgur.com/mfwWCdR.png)
 
+#####Ipotetiche visualizzazioni
+
+![Visualizzazione] (http://imgur.com/5kLrYsY.png)
+
 La pulsazione come se fosse il passo, i cerchi intorno l'energia. 
 
 #### Installazione
@@ -76,6 +80,14 @@ Es: 1, 2, 3, saranno velocità lenta, media e veloce, ad ogni valore avrò un su
 - *Possono variare in base a se salgo o scando le scale? *
 
 Per ogni 20 persone che percorrono le scale viene elaborata una media, da cui verrà estratto il suono/melodia da far sentire/vedere all'entrata. Ogni qualvolta si apre la porta si attiva l'installazione ( in loop...una volta raccolti i dati di 20 persone il suono cambia. 
+
+Per rilevare la presenza delle persone: 
+
+**I sensori di movimento PIR** servono ovviamente per rilevare il movimento di persone in una certa area.
+Pur non essendo particolarmente prestanti hanno di particolare hanno che sono estremamente economici e piuttosto robusti, e permettono quindi la realizzazione di piccoli sistemi di rilevamento di presenze in modo veloce e a basso costo. Funzionano rilevando la quantità di infrarossi emessa da un corpo in movimento. Naturalmente non hanno caratteristiche tali da poter capire quanti singoli corpi sono in movimento, a che distanza precisa o se ciò che si muove è effettivamente un corpo umano o, ad esempio, un animale. Le radiazioni normalmente emesse dal corpo umano hanno una lunghezza d’onda di circa 9.4um. Per la conversione delle radiazioni infrarosse in segnali elettrici viene sfruttato l’effetto piroelettrico di certi cristalli che generano una carica elettrostatica di superfice. Quando l’intensità della radiazione cambia, di conseguenza cambia anche la carica generata che, attraverso un FET integrato, viene amplificata. Un ulteriore filtro sulla finestra si occupa poi di far passare solo le radiazioni interessanti al rilevamento di persone, quindi tra gli 8 e i 12 um.Generalmente i PIR hanno bisogno di un certo tempo (da 2 a 20 secondi) per ‘stabilizzarsi’ e fornire un segnale di uscita affidabile rispetto all’ambiente in cui operano durante il quale non dovrebbero esserci disturbi di fronte al sensore.
+
+![PIR] (http://imgur.com/wNS0yGw.png)
+
 
 - Per l'installazione all'entrata si potrebbe utilizzare una cassa per le vibrazioni e liquido/sabbia/sale.
 

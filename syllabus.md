@@ -164,6 +164,27 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
+## 29 - 30 Aprile
+###_Narrazione e contesto._
+
+### 
+- il brief, la location, la narrazione per il progetto d'arte
+- presentazione e discussione **dataviz** e idee **dataphys**
+
+### Lab 6
+- librerie Processing: controlP5.
+- code _drawingorigami2.pde_ [+](https://github.com/Fupete/drawing-tools-processing-leap-2014/blob/master/drawingorigami2/drawingorigami2.pde)
+- prototipi **dataviz** in Processing e grafica
+
+------
+
+###### compito/progetto
+1. consegna finale **dataviz** in Processing (caricare pde e schermate/video)
+2. consegna prototipo/i finale **dataviz** in grafica
+ 
+
+
+
 
 -------
 
