@@ -100,6 +100,8 @@ void draw() {
 
 ```
 
+video !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 #####SKETCH RIFERIMENTO 2
 
 L'altro [sketch di riferimento](http://forum.processing.org/two/discussion/7163/rotating-more-than-one-offset-circle)
@@ -135,6 +137,8 @@ void  draw  () {
 } //end draw
 
 ```
+
+video !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 #####PROTOTIPO DATAVIZ
 
@@ -238,3 +242,8 @@ void  draw () {
 Il risultato non è esattamente ciò che avevo immaginato in precedenza. La differenza è nella frequenza di visualizzazione: 
 quel che avevo immaginato sarebbe stato estremamente più lento e noioso. Qui invece la reattività della visualizzazione 
 al cambiamento dei dati è praticamente immediata e molto più accattivante.
+
+video !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+video !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+video !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
