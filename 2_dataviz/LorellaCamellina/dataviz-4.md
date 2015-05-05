@@ -48,7 +48,8 @@ Nel _Caso 3_ al ventesimo, quarantesimo e sessantesimo.
 
 La seconda serie di circonferenze invece è solo uno strumento di lettura nel quale si evidenzia il rapporto fra
 l'intensità relativa ad un determinato secondo ed il massimo dell'intensità visualizzabile, 
-che poi sarebbe il raggio della circonferenza stessa.
+che poi sarebbe il raggio della circonferenza stessa. Nel _Caso 3_ è stata ipotizzata la massima intensità visualizzabile 
+per tutti e sessanta i secondi di rilevamento.
 
 #####SKETCH RIFERIMENTO 1
 
@@ -66,72 +67,36 @@ al sottofondo sonoro**, cosa che lascia ben sperare per un futuro Dataphys basat
 
 ```
 
-import ddf.minim.*; // indico la libreria
+import ddf.minim.* ; // richiamo la libreria
 
-Minim minim; // ?
-AudioInput in; // ??
-int i; //dichiaro la var da usare in print
+Minim minim; 
+AudioInput in ;
+
+int i ; // in print
+
 void setup() {
-  size(400, 400); //come renderizza processing (default sketch P3D, oppure P2D o PDF);
 
-  minim = new Minim(this); //oggetto minim
+  size(400, 400) ;
 
-  // use the getLineIn method of the Minim object to get an AudioInput
-  // in = minim.getLineIn(Minim.STEREO); linea originale
-  in = minim.getLineIn(Minim.MONO); // modalità input: stereo o mono
-} // fine setup
+  minim = new Minim(this) ; // oggetto minim
+  in = minim.getLineIn(Minim.MONO); // modalità input mono
+} // end setup
 
 void draw() {
-  
-  print(" left ");
-  print(in.left.get(i)); // input stereo sin
-  
-  print(" / ");
-  
-  print(" right ");
-  println(in.right.get(i)); // input stereo dx
-  //voglio vedere i dati
 
-  // MONO i valori left&right sono uguali
-  // due valori per left e due valori per right
-  // ma uguali
-  // e variano in base al variare dell'intensità del suono
-  
-  // STEREO i valori left&right sono diversi
-  // un valore per left ed un valore per right
-  // che variano in base al variare dell'intensità del suono
-  // ed alla provenienza
-  
-  // ma mono&stereo non sono relativi all'output?
-  
-  // sono valori molto bassi 
-  // ecco perc in.left.get(i) va moltiplicato per qualcosa
-  // ai fini di una visualizzazione più sensibile
+  println(in.left.get(i)); // stringa dati
 
-  background(255);
+    background(200);
+  smooth(); // antialiasing
   for (int i = 0; i < in.bufferSize () - 1; i++) { 
     // non ho capito bene in.bufferSize()
 
     // RECT - commenta ellipse o resta coperto
     noStroke();
-    fill(255, 0, 0);
-    //rect(200, height/2-50, in.left.get(i)*100, 100); //aumento su width
-    //rect(200, height/2-50, in.left.get(i), 100); //devo moltiplicare per qualcosa la variabile
-    //rect(width/2-50, height/2, 100, in.left.get(i)*100); //aumento su height
-    
-    // RECT AI VERTICI (tutto speculare)
-    //rect(0, 0, in.left.get(i)*100, 100);
-    //rect(400, 0, -in.left.get(i)*100, in.left.get(i)*100);
-    //rect(400, 400, in.left.get(i)*100, in.left.get(i)*100);
-    //rect(0, 400, in.left.get(i)*100, -in.left.get(i)*100);
-    
-    // ELLIPSE
-    //ellipse(width/2,height/2,50+in.left.get(i)*100,50); //aumento su asseX
-    //ellipse(width/2,height/2,50,50+in.left.get(i)*100); //aumento su asseY
+    fill(255);
     ellipse(width/2, height/2, in.left.get(i)*500, in.left.get(i)*500);
-    
-  } //fine for
-} //fine draw
+  } // end for
+} // end draw
 
 ```
 
