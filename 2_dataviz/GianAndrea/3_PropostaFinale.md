@@ -6,6 +6,9 @@ L'obiettivo del corso consiste nel realizzare un artefatto che possa elaborare, 
 -
 
 ###NARRAZIONE
+
+![](http://www.francescolibrizzi.com/wp-content/uploads/2012/08/000.jpg)
+
 Il progetto vuole raccontare al pubblico l'identità dell'università attraverso la rappresentazione visiva di una raccolta dati, proveniente dalle azioni svolte dalle persone all'interno dell'ateneo. In particolare, le informazioni che esprimono l'avvenimento di queste attività, sono ricavate sotto la loro diretta trasposizione in dati digitali, tramite l'utilizzo della rete informatica universitaria. In questo caso si cerca di evidenziare il nostro rapporto con il mondo virtuale e il nostro comportamento in relazione ad esso. 
 
 Lo scopo è quello di renderci conto della grande quantità di dati che produciamo, muoviamo o analizziamo durante il giorno in questo secondo spazio astratto, ma che non percepiamo affatto. Le azioni che svolgiamo su questo livello producono infatti dei dati esistenti (perchè registrati dal server universitario), ma che tuttavia rimangono invisibili a chi ne entra in contatto. L'opera vuole raccontare ciò che si nasconde dietro questi dati e di raccontare la loro umanità, ovvero il corpo che ne crea l'esistenza. Grazie alla loro rappresentazione, si può ricreare un flusso tangibile che esprima l'anima universitaria. Ogni gesto ed ogni scelta personale, lascia una traccia che agisce direttamente sulla trasformazione visiva dell'opera. Ognuno di noi è chiamato a costruirne il flusso agendo sull'artefatto attraverso l'utilizzo della rete informatica. Con ciò, il progetto diventa la rappresentazione digitale dell'ateneo in questo secondo spazio che si manifesta nella realtà. 
@@ -36,7 +39,24 @@ La cromia è stata suggerita dal classico gioco di tetris perché riprende anche
 ###RAPPRESENTAZIONE
 ![] (http://www.itswiredtechnology.com/uploads/2/5/6/2/25629399/140853_orig.jpg?268)
 
-Il sistema di rappresentazione concreta si traduce nel reinterpretare la logica della cicolazione del codice digitale binario in un flusso liquido. La dinamicità dell'acqua diventa l'interpretazione tangibile delle stringhe di codice. Il binomio 0|1 si trasforma nell'alternanza di passaggio tra un volume d'acqua e un volume d'aria. Il flusso dei dati avviene attraverso dei tubi trasparenti in pressione dove ognuno di essi rappresenta una categoria di applicazione. In questo caso si ha la riproduzione del mondo virtuale in quello reale. Come per il firewall, la forma principale dell'installazione è la classica struttura del server, dove al posto dei reali cavi ethernet, ci sono i vari tubi rappresentanti le applicazioni. 
+Il sistema di rappresentazione concreta si traduce nel reinterpretare la logica della cicolazione del codice digitale binario in un flusso liquido. La dinamicità dell'acqua diventa l'interpretazione tangibile delle stringhe di codice. Il binomio 0|1 si trasforma nell'alternanza di passaggio tra un volume d'acqua e un volume d'aria. Il flusso dei dati avviene attraverso dei tubi trasparenti in pressione dove ognuno di essi rappresenta una categoria di applicazione. In questo caso si ha la riproduzione del mondo virtuale in quello reale. Come per il firewall, la forma principale dell'installazione è la classica struttura del server, dove al posto dei reali cavi ethernet, ci sono i vari tubi rappresentanti le applicazioni. L'elemento fisico assume la sua funzione di registro e catalogazione dei dati e diventa il generatore principale delle informazioni che alimenta il cablaggio dell'opera, nonché il significato delle richieste di connessione da parte degli utenti connessi alla rete univarsitaria. La struttura diventa anche un contenitore per il liquido che serve per creare la rappresentazione dinamica dei dati. 
+
+![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430311612290_WP_20150429_001.jpeg?fit=max&w=882)
+
+I cavi rimangono trasparenti per dare la possibilità di visualizzare il cambimento dei flussi informatici, invece per il liquido viene colorato di nero in modo da continuare l'analogia con l'alternanza binaria di 0|1. Il circuito per i fluidi è a ciclo chiuso, in modo da creare pressione nel tubo e da riutilizzare lo stesso liquido per un ampio lasso di tempo senza sprechi aggiuntivi di risorse. Il flusso viene regolato dai secondi, in modo da associare l'opera allo scorrimento del tempo reale, attraverso il significato dell'immediatezza e della velocità degli scambi informatici. Anche in questo caso La colorazione dei liquidi potrebbe rimandare alla rappresentazione digitale dello stesso file in processing. Inoltre la disposizione spaziale del cablaggio può riprendere lo stesso schema rigoroso della raffigurazione informatica, lasciando così la possibilità di confrontare i vari flussi. L'interpretazione fisica delle informazioni permette anche di aumentare lo spazio temporale della loro visualizzazione, uscendo dal tempo e dello spazio costretto del monitor. La lunghezza in questo caso diventa relativa e crea l'effetto dell'immensità del dato che può essere potenzialmente infinito. Ciò stabilisce una comprensione più allargata dei flussi e di conseguenza riproduce la grandezza dei contenuti digitali che si spostano in quantità irrisorie di tempo.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -
 
@@ -58,6 +78,11 @@ Non è escluso che la stessa disposizione dei tubi non può essere ripresa in al
 -
 
 ###ISPIRAZIONI
+
+![] (http://www.creativeapplications.net/wp-content/uploads/2012/07/Words-of-a-Middle-Man-01.png) 
+
+[Words of a Middle Man](https://incom.org/projekt/2364) è un progetto che racconta ciò che noi svolgiamo attraverso la rete, e cerca di comunicarcelo in modo comprensibile e più naturale possibile. L'opera rende visibile il rapporto con la rete e come in qualche modo lo usiamo, essendo quest'ultima la schematizzatrice delle nostre attività.
+
 ![](http://www.aec.at/humannature/wp-content/files/2009/07/MG_5342.jpg)
 
 [Datamatics] (http://www.ryojiikeda.com/project/datamatics/) di Roji Ikeda è un progetto in cui l'artista utilizza dei dati puri digitali come sorgente per il suono e le immagini, al fine di creare delle presentazioni astratte e mimetiche della materia virtuale.
