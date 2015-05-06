@@ -44,16 +44,16 @@ con la Città di San Marino, attualmente inesistente. A lezione la discussione s
 _landmark_ che sarebbe bene assumesse la nostra operazione artistica, ai fini di mettere in risalto collocazione e 
 presenza di una scuola di design in Città.
 
+![05](http://i.imgur.com/i5qXLZm.jpg?2)
+
+_5. Ingresso UniRSM_
+
 Con in mente la questione del _colpo d'occhio_ ho iniziato ad osservare come si muovessero 
-i flussi di persone in entrata (5-6).
-
-![05](http://i.imgur.com/bxTeRjB.jpg?2)
-
-_5. Flussi interni_
+i flussi di persone in entrata (6-7).
 
 ![06](http://i.imgur.com/bxTeRjB.jpg?2)
 
-_6. Flussi esterni_
+_6. Flussi interni_
 
 All'interno, il flusso maggiore si dirige verso l'ascensore.
 C'è chi imbocca la rampa di scale a sinistra della porta d'ingresso; pochissime persone hanno 
@@ -65,7 +65,18 @@ il primo "vano" che si incontra entrando, come evidenziato nell'immagine di segu
 
 ![07](http://i.imgur.com/mP4Zvhc.jpg?2)
 
-_7. Contemporaneità dei flussi_
+_7. Contemporaneità dei flussi interni_
+
+L'ingresso principale vede il flusso maggiore diretto verso l'interno. Alcuni scelgono di entrare passando per il 
+giardino o dall'aula magna. C'è anche chi si dirige direttamente in laboratorio. In confronto sono molto poche le persone estranee all'Università che passano per il vicolo di Contrada Omerelli, spesso per sbaglio.
+
+![08](http://i.imgur.com/bxTeRjB.jpg?2)
+
+_8. Flussi esterni_
+
+![09](http://i.imgur.com/bxTeRjB.jpg?2)
+
+_9. Contemporaneità flussi esterni_
 
 --
 
@@ -84,11 +95,18 @@ _6. Parete area blu_
 
 _7. Dettaglio parete area blu_
 
-
 Un'altra possibilità che coinvolgerebbe il _colpo d'occhio_ di tutti i flussi entranti, 
 sarebbe l'utilizzo della parete di fronte alla porta principale ma situata nell'area celeste (3). 
 In quest'ultimo caso però la parete risulta già attrezzata con dei pannelli in maniera permanente. 
 Inoltre la lontananza potrebbe finire con lo sminuire l'installazione in sé. 
 
-Opterei quindi per la parete nell'area blu, così da portare l'attenzione, oltre che sull'installazione, 
-su un'altra porzione di bellezza della sede UniRSM.
+Opterei quindi per la parete nell'area blu, dovendo scegliere uno spazio interno, così da portare l'attenzione, 
+oltre che sull'installazione, su un'altra porzione di bellezza della sede UniRSM.
+
+CONCLUSIONI PER ESTERNO
+
+CONCLUSIONI ESTERNO / INTERNO / LANDMARK
+
+_in progress_
+
+
