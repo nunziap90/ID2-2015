@@ -45,6 +45,8 @@ Il sistema di rappresentazione concreta si traduce nel reinterpretare la logica 
 
 I cavi rimangono trasparenti per dare la possibilità di visualizzare il cambimento dei flussi informatici, invece per il liquido viene colorato di nero in modo da continuare l'analogia con l'alternanza binaria di 0|1. Il circuito per i fluidi è a ciclo chiuso, in modo da creare pressione nel tubo e da riutilizzare lo stesso liquido per un ampio lasso di tempo senza sprechi aggiuntivi di risorse. Il flusso viene regolato dai secondi, in modo da associare l'opera allo scorrimento del tempo reale, attraverso il significato dell'immediatezza e della velocità degli scambi informatici. Anche in questo caso La colorazione dei liquidi potrebbe rimandare alla rappresentazione digitale dello stesso file in processing. Inoltre la disposizione spaziale del cablaggio può riprendere lo stesso schema rigoroso della raffigurazione informatica, lasciando così la possibilità di confrontare i vari flussi. L'interpretazione fisica delle informazioni permette anche di aumentare lo spazio temporale della loro visualizzazione, uscendo dal tempo e dello spazio costretto del monitor. La lunghezza in questo caso diventa relativa e crea l'effetto dell'immensità del dato che può essere potenzialmente infinito. Ciò stabilisce una comprensione più allargata dei flussi e di conseguenza riproduce la grandezza dei contenuti digitali che si spostano in quantità irrisorie di tempo.
 
+![](https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430916524311_WP_20150506_003.jpg?fit=max&w=882)
+
 
 
 
