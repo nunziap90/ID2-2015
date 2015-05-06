@@ -100,7 +100,7 @@ void draw() {
 
 ```
 
-video !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[Video-riferimento-1](https://www.dropbox.com/s/x86s1vuri05dv7j/riferimento-1.wmv?dl=0) - reattività al suono di una forma
 
 #####SKETCH RIFERIMENTO 2
 
@@ -138,7 +138,7 @@ void  draw  () {
 
 ```
 
-video !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[Video-riferimento-2](https://www.dropbox.com/s/z2geyfkdane875b/riferimento-2.wmv?dl=0) - "lancetta senza tempo"
 
 #####PROTOTIPO DATAVIZ
 
@@ -243,10 +243,9 @@ Il risultato non è esattamente ciò che avevo immaginato in precedenza. La diff
 quel che avevo immaginato sarebbe stato estremamente più lento e noioso. Qui invece la reattività della visualizzazione 
 al cambiamento dei dati è praticamente immediata e molto più accattivante.
 
-[Video-1](https://www.dropbox.com/s/8m8etar2g4v1ojk/video-1.wmv?dl=0)
+[Video-1](https://www.dropbox.com/s/8m8etar2g4v1ojk/video-1.wmv?dl=0) - sensibilità al suono - 1
 
-[Video-2](https://www.dropbox.com/s/kfkihfjob3u50pp/video-2.wmv?dl=0)
+[Video-2](https://www.dropbox.com/s/kfkihfjob3u50pp/video-2.wmv?dl=0) - sensibilità al suono - 2
 
-video !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
+[Video-3](https://www.dropbox.com/s/rrdifp2eqfsly8i/video-3.wmv?dl=0) - sensibilità al rumore di fondo
 
