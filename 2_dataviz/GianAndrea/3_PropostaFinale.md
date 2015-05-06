@@ -5,11 +5,6 @@ L'obiettivo del corso consiste nel realizzare un artefatto che possa elaborare, 
 
 -
 
-###LOCATION
-L'artefatto sarà disposto presso l'entrata dell'ateneo con l'obiettivo di esprimere l'identità dell'università a tutti coloro che saranno a contatto con l'installazione e di diventare un punto forte di riconoscibilità per il luogo al di fuori dell'edificio principale. La disposizione dovrà essere pensata per creare un rapporto di comunicazione con il pubblico interno od esterno all'università. 
-
--
-
 ###NARRAZIONE
 Il progetto vuole raccontare al pubblico l'identità dell'università attraverso la rappresentazione visiva di una raccolta dati, proveniente dalle azioni svolte dalle persone all'interno dell'ateneo. In particolare, le informazioni che esprimono l'avvenimento di queste attività, sono ricavate sotto la loro diretta trasposizione in dati digitali, tramite l'utilizzo della rete informatica universitaria. In questo caso si cerca di evidenziare il nostro rapporto con il mondo virtuale e il nostro comportamento in relazione ad esso. 
 
@@ -36,13 +31,46 @@ La cromia è stata suggerita dal classico gioco di tetris perché riprende anche
 ![] (http://www.colinfahey.com/tetris/original_tetris_start_game02.jpg)
 
 
-
 -
 
 ###RAPPRESENTAZIONE
 ![] (http://www.itswiredtechnology.com/uploads/2/5/6/2/25629399/140853_orig.jpg?268)
 
 Il sistema di rappresentazione concreta si traduce nel reinterpretare la logica della cicolazione del codice digitale binario in un flusso liquido. La dinamicità dell'acqua diventa l'interpretazione tangibile delle stringhe di codice. Il binomio 0|1 si trasforma nell'alternanza di passaggio tra un volume d'acqua e un volume d'aria. Il flusso dei dati avviene attraverso dei tubi trasparenti in pressione dove ognuno di essi rappresenta una categoria di applicazione. In questo caso si ha la riproduzione del mondo virtuale in quello reale. Come per il firewall, la forma principale dell'installazione è la classica struttura del server, dove al posto dei reali cavi ethernet, ci sono i vari tubi rappresentanti le applicazioni. 
+
+-
+
+###LOCATION
+
+![](https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430904885754_WP_20150506_001.jpg?fit=max&w=882)
+
+L'artefatto sarà disposto presso l'entrata dell'ateneo con l'obiettivo di esprimere l'identità dell'università a tutti coloro che saranno a contatto con l'installazione e di diventare un punto forte di riconoscibilità per il luogo al di fuori dell'edificio principale. La disposizione dovrà essere pensata per creare un rapporto di comunicazione con il pubblico interno od esterno all'università. 
+
+![] (https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430209534887_WP_20150427_004.jpg?fit=max&w=882)
+
+L'opera può essere suddivisa in due parti al favore di creare due ambienti simili che dialoghino con tutto il pubblico che può essere coinvolto fuori o dentro l'ateneo. La connessione avverrebbe tramite la stessa tipologia formale dei flussi liquidi e dallo stesso ritmo di scorrimento dei contenuti all'interno dei tubi. L'obiettivo potrebbe diventare quello di creare due diverse tipologie di lettura dell'installazione che si presenterebbero su una visione più generale ad una più specifica una volta entrati nella struttura. 
+
+![](https://hackpad-attachments.imgix.net/hackpad.com_vXwZZyTmXL4_p.345894_1430044077967_WP_20150421_005.jpg?fit=max&w=882)
+
+L'elemento estreno diventerebbe un punto di curiosità per i visitatori, nonché uno specifico punto identitario dell'area universitaria. In questo caso potrebbe risultare come una introduzione narrativa all'opera che richiami la voglia di approfondire il significato e di esplorare internamente la struttura. Il livello di ulteriore comprensione dell'opera si potrebbe trovare invece all'interno nella parte dell'ingresso interno non ancora efficaciamente sfruttato, dove si potrebbe ricavare una zona per una fruizione di riflessione più vicina all'opera.
+Non è escluso che la stessa disposizione dei tubi non può essere ripresa in alcune parti della città, in modo da creare un percorso narrativo per far risaltare il flusso invisibile dei dati virtuali, raccontando il nostro rapporto con questo ipotetico secondo livello di realtà. 
+
+-
+
+###ISPIRAZIONI
+![](http://www.aec.at/humannature/wp-content/files/2009/07/MG_5342.jpg)
+
+[Datamatics] (http://www.ryojiikeda.com/project/datamatics/) di Roji Ikeda è un progetto in cui l'artista utilizza dei dati puri digitali come sorgente per il suono e le immagini, al fine di creare delle presentazioni astratte e mimetiche della materia virtuale.
+
+![] (http://payload118.cargocollective.com/1/7/254186/4668096/IMG_1673_o.jpg)
+
+[Chaotic Flow] (http://illutron.dk/filter/showcase/Chaotic-Flow) è un'installazione che simula il flusso del traffico ciclistico nella città di Copenaghen
+
+
+![] (http://domesticstreamers.com/wp-content/uploads/36-1024x682.jpg)
+
+[Behance Reviews] (http://domesticstreamers.com/#projects) è un sistema di votazione dedicato alla selezione di uno degli alcuni profili Behance presentati per redigere l'ultimo discorso della manifestazione.
+
 
 
 
