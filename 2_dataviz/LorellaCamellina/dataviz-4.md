@@ -1,6 +1,6 @@
 ##Dataviz
 
-Il mio Dataviz è essenzialmente una visualizzazione del rumore. 
+Il mio Dataviz vuole essere uno strumento di visualizzazione del rumore. 
 Lo scopo è restituire la vivacità connessa al concetto di rumore e la sua variabilità temporale.
 
 --
@@ -106,7 +106,7 @@ void draw() {
 
 ```
 
-[Video-riferimento-1](https://www.dropbox.com/s/x86s1vuri05dv7j/riferimento-1.wmv?dl=0) - reattività al suono di una forma
+[Video-riferimento-1](https://www.dropbox.com/s/x86s1vuri05dv7j/riferimento-1.wmv?dl=0) - reattività al suono di una forma.
 
 --
 
@@ -114,10 +114,12 @@ void draw() {
 
 L'altro [sketch di riferimento](http://forum.processing.org/two/discussion/7163/rotating-more-than-one-offset-circle)
 nasce come rappresentazione di 
->"_one roatating circle followed by a trail of other circles_". 
+>"_one roatating circle followed by a trail of other circles_"
 
-Io l'ho adattato alle mie necessità ed ho ottenuto così una specie di lancetta senza riferimento temporale.
-Mi interessavano il mix di incrementabilità dell'angolo di rotazione, l'offset di spostamento rotazionale 
+come ci dice il suo creatore. 
+
+Io l'ho adattato alle necessità del mio caso ed ho ottenuto una specie di lancetta senza riferimento temporale.
+Mi interessavano qui il mix di incrementabilità dell'angolo di rotazione, l'offset di spostamento rotazionale 
 e la gestione della velocità.
 
 ```
@@ -249,9 +251,6 @@ void  draw () {
 } //end draw
 
 ```
-Il risultato non è esattamente ciò che avevo immaginato in precedenza. La differenza è nella frequenza di visualizzazione: 
-quel che avevo immaginato sarebbe stato estremamente più lento e noioso. Qui invece la reattività della visualizzazione 
-al cambiamento dei dati è praticamente immediata e molto più accattivante.
 
 [Video-1](https://www.dropbox.com/s/8m8etar2g4v1ojk/video-1.wmv?dl=0) - sensibilità al suono - 1
 
@@ -261,10 +260,9 @@ al cambiamento dei dati è praticamente immediata e molto più accattivante.
 
 #####CONCLUSIONI
 
-Osservando vari casi di visualizzazione e capendone il comportamente si potrebbe arrivare a definire con che tipo di sonorità si ha a che fare anche non disponendo dell'audio. Si potrebbe affermare se si tratta di un sottofondo o di una musicalità organizzata, un ritmo. 
+Il risultato non è perfettamente ciò che avevo immaginato inizialmente. La differenza sta nella frequenza di visualizzazione:
+quel che avevo immaginato sarebbe stato estremamente più lento e noioso. Nel prototipo invece la reattività della visualizzazione al cambiamento dei dati è immediata e accattivante. Ho provato a rallentare il decorso della visualizzazione, agendo sul rapporto esistente tra frameRate e frameCount, o sulla velocità, ad esempio; questo per tentare di avvicinarmi alla visualizzazione immaginata. Il punto è che rallentando lo svolgimento della visualizzazione si perde la tanto ricercata rappresentazione della vivacità del rumore.
 
-Il primo elemento visivo a distinguerli è l'intensità, il raggio, lo spessore del raggio: esso assume picchi più elevati nel caso di un "suono organizzato", mentre nel caso di un rumore di fondo l'impressione che fornisce è quella di un insieme più omogeneo e coerente.
-
-Il secondo fattore di distinzione è il comportamento nel tempo: nelle melodie è ritrovabile una specie di ridondanza di figure, come se si ripetessero delle situazioni - così è, in effetti. Mentre nel rumore di fondo è tutto molto più casuale, un flusso fatto di eventi non legati fra loro.
+Osservando vari casi di visualizzazione si potrebbe arrivare a definire con che tipo di sonorità si ha a che fare, anche non disponendo dell'audio. Si potrebbe affermare se si tratta di un sottofondo rumoroso o di una musicalità organizzata, un ritmo. Il primo elemento visivo a distinguerli è l'intensità, la conformazione del raggio: esso assume picchi più elevati nel caso di un "suono organizzato". Nel caso di un rumore di fondo invece l'impressione che fornisce è quella di un insieme più omogeneo e coerente. Il secondo fattore di distinzione è il comportamento nel tempo: nelle melodie è ritrovabile una specie di ridondanza di figure, come se si ripetessero delle situazioni - così è, in effetti. Mentre nel rumore di fondo è tutto molto più casuale, un flusso fatto di eventi non legati fra loro.
 
 
