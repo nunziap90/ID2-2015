@@ -19,39 +19,53 @@ degli arredi presenti. Mi sono preoccupata di distinguere fra gli utilizzi di sp
 quelli _modificabili_, basandomi sia sulla mia esperienza che su quella di chi vive la sede da più 
 tempo rispetto a me.
 
-![00](http://i.imgur.com/QW7tb0M.jpg?2)
+![01](http://i.imgur.com/QW7tb0M.jpg?2)
 
-_1. Rilievo di partenza (fuori scala)_
+_1. Rilievo esterno (fuori scala)_
 
-Io farei una scelta, posizionando l'installazione in **uno** dei due "vani" che costituiscono l'ingresso. 
-Nell'immagine seguente il riferimento in pianta e nella 3 delle foto di queste due aree.
+![02](http://i.imgur.com/QW7tb0M.jpg?2)
 
-![01](http://i.imgur.com/5gpfRlF.jpg?2)
+_2. Rilievo interno (fuori scala)_
 
-_2. Individuazione planimetrica aree_
+Volendo considerare solo gli spazi interni (2) farei una scelta, posizionando l'installazione in **uno** dei due "vani" che costituiscono l'ingresso. 
+Nell'immagine seguente il riferimento in pianta e nella 4 delle foto di queste due aree.
+
+![03](http://i.imgur.com/5gpfRlF.jpg?2)
+
+_3. Individuazione planimetrica aree_
 
 ![celeste](http://i.imgur.com/RA8BUk3.jpg?1) ![blu](http://i.imgur.com/SqxXw6d.jpg?3) 
 
-_3. Area celeste e area blu_
+_4. Area celeste e area blu_
+
+La questione però è che quello che andrebbe realmente considerato è anche e soprattutto lo spazio esterno, 
+l'accesso dal vicolo. Posizionare una installazione qui aprirebbe un dialogo dal punto di vista territoriale 
+con la Città di San Marino, attualmente inesistente. A lezione la discussione si era orientata sull'aspetto 
+_landmark_ che sarebbe bene assumesse la nostra operazione artistica, ai fini di mettere in risalto collocazione e 
+presenza di una scuola di design in Città.
 
 Con in mente la questione del _colpo d'occhio_ ho iniziato ad osservare come si muovessero 
-i flussi di persone in entrata (4). Il flusso maggiore si dirige verso l'ascensore.
+i flussi di persone in entrata (5-6).
+
+![05](http://i.imgur.com/bxTeRjB.jpg?2)
+
+_5. Flussi interni_
+
+![06](http://i.imgur.com/bxTeRjB.jpg?2)
+
+_6. Flussi esterni_
+
+All'interno, il flusso maggiore si dirige verso l'ascensore.
 C'è chi imbocca la rampa di scale a sinistra della porta d'ingresso; pochissime persone hanno 
 necessità di rivolgersi al personale della portineria per chiedere informazioni. Ancor meno 
 sono quelle che si avviano verso la zona dei tavoli per consultare le riviste messe a disposizione o
 per controllare le comunicazioni in bacheca. Diciamo che quella dei tavoli è un'area sfruttata 
-perlopiù durante le pause pranzo.
-
-![02](http://i.imgur.com/bxTeRjB.jpg?2)
-
-_4. Flussi_
-
-I flussi, senza eccezioni, sono disponibili al _colpo d'occhio_ nell'area blu, 
+perlopiù durante le pause pranzo. I flussi, senza eccezioni, sono più disponibili al _colpo d'occhio_ nell'area blu, 
 il primo "vano" che si incontra entrando, come evidenziato nell'immagine di seguito. 
 
-![03](http://i.imgur.com/mP4Zvhc.jpg?2)
+![07](http://i.imgur.com/mP4Zvhc.jpg?2)
 
-_5. Contemporaneità dei flussi_
+_7. Contemporaneità dei flussi_
 
 --
 
