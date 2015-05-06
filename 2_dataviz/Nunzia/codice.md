@@ -107,3 +107,5 @@ void circle(int[] array, color col, int dim) { //elenco di dati:circle
   
 } 
 
+// + grafica in illustrator e video in after effects 
+
