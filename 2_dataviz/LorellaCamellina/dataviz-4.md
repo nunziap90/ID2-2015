@@ -259,4 +259,12 @@ al cambiamento dei dati è praticamente immediata e molto più accattivante.
 
 [Video-3](https://www.dropbox.com/s/rrdifp2eqfsly8i/video-3.wmv?dl=0) - sensibilità al rumore di fondo
 
+#####CONCLUSIONI
+
+Osservando vari casi di visualizzazione e capendone il comportamente si potrebbe arrivare a definire con che tipo di sonorità si ha a che fare anche non disponendo dell'audio. Si potrebbe affermare se si tratta di un sottofondo o di una musicalità organizzata, un ritmo. 
+
+Il primo elemento visivo a distinguerli è l'intensità, il raggio, lo spessore del raggio: esso assume picchi più elevati nel caso di un "suono organizzato", mentre nel caso di un rumore di fondo l'impressione che fornisce è quella di un insieme più omogeneo e coerente.
+
+Il secondo fattore di distinzione è il comportamento nel tempo: nelle melodie è ritrovabile una specie di ridondanza di figure, come se si ripetessero delle situazioni - così è, in effetti. Mentre nel rumore di fondo è tutto molto più casuale, un flusso fatto di eventi non legati fra loro.
+
 
