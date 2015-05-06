@@ -3,6 +3,8 @@
 Il mio Dataviz è essenzialmente una visualizzazione del rumore. 
 Lo scopo è restituire la vivacità connessa al concetto di rumore e la sua variabilità temporale.
 
+--
+
 #####PROPOSTA
 
 La visualizzazione arriva dall'evoluzione di quella che era stata una delle prime proposte di visualizzazione dati.
@@ -10,6 +12,8 @@ In quel caso venivano prese in considerazione tre variabili, il tempo, la proven
 Il risultato erano una serie di vettori divergenti, con stesso punto di applicazione: il centro di una circonferenza. 
 Per approfondimenti, si rimanda alla Visualizzazione 1 in 
 [Dataviz-1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/dataviz-1.md).
+
+--
 
 #####DESIDERATA
 
@@ -50,6 +54,8 @@ La seconda serie di circonferenze invece è solo uno strumento di lettura nel qu
 l'intensità relativa ad un determinato secondo ed il massimo dell'intensità visualizzabile, 
 che poi sarebbe il raggio della circonferenza stessa. Nel _Caso 3_ è stata ipotizzata la massima intensità visualizzabile 
 per tutti e sessanta i secondi di rilevamento.
+
+--
 
 #####SKETCH RIFERIMENTO 1
 
@@ -102,6 +108,8 @@ void draw() {
 
 [Video-riferimento-1](https://www.dropbox.com/s/x86s1vuri05dv7j/riferimento-1.wmv?dl=0) - reattività al suono di una forma
 
+--
+
 #####SKETCH RIFERIMENTO 2
 
 L'altro [sketch di riferimento](http://forum.processing.org/two/discussion/7163/rotating-more-than-one-offset-circle)
@@ -139,6 +147,8 @@ void  draw  () {
 ```
 
 [Video-riferimento-2](https://www.dropbox.com/s/z2geyfkdane875b/riferimento-2.wmv?dl=0) - "lancetta senza tempo"
+
+--
 
 #####PROTOTIPO DATAVIZ
 
