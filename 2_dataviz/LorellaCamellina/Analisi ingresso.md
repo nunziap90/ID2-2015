@@ -19,7 +19,7 @@ degli arredi presenti. Mi sono preoccupata di distinguere fra gli utilizzi di sp
 quelli _modificabili_, basandomi sia sulla mia esperienza che su quella di chi vive la sede da più 
 tempo rispetto a me.
 
-![01](http://i.imgur.com/QW7tb0M.jpg?2)
+![01](http://i.imgur.com/fUwF5tj.jpg?3)
 
 _1. Rilievo esterno (fuori scala)_
 
@@ -70,11 +70,11 @@ _7. Contemporaneità dei flussi interni_
 L'ingresso principale vede il flusso maggiore diretto verso l'interno. Alcuni scelgono di entrare passando per il 
 giardino o dall'aula magna. C'è anche chi si dirige direttamente in laboratorio. In confronto sono molto poche le persone estranee all'Università che passano per il vicolo di Contrada Omerelli, spesso per sbaglio.
 
-![08](http://i.imgur.com/bxTeRjB.jpg?2)
+![08](http://i.imgur.com/Tt63A6o.jpg?1)
 
 _8. Flussi esterni_
 
-![09](http://i.imgur.com/bxTeRjB.jpg?2)
+![09](http://i.imgur.com/WYC3gcZ.jpg?2)
 
 _9. Contemporaneità flussi esterni_
 
