@@ -86,8 +86,8 @@ Mi affascina l'idea di dare all'installazione una visibilità anche all'esterno 
 
 Tornando all'ingresso principale, sfrutterei anche in questo caso una parete un po' nascosta rispetto al vicolo d'accesso (12). Quasi un invito ad entrare in sede, per vederci all'opera, per conoscerci.
 
-![13](http://i.imgur.com/FZLsYLP.jpg?1) ![13](http://i.imgur.com/FZLsYLP.jpg?1) 
+![12](http://i.imgur.com/FZLsYLP.jpg?1) ![12](http://i.imgur.com/TjuTeGl.jpg?1) 
 
-_13. Dettaglio parete area blu_
+_12. Dettaglio parete area blu_
 
 
