@@ -88,11 +88,8 @@ come ci dice il suo creatore.
 
 Io l'ho adattato alle necessità del mio caso ed ho ottenuto una specie di lancetta senza riferimento temporale.
 Mi interessavano qui il mix di incrementabilità dell'angolo di rotazione, l'offset di spostamento rotazionale 
-e la gestione della velocità.
-
-Ecco il 
-[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) 
-allo sketch di riferimento 2 modificato in base alle mie necessità. Il risultato è una lancetta che ruota senza temporizzazione.
+e la gestione della velocità. Ecco il 
+[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) allo sketch modificato.
 
 [Video-riferimento-2](https://www.dropbox.com/s/z2geyfkdane875b/riferimento-2.wmv?dl=0) - "lancetta senza tempo"
 
