@@ -27,9 +27,6 @@ _1. Rilievo esterno (fuori scala)_
 
 _2. Rilievo interno (fuori scala)_
 
-Volendo considerare solo gli spazi interni (2) farei una scelta, posizionando l'installazione in **uno** dei due "vani" che costituiscono l'ingresso. 
-Nell'immagine seguente il riferimento in pianta e nella 4 delle foto di queste due aree.
-
 ![03](http://i.imgur.com/5gpfRlF.jpg?2)
 
 _3. Individuazione planimetrica aree_
@@ -42,39 +39,31 @@ _4. Area celeste e area blu_
 
 _5. Ingresso UniRSM_
 
-La questione però è che quello che andrebbe realmente considerato è anche e soprattutto lo spazio esterno, 
-l'accesso dal vicolo. Posizionare una installazione qui aprirebbe un dialogo dal punto di vista territoriale 
-con la Città di San Marino, attualmente inesistente. A lezione la discussione si era orientata sull'aspetto 
-_landmark_ che sarebbe bene assumesse la nostra operazione artistica, ai fini di mettere in risalto collocazione e 
-presenza di una scuola di design in Città.
-Con in mente la questione del _colpo d'occhio_ ho iniziato ad osservare come si muovessero 
-i flussi di persone in entrata (6-7).
+Volendo considerare solo gli spazi interni (2) farei una scelta, posizionando l'installazione in **uno** dei due "vani" che costituiscono l'ingresso (3,4). In realtà però è che quello che andrebbe considerato da vicino è anche e soprattutto lo spazio esterno, l'accesso alla sede dal vicolo cittadino. Posizionare una installazione lì aprirebbe un dialogo dal punto di vista territoriale con la Città di San Marino, attualmente inesistente. A questo proposito, durante una lezione, la discussione era stata orientata verso l'aspetto _landmark_ che sarebbe bene assumesse la nostra operazione artistica. Metteremmo in risalto collocazione e presenza di una scuola di design in Città.
 
-![06](http://i.imgur.com/bxTeRjB.jpg?2)
+Detto ciò e con sempre ben in mente la questione _colpo d'occhio_ ho iniziato ad osservare come si muovessero i flussi di persone in entrata.
 
-_6. Flussi interni_
+![06](http://i.imgur.com/Tt63A6o.jpg?1)
 
-![07](http://i.imgur.com/mP4Zvhc.jpg?2)
+_6. Flussi esterni_
 
-_7. Contemporaneità dei flussi interni_
+![07](http://i.imgur.com/WYC3gcZ.jpg?2)
 
-![08](http://i.imgur.com/Tt63A6o.jpg?1)
+_7. Contemporaneità flussi esterni_
 
-_8. Flussi esterni_
+![08](http://i.imgur.com/bxTeRjB.jpg?2)
 
-![09](http://i.imgur.com/WYC3gcZ.jpg?2)
+_8. Flussi interni_
 
-_9. Contemporaneità flussi esterni_
+![09](http://i.imgur.com/mP4Zvhc.jpg?2)
 
-All'interno, il flusso maggiore si dirige verso l'ascensore.
-C'è chi imbocca la rampa di scale a sinistra della porta d'ingresso; pochissime persone hanno 
-necessità di rivolgersi al personale della portineria per chiedere informazioni. Ancor meno 
-sono quelle che si avviano verso la zona dei tavoli per consultare le riviste messe a disposizione o
-per controllare le comunicazioni in bacheca. Diciamo che quella dei tavoli è un'area sfruttata 
-perlopiù durante le pause pranzo. I flussi, senza eccezioni, sono più disponibili al _colpo d'occhio_ nell'area blu, 
-il primo "vano" che si incontra entrando, come evidenziato nell'immagine di seguito. 
-L'ingresso principale vede il flusso maggiore diretto verso l'interno. Alcuni scelgono di entrare passando per il 
+_9. Contemporaneità dei flussi interni_
+
+
+L'ingresso principale (6,7) vede il flusso maggiore diretto verso la portineria. Alcuni scelgono di entrare passando per il 
 giardino o dall'aula magna. C'è anche chi si dirige direttamente in laboratorio. In confronto sono molto poche le persone estranee all'Università che passano per il vicolo di Contrada Omerelli, spesso per sbaglio.
+
+All'interno (8,9) il flusso maggiore si dirige verso l'ascensore. C'è chi imbocca la rampa di scale a sinistra della porta d'ingresso; pochissime persone hanno necessità di rivolgersi al personale della portineria per chiedere informazioni. Ancor meno sono quelle che si avviano verso la zona dei tavoli per consultare le riviste messe a disposizione o per controllare le comunicazioni in bacheca. Diciamo che quella dei tavoli è un'area sfruttata perlopiù durante le pause pranzo. I flussi interni, senza eccezioni, sono più disponibili al _colpo d'occhio_ nell'area blu, il primo "vano" che si incontra entrando, come evidenziato nell'immagine di seguito. 
 
 --
 
