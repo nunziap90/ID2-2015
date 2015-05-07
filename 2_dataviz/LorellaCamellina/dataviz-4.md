@@ -96,7 +96,7 @@ si rigenera. Giocando con l'opacità del background si provoca un effetto
 confrontare ciò che ascolta/ha appena ascoltato con ciò che vede/ha appena visto, insegnadogli a leggere la grammatica 
 della rappresentazione (relazione rumore-raggio, relazione spessore raggio-intensità rumore).
 
-Ecco il [link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-2-modified.pde) allo sketch sviluppato. Di seguito alcuni video sul funzionamento software:
+Ecco il [link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/dataviz-4.pde) allo sketch sviluppato. Di seguito alcuni video sul funzionamento software:
 
 [Video-1](https://www.dropbox.com/s/8m8etar2g4v1ojk/video-1.wmv?dl=0) - sensibilità al suono - 1
 
