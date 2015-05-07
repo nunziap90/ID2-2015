@@ -10,6 +10,9 @@ Lo scopo è restituire la vivacità connessa al concetto di rumore e la sua vari
 La visualizzazione arriva dall'evoluzione di quella che era stata una delle prime proposte di visualizzazione dati.
 In quel caso venivano prese in considerazione tre variabili, il tempo, la provenienza del suono e la sua intensità.
 Il risultato erano una serie di vettori divergenti, con stesso punto di applicazione: il centro di una circonferenza. 
+
+![01](http://i.imgur.com/G3EZ2Q2.png?1)
+
 Per approfondimenti, si rimanda alla Visualizzazione 1 in 
 [Dataviz-1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/dataviz-1.md).
 
