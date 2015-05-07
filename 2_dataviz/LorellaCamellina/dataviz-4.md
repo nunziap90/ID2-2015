@@ -76,9 +76,7 @@ al sottofondo sonoro**, cosa che lascia ben sperare per un futuro Dataphys basat
 
 Ecco il 
 [link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) 
-allo sketch di riferimento 1 modificato in base alle mie necessità, creando la reattività al suono di una forma.
-
-[Video-riferimento-1](https://www.dropbox.com/s/x86s1vuri05dv7j/riferimento-1.wmv?dl=0) - reattività al suono di una forma.
+allo sketch di riferimento 1 modificato in base alle mie necessità, creando la reattività al suono di una forma. Qui inveve un [video](https://www.dropbox.com/s/x86s1vuri05dv7j/riferimento-1.wmv?dl=0) esplicativo.
 
 #####SKETCH RIFERIMENTO 2
 
@@ -93,8 +91,8 @@ Io l'ho adattato alle necessità del mio caso ed ho ottenuto una specie di lance
 Mi interessavano qui il mix di incrementabilità dell'angolo di rotazione, l'offset di spostamento rotazionale 
 e la gestione della velocità. Ecco il 
 [link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) allo sketch modificato.
-
-[Video-riferimento-2](https://www.dropbox.com/s/z2geyfkdane875b/riferimento-2.wmv?dl=0) - "lancetta senza tempo"
+Anche qui ecco un
+[video](https://www.dropbox.com/s/z2geyfkdane875b/riferimento-2.wmv?dl=0) esplicativo sulla "lancetta senza tempo".
 
 --
 
