@@ -65,11 +65,7 @@ per tutti e sessanta i secondi di rilevamento.
 Il primo sketch di riferimento è [getLineIn](http://code.compartmental.net/minim/minim_method_getlinein.html) 
 della libreria [Minim](http://code.compartmental.net/tools/minim/).
 
-Serve ad immettere in Processing l'input audio proveniente dal microfono del portatile.
-
-L'obiettivo è stato capirne il funzionamento e provare a controllare con lui delle visualizzazioni minime.
-E' stato Utile anche per riuscire a vedere in stringa il tipo di dati numerici con cui stavo lavorando, 
-i loro moduli e la loro reattività agli input sonori. 
+Serve ad immettere in Processing l'input audio proveniente dal microfono del portatile. L'obiettivo è stato capirne il funzionamento e provare a controllare con lui delle visualizzazioni minime. E' stato Utile anche per riuscire a vedere in stringa il tipo di dati numerici con cui stavo lavorando, i loro moduli e la loro reattività agli input sonori. 
 
 A quanto pare il microfono del mio portatile è abbastanza sensibile al **rumore di fondo, al vociferio, 
 al sottofondo sonoro**, cosa che lascia ben sperare per un futuro Dataphys basato proprio su questi aspetti.
