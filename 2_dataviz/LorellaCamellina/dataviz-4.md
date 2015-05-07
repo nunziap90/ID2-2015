@@ -77,8 +77,8 @@ allo sketch di riferimento 1 modificato in base alle mie necessità, creando la 
 #####SKETCH RIFERIMENTO 2
 
 L'altro 
-[sketch di riferimento originale](http://forum.processing.org/two/discussion/7163/rotating-more-than-one-offset-circle)
-nasce come rappresentazione di 
+[sketch di riferimento](http://forum.processing.org/two/discussion/7163/rotating-more-than-one-offset-circle)
+rappresenta originalmente 
 >"_one roatating circle followed by a trail of other circles_"
 
 come ci dice il suo creatore. Io l'ho adattato alle necessità del mio caso ed ho ottenuto una specie di lancetta senza riferimento temporale. Mi interessavano qui il mix di incrementabilità dell'angolo di rotazione, l'offset di spostamento rotazionale e la gestione della velocità. Ecco il 
