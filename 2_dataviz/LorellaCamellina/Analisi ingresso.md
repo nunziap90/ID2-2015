@@ -69,31 +69,25 @@ All'interno (8,9) il flusso maggiore si dirige verso l'ascensore. C'è chi imboc
 
 #####Conclusioni
 
-Volendo sfruttare l'area blu, sarebbe bello immaginare l'installazione fisica a muro, 
-mettendo in evidenza una parete che ha anche delle valenze estetico-architettoniche 
-e che, attualmente, viene addirittura nascosta, a creare un po' la sensazione di un 
-ripostiglio disordinato.
+Volendo sfruttare l'area blu all'interno, sarebbe bello immaginare l'installazione fisica a muro, mettendo in evidenza una parete che ha anche delle valenze estetico-architettoniche e che, attualmente, viene addirittura nascosta, a creare un po' la sensazione di un ripostiglio disordinato (10,11). Praticamente in ogni momento, entrando, si averebbe un'anteprima della quantità di vitalità presente in sede attraverso una sorta di quadro animato. Un'alternativa per sfruttare il _colpo d'occhio_ di tutti i flussi entranti, sarebbe l'utilizzo della parete di fronte alla porta principale situata nell'area celeste (4). In quest'ultimo caso però la situazione è già attrezzata con dei pannelli in maniera permanente. Inoltre penso che la lontananza potrebbe finire con lo sminuire l'installazione in sé.
 
-![front](http://i.imgur.com/lBegNEN.jpg?1) ![entrance](http://i.imgur.com/Cv6KKnR.jpg?1) 
-
-_6. Parete area blu_
-
-![det](http://i.imgur.com/kbgdyrs.jpg?1)
-
-_7. Dettaglio parete area blu_
-
-Un'altra possibilità che coinvolgerebbe il _colpo d'occhio_ di tutti i flussi entranti, 
-sarebbe l'utilizzo della parete di fronte alla porta principale ma situata nell'area celeste (3). 
-In quest'ultimo caso però la parete risulta già attrezzata con dei pannelli in maniera permanente. 
-Inoltre la lontananza potrebbe finire con lo sminuire l'installazione in sé. 
-
-Opterei quindi per la parete nell'area blu, dovendo scegliere uno spazio interno, così da portare l'attenzione, 
+Opterei quindi per la parete nell'area blu, volendo scegliere lo spazio interno, così da portare l'attenzione, 
 oltre che sull'installazione, su un'altra porzione di bellezza della sede UniRSM.
 
-CONCLUSIONI PER ESTERNO
+![10](http://i.imgur.com/lBegNEN.jpg?1) ![entrance](http://i.imgur.com/Cv6KKnR.jpg?1) 
 
-CONCLUSIONI ESTERNO / INTERNO / LANDMARK
+_10. Parete area blu_
 
-_in progress_
+![11](http://i.imgur.com/kbgdyrs.jpg?1)
+
+_11. Dettaglio parete area blu_
+
+Mi affascina l'idea di dare all'installazione una visibilità anche all'esterno della sede universitaria, così da puntare i riflettori indirettamente sulla scuola. Inoltre, non va dimenticato che la sede UniRSM è un complesso architettonico di valore e ha a disposizione un giardino pubblico, aperto a tutte le ore. Insomma, sarebbe "cosa buona e giusta" sfruttare l'installazione per fini pubblicitari sul territorio. Come già detto in precedenza, il vicolo d'accesso all'Università viene imboccatto, al più, erroneamente dai turisti. Perché non creare un percorso che costituisca un _file rouge_ in Città, stuzzicando la curiosità di chi, per una volta, ha tempo da perdere? Si potrebbe distribuire l'installazione in punti nevralgici del centro storico, attirando verso Contrada Omerelli 20. Si potrebbe proporla in configurazioni differenti ma con stessa modalità, stessi materiali, stesso funzionamento, per creare riconoscibilità e identità. 
+
+Tornando all'ingresso principale, sfrutterei anche in questo caso una parete un po' nascosta rispetto al vicolo d'accesso (12). Quasi un invito ad entrare in sede, per vederci all'opera, per conoscerci.
+
+![13](http://i.imgur.com/FZLsYLP.jpg?1) ![13](http://i.imgur.com/FZLsYLP.jpg?1) 
+
+_13. Dettaglio parete area blu_
 
 
