@@ -85,13 +85,8 @@ L'altro
 nasce come rappresentazione di 
 >"_one roatating circle followed by a trail of other circles_"
 
-come ci dice il suo creatore. 
-
-Io l'ho adattato alle necessità del mio caso ed ho ottenuto una specie di lancetta senza riferimento temporale.
-Mi interessavano qui il mix di incrementabilità dell'angolo di rotazione, l'offset di spostamento rotazionale 
-e la gestione della velocità. Ecco il 
-[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) allo sketch modificato.
-Anche qui ecco un
+come ci dice il suo creatore. Io l'ho adattato alle necessità del mio caso ed ho ottenuto una specie di lancetta senza riferimento temporale. Mi interessavano qui il mix di incrementabilità dell'angolo di rotazione, l'offset di spostamento rotazionale e la gestione della velocità. Ecco il 
+[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) allo sketch modificato ed un
 [video](https://www.dropbox.com/s/z2geyfkdane875b/riferimento-2.wmv?dl=0) esplicativo sulla "lancetta senza tempo".
 
 --
