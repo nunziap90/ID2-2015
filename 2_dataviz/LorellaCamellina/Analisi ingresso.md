@@ -39,7 +39,7 @@ _4. Area celeste e area blu_
 
 _5. Ingresso UniRSM_
 
-Volendo considerare solo gli spazi interni (2) farei una scelta, posizionando l'installazione in **uno** dei due "vani" che costituiscono l'ingresso (3,4). In realtà però è che quello che andrebbe considerato da vicino è anche e soprattutto lo spazio esterno, l'accesso alla sede dal vicolo cittadino. Posizionare una installazione lì aprirebbe un dialogo dal punto di vista territoriale con la Città di San Marino, attualmente inesistente. A questo proposito, durante una lezione, la discussione era stata orientata verso l'aspetto _landmark_ che sarebbe bene assumesse la nostra operazione artistica. Metteremmo in risalto collocazione e presenza di una scuola di design in Città.
+Volendo considerare solo gli spazi interni (2) farei una scelta, posizionando l'installazione in **uno** dei due "vani" che costituiscono l'ingresso (3,4). In realtà però è che quello che andrebbe considerato da vicino è anche e soprattutto lo spazio esterno, l'accesso alla sede dal vicolo cittadino (5). Posizionare una installazione lì aprirebbe un dialogo dal punto di vista fisico/territoriale con la Città di San Marino, attualmente inesistente. A questo proposito, durante una lezione, la discussione era stata orientata verso l'aspetto _landmark_ che sarebbe bene assumesse la nostra operazione artistica. Metteremmo in risalto collocazione e presenza di una scuola di design in Città.
 
 Detto ciò e con sempre ben in mente la questione _colpo d'occhio_ ho iniziato ad osservare come si muovessero i flussi di persone in entrata.
 
@@ -60,8 +60,8 @@ _8. Flussi interni_
 _9. Contemporaneità dei flussi interni_
 
 
-L'ingresso principale (6,7) vede il flusso maggiore diretto verso la portineria. Alcuni scelgono di entrare passando per il 
-giardino o dall'aula magna. C'è anche chi si dirige direttamente in laboratorio. In confronto sono molto poche le persone estranee all'Università che passano per il vicolo di Contrada Omerelli, spesso per sbaglio.
+L'ingresso principale vede il flusso maggiore diretto verso la portineria. Alcuni scelgono di entrare passando per il 
+giardino o dall'aula magna. C'è anche chi si dirige direttamente in laboratorio. In confronto sono molto poche le persone estranee all'Università che passano per il vicolo di Contrada Omerelli, spesso per sbaglio (6,7).
 
 All'interno (8,9) il flusso maggiore si dirige verso l'ascensore. C'è chi imbocca la rampa di scale a sinistra della porta d'ingresso; pochissime persone hanno necessità di rivolgersi al personale della portineria per chiedere informazioni. Ancor meno sono quelle che si avviano verso la zona dei tavoli per consultare le riviste messe a disposizione o per controllare le comunicazioni in bacheca. Diciamo che quella dei tavoli è un'area sfruttata perlopiù durante le pause pranzo. I flussi interni, senza eccezioni, sono più disponibili al _colpo d'occhio_ nell'area blu, il primo "vano" che si incontra entrando, come evidenziato nell'immagine di seguito. 
 
@@ -74,7 +74,7 @@ Volendo sfruttare l'area blu all'interno, sarebbe bello immaginare l'installazio
 Opterei quindi per la parete nell'area blu, volendo scegliere lo spazio interno, così da portare l'attenzione, 
 oltre che sull'installazione, su un'altra porzione di bellezza della sede UniRSM.
 
-![10](http://i.imgur.com/lBegNEN.jpg?1) ![entrance](http://i.imgur.com/Cv6KKnR.jpg?1) 
+![10](http://i.imgur.com/lBegNEN.jpg?1) ![10](http://i.imgur.com/Cv6KKnR.jpg?1) 
 
 _10. Parete area blu_
 
@@ -82,7 +82,7 @@ _10. Parete area blu_
 
 _11. Dettaglio parete area blu_
 
-Mi affascina l'idea di dare all'installazione una visibilità anche all'esterno della sede universitaria, così da puntare i riflettori indirettamente sulla scuola. Inoltre, non va dimenticato che la sede UniRSM è un complesso architettonico di valore e ha a disposizione un giardino pubblico, aperto a tutte le ore. Insomma, sarebbe "cosa buona e giusta" sfruttare l'installazione per fini pubblicitari sul territorio. Come già detto in precedenza, il vicolo d'accesso all'Università viene imboccatto, al più, erroneamente dai turisti. Perché non creare un percorso che costituisca un _file rouge_ in Città, stuzzicando la curiosità di chi, per una volta, ha tempo da perdere? Si potrebbe distribuire l'installazione in punti nevralgici del centro storico, attirando verso Contrada Omerelli 20. Si potrebbe proporla in configurazioni differenti ma con stessa modalità, stessi materiali, stesso funzionamento, per creare riconoscibilità e identità. 
+Mi affascina l'idea di dare all'installazione una visibilità anche all'esterno della sede universitaria, così da puntare i riflettori indirettamente sulla scuola. Inoltre, non va dimenticato che la sede UniRSM è un complesso architettonico di valore e ha a disposizione un giardino pubblico, aperto a tutte le ore. Insomma, sarebbe "cosa buona e giusta" sfruttare l'installazione per fini pubblicitari sul territorio. Come già detto in precedenza, il vicolo d'accesso all'Università viene imboccatto, al più, erroneamente dai turisti. Perché non creare un percorso che costituisca un _file rouge_ in Città, stuzzicando la curiosità di chi, per una volta, ha tempo da perdere? La si potrebbe "esplodere" in punti nevralgici del centro storico, attirando verso Contrada Omerelli 20. Si potrebbe proporla in configurazioni differenti ma con stessa modalità, stessi materiali, stesso funzionamento, per creare riconoscibilità, identità. 
 
 Tornando all'ingresso principale, sfrutterei anche in questo caso una parete un po' nascosta rispetto al vicolo d'accesso (12). Quasi un invito ad entrare in sede, per vederci all'opera, per conoscerci.
 
