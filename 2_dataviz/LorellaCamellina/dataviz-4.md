@@ -79,7 +79,8 @@ allo sketch di riferimento 1 modificato in base alle mie necessità, creando la 
 
 #####SKETCH RIFERIMENTO 2
 
-L'altro [sketch di riferimento](http://forum.processing.org/two/discussion/7163/rotating-more-than-one-offset-circle)
+L'altro 
+[sketch di riferimento originale](http://forum.processing.org/two/discussion/7163/rotating-more-than-one-offset-circle)
 nasce come rappresentazione di 
 >"_one roatating circle followed by a trail of other circles_"
 
@@ -89,31 +90,9 @@ Io l'ho adattato alle necessità del mio caso ed ho ottenuto una specie di lance
 Mi interessavano qui il mix di incrementabilità dell'angolo di rotazione, l'offset di spostamento rotazionale 
 e la gestione della velocità.
 
-```
-float angle = 0.00 ; 
-float offset  = 120 ; 
-float scalar  = 100 ; // dimensionamento raggio
-float speed = 0.1 ; 
-
-void setup () {
-  size (240, 240) ;  
-  smooth () ; // antialiasing
-} //end setup
-
-void  draw  () { 
-  
-  background (255) ; 
-  
-  float x = offset + cos (angle) * scalar ; // variabilità x
-  float y = offset + sin  (angle) * scalar ; // variabilità y
-  
-  line  ( width/2, height/2,  x, y) ; 
-  
-  angle  +=  speed;
-  // angle = angle + speed ;
-} //end draw
-
-```
+Ecco il 
+[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) 
+allo sketch di riferimento 2 modificato in base alle mie necessità. Il risultato è una lancetta che ruota senza temporizzazione.
 
 [Video-riferimento-2](https://www.dropbox.com/s/z2geyfkdane875b/riferimento-2.wmv?dl=0) - "lancetta senza tempo"
 
