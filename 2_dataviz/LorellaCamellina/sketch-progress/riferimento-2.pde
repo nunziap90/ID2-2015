@@ -1,3 +1,14 @@
+//
+// © Daniele @ Fupete for the course ID2-2015 @ UnirSM
+// github.com/fupete
+// Made for educational purposes, MIT License, May 2015, San Marino
+// 
+
+/*
+ * REFERENCES
+ * 'getLineIn' - Minim library
+ */
+
 /**
   * This sketch demonstrates how to monitor the currently active audio input 
   * of the computer using an AudioInput. What you will actually 
