@@ -82,7 +82,7 @@ rappresenta originalmente
 >"_one roatating circle followed by a trail of other circles_"
 
 come ci dice il suo creatore. Io l'ho adattato alle necessità del mio caso ed ho ottenuto una specie di lancetta senza riferimento temporale. Mi interessavano qui il mix di incrementabilità dell'angolo di rotazione, l'offset di spostamento rotazionale e la gestione della velocità. Ecco il 
-[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) allo sketch modificato ed un
+[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-2-modified.pde) allo sketch modificato ed un
 [video](https://www.dropbox.com/s/z2geyfkdane875b/riferimento-2.wmv?dl=0) esplicativo sulla "lancetta senza tempo".
 
 --
@@ -96,96 +96,7 @@ si rigenera. Giocando con l'opacità del background si provoca un effetto
 confrontare ciò che ascolta/ha appena ascoltato con ciò che vede/ha appena visto, insegnadogli a leggere la grammatica 
 della rappresentazione (relazione rumore-raggio, relazione spessore raggio-intensità rumore).
 
-```
-//
-// NOISE VIBRANCY VISUALIZER
-// © Daniele @ Fupete for the course ID2-2015 @ UnirSM
-// github.com/fupete
-// Made for educational purposes, MIT License, May 2015, San Marino
-// 
-
-/*
- * VISUALIZE NOISE AROUND YOUR PC
- * Actual noise vibrancy visualization.
- * Radius length stands for intensity.
- *
- * REFERENCES
- * 'getLineIn' - Minim library
- * 'Rotating more than one offset circle' 
- * by wintersac2 - Processing Forum, Sept 2014
- * forum.processing.org/two/discussion/7163/rotating-more-than-one-offset-circle
- *
- */
-
-
-int size = 600 ;
-float angle = 0.00 ; 
-float vibrancy ; // dimensionamento raggio
-float speed = 0.1 ; // velocità
-
-import ddf.minim.* ; // richiamo la libreria
-Minim minim ;
-AudioInput in ;
-
-
-void setup () {
-
-  size (size, size) ; 
-  background(255) ;
-
-  minim = new Minim (this) ; // oggetto minim
-  in = minim.getLineIn (Minim.MONO) ; // input mono
-  fill(255,20) ; // opacità
-  smooth() ; // antialiasing
-  frameRate(60) ; // frame al secondo
-} //end setup
-
-void  draw () { 
-
-  vibrancy = map ((in.left.get(0)*5), 0.01, 5, 0, 270) ; 
-  // scalar = in.left.get(0) ;
-  
-  /*
-  raggio = in.left.get(0) ;
-   I valori audio in input 
-   sono troppo piccoli per riuscire ad esser visualizzati.
-   Moltiplicando ciò che rileva il microfono per un valore empirico (5)
-   e mappando quello stesso valore risultante
-   riesco ad ottimizzare la visualizzazione.
-   L'intento è mantenere il raggio massimo 
-   nella finestra di visualizzazione (size 600)
-   creando la giusta combinazione di valori nella mappatura.
-   */
-
-  if (frameCount % 60 == 0) { // se #frame dall'avvio/frameRate=0 allora
-
-    background(255,20) ; // rigenera output visivo (ogni sec)
-    println(in.left.get(0)) ; // e stampa input numerico (ogni sec)
-  } //end if
-  
-  strokeWeight(0); // per evitar d'usare sul rect la strokeWeight successiva
-  rect (0, 0, size, size) ; 
-
-  float x = size/2 + cos (angle) * vibrancy ; // variazione x
-  float y = size/2 + sin  (angle) * vibrancy ; // variazione y
-  float s = map (vibrancy, 0.01, 270, 0.2, 6); // variazione strokeWeight
-  s = abs(s); 
-  /* 
-   in float s
-   faccio in modo d'aver sempre un valore assoluto 
-   per evitare errori di software
-  */
-  strokeWeight(s); 
-  strokeCap(ROUND); 
-  strokeJoin(ROUND);
-
-  line (size/2, size/2, x, y); 
-
-  angle  +=  speed; // incremento dell'angolo
-  // equivalente angle = angle + speed ;
-} //end draw
-
-```
+Ecco il [link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-2-modified.pde) allo sketch sviluppato. Di seguito alcuni video sul funzionamento software:
 
 [Video-1](https://www.dropbox.com/s/8m8etar2g4v1ojk/video-1.wmv?dl=0) - sensibilità al suono - 1
 
