@@ -165,26 +165,53 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ## 29 - 30 Aprile
-###_Approfondire._
+###_Narrazione e contesto._
 
 ### 
-- presentazione e discussione **dataviz** e contesto **dataphys**
+- il brief, la location, la narrazione per il progetto d'arte
+- presentazione e discussione **dataviz** e idee **dataphys**
 
 ### Lab 6
-- librerie Processing: controlP5, ...
-- prototipi **dataviz** in Processing
-- prototipi **dataviz** in grafica
-- contesto **dataphys** 
-- propedeutica preparazione materiali per **book** finale
+- librerie Processing: controlP5.
+- code _drawingorigami2.pde_ [+](https://github.com/Fupete/drawing-tools-processing-leap-2014/blob/master/drawingorigami2/drawingorigami2.pde)
+- prototipi **dataviz** in Processing e grafica
 
 ------
 
 ###### compito/progetto
-1. finale **dataviz** in Processing (caricare pde e schermate/video)
-2. prototipo/i finale **dataviz** in grafica
+1. consegna finale **dataviz** in Processing (caricare pde e schermate/video)
+2. consegna prototipo/i finale **dataviz** in grafica
  
 
 
+
+##6 - 7 Maggio
+###_Monument._
+
+![Monument, 2006+, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
+
+- _Monument_, 2006+, Caleb Larsen [+](http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html) [+](http://caleblarsen.com/monument/)
+
+### Lab 7
+- consegna e analisi prototipi **dataviz**, in Processing e grafica
+- **dataphys**, prototipi, metodologia e obiettivi
+- _documentazione finale_: condivisione di strumenti e obiettivi
+
+------
+
+###### compito/lettura critica*
+1a. 1b.  
+2a. 2b.  
+3a. 3b.  
+4a. 4b.    
+5a. 5b.  
+6a. 6b.  
+7a. 7b.  
+
+(* _scelti dalle proprie referenze dei progetti di **dataphys**_)
+
+###### compito/progetto
+1. idee e prototipi **dataphys**
 
 
 -------
