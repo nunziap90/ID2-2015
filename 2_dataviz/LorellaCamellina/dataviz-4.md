@@ -71,44 +71,11 @@ i loro moduli e la loro reattività agli input sonori.
 A quanto pare il microfono del mio portatile è abbastanza sensibile al **rumore di fondo, al vociferio, 
 al sottofondo sonoro**, cosa che lascia ben sperare per un futuro Dataphys basato proprio su questi aspetti.
 
-```
-
-import ddf.minim.* ; // richiamo la libreria
-
-Minim minim; 
-AudioInput in ;
-
-int i ; // in print
-
-void setup() {
-
-  size(400, 400) ;
-
-  minim = new Minim(this) ; // oggetto minim
-  in = minim.getLineIn(Minim.MONO); // modalità input mono
-} // end setup
-
-void draw() {
-
-  println(in.left.get(i)); // stringa dati
-
-    background(200);
-  smooth(); // antialiasing
-  for (int i = 0; i < in.bufferSize () - 1; i++) { 
-    // non ho capito bene in.bufferSize()
-
-    // RECT - commenta ellipse o resta coperto
-    noStroke();
-    fill(255);
-    ellipse(width/2, height/2, in.left.get(i)*500, in.left.get(i)*500);
-  } // end for
-} // end draw
-
-```
+Ecco il 
+[link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) 
+allo sketch di riferimento 1 modificato in base alle mie necessità, creando la reattività al suono di una forma.
 
 [Video-riferimento-1](https://www.dropbox.com/s/x86s1vuri05dv7j/riferimento-1.wmv?dl=0) - reattività al suono di una forma.
-
---
 
 #####SKETCH RIFERIMENTO 2
 
