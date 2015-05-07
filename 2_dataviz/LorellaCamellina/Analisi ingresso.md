@@ -34,7 +34,7 @@ Nell'immagine seguente il riferimento in pianta e nella 4 delle foto di queste d
 
 _3. Individuazione planimetrica aree_
 
-![celeste](http://i.imgur.com/RA8BUk3.jpg?1) ![blu](http://i.imgur.com/SqxXw6d.jpg?3) 
+![celeste](http://i.imgur.com/fWPHeZ8.jpg?1) ![blu](http://i.imgur.com/FVR7sHA.jpg?1) 
 
 _4. Area celeste e area blu_
 
@@ -44,7 +44,7 @@ con la Città di San Marino, attualmente inesistente. A lezione la discussione s
 _landmark_ che sarebbe bene assumesse la nostra operazione artistica, ai fini di mettere in risalto collocazione e 
 presenza di una scuola di design in Città.
 
-![05](http://i.imgur.com/i5qXLZm.jpg?2)
+![05](http://i.imgur.com/Znao7xY.jpg?1)
 
 _5. Ingresso UniRSM_
 
