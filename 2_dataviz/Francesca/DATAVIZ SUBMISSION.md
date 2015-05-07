@@ -30,5 +30,5 @@ each IP can be converted in an [Identicon] (http://en.wikipedia.org/wiki/Identic
 Each representation should be imagined as in motion and it will disappear at the end of a chosen time interval, due to the elapsed time of the connection.
 In the first place, we have a screen; at the very moment a connection is generated, an Identicon will appear at center (the vision I want to convey is that Saint Marino somehow is the center of the world). This Identicon is a user which will have several connections to different internet services located in every possible part of the world. Each time, this IP, translated in an Identicon, will connect to a different server it will appear there, where the real server that host that IP is actually located, this can be solved by any IP tracer available on the web. Follows an example of what I'm trying to explain:
 
-![] ()
+[video] (https://drive.google.com/open?id=0B96gF2LFRSchb1l4N1RaOGNEMkE&authuser=0)
 
