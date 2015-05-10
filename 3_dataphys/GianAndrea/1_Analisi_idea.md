@@ -19,6 +19,9 @@
 **CANNUCCE**
 ![](https://m1.behance.net/rendition/modules/25718397/disp/8c574a26f77446bfeb9fb4834856295d.jpg)
 
+**CHIODINI QUERCETTI**
+![](http://www.ilmelograno.net/343-1553-thickbox/quercetti-0802-pixel-art-set-tutankhamon-10800-chiodini.jpg)
+
 
 
 -
