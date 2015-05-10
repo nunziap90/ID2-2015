@@ -89,6 +89,11 @@ Non è escluso che la stessa disposizione dei tubi non può essere ripresa in al
 
 [Datamatics] (http://www.ryojiikeda.com/project/datamatics/) di Roji Ikeda è un progetto in cui l'artista utilizza dei dati puri digitali come sorgente per il suono e le immagini, al fine di creare delle presentazioni astratte e mimetiche della materia virtuale.
 
+![] (http://domesticstreamers.com/wp-content/uploads/IMG_7599-copy.jpg)
+
+[Data Furniture] (https://vimeo.com/87347128) è un'installazione dinamica presentata al Haikurts Festival de Micrometratges di Barcelona, che serve per votare i film in concorso al festival. Ogni voto viene rappresentato da un volume d'acqua che riempie un serbatoio all'estremità di ogni circuito.
+
+
 ![] (http://payload118.cargocollective.com/1/7/254186/4668096/IMG_1673_o.jpg)
 
 [Chaotic Flow] (http://illutron.dk/filter/showcase/Chaotic-Flow) è un'installazione che simula il flusso del traffico ciclistico nella città di Copenaghen
