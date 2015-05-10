@@ -185,6 +185,34 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
+##6 - 7 Maggio
+###_Monument._
+
+![Monument, 2006+, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
+
+- _Monument_, 2006+, Caleb Larsen [+](http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html) [+](http://caleblarsen.com/monument/)
+
+### Lab 7
+- consegna e analisi prototipi **dataviz**, in Processing e grafica
+- **dataphys**, prototipi, metodologia e obiettivi
+- _documentazione finale_: condivisione di strumenti e obiettivi
+
+------
+
+###### compito/lettura critica*
+1a. 1b.  
+2a. 2b.  
+3a. 3b.  
+4a. 4b.    
+5a. 5b.  
+6a. 6b.  
+7a. 7b.  
+
+(* _scelti dalle proprie referenze dei progetti di **dataphys**_)
+
+###### compito/progetto
+1. idee e prototipi **dataphys**
+
 
 -------
 
