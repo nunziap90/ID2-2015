@@ -24,7 +24,7 @@
 
 [INCAMS](http://incams.jp/)
 
-[Video - 1](https://www.youtube.com/watch?v=jJfpL5QkixU) >> "Official" video
+[Video - 1](https://www.youtube.com/watch?v=jJfpL5QkixU)
 
 [Video - 2](https://www.youtube.com/watch?v=b4HtUwAkVDg)
 
