@@ -11,7 +11,7 @@ int xpos1, xpos2, xpos, ypos1, ypos2, ypos;
 int imgw = 30; //resize the width of the image
 int imgh = 30; //resize the height of the image
 
-//sets the anchor point of the images, the size of the window, recall the object PImage with function to load the file.png 
+//sets the anchor point of the images, the size of the window, recalls the object PImage with its functions to load the file.png 
 //and sets a value for the x, y coordinates of the images
 void setup() {
   imageMode(CENTER);
