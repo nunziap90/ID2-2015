@@ -28,10 +28,10 @@
 
 [Video - 2](https://www.youtube.com/watch?v=b4HtUwAkVDg)
 
-[Video - 3](https://www.youtube.com/watch?v=aB9G4ogxxm4) >> Prototype testing
+[Prototype testing - 1](https://www.youtube.com/watch?v=aB9G4ogxxm4)
 
-[Video - 4](https://www.youtube.com/watch?v=6IR8RVgcKtg) >> Prototype testing
+[Prototype testing - 2](https://www.youtube.com/watch?v=6IR8RVgcKtg)
 
-[Video - 5](https://www.youtube.com/watch?v=KIumsp6bvMs) >> Prototype testing
+[Prototype testing - 3](https://www.youtube.com/watch?v=KIumsp6bvMs)
 
 --
