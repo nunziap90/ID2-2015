@@ -81,15 +81,13 @@ Nella realtà si potrebbero sfruttare i sensori di temperatura già posizionati 
 
 #####Riferimenti
 
-Progetti
+[Weather cube - Charmcut](https://graphicjunk.wordpress.com/)
 
-https://graphicjunk.wordpress.com/
+--
 
-Sensore
+[Sensore di temperatura + Arduino](http://www.logicaprogrammabile.it/arduino-sensore-di-temperatura-tmp36/)
 
-http://www.logicaprogrammabile.it/arduino-sensore-di-temperatura-tmp36/
-
-http://playground.arduino.cc/Italiano/Sensori
+[Lettura valore di temperatura](http://playground.arduino.cc/Italiano/Sensori)
 
 ## Conclusioni
 
