@@ -20,6 +20,8 @@
 
 #####References
 
+[Yukikaze - meaning](http://en.wikipedia.org/wiki/Yukikaze)
+
 [INCAMS](http://incams.jp/)
 
 [Video - 1](https://www.youtube.com/watch?v=jJfpL5QkixU) >> "Official" video
