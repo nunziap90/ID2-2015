@@ -185,7 +185,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 
-##6-7 Maggio
+##6 - 7 Maggio
 ###_Monument._
 
 ![Monument, 2006+, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
