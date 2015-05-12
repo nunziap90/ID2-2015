@@ -2,7 +2,7 @@
 
 #####What it is
 
-
+![hover](http://i.imgur.com/qmUS1ZI.jpg?1)
 
 #####What it could mean
 
@@ -20,7 +20,7 @@
 
 #####References
 
-[Hover -  VV.AA.](http://www.claudiaciarpella.com/portfolio/hover/)
+[Hover -  VV.AA.](http://ciid.dk/education/portfolio/idp14/courses/enchanted-objects/projects/hover/)
 
 --
 
