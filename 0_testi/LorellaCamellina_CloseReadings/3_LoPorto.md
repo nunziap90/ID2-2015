@@ -72,3 +72,6 @@ Immagino l'installazione come un qualcosa che accolga, rassicuri e doni serenit√
 
 [Think - Jane Ro](http://www.janeujro.com/IBM-THINK)
 
+[Ad lib - Michele Spanghero](http://www.michelespanghero.com/works/ad-lib/)
+
+
