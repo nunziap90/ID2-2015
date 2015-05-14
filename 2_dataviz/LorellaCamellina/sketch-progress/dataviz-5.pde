@@ -19,6 +19,7 @@
  * 'Rotating more than one offset circle' 
  * by wintersac2 - Processing Forum, Sept 2014
  * forum.processing.org/two/discussion/7163/rotating-more-than-one-offset-circle
+ * Special thanks to Giuseppe D'Ambrosio
  *
  */
 
@@ -50,10 +51,9 @@ void setup() {
 
 void draw() {
   inc++; // variabile di incremento
-  
+
   // COMPORTAMENTO 
   if (inc==60) { 
-    // 60 sono i frame al secondo
 
     print(" VOLUME = ");
     println(in.right.level()); // stampo i valori del VOL
@@ -92,22 +92,18 @@ void draw() {
        */
 
       // AGGIORNAMENTO VISUALIZZAZIONE OGNI 60"
-      /*if (millis()>tempo+60000) {
-        tempo=millis();
-        background(255);
+      //if (millis()>tempo+60000) {
+      // tempo=millis();
+      //  background(255);
       /* 
        se sono passati 60 millis dal lancio dello sketch
        allora cancella e riparti
-       */ 
-      } // end if incremento
-      
-    } 
-    
-    if(angle==PI*2){
-     background(255);
-     angle=-HALF_PI;
-    } // end if incremento
-    
-  } // end if comportamento
-  
-// } // end draw
+       */
+    } // end if rigenera
+    if (angle==radians(360)) {
+      background(255);
+      angle=radians(0);
+    } // end if millis
+  } // end if incremento
+} // end if comportamento
+
