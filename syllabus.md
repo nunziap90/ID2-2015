@@ -200,7 +200,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ------
 
 ###### compito/lettura critica*
-1a. 1b.  
+1a. Yukikaze, 2007, INCAMS - 1b. Hover, 2014, VV.AA.   
 2a. 2b.  
 3a. 3b.  
 4a. 4b.    
