@@ -12,7 +12,15 @@
 
 #####Keywords
 
+Vibrancy
+Presence
+Ground noise
 
+Movement
+Changeability
+Flow
+
+Glance
 
 ---
 
