@@ -37,16 +37,10 @@ Glance
 #####References
 
 
-[Yukikaze - INCAMS](https://www.youtube.com/watch?v=jJfpL5QkixU) 
-- [Link](https://github.com/LoreCame/ID2-2015/blob/master/0_testi/LorellaCamellina_CloseReadings/4-reference-1.md) 
-to close reading
+[Yukikaze - INCAMS](https://www.youtube.com/watch?v=jJfpL5QkixU) - [Link](https://github.com/LoreCame/ID2-2015/blob/master/0_testi/LorellaCamellina_CloseReadings/4-reference-1.md) to close reading
 
-[Hover - VV.AA.](http://ciid.dk/education/portfolio/idp14/courses/enchanted-objects/projects/hover/) 
-- [Link](https://github.com/LoreCame/ID2-2015/blob/master/0_testi/LorellaCamellina_CloseReadings/4-reference-2.md) 
-- to close reading
+[Hover - VV.AA.](http://ciid.dk/education/portfolio/idp14/courses/enchanted-objects/projects/hover/) - [Link](https://github.com/LoreCame/ID2-2015/blob/master/0_testi/LorellaCamellina_CloseReadings/4-reference-2.md) to close reading
 
-[Microsonic landscapes - Realität](http://www.realitat.com/2013/selected_work.php?lang=ing&nick=8256&tit=MICROSONIC%20LANDSCAPES) 
-- [Link](https://github.com/LoreCame/ID2-2015/blob/master/0_testi/LorellaCamellina_CloseReadings/4-reference-3.md) 
-- to close reading
+[Microsonic landscapes - Realität](http://www.realitat.com/2013/selected_work.php?lang=ing&nick=8256&tit=MICROSONIC%20LANDSCAPES) - [Link](https://github.com/LoreCame/ID2-2015/blob/master/0_testi/LorellaCamellina_CloseReadings/4-reference-3.md) to close reading
 
 --
