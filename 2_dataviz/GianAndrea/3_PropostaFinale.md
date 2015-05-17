@@ -85,6 +85,9 @@ Non è escluso che la stessa disposizione dei tubi non può essere ripresa in al
 
 [Words of a Middle Man](https://incom.org/projekt/2364) è un progetto che racconta ciò che noi svolgiamo attraverso la rete, e cerca di comunicarcelo in modo comprensibile e più naturale possibile. L'opera rende visibile il rapporto con la rete e come in qualche modo lo usiamo, essendo quest'ultima la schematizzatrice delle nostre attività.
 
+![](https://i.vimeocdn.com/video/144686245_640.jpg)
+[Bit.Flow] (https://vimeo.com/22390871 ) è un progetto che attraverso la reinterpretazione del concetto mitologico e filosofico del labirinto e del filo di Arianna, lavora sul contrasto tra il caos e ordine, in particolare tra la complessa interazione dell'ordine nel caos e il caos nell'ordine. Infatti l'opera cerca di descrivere il mondo moderno, oggi non comprensibile attraverso la linearità dell'ordine, attraverso l'alternanza caotica di una mole di elementi. Questo grande sciame di bit d'informazione, un po' come la caoticità del mondo informatico, possono essere ordinati in ordinde ma essere percepiti soltanto in alcuni luoghi dell'installazione.
+
 ![](http://www.aec.at/humannature/wp-content/files/2009/07/MG_5342.jpg)
 
 [Datamatics] (http://www.ryojiikeda.com/project/datamatics/) di Roji Ikeda è un progetto in cui l'artista utilizza dei dati puri digitali come sorgente per il suono e le immagini, al fine di creare delle presentazioni astratte e mimetiche della materia virtuale.
