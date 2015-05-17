@@ -42,6 +42,7 @@ L'opera utilizza dei dati derivanti da basi scientifiche o digitali come il Dna 
 -
 
 **Referenze**
+
 ![](https://i.vimeocdn.com/video/144686245_640.jpg)
 
 - Accosto il progetto di [Bit.Flow] (https://vimeo.com/22390871 ) perchè è un progetto che si basa sulla percezione di dati. Esso reinterpreta la filosofia mitologica del filo di Arianna, sulla base di grandi quantità d'informazione che permeano la società moderna. L'opera lavora sul contrasto tra il caos e ordine, in particolare sulla sulla descrizione del mondo moderno, attraverso l'alternanza caotica di moli di bit d'informazione possono essere percepiti solo se riordinati assieme.
