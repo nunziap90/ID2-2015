@@ -14,7 +14,7 @@ https://vimeo.com/22390871
 
 ![](http://data.tomonaga.webfactional.com/static/ri_web/work/datamatics-datatron_3sxga.jpg)
 
-L'opera presentata è un insieme di più progetti a lungo-termine, che si compongono in esibizioni live, installazioni, libri e CD. L'artista cerca di utilizzare dei dati puri, matematici per ottenere da questi ultimi delle opere audiovisive. Egli cerca di dare una propria interpretazione dei dati digitali per ricreare delle rappresentazioni astratte attraverso dei linguaggi caratteristici dell'informatica (come il codice binario e colori monocromatici), e attraverso spazi virtuali, sia bidimensionali, che tridimensionali.
+L'opera presentata è un insieme di più progetti a lungo-termine, che si compongono in esibizioni live, installazioni, libri e CD. L'artista cerca di utilizzare dei dati puri, schematici e matematici per ottenere da questi ultimi delle opere audiovisive. Egli cerca di dare una propria interpretazione ai dati digitali per ricreare delle rappresentazioni astratte, attraverso dei linguaggi caratteristici dell'informatica (come il codice binario, numeri, e colori monocromatici), e attraverso spazi virtuali, sia bidimensionali, che tridimensionali.
 
 -
 
@@ -22,7 +22,7 @@ L'opera presentata è un insieme di più progetti a lungo-termine, che si compon
 
 ![](http://data.tomonaga.webfactional.com/static/ri_web/work/datatecture_5_sxga_version_01.jpg)
 
-L'opera cerca di dare forma al dato puro e semplice attraverso rappresentazioni astratte e mimetiche della materia. Datamatics cerca di dare una forma all'invisibile, di dare un'interpretazione allo spazio digitale e soprattutto di rendere una giusta e appropriata identità al codice digitale e al suo linguaggio. Tutto il lavoro esplora le potenzialità di percepire la multi sostanza dei dati invisibili, nascosti, che invade il nostro mondo in modo da restituire al pubblico un'esperienza sensoriale di questo spazio astratto, cercando di immergere le persone tramite il copro, l'udito e la vista. 
+L'opera cerca di dare forma al dato puro e semplice, all'ordine, alla matematica, attraverso rappresentazioni astratte e mimetiche della materia. Datamatics cerca di dare una forma all'invisibile, di dare un'interpretazione allo spazio digitale e soprattutto di rendere una giusta e appropriata identità al codice digitale e al suo linguaggio. Tutto il lavoro esplora le potenzialità di percepire la multi sostanza dei dati invisibili, nascosti, che invade il nostro mondo in modo da restituire al pubblico un'esperienza sensoriale di questo spazio astratto, cercando di immergere le persone tramite il copro, l'udito e la vista. Datamatics, è una sorta di esplorazione al mondo dell'ordine e del caos, dove semplici regole matematiche, numeri logici, si riuniscono per riprodurre un vasto, caotico ed infinito spazio virtuale. L'esperienza si traduce poi nel raccontare la vita di questo secondo mondo in modo altrettanto suggestivo attraverso suoni astratti che ne identificano la natura contrapposta al mondo reale. L'obiettivo è quello di farti vivere l'infinito mondo dei dati e quello di farti coinvolgere emotivamente e fisicamente all'interno di questo spazio astratto che convine vicino a noi. 
 
 
 ***e se . . .***
@@ -37,7 +37,7 @@ aaa
 
 ![](https://camo.githubusercontent.com/d0dc5d490183a6b30d371f3aa21228a109080754/687474703a2f2f7777772e6165632e61742f68756d616e6e61747572652f77702d636f6e74656e742f66696c65732f323030392f30372f4d475f353334322e6a7067)
 
-L'opera utilizza dei dati derivanti da una sorgente informatica. Attraverso l'interpretazione e la traduzione di queste informazioni, l'installazione riproduce un insieme di rappresentazioni astratte tramite proiezioni, e delle tracce audio ricostruite con un sintetizzatore digitale. Per la nuova versione del progetto, invece l'autore ricalcola e scansionda dei dati delle opere già esistenti per creare una nuova sequenza estesa che cerca di ottenere un'ulteriore astrazione del lavoro originale.
+L'opera utilizza dei dati derivanti da basi scientifiche o digitali come il Dna del genoma umano, coordinate astronomiche delle stelle e dell'universo, strutture molecolari e codici base di softare. Attraverso la concezione di decostruire e ricomporre i dati originali, l'installazione intrepreta le informazioni e riproduce un insieme di rappresentazioni astratte tramite dei proiettori, e delle tracce audio ricostruite con un sintetizzatore artificiale digitale. Nello sviluppo di nuove versioni del progetto, inoltre l'autore ricalcola e scansionda dei dati, in tempo reale, delle opere già esistenti per creare una nuova sequenza estesa che cerca di ottenere un'ulteriore astrazione del lavoro originale.
 
 -
 
