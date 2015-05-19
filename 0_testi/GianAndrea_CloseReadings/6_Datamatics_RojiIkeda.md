@@ -4,10 +4,6 @@
 ![](http://data.tomonaga.webfactional.com/static/ri_web/work/datapath2.jpg)
 ![](http://data.tomonaga.webfactional.com/static/ri_web/work/datamatics-datatron_8k-2.jpg)
 
-http://www.creativeapplications.net/arduino-2/cuckoo-encrypted-communication-using-public-social-networks/
-https://vimeo.com/22430387
-https://vimeo.com/22390871 
-
 -
 
 **Cosa è?**
@@ -27,9 +23,22 @@ L'opera cerca di dare forma al dato puro e semplice, all'ordine, alla matematica
 
 ***e se . . .***
 
-*Se l'artista avesse creato un'installazione delle sue opere in un formato tangibile? aaa
+*Se l'artista avesse creato un'installazione delle sue opere in un formato tangibile?* 
+Le opere che l'artista crea, dalla musica alle animazioni, sono tutte in formato virtuale. La loro riproduzione nella realtà si manifesta sempre e comunque attraverso dei dispositivi elettronici che non ne la traducono in una vera e propria tangibilità materiale. Le uniche cose che rimangono concrete sono le pubblicazioni cartacee o delle raffigurazioni statiche su pannelli metallici. Forse un'ulteriore fase di questo progetto potrebbe essere il fatto di entrare davvero in contatto con la realtà.
 
-aaa
+![](https://i.vimeocdn.com/video/144977123_1280x640.jpg)
+
+[Bit.Code](https://vimeo.com/22430387) può essere un esempio di ciò che potrebbe essere il risultato in forma tangibile. Quest'ultima opera, con lo stesso principio del codice, analizza piccole unità di informazioni per creare svariate forme di combinazione numerica dei dati. Il concetto è quello di giocare sulla caoticità e dinamicità dei dati e sulla loro comprensione solo in svariati momento di calma e ordine.
+
+*Cosa accadrebbe se dietro al codice utilizzato per creare queste opere ci fossero dei messaggi comprensibili?*
+
+![] (http://ciid.dk/root_ciidwww/wp-content/uploads/2012/08/09_lamp_at_workshop.jpg)
+
+Il progetto [#CPHsignals] (http://ciid.dk/education/portfolio/idp12/courses/systems-layers/projects/cphsignals/)  è un esempio di traduzione dei messaggi linguistici in codice morse. L'installazione è stata creata per ricevere o inviare messaggi da una parte all'altra di una riva attraverso sengnali luminosi in formato morse. In questo caso apparenti segnali incomprensibili celano un messaggio di comunicazione. 
+
+![](http://jochenmariaweber.de/cuckoo/images/scheme_low.jpg)
+
+[Cuckoo](http://jochenmariaweber.de/cuckoo/cuckoo.html)
 
 -
 
