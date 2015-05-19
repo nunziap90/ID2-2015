@@ -1,4 +1,4 @@
-# The Kinetic Facade of the MegaFaces Pavilion aka Mount Rushmore of the digital age
+# The MegaFaces Kinetic Facade aka Mount Rushmore of the digital age
 ##@Sochi 2014 Winter Olympics
 By Asif Khan and iart
 
