@@ -1,12 +1,13 @@
-# The MegaFaces Kinetic Facade aka Mount Rushmore of the digital age
+# The MegaFaces Kinetic Facade 
+##aka Mount Rushmore of the digital age
 ##@Sochi 2014 Winter Olympics
 By Asif Khan and iart
 
 ![](http://www.asif-khan.com/wordpress/wp-content/uploads/2013/04/AsifKhan_Megafaces_ScottEaton-765x1280.jpg) 
 
-###What is it?
 ![](http://iart.ch/documents/10176/78703/Asif+Khan_Megafon_Sochi_HuftonCrow_014_B.jpg/2f34f36b-e36a-4581-806b-4ab034394b6f?t=1392389645401)
 
+###What is it?
 #####Authors' description
 MegaFaces is a cross-platform project that combines digital, sculptural and architectural innovation. It was conceived by London architect Asif Khan and engineered by iart for the Sochi 2014 Winter Olympics and Paralympics. The project was commissioned by the Russian telecom operator MegaFon.
 Similar to a pin screen, the kinetic facade of the MegaFaces Pavilion was able to transform in three dimensions to recreate human faces. It displayed giant 3d-selfies of visitors to the building and sports fans from all over Russia and thus, gave everyone the opportunity to be the face of the Olympics. True to MegaFon's campaign: 'Create your own Olympic history'.
