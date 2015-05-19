@@ -38,7 +38,7 @@ Il progetto [#CPHsignals] (http://ciid.dk/education/portfolio/idp12/courses/syst
 
 ![](http://jochenmariaweber.de/cuckoo/images/scheme_low.jpg)
 
-[Cuckoo](http://jochenmariaweber.de/cuckoo/cuckoo.html)
+Anche l'opera intitolata [Cuckoo](http://jochenmariaweber.de/cuckoo/cuckoo.html) è un progetto che dall'ordine crea informazioni casuali che alla fine si riconducono ad una forma di ordine comprensibile di linguaggio. 
 
 -
 
