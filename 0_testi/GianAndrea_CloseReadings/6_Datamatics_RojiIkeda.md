@@ -30,7 +30,7 @@ Le opere che l'artista crea, dalla musica alle animazioni, sono tutte in formato
 
 [Bit.Code](https://vimeo.com/22430387) può essere un esempio di ciò che potrebbe essere il risultato in forma tangibile. Quest'ultima opera, con lo stesso principio del codice, analizza piccole unità di informazioni per creare svariate forme di combinazione numerica dei dati. Il concetto è quello di giocare sulla caoticità e dinamicità dei dati e sulla loro comprensione solo in svariati momento di calma e ordine.
 
-*Cosa accadrebbe se dietro al codice utilizzato per creare queste opere ci fossero dei messaggi comprensibili?*
+*Cosa accadrebbe se dietro al codice utilizzato per creare queste opere ci fossero dei messaggi comprensibili?* Potrebbe essere interessante l'azione diretta e partecipativa delle persone. Sarebbe un modo in cui i fruitori dell'esperienza sono anche coloro che ne creano il momento di interazione.
 
 ![] (http://ciid.dk/root_ciidwww/wp-content/uploads/2012/08/09_lamp_at_workshop.jpg)
 
@@ -38,7 +38,7 @@ Il progetto [#CPHsignals] (http://ciid.dk/education/portfolio/idp12/courses/syst
 
 ![](http://jochenmariaweber.de/cuckoo/images/scheme_low.jpg)
 
-Anche l'opera intitolata [Cuckoo](http://jochenmariaweber.de/cuckoo/cuckoo.html) è un progetto che dall'ordine crea informazioni casuali che alla fine si riconducono ad una forma di ordine comprensibile di linguaggio. 
+Anche l'opera intitolata [Cuckoo](http://jochenmariaweber.de/cuckoo/cuckoo.html) è un progetto che dall'ordine crea informazioni casuali che alla fine si riconducono alla forma iniziale di linguaggio comprensibile. In questo caso si utilizzano dei mezzi di decriptazione dei messaggi per nascondere il contenuto e renderlo comprensibile solo a coloro cui è rivolto il messaggio. 
 
 -
 
