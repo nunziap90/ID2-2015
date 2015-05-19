@@ -369,7 +369,7 @@ void parse_G_Spreadsheet_JSON(JSONObject jdata) {
 
 
 
-    /** start patched function **/
+    /** starts patched function **/
 
     // String used to process the json
     String str = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -400,7 +400,7 @@ void parse_G_Spreadsheet_JSON(JSONObject jdata) {
 } 
 
 ////// LOAD_IPGEOCODE //////
-// utilizza le api del sito telize.com per ricavare le informazioni geografiche dagli ip
+// recalls the API from telize.com and geolocates the destination IP
 
 JSONObject geocode;
 
@@ -423,7 +423,7 @@ float IPlatitude(String date) {
 float pixelX= 0;
 float pixelY= 0;
 
-// converte coordinate in pixel
+// translates coordinates into pixels
 public float geoToPixelX(float lon)
 {
   if (lon>0)
