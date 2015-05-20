@@ -5,7 +5,7 @@
 Vibrancy is an artistic tool, which aims to visually tell the vitality of a physical space. The place we are talking about is much more than a mere building. It is an historical convent hosting a brand new design school, in the heart of San Marino Città. Vibrancy detects noise level and expresses it as a continuous dynamic flow of material. Perfect image of our daily academic life: always on the move.
 
 
-#####Emotional image
+#####Emotional images
 
 ![emotional image1](http://i.imgur.com/QaYZQav.jpg?1)
 ![emotional image2](http://i.imgur.com/dlvp8zj.jpg?2)
