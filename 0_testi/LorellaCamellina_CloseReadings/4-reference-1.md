@@ -29,7 +29,7 @@ Below, the two most interesting chat between the author and YouTube users.
 
 Anyhow, always reading the comments mentioned above, I encountered lots of disappointment in not being able to take a look at a coding reference. I assume it is not easy to get a result like Yukikaze, talking about sound frequences. It all ends up instilling the doubt: is it really doing what the title of a YouTube video suggests or not?
 
-#####What if . . .
+#####What if
 
 This meaningless installation leads to no needs of parallelism. It is what it is, as Susan Sontag says. We have to take it for what it is. It is a sound visualization allowed by nowadays technology mixed to a sensible soul. 
 
