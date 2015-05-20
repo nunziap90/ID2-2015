@@ -46,7 +46,7 @@ Immagino sarà necessario posizionarne uno per ogni luogo indicato  ne lla tabel
 
 #####Riferimenti
 
-[Hover - Claudia Ciarpella](http://www.claudiaciarpella.com/portfolio/hover/)
+[Hover - VV.AA.](http://www.claudiaciarpella.com/portfolio/hover/)
 
 [Yukikaze - INCAMS](https://www.youtube.com/watch?v=jJfpL5QkixU)
 
