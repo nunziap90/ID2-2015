@@ -12,7 +12,7 @@ This means we may need more ground noise to stay focused. That's what Hover is f
 
 #####What it could mean
 
-I had never thought about how a device like this could be useful. It reveals the importance of background noise while working. I see Hover as a tool in line with nowadays working practices. We must be used to work in team, mandatory. It is not unusual to be asked to work in open spaces (even though the real ultimate tendence is in opposition). More and more often there is no even a real office, work takes place on our digital desktop and who cares where we are. The same goes for school.
+I had never thought about how much a device like this could be useful. It reveals the importance of background noise while working. I see Hover as a tool in line with nowadays working practices. We must be used to work in team, mandatory. It is not unusual to be asked to work in open spaces (even though latest tendencies are in opposition). More and more often there is not even an office, work takes place on our digital desktop and who cares where we are. The same goes for school.
 
 #####How it works
 
@@ -24,7 +24,7 @@ Second element is a white noise generator to increase the overall sound level.
 
 #####What if . . .
 
-Hover could became a default element of a stereo system in open spaces. It would be nice to make it open source and spread it everywhere. It would be interesting to have a constat feedback on noise.
+Hover could became a default element of a stereo system in open spaces. It would also be interesting to have a constant feedback on noise flow in a school. Let's imagine Hover role in a classroom. It would be easy to make it open source and spread it everywhere.
 
 --
 
