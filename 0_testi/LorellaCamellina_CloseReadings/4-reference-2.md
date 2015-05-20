@@ -22,7 +22,7 @@ Hover features two elements. First one:
 
 Second element is a white noise generator to increase the overall sound level.
 
-#####What if . . .
+#####What if
 
 Hover could became a default element of a stereo system in open spaces. It would also be interesting to have a constant feedback on noise flow in a school. Let's imagine Hover role in a classroom. It would be easy to make it open source and spread it everywhere.
 
