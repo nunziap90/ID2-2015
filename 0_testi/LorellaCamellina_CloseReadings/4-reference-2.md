@@ -4,7 +4,7 @@
 
 ![hover](http://i.imgur.com/qmUS1ZI.jpg?1)
 
-I never really thought about how a device like this could be usefull. It reveals the importance of background noise while working. Basically, ground noise, within certain terms, helps keeping attention high. On the other hand, we need a volume level that preserves our concentration. The perfect solution can be achieved working on the relation between general sound level and distracting noises levels. Using CIID's words:
+Basically, ground noise, within certain terms, helps keeping attention high. On the other hand, we need a volume level that preserves our concentration. The perfect solution can be achieved working on the relation between general sound level and distracting noises levels. Using CIID's words:
 
 > _"distracting noises are not loud on an absolute scale, they are loud relative to the average sound level. If that level is increased, undesirable sounds have to be much louder for them to be distracting"_
 
@@ -12,11 +12,15 @@ This means we may need more ground noise to stay focused. That's what Hover is f
 
 #####What it could mean
 
-I see Hover as a tool in line with nowadays working practices. We must be used to work in team, mandatory. It is not unusual to be asked to work in open spaces (even though the real ultimate tendence is in opposition). More and more often there is no even a real office, work takes place on our digital desktop and who cares where we are. The same goes for school.
+I had never thought about how a device like this could be useful. It reveals the importance of background noise while working. I see Hover as a tool in line with nowadays working practices. We must be used to work in team, mandatory. It is not unusual to be asked to work in open spaces (even though the real ultimate tendence is in opposition). More and more often there is no even a real office, work takes place on our digital desktop and who cares where we are. The same goes for school.
 
 #####How it works
 
-Hover has two elements. First one is to visualize volume level. A mic detects noise and tur
+Hover features two elements. First one:
+
+> _"features a transparent tube that contains a ball that levitates inside it. It uses a microphone to detect the general sound level of a room. The louder the room gets, the higher the balls levitates. The people around it need to be quieter for the ball to be lower. If the sound reaches a certain threshold, the ball flies out of the tube"._
+
+Second element is a white noise generator to increase the overall sound level.
 
 #####What if . . .
 
@@ -27,6 +31,5 @@ Hover could became a default element of a stereo system in open spaces. It would
 #####References
 
 [Hover -  VV.AA.](http://ciid.dk/education/portfolio/idp14/courses/enchanted-objects/projects/hover/)
-
 
 
