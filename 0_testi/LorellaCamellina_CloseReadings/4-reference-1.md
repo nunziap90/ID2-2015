@@ -23,6 +23,8 @@ Below, the two most interesting chat between the author and YouTube users.
 
 ![1](http://i.imgur.com/dmZESMP.jpg?3)
 
+
+
 ![2](http://i.imgur.com/ywMfZXD.jpg?3)
 
 Anyhow, always reading the comments mentioned above, I encountered lots of disappointment in not being able to take a look at a coding reference. I assume it is not easy to get a result like Yukikaze, talking about sound frequences. It all ends up instilling the doubt: is it really doing what the title of a YouTube video suggests or not?
