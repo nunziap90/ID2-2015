@@ -35,7 +35,7 @@ This meaningless installation leads to no needs of parallelism. It is what it is
 
 It would be interesting to see the behaviour of the installation with a more rhythmically melody. It would be easier to understand how it all works, as it would be showing another significant interval of response of the fans involved. Comparing the two situations we should understand a bit more about the programming.
 
----
+--
 
 #####References
 
