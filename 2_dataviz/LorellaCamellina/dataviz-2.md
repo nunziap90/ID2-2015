@@ -44,7 +44,7 @@ da approfondire. Lo step successivo riguarderà il come attuare concretamente la
 
 [Yukikaze - 3](https://www.youtube.com/watch?v=aB9G4ogxxm4)
 
-[Claudia Ciarpella - Hover](http://www.claudiaciarpella.com/portfolio/hover/) >> noise
+[Hover - VV.AA.](http://ciid.dk/education/portfolio/idp14/courses/enchanted-objects/projects/hover/) >> noise
 
 
 -
