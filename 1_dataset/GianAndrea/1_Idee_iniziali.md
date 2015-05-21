@@ -1,4 +1,4 @@
-# Idee
+# Idee iniziali
 
 ### Network Relationship
 Visualizzare effettivamente quanto viene comunicata l'università al di fuori delle mura della sede,

@@ -85,3 +85,12 @@ void  draw () {
   angle  +=  speed; // incremento dell'angolo
   // equivalente angle = angle + speed ;
 } //end draw
+
+/*
+
+Giuseppe mi ha fatto giustamente notare che l'input in.left.get(0) fornisce valori di frequenze 
+e non quelli del volume a cui io puntavo concettualmente. 
+Corretto questo, sto aggiornando il codice per arrivare alla visualizzazione proposta in Dataviz-4. 
+L'aggiornamento sarà il file dataviz-5.pde.
+
+*/

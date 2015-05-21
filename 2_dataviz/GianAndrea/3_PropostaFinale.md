@@ -13,7 +13,7 @@ Il progetto vuole raccontare al pubblico l'identità dell'università attraverso
 
 Lo scopo è quello di renderci conto della grande quantità di dati che produciamo, muoviamo o analizziamo durante il giorno in questo secondo spazio astratto, ma che non percepiamo affatto. Le azioni che svolgiamo su questo livello producono infatti dei dati esistenti (perchè registrati dal server universitario), ma che tuttavia rimangono invisibili a chi ne entra in contatto. L'opera vuole raccontare ciò che si nasconde dietro questi dati e di raccontare la loro umanità, ovvero il corpo che ne crea l'esistenza. Grazie alla loro rappresentazione, si può ricreare un flusso tangibile che esprima l'anima universitaria. Ogni gesto ed ogni scelta personale, lascia una traccia che agisce direttamente sulla trasformazione visiva dell'opera. Ognuno di noi è chiamato a costruirne il flusso agendo sull'artefatto attraverso l'utilizzo della rete informatica. Con ciò, il progetto diventa la rappresentazione digitale dell'ateneo in questo secondo spazio che si manifesta nella realtà. 
 
-Il progetto mira anche al racconto del nostro rapporto sociale attraverso la rete informatica. Internet è anche un modo per esprimere la nostra interazione con la cultura digitale contemporanea, con la quale ne siamo quotidianamente ad ampio contatto. Ogni giorno ci ritroviamo sul web, a sfruttare i suoi spazi e ad entrare in contatto con altre persone anch'esse connesse alla rete. L'essere all'interno di essa fa riflettere la nostra personalità in questo spazio pubblico che può essere comunicata in rapporto con gli atri utenti. La comunicazione può essere ed è immensa, sempre presente intorno a noi, la quale cambia il nostro comportamento con le altre persone. Assieme si plasma questo spazio, si creano informazioni e se ne scambiano i contenuti. Rendere percepibile il mondo virtuale, è considerare il riflesso della nostra società reale in questo secondo livello astratto. L'insieme dei dati dunque prende in considerazione le azioni svolte nelle categorie delle applicazioni sociali, e mette in luce i molteplici scambi di relazione tra le persone in base ai principali canali di condivisione. L'opera quindi diventa una risposta visiva al contenuto, alla grandezza, e all'immediatezza della comunicazione virtuale che ogni giorno si crea in università, rendendo tangibili interazioni invisibili.
+Il progetto mira anche al racconto del nostro rapporto sociale attraverso la rete informatica. Internet è anche un modo per esprimere la nostra interazione con la cultura digitale contemporanea, con la quale ne siamo quotidianamente ad ampio contatto. Ogni giorno ci ritroviamo sul web, a sfruttare i suoi spazi e ad entrare in contatto con altre persone anch'esse connesse alla rete. L'essere all'interno di essa fa riflettere la nostra personalità in questo spazio pubblico che può essere comunicata in rapporto con gli atri utenti. La comunicazione può essere ed è immensa, sempre presente intorno a noi, la quale cambia il nostro comportamento con le altre persone. Assieme si plasma questo spazio, si creano informazioni e se ne scambiano i contenuti. Rendere percepibile il mondo virtuale, è considerare il riflesso della nostra società reale in questo secondo livello astratto. L'insieme dei dati dunque prende in considerazione le azioni svolte nelle categorie delle applicazioni sociali, e mette in luce i molteplici scambi di relazione tra le persone in base ai principali canali di condivisione. L'opera quindi diventa una risposta visiva al contenuto, alla grandezza, e all'immediatezza della comunicazione virtuale che ogni giorno si crea in università, rendendo tangibili interazioni invisibili. Non solo: la rappresentazione della partecipazione ed interazione da parte degli utenti, che caratterizza l'opera, non è altro che la riflessione della caratteristica principale del mondo culturale della comunicazione di massa dei nuovi media.
 
 -
 
@@ -85,9 +85,17 @@ Non è escluso che la stessa disposizione dei tubi non può essere ripresa in al
 
 [Words of a Middle Man](https://incom.org/projekt/2364) è un progetto che racconta ciò che noi svolgiamo attraverso la rete, e cerca di comunicarcelo in modo comprensibile e più naturale possibile. L'opera rende visibile il rapporto con la rete e come in qualche modo lo usiamo, essendo quest'ultima la schematizzatrice delle nostre attività.
 
+![](https://i.vimeocdn.com/video/144686245_640.jpg)
+[Bit.Flow] (https://vimeo.com/22390871 ) è un progetto che attraverso la reinterpretazione del concetto mitologico e filosofico del labirinto e del filo di Arianna, lavora sul contrasto tra il caos e ordine, in particolare tra la complessa interazione dell'ordine nel caos e il caos nell'ordine. Infatti l'opera cerca di descrivere il mondo moderno, oggi non comprensibile attraverso la linearità dell'ordine, attraverso l'alternanza caotica di una mole di elementi. Questo grande sciame di bit d'informazione, un po' come la caoticità del mondo informatico, possono essere ordinati in ordinde ma essere percepiti soltanto in alcuni luoghi dell'installazione.
+
 ![](http://www.aec.at/humannature/wp-content/files/2009/07/MG_5342.jpg)
 
 [Datamatics] (http://www.ryojiikeda.com/project/datamatics/) di Roji Ikeda è un progetto in cui l'artista utilizza dei dati puri digitali come sorgente per il suono e le immagini, al fine di creare delle presentazioni astratte e mimetiche della materia virtuale.
+
+![] (http://domesticstreamers.com/wp-content/uploads/IMG_7599-copy.jpg)
+
+[Data Furniture] (https://vimeo.com/87347128) è un'installazione dinamica presentata al Haikurts Festival de Micrometratges di Barcelona, che serve per votare i film in concorso al festival. Ogni voto viene rappresentato da un volume d'acqua che riempie un serbatoio all'estremità di ogni circuito.
+
 
 ![] (http://payload118.cargocollective.com/1/7/254186/4668096/IMG_1673_o.jpg)
 
@@ -119,7 +127,6 @@ Non è escluso che la stessa disposizione dei tubi non può essere ripresa in al
 // Utilizzo dei dati per una rappresentazione a celle
 // —
 
-
 import controlP5.*;
 ControlP5 cp5;
 int timer = 100;
@@ -130,11 +137,17 @@ StringList B_values = new StringList(); // < column B, strings, names
 String titolo[]; //titoli orario [title]
 String griglia[][]; // valori cateogrie  [column][row]
 
+String[] nomi = { 
+  "facebook", "twitter", "instagram", "google+", "linkedin", "disqus", "pinterest", " tumblr", "whatsapp", "skype", "facetime", "dropbox", "wetransfer", "bittorrent", "outlook", "gmail", "spotify", "itunes", "vimeo", "youtube", " "
+};
+int ynomi=0;
+
 int tempo=0;
 int dato=0;
 int datoDopo=1;
 boolean parola=false;
 int leggi=0;
+
 int title=0;
 int column=0;
 int row=0;
@@ -143,8 +156,9 @@ int orario=0;
 int categoria=0;
 int lettura=0;
 boolean vero=true;
+boolean fb=true;
 
-
+ArrayList celletta;
 
 //SETUP==========================================================================
 
@@ -156,9 +170,9 @@ void setup() {
 
   cp5 = new ControlP5(this);
   cp5.addSlider("timer")
-    .setPosition(500, 800)
+    .setPosition(520, 800)
       .setWidth(400)
-        .setRange(1000, 5000) // values can range from big to small as well
+        .setRange(100, 1000) // values can range from big to small as well
           .setValue(1000)
             .setNumberOfTickMarks(5)
               .setSliderMode(Slider.FLEXIBLE)
@@ -167,16 +181,16 @@ void setup() {
   // by default it is Slider.FIX
 
   // load&parse data
-  String url = "https://spreadsheets.google.com/feeds/cells/*NOME_DEL_TUO_FILE*/od6/public/basic?alt=json"; // < the spreadsheet must be published and available to a public url.
+  String url = "data.json"; // < the spreadsheet must be published and available to a public url.
   load_G_Spreadsheet(url);
 
   //creo nuova griglia
-  titolo= new String[B_values.size()];
-  griglia= new String[D_values.size()][D_values.size()]; // lines  [column][row]
+  titolo= new String[1555];
+  griglia= new String[1555][150]; // lines  [column][row]
 
     //inserisco valori nella mia nuova griglia
   titolo[title] = B_values.get(dato);
-  griglia[column][row]= D_values.get(dato);
+  griglia[column][row] = D_values.get(dato);
 
   //leggo il file di google dartendo dai valori "1"
   for (int foglio=0; foglio<B_values.size ()-1; foglio++) {
@@ -203,14 +217,17 @@ void setup() {
     } //chiudo if della colonna "B"
     else if ( B_values.get(datoDopo) != B_values.get(dato) ) {
 
+      //stampo i dati diversi da quelli precedenti
       //cambio colonna dei titoli
+
       title++;
       titolo[title] = B_values.get(datoDopo);
-
       //cambio colonna e inizio a riempire le righe dei nuovi valori
+
       column++;
       row=0;
       griglia[column][row]= D_values.get(datoDopo);
+
 
       if (parola==true) {
         parola=false;
@@ -223,29 +240,37 @@ void setup() {
     datoDopo++;
   }//chiudo il for "foglio"
 
+  fill(0, 0, 255);
+  rect(60, 180, 1200, 70);
+  fill(255, 0, 0);
+  rect(1240, 180, 20, 540);
+
   noFill();
   stroke(255);
-  rect(0, 0, width-1, height-50);
+  strokeWeight(2);
+  rect(0, 0, width-2, height-50);
+  rect(0, 180, 50, 540);
+  rect(60, 180, 1200, 540);
+  rect(1270, 180, 170, 540);
+  strokeWeight(1);
+  for (int y=0; y<=400; y+=20) {
+    line(60, 250+y, 1260, 250+y);
+    line(1270, 250+y, 1440, 250+y);
+    fill(255);
+    text (nomi[(ynomi)], 1290, 265+y);
+    ynomi++;
+  }
+
+  pushStyle();
   textSize(12);
-  text ("METADATA JUICE [VERSIONE 1.1.3]", 20, 20);
-  text ("<c> Copyright MIT license 2015- Unirsm", 20, 34);
+  fill(255);
+  text ("METADATA JUICE [VERSIONE 1.1.3]", 20, 70);
+  text ("<c> Copyright MIT license 2015+ Unirsm", 20, 84);
+  text("http://o-c-r.org/portfolio/listening-post/", 20 , 112);
+  text("Processing . . .", 20, 140);
+  popStyle();
 
-  /*
-  stroke(255,0,0);
-   line(40, 180, 40, 190);
-   line(40, 230, 40, 240);
-   
-   fill(255);
-   noStroke();
-   pushMatrix();
-   rotate(-HALF_PI);
-   textSize(10);
-   text(titolo[orario], -200, 40); 
-   popMatrix();
-   */
-
-  text ("Facebook", 20, 215);
-  line(100,190, 800,190);
+  celletta = new ArrayList();
 }//chiudo il void setup
 
 
@@ -254,24 +279,34 @@ void setup() {
 
 
 void draw() {
-  translate(100, 0);
 
   // contatore di azioni
   if (millis() > tempo+timer) {
     tempo = millis(); 
+
+    pushStyle();
+    fill(0);
+    rect(60, 250, 1200, 400);
+    fill(0, 0, 255);
+    rect(60, 180, 1200, 70);
+    fill(255, 0, 0);
+    rect(1240, 180, 20, 540);
+    for (int x=0; x<1200; x+=20) {
+      line(x+60, 240, x+60, 250);
+      line(x+60, 650, x+60, 660);
+    }
+    for (int y=0; y<=400; y+=20) {
+      line(60, 250+y, 1260, 250+y);
+      line(1270, 250+y, 1440, 250+y);
+    }
+    
+      fill(0);
+      noStroke();
+          rect(350,2,1000,170);
+    popStyle();
+
     //calcolo orario in base alle colonne
-    if (orario<=column) {
-
-      pushMatrix();
-      rotate(-HALF_PI);
-      textSize(10);
-      text(titolo[orario], -170, 24+20*orario); 
-      popMatrix();
-
-      stroke(255);
-      line(orario*20+20, 180, orario*20+20, 190);
-      line(orario*20+20, 230, orario*20+20, 240);
-
+    if (orario<column) {
 
       for ( vero=true; vero==true; lettura++) {
 
@@ -279,14 +314,66 @@ void draw() {
         if (griglia[orario][lettura]!=null) {
 
           //trovo le varie categorie in quel determinato secondo
+          pushMatrix();
+          rotate(-HALF_PI);
+          pushStyle();
+          textSize(10);
+          textAlign(LEFT);
+          text (griglia[orario][categoria], -150, 400+10*categoria);
+          popStyle();
+          popMatrix();
+
           if (griglia[orario][categoria].equals("facebook-base")) {
-            fb(orario);
+            fb=true;
+          } else {
+            fb=false;
           }
+
+          if (fb==true) {
+            celletta.add( new Cella() );
+            Cella p = (Cella) celletta.get(orario);
+            println(celletta.get(orario));
+            p.bianco(orario);
+            fb=false;
+          } else {
+            celletta.add( new Cella() );
+            Cella p = (Cella) celletta.get(orario);
+            p.nero(orario);
+            fb=true;
+          }
+
           categoria++;
         } else {
           vero=false;
         }
-      }
+      }//chiudo ciclo for lettura righe per ogni colonna
+
+
+      //_________________________________________________________________________________
+      //creo la visibitlità dell'orario
+      if (orario>=59) {
+
+        for (int g=59; g>=0; g--) {
+          pushMatrix();
+          rotate(-HALF_PI);
+          textSize(10);
+          text(titolo[(orario-g)], -240, g*-20+1254); 
+          popMatrix();
+        }
+      }//chiudo if (orario>60)
+
+      else {
+
+        for (int f=orario; f>=0; f--) { 
+          pushMatrix();
+          rotate(-HALF_PI);
+          textSize(10);
+          text(titolo[(orario-f)], -240, f*-20+1254); 
+          popMatrix();
+        }
+      }// chiudo else
+      //_________________________________________________________________________________
+
 
       //metto a zero le righe e salto nella colonna successiva
       lettura=0;
@@ -308,6 +395,7 @@ void load_G_Spreadsheet(String url) {
   try 
   { 
     G_Spreadsheet_data = loadJSONObject(url);
+    println("loading...");
   } 
   catch(Exception el) 
   { 
@@ -320,7 +408,8 @@ void load_G_Spreadsheet(String url) {
     println("No data"); 
     exit();
   } else 
-    parse_G_Spreadsheet_JSON(G_Spreadsheet_data); // < this start the magic
+    println("start parsing");
+  parse_G_Spreadsheet_JSON(G_Spreadsheet_data); // < this start the magic
 } 
 
 
@@ -333,6 +422,7 @@ void parse_G_Spreadsheet_JSON(JSONObject jdata) {
   JSONArray entries = feed.getJSONArray("entry");
 
   for (int i = 0; i < entries.size (); i++) {
+
     JSONObject entry = entries.getJSONObject(i);
     JSONObject entry_title = entry.getJSONObject("title");
     JSONObject entry_value = entry.getJSONObject("content");
@@ -345,32 +435,56 @@ void parse_G_Spreadsheet_JSON(JSONObject jdata) {
     String value = entry_value.getString("$t");
 
     // fill the right title/List values <<<< modify to your needs! <<<<
-    if (index.equals("C1") == true) { 
+    if (index.equals("B1") == true) { 
       D_title = value;
     } else
-      if (index.equals("B1") == true) { 
+      if (index.equals("A1") == true) { 
       B_title = value;
     } else 
-      if (current_column == 'C') { 
+      if (current_column == 'B') { 
       D_values.append((value));
     } else
-      if (current_column == 'B') { 
+      if (current_column == 'A') { 
       B_values.append(value);
     }
   }
 } 
 
-
-
 //VOID==========================================================================
 
-void fb(int spostamento) { 
-  noStroke();
-  fill(255, 0, 0);
-  rect(spostamento*20, 200, 20, 20);
-  fill(255);
-}
 
+
+
+//CLASS==========================================================================
+
+class Cella {
+
+  float x;
+  float y;
+
+  Cella() {
+    x = 1240;
+    y = 250;
+  }
+
+  void gravity() {
+    x -= 20;
+  }
+
+  void bianco(int move) {
+    pushStyle();
+    fill(255);
+    rect(move*-20+1240, y, 20, 20);
+    popStyle();
+  }
+
+  void nero(int moves) {
+    pushStyle();
+    fill(0);
+    rect(moves*-20+1240, y, 20, 20);
+    popStyle();
+  }
+}
 
 ```
 Il file di codice estrapola i dati da un foglio Svg caricato su Google Streadsheet (in questo caso i dati del server universitario) e ne ricava il tempo e la tipologia di applicazione richiesti nell'avvio delle sessioni. Estrapolati i dati, il codice riformula i dati attraverso un nuovo array. Quest'ultimo viene suddiviso in colonnne da ogni secondo passato, nel quale si trovano tutte le diverse applicazioni richieste in quel determinato tempo. Una volta creata la tabella, si vengono colorate le celle in cui sono contenute le specifiche categorie selezionate per la visualizzazione. 
