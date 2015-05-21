@@ -34,8 +34,8 @@ float angle = radians(-84) ; // primo raggio ad ogni run
 float VOL ; // input originale
 float volume = 0 ; // input mappato per visualizzazione
 float offsetraggio = radians (6) ; // offset angolare
-int inc = 0 ; // variabile di incremento
-int frame = 0 ;
+int sec = 0 ; // variabile di incremento
+int min = 0 ;
 
 import ddf.minim.* ; // richiamo la libreria
 Minim minim ; 
@@ -55,10 +55,10 @@ void setup() {
 
 void draw() {
 
-  inc = inc + 10 ; // variabile di incremento
+  sec = sec + 10 ; // variabile di incremento
   // inc++ ; sarebbe stato equivalente
 
-  if (inc == 60) { 
+  if (sec == 60) { 
 
     float VOL = in.right.level() * 100; // valore originale del volume dal mic del pc
     volume= map(VOL, 0, 100, 0, 280); // come lo visualizzo
@@ -93,16 +93,16 @@ void draw() {
 
     line (size/2, size/2, x, y) ; 
     angle += offsetraggio ; // come incremento
-    inc = 0 ; // resetta a questo punto
-    frame+=1;
+    sec = 0 ; // resetta a questo punto
+    min+=1;
 
   } // end if incremento frame by frame
 
 
   // RIGENERA
-  if (frame > 60) {
+  if (min > 60) {
     background (255) ; // disegno bg bianco
-    frame = 0 ; // resetta a questo punto
+    min = 0 ; // resetta a questo punto
     /*
     se il valore di framen è maggiore di 60
      allora disegna background bianco / cancella quello fatto fin ora
@@ -122,4 +122,6 @@ Ora il valore visualizzato rappresenta il volume percepito dal microfono.
  e mappare poi su quel valore medio la variabile "float = volume".
  Comporterebbe una rappresentazione più omogenea e più vicina alla mia idea.
  */
+
+
 
