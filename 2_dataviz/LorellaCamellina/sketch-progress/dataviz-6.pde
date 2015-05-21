@@ -109,8 +109,8 @@ void draw() {
      allora disegna background bianco / cancella quello fatto fin ora
      &fai ripartire i frame da zero
      */
-  }
-} // end if rigenera
+  } // end if rigenera
+} // end draw
 
 
 
