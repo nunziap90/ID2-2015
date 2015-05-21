@@ -31,7 +31,6 @@ float angle = radians(-84) ; // primo raggio ad ogni run
  Io voglio che la visualizzazione inizi a 0° (12 o'clock).
  Ecco perché il valore negativo. 
  */
-
 float VOL ; // input originale
 float volume = 0 ; // input mappato per visualizzazione
 float offsetraggio = radians (6) ; // offset angolare
@@ -51,14 +50,12 @@ void setup() {
   in = minim.getLineIn (Minim.MONO) ;
 
   frameRate (60) ; // frame al secondo
-  
 } // end set up
-
 
 
 void draw() {
 
-  inc = inc + 1 ; // variabile di incremento
+  inc = inc + 10 ; // variabile di incremento
   // inc++ ; sarebbe stato equivalente
 
   if (inc == 60) { 
@@ -97,6 +94,8 @@ void draw() {
     line (size/2, size/2, x, y) ; 
     angle += offsetraggio ; // come incremento
     inc = 0 ; // resetta a questo punto
+    frame+=1;
+
   } // end if incremento frame by frame
 
 
@@ -117,13 +116,10 @@ void draw() {
 
 /*
 Ora il valore visualizzato rappresenta il volume percepito dal microfono. 
-Ma è come se attivassimo il microfono una volta al secondo. Se in quell'attimo non vi è rumore,
-la visualizzazione sarà annullata. 
-Sarebbe bene fare la media dei valori di "float = VOL" lungo i 60 frame 
-e mappare poi su quel valore medio la variabile "float = volume".
-Comporterebbe una rappresentazione più omogenea e più vicina alla mia idea.
-*/
-
-
-
+ Ma è come se attivassimo il microfono una volta al secondo. Se in quell'attimo non vi è rumore,
+ la visualizzazione sarà annullata. 
+ Sarebbe bene fare la media dei valori di "float = VOL" lungo i 60 frame 
+ e mappare poi su quel valore medio la variabile "float = volume".
+ Comporterebbe una rappresentazione più omogenea e più vicina alla mia idea.
+ */
 
