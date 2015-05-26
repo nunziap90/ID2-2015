@@ -1,4 +1,4 @@
-#METADATATELLING / Narrazione di relazioni digitali 
+#METADATA JUICE / Narrazione di relazioni digitali 
 -
 
 ###ABSTRACT
