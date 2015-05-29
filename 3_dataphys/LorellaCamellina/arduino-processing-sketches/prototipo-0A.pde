@@ -6,7 +6,8 @@
 // 
 
 /*
- * VISUALIZE NOISE AROUND YOUR PC
+ *
+ * PART 2 - VISUALIZE NOISE AROUND YOUR PC
  * Noise vibrancy visualizer.
  * Each second you see a radius.
  * Each radius is one volume detection done with your pc microphone.
@@ -143,4 +144,4 @@ void draw() {
   }  // end if rigenera
 } // end draw
 
-// FINALE + COMUNICAZIONE CON PROCESSING
+// FINALE + IMPOSTAZIONI COMUNICAZIONE CON ARDUINO
