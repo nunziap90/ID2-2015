@@ -7,15 +7,15 @@ _1. How it works + Front view_
 
 ![02](http://i.imgur.com/nMPX4Yx.png?1)
 
-_1. Side view + Horizontal section_
+_2. Side view + Horizontal section_
 
 ![03](http://i.imgur.com/aHzoZMF.png?1)
 
-_1. Case components + material_
+_3. Case components + material_
 
 ![04](http://i.imgur.com/XbJ3EkJ.png?1)
 
-_1. Electronic component_
+_4. Electronic component_
 
 
 
