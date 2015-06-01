@@ -75,7 +75,7 @@ La mia idea è di riportare con l'installazione all'ingresso la "vivacità" o la
 della sede UniRSM, a colpo d'ochhio. Direi che il lavoro che più si avvicina ad essa è [questo](https://www.youtube.com/watch?v=jJfpL5QkixU).
 Volendo seguire la direzione di traduzione di cui sopra e a differenza di quanto accadeva in
 [dataviz - 1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/dataviz-1.md),
-sarbbe meglio aver a che fare con dati istantanei, non prelevati ad intervalli di tempo. 
+sarebbe più opportuno aver a che fare con dati istantanei, non prelevati ad intervalli regolari di tempo. 
 Per facilitare il tutto, porei riprodurre il valore medio della rumorosità della sede e 
 non più andare ad ascoltare e tradurre il suono di ogni aula singolarmente (cosa da verificare in base 
 a come verrà concepita l'installazione fisica finale).
