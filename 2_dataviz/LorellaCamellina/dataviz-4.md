@@ -54,8 +54,7 @@ Nel _Caso 2_ al quindicesimo, trentanovesimo e cinquantaseiesimo.
 Nel _Caso 3_ al ventesimo, quarantesimo e sessantesimo.
 
 La seconda serie di circonferenze invece è solo uno strumento di lettura nel quale si evidenzia il rapporto fra
-l'intensità relativa ad un determinato secondo ed il massimo dell'intensità visualizzabile, 
-che poi sarebbe il raggio della circonferenza stessa. Nel _Caso 3_ è stata ipotizzata la massima intensità visualizzabile 
+l'intensità relativa ad un determinato secondo ed il massimo dell'intensità visualizzabile (che poi sarebbe il raggio della circonferenza stessa). Nel _Caso 3_ è stata ipotizzata la massima intensità visualizzabile 
 per tutti e sessanta i secondi di rilevamento.
 
 --
