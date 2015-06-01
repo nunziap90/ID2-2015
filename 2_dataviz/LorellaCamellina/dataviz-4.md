@@ -105,9 +105,13 @@ Ecco il [link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/Lorell
 
 #####CONCLUSIONI
 
-Il risultato non è perfettamente ciò che avevo immaginato inizialmente. La differenza sta nella frequenza di visualizzazione:
+Il risultato non è perfettamente ciò che avevo immaginato all'inizio. La differenza sta nella frequenza di visualizzazione:
 quel che avevo immaginato sarebbe stato estremamente più lento e noioso. Nel prototipo invece la reattività della visualizzazione al cambiamento dei dati è immediata e accattivante. Ho provato a rallentare il decorso della visualizzazione, agendo sul rapporto esistente tra frameRate e frameCount, o sulla velocità, ad esempio; questo per tentare di avvicinarmi alla visualizzazione immaginata. Il punto è che rallentando lo svolgimento della visualizzazione si perde la tanto ricercata rappresentazione della vivacità del rumore.
 
 Osservando vari casi di visualizzazione si potrebbe arrivare a definire con che tipo di sonorità si ha a che fare, anche non disponendo dell'audio. Si potrebbe affermare se si tratta di un sottofondo rumoroso o di una musicalità organizzata, un ritmo. Il primo elemento visivo a distinguerli è l'intensità, la conformazione del raggio: esso assume picchi più elevati nel caso di un "suono organizzato". Nel caso di un rumore di fondo invece l'impressione che fornisce è quella di un insieme più omogeneo e coerente. Il secondo fattore di distinzione è il comportamento nel tempo: nelle melodie è ritrovabile una specie di ridondanza di figure, come se si ripetessero delle situazioni - così è, in effetti. Mentre nel rumore di fondo è tutto molto più casuale, un flusso fatto di eventi non legati fra loro.
+
+#####CONCLUSIONI
+
+
 
 
