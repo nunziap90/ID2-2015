@@ -72,7 +72,7 @@ da approfondire. Lo step successivo riguarderà il come attuare concretamente la
 ####Conclusioni
 
 La mia idea è di riportare con l'installazione all'ingresso la "vivacità" o la calma 
-della sede UniRSM, a colpo d'ochhio. Direi che il lavoro che più si avvicina ad essa è [questa](https://www.youtube.com/watch?v=jJfpL5QkixU).
+della sede UniRSM, a colpo d'ochhio. Direi che il lavoro che più si avvicina ad essa è [questo](https://www.youtube.com/watch?v=jJfpL5QkixU).
 Volendo seguire la direzione di traduzione di cui sopra e a differenza di quanto accadeva in
 [dataviz - 1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/dataviz-1.md),
 sarbbe meglio aver a che fare con dati istantanei, non prelevati ad intervalli di tempo. 
