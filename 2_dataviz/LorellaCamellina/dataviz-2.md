@@ -77,6 +77,6 @@ Volendo seguire la direzione di traduzione di cui sopra e a differenza di quanto
 [dataviz - 1](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/dataviz-1.md),
 sarebbe più opportuno aver a che fare con dati istantanei, non prelevati ad intervalli regolari di tempo. 
 Per facilitare il tutto, porei riprodurre il valore medio della rumorosità della sede e 
-non più andare ad ascoltare e tradurre il suono di ogni aula singolarmente (cosa da verificare in base 
-a come verrà concepita l'installazione fisica finale).
+non più andare ad ascoltare e tradurre il suono di ogni aula singolarmente. Questo aspetto andrà verificato anche in base 
+a come verrà concepita l'installazione fisica definitiva.
 
