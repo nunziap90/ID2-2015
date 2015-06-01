@@ -7,7 +7,7 @@ Lo scopo è restituire la vivacità connessa al concetto di rumore e la sua vari
 
 #####PROPOSTA
 
-La visualizzazione arriva dall'evoluzione di quella che era stata una delle prime proposte di visualizzazione dati.
+Lo sviluppo attuale arriva dall'evoluzione di quella che era stata una delle prime proposte di visualizzazione dati.
 In quel caso venivano prese in considerazione tre variabili, il tempo, la provenienza del suono e la sua intensità.
 Il risultato erano una serie di vettori divergenti, con stesso punto di applicazione: il centro di una circonferenza. 
 
