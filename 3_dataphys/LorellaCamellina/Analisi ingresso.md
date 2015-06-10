@@ -88,4 +88,4 @@ Tornando all'ingresso principale, sfrutterei anche in questo caso una parete un 
 
 ![12](http://i.imgur.com/FZLsYLP.jpg?1) ![12](http://i.imgur.com/TjuTeGl.jpg?1) 
 
-_12. Dettaglio parete area blu_
+_12. Ingresso esterno _
