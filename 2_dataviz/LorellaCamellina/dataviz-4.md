@@ -97,11 +97,11 @@ della rappresentazione (relazione rumore-raggio, relazione spessore raggio-inten
 
 Ecco il [link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/dataviz-4.pde) allo sketch sviluppato. Di seguito alcuni video sul funzionamento software:
 
-[Video-1](https://www.dropbox.com/s/8m8etar2g4v1ojk/video-1.wmv?dl=0) - sensibilità al suono - 1
+[Video-1](https://www.dropbox.com/s/bzrip8jt0i2mkku/video-1.wmv?dl=0) - sensibilità al suono - 1
 
-[Video-2](https://www.dropbox.com/s/kfkihfjob3u50pp/video-2.wmv?dl=0) - sensibilità al suono - 2
+[Video-2](https://www.dropbox.com/s/u9ittovwgocx34f/video-2.wmv?dl=0) - sensibilità al suono - 2
 
-[Video-3](https://www.dropbox.com/s/rrdifp2eqfsly8i/video-3.wmv?dl=0) - sensibilità al rumore di fondo
+[Video-3](https://www.dropbox.com/s/aekspsf6sfve7yb/video-3.wmv?dl=0) - sensibilità al rumore di fondo
 
 #####CONCLUSIONI
 
@@ -110,7 +110,7 @@ quel che avevo immaginato sarebbe stato estremamente più lento e noioso. Nel pr
 
 Osservando vari casi di visualizzazione si potrebbe arrivare a definire con che tipo di sonorità si ha a che fare, anche non disponendo dell'audio. Si potrebbe affermare se si tratta di un sottofondo rumoroso o di una musicalità organizzata, un ritmo. Il primo elemento visivo a distinguerli è l'intensità, la conformazione del raggio: esso assume picchi più elevati nel caso di un "suono organizzato". Nel caso di un rumore di fondo invece l'impressione che fornisce è quella di un insieme più omogeneo e coerente. Il secondo fattore di distinzione è il comportamento nel tempo: nelle melodie è ritrovabile una specie di ridondanza di figure, come se si ripetessero delle situazioni - così è, in effetti. Mentre nel rumore di fondo è tutto molto più casuale, un flusso fatto di eventi non legati fra loro.
 
-#####CONCLUSIONI
+#####ERRATA CORRIGE
 
 
 
