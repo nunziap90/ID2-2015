@@ -71,7 +71,7 @@ al sottofondo sonoro**, cosa che lascia ben sperare per un futuro Dataphys basat
 
 Ecco il 
 [link](https://github.com/LoreCame/ID2-2015/blob/master/2_dataviz/LorellaCamellina/sketch-progress/riferimento-1-modified.pde) 
-allo sketch di riferimento 1 modificato in base alle mie necessità, creando la reattività al suono di una forma. Qui inveve un [video](https://www.dropbox.com/s/x86s1vuri05dv7j/riferimento-1.wmv?dl=0) esplicativo.
+allo sketch di riferimento 1 modificato in base alle mie necessità, creando la reattività al suono di una forma. Qui inveve un [video](https://www.dropbox.com/s/d9yj23ldlfkr1cr/riferimento-1.wmv?dl=0) esplicativo.
 
 #####SKETCH RIFERIMENTO 2
 
