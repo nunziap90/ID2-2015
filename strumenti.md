@@ -30,7 +30,3 @@
 1.  **_cosa è_**
 2.  **_cosa potrebbe significare_**  
 3.  **_come funziona_**  
-
-------
-
-_in progress_
