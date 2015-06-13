@@ -15,11 +15,11 @@ Per titoli, approfondimenti nelle cartelle.
   - Connections to server > information exchanged > energy wasted
   - Establish the mood of the day > FB profiles > spread music
   - Photos tagged #unirsm
-- [Gian Andrea](./GianAndrea)
+- [Gian Andrea](./Gian)
   - Quanto viene comunicata l'università > social, siti, parole chiave
   - Consumo di risorse da parte degli studenti > energia, carta, rifiuti, acqua, caffè, ...
   - Database dei file, informazioni ed argomenti creati dagli studenti...
-- [Lorella](./LorellaCamellina)
+- [Lorella](./Lorella)
   - Quanto viaggia l'Università? > Km
   - Scalini saliti
   - Dialetti parlati
@@ -27,11 +27,11 @@ Per titoli, approfondimenti nelle cartelle.
   - Provenienza e eventuali altri test di ammissione studenti
   - Dati sugli esami
   - Dati sulla musica ascoltata > FB & Spotify
-- [Luigi](./luigi)
+- [Luigi](./Luigi)
   - Spostamenti fuorisede
   - Iscrizione e impiego post laurea
   - Interesse nei corsi 
-- [Federico](./Federico_Lo_Porto)
+- [Federico](./Federico)
   - Provenienza studenti
   - Spazi utilizzati durante le pause
   - Rendimento/presenza relazionato al clima
@@ -78,15 +78,15 @@ Per titoli.
   - Umore. I dati li si lascia non li si cerca.
 - [Francesca](./Francesca)
   - _Server._ 
-- [Gian Andrea](./GianAndrea)
+- [Gian Andrea](./Gian)
   - The visible network. Server+
-- [Lorella](./LorellaCamellina)
+- [Lorella](./Lorella)
   - Calore. Rumore.
 - [Raffaele](./Raffaele)
   - Sustainable me. Risorse/Consumi.
-- [Luigi](./luigi)
+- [Luigi](./Luigi)
   - _Tag e keyword._
-- [Federico](./Federico_Lo_Porto)
+- [Federico](./Federico)
   - Andamento universitario. Gli studenti.
 
 -----
