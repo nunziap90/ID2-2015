@@ -225,7 +225,3 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ###_Doc._
 - **works**, documentazione
 
-
--------
-
-_in progress_
