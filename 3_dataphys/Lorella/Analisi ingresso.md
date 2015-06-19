@@ -39,7 +39,7 @@ _4. Area celeste e area blu_
 
 _5. Ingresso UniRSM_
 
-Volendo considerare solo gli spazi interni (2) farei una scelta, posizionando l'installazione in **uno** dei due "vani" che costituiscono l'ingresso (3,4). In realtà però è che quello che andrebbe considerato da vicino è anche e soprattutto lo spazio esterno, l'accesso alla sede dal vicolo cittadino (5). Posizionare una installazione lì aprirebbe un dialogo dal punto di vista fisico/territoriale con la Città di San Marino, attualmente inesistente. A questo proposito, durante una lezione, la discussione era stata orientata verso l'aspetto _landmark_ che sarebbe bene assumesse la nostra operazione artistica. Metteremmo in risalto collocazione e presenza di una scuola di design in Città.
+Volendo considerare solo gli spazi interni (2) farei una scelta, posizionando l'installazione in **uno** dei due "vani" che costituiscono l'ingresso (3,4). In realtà però quel che andrebbe considerato da vicino è anche e soprattutto lo spazio esterno, l'accesso alla sede dal vicolo cittadino (5). Posizionare una installazione lì aprirebbe un dialogo dal punto di vista fisico/territoriale con la Città di San Marino, attualmente inesistente. A questo proposito, durante una lezione, la discussione era stata orientata verso l'aspetto _landmark_ che sarebbe bene assumesse la nostra operazione artistica. Metteremmo in risalto collocazione e presenza di una scuola di design in Città.
 
 Detto ciò e con sempre ben in mente la questione _colpo d'occhio_ ho iniziato ad osservare come si muovessero i flussi di persone in entrata.
 
@@ -88,4 +88,4 @@ Tornando all'ingresso principale, sfrutterei anche in questo caso una parete un 
 
 ![12](http://i.imgur.com/FZLsYLP.jpg?1) ![12](http://i.imgur.com/TjuTeGl.jpg?1) 
 
-_12. Dettaglio parete area blu_
+_12. Ingresso esterno_

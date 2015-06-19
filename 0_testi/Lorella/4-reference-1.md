@@ -31,7 +31,7 @@ Anyhow, always reading the comments mentioned above, I encountered lots of disap
 
 #####What if
 
-This meaningless installation leads to no needs of parallelism. It is what it is, as Susan Sontag says. We have to take it for what it is. It is a sound visualization allowed by nowadays technology mixed to a sensible soul. 
+This meaningless installation leads to no needs of parallelism. It is what it is, as Susan Sontag says. We have to take it for what it is. It is a sound visualization allowed by nowadays technology mixed to a sensitive soul. 
 
 It would be interesting to see the behaviour of the installation with a more rhythmical melody. It would be easier to understand how it all works, as it would be showing another significant interval of response of the fans involved. Comparing the two situations we should understand a bit more about the programming.
 
