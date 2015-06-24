@@ -1,7 +1,7 @@
-#####Idea di visualizzazione 
+###Idea di visualizzazione 
 ![Visualizzazione] (http://imgur.com/mfwWCdR.png)
 
-#####Ipotetiche visualizzazioni
+###Ipotetiche visualizzazioni
 
 ![Visualizzazione] (http://imgur.com/5kLrYsY.png)
 
