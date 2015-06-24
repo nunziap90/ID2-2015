@@ -47,7 +47,11 @@ Il percorso luminoso segue artisticamente le opere illuminate in tutto il centro
 
 Esempi di come un flusso potrebbe essere rappresentato, singoli flussi che vanno a fondersi con altri. 
 
+<<<<<<< HEAD:0_testi/Nunzia/03_CR_Analisi GianAndrea.md
 ####Video di riferimento:
+=======
+####Video consigliati:
+>>>>>>> 9a5a8a0ad3a7b6b42554016cd3e22a359dde89dc:0_testi/Nunzia/19.04.15_Analisi GianAndrea.md
 
 [bit.flow circular](https://vimeo.com/22390871)
 
