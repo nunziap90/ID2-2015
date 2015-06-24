@@ -1,7 +1,6 @@
 ###"Rapture"
 #### di [Camille Norment](http://www.norment.net/)
 
-
 #####Cosa significa?
 
 [Rapter, intervista a Camille Norment](https://www.youtube.com/watch?v=2hxoedWvVZo)
@@ -29,10 +28,11 @@ Strumento leggendario la cui musica si dice possa curare le persone, ma che in p
 
 ![rapture] (http://imgur.com/hZjHcwW.png)
 
+Il suono è al centro dell’allestimento e della riflessione poetica, per uno spazio totalmente immerso nel bianco, cristallizzato in un tempo circolare, infinito, ma non privo di tensioni. Studiando il rapporto tra il corpo umano ed il suono, ma anche tra corpo architettonico e sguardo, Norment ha messo insieme un calendario di sound performance e un imponente lavoro installativo, che si sviluppa tra dispositivi scenici e sonori.
+
 L'artista ha composto la melodia grazie ad un coro di 12 voci femminili e alle note dell' armonica di vetro che avvolgeranno i visitatori a 'Rapture, con una serie di diffusori agganciati al soffitto. Inoltre, per tutto il periodo della Biennale, inviterà artisti e musicisti a partecipare a una serie di performance.
 
 L'installazione quindi diventa un percorso di indagine sul rapporto tra il corpo e la musica, corpo umano, ma anche corpo dello stesso padiglione che porta su di sé, i segni di una rottura violenta, lotta eterna tra la bellezza e la distruzione.
-
 
 L’edificio è attraversato da una forza naturale, come un vento forte. Le cornici e il vetro hanno tremato fino al punto di collasso, ma si sono unite all’aria e alle voci, attraverso una vibrazione simpatetica.
 Questo progetto contempla lo spazio di tensione in relazione alla musica, al corpo e alla società. Includendo anche il regno tra la poesia e la catastrofe.
@@ -46,4 +46,5 @@ La luce è l’elemento centrale del padiglione, all’ingresso, che è stato di
 Uno dei punti di partenza è stata l’architettura del padiglione, che assembla elementi eterogenei: il percorso di visita, gli alberi, la topografia e la luce naturale. L'artista ha trattato l’edificio come un corpo ed ha considerato le vetrate come una pelle composta dalle note suonate da un’armonica di vetro, mentre un coro di voci femminili si diffonde nello spazio attorno.
 
 #####Interessante perchè...
+Interessante per come ha trattato il suono, come ha riuscito a ricreare un ambiente scandito da armonie, vibrazioni, dissonanze. Uno spazio allo stesso tempo monumentale e fragile.
 
