@@ -6,6 +6,6 @@ interessati, mettendo un avviso sul sito e modulo da compilare, o chiedere ai pr
 usciti dall'uni e che ora stanno lavorando in aziende/studi e progetti. 
 3. Rete di conoscenza tra studenti: per un ambiente più collaborativo ampliando le conoscenze. 
 
-#### Ipotetiche altre idee
+##### Ipotetiche altre idee
 - Umore: in base all'umore del giorno: musica, colori diversi. 
 - Cos'è il design? 
