@@ -46,6 +46,18 @@ da esplorare, ricercare e rivivere, con la speranza di poter costruire un futuro
 - Se invece fosse stata una scoperta di suoni tra le persone presenti? Un'installazione di interazione tra le persone. 
 - Perchè un cubo? se invece fosse stata una sfera? Cubo come "scatola da aprire"?
 
+### Cosa mi ricorda...
+
+ ![Moving Type] (http://imgur.com/GdcZhPv.png)
+ 
+ *Moving Type* é una mostra all'interno del Museo Gutenberg di Mainz, una vasta gamma di animazioni e video sono presentati, mostrando titoli di film, spot pubblicitari, video musicali, arte e cinema sperimentale, tutte incentrate intorno all'uso della tipografia in movimento. Come si fa a presentare quasi 200 animazioni in un unico spazio?
+La magia sta in un agglomerato di cubi bianchi che occupano la zona centrale dello spazio. Ogni cubo di perspex collegato è illuminato dall'interno, ogni cubo mostra un titolo e un QR-code.
+
+Qui è il tag QR che rende possibile per gli spettatori un tuffo dentro le animazioni. Camminano con gli i-pad è poissibile vedere una nuova animazione. 
+All'ingresso ogni visitatore viene consegnato un i-pad, o se si vuole si può utilizzare il proprio smartphone. Si puo scannerizzare il tag QR utilizzando la funzione di fotocamera e si guarda l'animazione. Inoltre varie animazioni visualizzate sono memorizzate nella memoria dell' i-pad e al termine della manifestazione viene data una stampa dei tag, in modo da poter rivedere i film a casa.
+
+ 
 #### Siti di riferimento 
 ###### http://www.nasonero.com/words/
 ###### http://greyworld.org/
+###### http://www.hoogslag.nl/tag/qr-code

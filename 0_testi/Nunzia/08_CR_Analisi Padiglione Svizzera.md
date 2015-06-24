@@ -61,9 +61,7 @@ La mostra mobilita i cinque sensi. Il sesto, quello dell’intuizione, è una pr
 
 
 #####Interessante perchè...
-
-
-
+Per la comunicazione dei materiali, colori, luci e di come il suono sottostante l'acqua crea turbinii.
 
 
 

@@ -1,6 +1,6 @@
 ### Cos'è?
 I fattori di inquinamento per uno spazio confinato sono:
-l’ambiente esternocon le sue concentrazioni inquinanti, i materiali da costruzione, i mobili, gli arredi, 
+l’ambiente esterno con le sue concentrazioni inquinanti, i materiali da costruzione, i mobili, gli arredi, 
 gli odori generati dalla cottura dei cibi, dai detersivi, dai saponi, dai profumi, gli animali domestici, 
 la polvere e quant’altro, dall’unione di tutti questi fattori il risultato è scontato e non certo salubre, 
 la scarsa ventilazione e l’inadeguato o impossibilitato ricambio d’aria fanno il resto.
