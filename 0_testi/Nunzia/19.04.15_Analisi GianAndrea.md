@@ -8,7 +8,6 @@ L'obiettivo del progetto è capire l'attività di continuo scambio dati in rete,
 Ogni utente, divenuto utente 2.0, è in grado di creare contenuti, anche culturali, condividendo immagini, suoni, pensieri, emozioni propri o altrui, lo strumento maggiore? diffusione e valorizzazione tipica delle piattaforme sociali, utilizzando maggiormente strumenti come Facebook, Instagram e Twitter.
 L'intento è di rendere visibile ciò che è invisibile.
 
-
 #### e se fosse...
 
 Si potrebbe pensare ad un "Flusso virtuale universitario", raccontare la comunicazione che avviene col mondo esterno, perchè infondo anche " gli eremiti del monte parlano col mondo". 
@@ -47,3 +46,9 @@ Il percorso luminoso segue artisticamente le opere illuminate in tutto il centro
 [Data Visualization](http://webdesignledger.com/inspiration/15-stunning-examples-of-data-visualization)
 
 Esempi di come un flusso potrebbe essere rappresentato, singoli flussi che vanno a fondersi con altri. 
+
+####Video di riferimento:
+
+[bit.flow circular](https://vimeo.com/22390871)
+
+[bit.flow 32](https://vimeo.com/22387556)
